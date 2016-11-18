@@ -17,7 +17,7 @@ This is an **example** with all possible fields:
   "_id": "54a73e65e779893a797fff22",
   "tradable": true,
   "patched": true,
-  "url_name": "akbronco_prime_blueprint"
+  "url_name": "akbronco_prime_blueprint",
 
   "icon_format": "land",
   "icon": "icons/en/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.png",
@@ -62,6 +62,8 @@ This is an **example** with all possible fields:
     "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D0%B1%D1%80%D0%BE%D0%BD%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
     "item_name": "Акбронко прайм Чертеж",
     "description": "<p>Используемые в паре, эти пистолеты Орокин дополняют друг друга, нанося высокий урон с увеличенным шансом наложения элементального эффекта.</p>",
+    "icon": "icons/en/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.png",
+    "thumb": "icons/en/thumbs/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
     "drop": [
       {
         "link": null,
@@ -145,3 +147,6 @@ Add a `remote://` prefix to external-url, like:
 
 remote://http://vignette3.wikia.nocookie.net/warframe/images/3/30/AssimilateMod.png/revision/latest?cb=20160831214533
 ```
+
+Also, if locale-section contain `icon` field, original icon will be replaced with icon from locale-section.
+This is mostly for mods.
