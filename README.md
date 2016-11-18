@@ -148,5 +148,7 @@ Add a `remote://` prefix to external-url, like:
 remote://http://vignette3.wikia.nocookie.net/warframe/images/3/30/AssimilateMod.png/revision/latest?cb=20160831214533
 ```
 
+
 Also, if locale-section contain `icon` field, original icon will be replaced with icon from locale-section.
+
 This is mostly for mods.
