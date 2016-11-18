@@ -17,6 +17,7 @@ This is an **example** with all possible fields:
   "_id": "54a73e65e779893a797fff22",
   "tradable": true,
   "patched": true,
+  "url_name": "akbronco_prime_blueprint"
 
   "icon_format": "land",
   "icon": "icons/en/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.png",
