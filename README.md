@@ -16,7 +16,6 @@ This is an **example** with all possible fields:
 {
   "_id": "54a73e65e779893a797fff22",
   "tradable": true,
-  "patched": true,
   "url_name": "akbronco_prime_blueprint",
 
   "icon_format": "land",
@@ -38,7 +37,7 @@ This is an **example** with all possible fields:
 
   "mastery_level": 0,
   "trading_tax": 2000,
-  "ducats": "15",
+  "ducats": 15,
   "mod_max_rank": 0,
   "rarity": "rare",
 
