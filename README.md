@@ -106,7 +106,7 @@ Which parts present in this set:
 
 The purpose of tags -> providing a quick-filters:
 
-![Tags](https://lh6.googleusercontent.com/jtvaa3dCbMJAi1GEtUHaHunD_pxGgG9VdLQsaQo0GEmwjc6uMa9d4EspZjC6n9kLjKYzFg9NGfGkAQA=w1920-h1083-rw)
+![Screenshot from 2016-10-31 18-00-12.png](https://bitbucket.org/repo/8EAodE/images/349767049-Screenshot%20from%202016-10-31%2018-00-12.png)
 
 Requirenments:
 
