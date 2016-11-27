@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "56dac5c05cc639de0a45c52b",
+    "en": {
+      "wiki_link": "http://warframe.wikia.com/wiki/Emergent_Aftermath",
+      "item_name": "Emergent Aftermath",
+      "description": "<p>Emergent Aftermath is PvP-exclusive Sniper Rifle mod which temporarily increases Reload Speed for 3 seconds upon a kill.</p>",
+      "drop": [
+        {
+          "name": "Conclave Mission Reward",
+          "link": null
+        }
+      ]
+    },
+    "ru": {
+      "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F",
+      "item_name": "Новые последствия",
+      "icon": "remote://http://vignette3.wikia.nocookie.net/warframe/images/8/85/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest?cb=20161022005221&path-prefix=ru",
+      "description": "<p>Редкий мод для снайперского оружия в режиме конклава, который увеличивает скорость перезарядки при совершённом убийстве из снайперского оружия.</p>",
+      "drop": [
+        {
+          "name": "Миссии Конклава",
+          "link": null
+        }
+      ]
+    },
+    "trading_tax": 8000,
+    "icon": "remote://http://vignette2.wikia.nocookie.net/warframe/images/4/4c/EmergentAftermathMod.png/revision/latest?cb=20160531214921",
+    "tags": [
+      "mod",
+      "warframe",
+      "rare",
+      "pvp"
+    ],
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "tradable": true,
+    "url_name": "emergent_aftermath"
+  }
+]
