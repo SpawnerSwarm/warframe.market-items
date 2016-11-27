@@ -6,6 +6,20 @@
 
 > How to contribute icons, read bellow.
 
+## Directories ##
+
+`updates` - all singular changes belongs to this dir.
+
+If some item need to be updated\added, just create file, like `%item_name%.json`
+
+Then, that item will be verified and if all its fields is correct, it will be added into db and then removed from this directory.
+
+If some of the fields isn't correct, item will be added into db, but will stay present in that directory.
+
+
+
+`examples` - some examples =)
+
 ## Item Template ##
 
 This is an **example** with all possible fields:
@@ -151,3 +165,13 @@ remote://http://vignette3.wikia.nocookie.net/warframe/images/3/30/AssimilateMod.
 Also, if locale-section contain `icon` field, original icon will be replaced with icon from locale-section.
 
 This is mostly for mods.
+
+## Relics ##
+
+In case that new relics were added or need to be updated.
+
+**Do not** create all 4 types of one relic [innact, Exceptional, ... etc]
+
+Create only one instance that contains its name, like: `Meso V3`
+
+All variations will be formed by the script.
