@@ -162,7 +162,7 @@ remote://http://vignette3.wikia.nocookie.net/warframe/images/3/30/AssimilateMod.
 ```
 
 
-Also, if locale-section contain `icon` field, original icon will be replaced with icon from locale-section.
+Also, any locale-section can contain `icon` field, you know, en-icon will be displayed for en-language, ru-icon for ru, etc.
 
 This is mostly for mods.
 
