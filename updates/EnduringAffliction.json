@@ -1,0 +1,36 @@
+[
+  {
+    "en": {
+      "wiki_link": "http://warframe.wikia.com/wiki/Enduring_Affliction",
+      "item_name": "Enduring Affliction",
+      "description": "<p>Enduring Affliction is a Mod for melee weapons that grants extra Status Effect duration on melee hits while Channeling.</p>",
+      "drop": [
+        {
+          "name": "Guardsman",
+          "link": null
+        }
+      ]
+    },
+    "ru": {
+      "wiki_link": "http://ru.warframe.wikia.com/wiki/Стойкий_Недуг",
+      "item_name": "Стойкий Недуг",
+      "description": "<p>+150% длительности Статуса при ударе.</p>",
+      "drop": [
+        {
+          "name": "Guardsman",
+          "link": null
+        }
+      ]
+    },
+    "trading_tax": 4000,
+    "icon": "remote://http://vignette3.wikia.nocookie.net/warframe/images/a/aa/EnduringAfflictionMod.png/revision/latest?cb=20161201220511",
+    "tags": [
+      "mod",
+      "melee",
+      "uncommon"
+    ],
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "tradable": true
+  }
+]
