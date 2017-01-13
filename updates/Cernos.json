@@ -36,6 +36,18 @@
     "icon": "remote://http://vignette4.wikia.nocookie.net/warframe/images/0/06/CernosPrime.png/revision/latest/scale-to-width-down/220?cb=20161123020233",
     "url_name": "cernos_prime_blueprint"
   },
+  "fr": {
+      "drop": [
+        {
+          "link": null,
+          "name": "Axi V4 Uncommon"
+        }
+      ],
+      "codex": "Un arc noble pour chasser les bêtes infernales.",
+      "item_name": "Cernos Prime (Shéma)",
+      "description": "<p>Le Cernos Prime est la version Prime du Cernos qui est un arc orokin amélioré de la version basique.</p>",
+      "wiki_link": "http://fr.warframe.wikia.com/wiki/Cernos_Prime"
+    },
   {
     "sub_icon": "sub_icons/lower_limb_128x128.png",
     "ducats": "15",
