@@ -104,7 +104,9 @@ Tags will be used for quick filtering user profile, like:
 ![Screenshot from 2016-10-31 18-00-12.png](https://bitbucket.org/repo/8EAodE/images/349767049-Screenshot%20from%202016-10-31%2018-00-12.png)
 
 How to define them? 
+
 There is no strict way to do so, but you can use this logic:
+
 1. Add item group, like `Blueprint` | `Mod`.
 2. Add item type, like `Rifle` | `Warframe`.
 3. Add additional definition, like `Prime` | `Corrupted` | `Huras`, `Rare`, etc.
