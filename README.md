@@ -2,176 +2,143 @@
 
 > This is repo that contains Warframe.market item database in JSON format.
 
-> Icon files is not included in that repo.
-
-> How to contribute icons, read bellow.
+> Icon files is not included in that repo, you can find them [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrZ3hhcG1kVmg1RjA)
 
 ## Directories ##
 
-`updates` - all singular changes belongs to this dir.
+#### queued_updates
 
-If some item need to be updated\added, just create file, like `%item_name%.json`
+All desirable changes belongs to this dir.
 
-Then, that item will be verified and if all its fields is correct, it will be added into db and then removed from this directory.
+If some item need to be updated\added, just create file, like `%item_name%.json` inside this dir.
 
-If some of the fields isn't correct, item will be added into db, but will stay present in that directory.
+Then, that item will be verified and if all its fields is correct, it will be added into db and `items` directory, and then removed from this directory.
 
+#### items
 
+All items that presents in the Warframe.market DB. (json-format)
 
-`examples` - some examples =)
+#### icons
 
-## Item Template ##
+Item icons, you can find them [Here](https://drive.google.com/drive/u/0/folders/0B0DCzCsWH1SrZ3hhcG1kVmg1RjA)
+Leave this directory empty, except when you contribute an icon.
 
-This is an **example** with all possible fields:
+#### sub_icons
 
+Sub-icons, used for Set parts, like:
+1. Blade
+2. Gauntlet
+3. Grip
+4. ...
+
+## Contribution
+
+Use Pull requests.
+
+### Item Template
+
+Inside this repo you can find file `template.json`
+
+Use this file to contribute new item, this file contains all possible fields that you need to define.
+
+You can remove empty \ null fields.
+
+##### Mods exclusive fields
 ```
-#!json
-
-{
-  "_id": "54a73e65e779893a797fff22",
-  "tradable": true,
-  "url_name": "akbronco_prime_blueprint",
-
-  "icon_format": "land",
-  "icon": "icons/en/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.png",
-  "thumb": "icons/en/thumbs/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
-  "sub_icon": "sub_icons/blueprint_128x128.png",
-  
-  "set_root": false,
-  "part_of_set": [
-    "56783f24cbfa8f0432dd898d",
-    "54a73e65e779893a797fff22",
-    "54a73e65e779893a797fff23"
-  ],
-
-  "tags": [
-    "blueprint",
-    "prime"
-  ],
-
-  "mastery_level": 0,
-  "trading_tax": 2000,
-  "ducats": 15,
-  "mod_max_rank": 0,
-  "rarity": "rare",
-
-  "en": {
-    "wiki_link": "http://warframe.wikia.com/wiki/Akbronco_Prime",
-    "item_name": "Akbronco Prime Blueprint",
-    "codex": "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets",
-    "description": "<p>The Akbronco Prime lowers  Impact damage to increase  Slash damage, while gaining increased firing rate, critical damage, status chance and magazine size. The Akbronco Prime was added into the game in Update 12.4.</p>",
-    "drop": [
-      {
-        "link": null,
-        "name": "Lith S2 Common"
-      },
-      {
-        "link": null,
-        "name": "Lith S3 Common"
-      }
-    ]        
-  },
-  "ru": {
-    "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D0%B1%D1%80%D0%BE%D0%BD%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
-    "item_name": "Акбронко прайм Чертеж",
-    "description": "<p>Используемые в паре, эти пистолеты Орокин дополняют друг друга, нанося высокий урон с увеличенным шансом наложения элементального эффекта.</p>",
-    "icon": "icons/en/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.png",
-    "thumb": "icons/en/thumbs/Akbronco_Prime_Set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
-    "drop": [
-      {
-        "link": null,
-        "name": "Lith S2 Common"
-      },
-      {
-        "link": null,
-        "name": "Lith S3 Common"
-      }
-    ]
-  }
-}
-```
-## Explanation ##
-
-Most of fields is self-explained.
-
-### Sets ###
- 
-Is this item a set itself, like "Akbronco Prime Set":
-
-```
-#!
-
-"set_root": true\false
-
+"rarity": "Rare",
+"mod_max_rank": 3,
 ```
 
-Which parts present in this set:
-
+##### Parts exclusive fields
 ```
-#!
-
-"part_of_set": [list of ids]
+"mastery_level": 2,
+"ducats": 1234,
 ```
 
-*****
+##### Automatically generated fields
 
-### Tags ###
+Do not define them.
 
-The purpose of tags -> providing a quick-filters:
+1. `thumb`
+2. `url_name`
+3. `icon_format`
+4. `set_root`
+5. `part_of_set`
 
+### How to contribute an Icon
+
+When you filling json-template for some item, you can define Icon in 2 ways:
+1. Define it as `remote://<direct_link_to_image>`
+
+**Example:**
+```
+"icon": "remote://https://vignette2.wikia.nocookie.net/warframe/images/0/0e/VoidProjectionsGoldD.png/revision/latest?cb=20160709035734"
+```
+In this way my script will download this image, do necessary changes to it, and then record into DB.
+
+2. Define it as `local://<path_to_image_relative_to_this_dir>`
+
+**Example:**
+```
+"icon": "local://icons/ololo.png"
+```
+In this way my script will copy this image, do necessary changes to it, and then record into DB.
+
+### Sets, how to
+
+No need to define sets in some special way.
+Just create all parts of set, and item that represent set itself.
+All other work will be handled by the script.
+
+**For Example, Aklex**:
+
+You just need to create:
+
+1. `Aklex Prime Blueprint.json`
+2. `Aklex Prime Link.json`
+3. `Aklex Prime Set.json`
+
+### Tags, wtf.
+
+Tags will be used for quick filtering user profile, like:
 ![Screenshot from 2016-10-31 18-00-12.png](https://bitbucket.org/repo/8EAodE/images/349767049-Screenshot%20from%202016-10-31%2018-00-12.png)
 
-Requirenments:
+How to define them? 
+There is no strict way to do so, but you can use this logic:
+1. Add item group, like `Blueprint` | `Mod`.
+2. Add item type, like `Rifle` | `Warframe`.
+3. Add additional definition, like `Prime` | `Corrupted` | `Huras`, `Rare`, etc.
 
-* Be a lowercase
-* Without spaces, replace spaces with `_`:
-* No special characters
+For example Rare Rifle Mod should have `[Mod, Rifle, Rare]` tags.
 
-Because, tags are used in lang-files as base string for translation.(frontend)
+### Drop locations \ NPC
 
-*****
+`link` - link to wiki about location \ NPC. 
+`name` - Name of the location \ NPC. 
 
-### Drop ###
+### Modifying an existing item.
 
-`name` - Just a name of NPC\location
+If you want to modify existing item, copy appropriate file from `items` folder into `queues_changes` and do desirable changes.
 
-`link` - Link to external site, like **wiki**. Or link to internal location, like **Axi N3 Relic**
-
-*****
-
-### Other Languages ###
-
-If you wanna add another language support.
-
-Just copy "en"\"ru" section, and replicate it with correct translations.
-
-All missed fields will be ignored.
-
-*****
-
-### Icon ###
-
-If you wanna contribute an icon.
-
-Add a `remote://` prefix to external-url, like:
-
-```
-#!
-
-remote://http://vignette3.wikia.nocookie.net/warframe/images/3/30/AssimilateMod.png/revision/latest?cb=20160831214533
-```
+**Do not remove `_id` filed**
 
 
-Also, any locale-section can contain `icon` field, you know, en-icon will be displayed for en-language, ru-icon for ru, etc.
+### Contribute Language
 
-This is mostly for mods.
+Currently i can support only `en` and `ru` localization for all items.
 
-## Relics ##
+> If you want to add another language, be sure that you can support it in future.
 
-In case that new relics were added or need to be updated.
+> In additional, you'll need to update all items at once via pull request.
+I can't apply half done translation ^^
 
-**Do not** create all 4 types of one relic [innact, Exceptional, ... etc]
+Use one of [this](https://www.w3schools.com/tags/ref_language_codes.asp) lang codes, to add new translation. 
 
-Create only one instance that contains its name, like: `Meso V3`
 
-All variations will be formed by the script.
+## Contribution Workflow
+
+1. New Item added into `queued_updates` folder as `%item_name%.json`-file.
+2. Contributors do all necessary changes, contribute icon, provide translations, etc.
+As result we should have correct `%item_name%.json`-file.
+3. Admin reviews changes and apply updates to the Warframe.market DB.
+4. New item will appear inside `items` folder, and new icon will be added to folder at Gdrive.
