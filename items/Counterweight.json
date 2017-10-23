@@ -11,27 +11,27 @@
     "url_name": "counterweight",
     "tradable": true,
     "en": {
+        "item_name": "Counterweight",
+        "description": "<p>Counterweight is a PvP exclusive melee Mod that converts an amount of physical damage to Impact damage</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Counterweight",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Counterweight",
-        "description": "<p>Counterweight is a PvP exclusive melee Mod that converts an amount of physical damage to Impact damage</p>",
-        "item_name": "Counterweight"
+        ]
     },
     "ru": {
-        "description": "<p>Противовес — необычный мод для оружия ближнего боя в режиме конклава, который преобразует % базового урона в  ударный.</p>",
         "item_name": "Противовес",
+        "thumb": "icons/ru/thumbs/Counterweight.b8e99955362745017b916370e0903302.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B2%D0%B5%D1%81",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "thumb": "icons/ru/thumbs/Counterweight.b8e99955362745017b916370e0903302.128x128.png",
+        "description": "<p>Противовес — необычный мод для оружия ближнего боя в режиме конклава, который преобразует % базового урона в  ударный.</p>",
         "icon": "icons/ru/Counterweight.b8e99955362745017b916370e0903302.png"
     },
     "rarity": "uncommon",

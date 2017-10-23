@@ -1,0 +1,23 @@
+{
+    "_id": "59eba86952f90ed715e14159",
+    "tags": [
+        "gems"
+    ],
+    "icon": "icons/en/Sentirum.37d724d222f05798383d2bd583a1dc65.png",
+    "thumb": "icons/en/thumbs/Sentirum.37d724d222f05798383d2bd583a1dc65.128x128.png",
+    "icon_format": "port",
+    "url_name": "sentirum",
+    "tradable": true,
+    "en": {
+        "item_name": "Sentirum",
+        "description": "<p>Sentrium is a gem acquired through mining in the Plains of Eidolon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sentirum",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Сентирум",
+        "description": "<p>Сентирум - драгоценный камень, который можно найти и добыть с помощью лазерного резака в жилах синего цвета на локации Равнины Эйдолона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D1%83%D0%BC",
+        "drop": []
+    }
+}

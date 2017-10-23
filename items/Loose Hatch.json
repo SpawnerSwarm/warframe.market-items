@@ -11,27 +11,27 @@
     "url_name": "loose_hatch",
     "tradable": true,
     "en": {
+        "item_name": "Loose Hatch",
+        "description": "<p>Loose Hatch is a PvP-exclusive assault rifle mod which grants improved reload speed at the cost of increased recoil. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch",
         "drop": [
             {
-                "name": "Conclave Mission Reward",
-                "link": null
+                "link": null,
+                "name": "Conclave Mission Reward"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch",
-        "description": "<p>Loose Hatch is a PvP-exclusive assault rifle mod which grants improved reload speed at the cost of increased recoil. </p>",
-        "item_name": "Loose Hatch"
+        ]
     },
     "ru": {
-        "description": "<p>Скользящий Затвор — обычный мод для основного оружия в режиме конклава, который увеличивает скорость перезарядки, взамен увеличивая и отдачу.</p>",
         "item_name": "Скользящий затвор",
+        "thumb": "icons/ru/thumbs/Loose_Hatch.e9079d9d748084d95cc115a9f83b5634.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%B7%D0%B0%D1%82%D0%B2%D0%BE%D1%80",
         "drop": [
             {
-                "name": "Conclave Mission Reward",
-                "link": null
+                "link": null,
+                "name": "Conclave Mission Reward"
             }
         ],
-        "thumb": "icons/ru/thumbs/Loose_Hatch.e9079d9d748084d95cc115a9f83b5634.128x128.png",
+        "description": "<p>Скользящий Затвор — обычный мод для основного оружия в режиме конклава, который увеличивает скорость перезарядки, взамен увеличивая и отдачу.</p>",
         "icon": "icons/ru/Loose_Hatch.e9079d9d748084d95cc115a9f83b5634.png"
     },
     "rarity": "common",

@@ -11,36 +11,36 @@
     "url_name": "thumper",
     "tradable": true,
     "en": {
+        "item_name": "Thumper",
+        "description": "<p>Thumper allows Djinn to attack the first visible enemy within range.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Thumper",
         "drop": [
             {
-                "name": "Corrupted Butcher",
-                "link": null
+                "link": null,
+                "name": "Corrupted Butcher"
             },
             {
-                "name": "Corrupted Lancer",
-                "link": null
+                "link": null,
+                "name": "Corrupted Lancer"
             }
-        ],
-        "description": "<p>Thumper allows Djinn to attack the first visible enemy within range.</p>",
-        "item_name": "Thumper"
+        ]
     },
     "ru": {
-        "description": "<p>Колотун — мод-заповедь для Стража Джинн, позволяющий ему атаковать всех врагов в определенном радиусе от хозяина.</p>",
         "item_name": "Колотун",
+        "thumb": "icons/ru/thumbs/Thumper.6a008b0187c69f052af1fd9f694b12a2.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D0%BD",
         "drop": [
             {
-                "name": "Corrupted Butcher",
-                "link": null
+                "link": null,
+                "name": "Corrupted Butcher"
             },
             {
-                "name": "Corrupted Lancer",
-                "link": null
+                "link": null,
+                "name": "Corrupted Lancer"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D0%BD",
-        "icon": "icons/ru/Thumper.6a008b0187c69f052af1fd9f694b12a2.png",
-        "thumb": "icons/ru/thumbs/Thumper.6a008b0187c69f052af1fd9f694b12a2.128x128.png"
+        "description": "<p>Колотун — мод-заповедь для Стража Джинн, позволяющий ему атаковать всех врагов в определенном радиусе от хозяина.</p>",
+        "icon": "icons/ru/Thumper.6a008b0187c69f052af1fd9f694b12a2.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

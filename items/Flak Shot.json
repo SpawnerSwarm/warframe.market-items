@@ -11,27 +11,27 @@
     "url_name": "flak_shot",
     "tradable": true,
     "en": {
+        "item_name": "Flak Shot",
+        "description": "<p>Flak Shot is a PvP exclusive shotgun mod that converts an amount of physical damage to Slash damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot",
-        "description": "<p>Flak Shot is a PvP exclusive shotgun mod that converts an amount of physical damage to Slash damage.</p>",
-        "item_name": "Flak Shot"
+        ]
     },
     "ru": {
-        "description": "<p>Разрывной Выстрел — необычный мод для дробовиков в режиме конклава, который преобразует % базового урона в  режущий. </p>",
         "item_name": "Разрывной выстрел",
+        "thumb": "icons/ru/thumbs/Flak_Shot.f6a2510f9ed8fcdcb709669b7a7b3de1.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "thumb": "icons/ru/thumbs/Flak_Shot.f6a2510f9ed8fcdcb709669b7a7b3de1.128x128.png",
+        "description": "<p>Разрывной Выстрел — необычный мод для дробовиков в режиме конклава, который преобразует % базового урона в  режущий. </p>",
         "icon": "icons/ru/Flak_Shot.f6a2510f9ed8fcdcb709669b7a7b3de1.png"
     },
     "rarity": "uncommon",

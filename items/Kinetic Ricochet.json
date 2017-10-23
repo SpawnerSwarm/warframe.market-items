@@ -11,83 +11,83 @@
     "url_name": "kinetic_ricochet",
     "tradable": true,
     "en": {
+        "item_name": "Kinetic Ricochet",
+        "description": "<p>Kinetic Ricochet  is a mod that allows shots from the Tetra to bounce and travel further.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Ricochet",
         "drop": [
             {
-                "name": "Derim Zahn",
-                "link": null
+                "link": null,
+                "name": "Derim Zahn"
             },
             {
-                "name": "Jen Dro",
-                "link": null
+                "link": null,
+                "name": "Jen Dro"
             },
             {
-                "name": "Lockjaw & Sol",
-                "link": null
+                "link": null,
+                "name": "Lockjaw & Sol"
             },
             {
-                "name": "M-WAM",
-                "link": null
+                "link": null,
+                "name": "M-WAM"
             },
             {
-                "name": "Nako Xol",
-                "link": null
+                "link": null,
+                "name": "Nako Xol"
             },
             {
-                "name": "Pelna Cade",
-                "link": null
+                "link": null,
+                "name": "Pelna Cade"
             },
             {
-                "name": "Tia Mayn",
-                "link": null
+                "link": null,
+                "name": "Tia Mayn"
             },
             {
-                "name": "Ved Xol",
-                "link": null
+                "link": null,
+                "name": "Ved Xol"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Ricochet",
-        "description": "<p>Kinetic Ricochet  is a mod that allows shots from the Tetra to bounce and travel further.</p>",
-        "item_name": "Kinetic Ricochet"
+        ]
     },
     "ru": {
-        "description": "<p>Кинетический рикошет — необычный мод для тетры, увеличивающий дальность полёта снарядов и добавляющий им возможность рикошета от поверхности.</p>",
         "item_name": "Кинетический рикошет",
+        "thumb": "icons/ru/thumbs/Kinetic_Ricochet.8b95a6d48643a13e19e04591ef486f38.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B8%D0%BA%D0%BE%D1%88%D0%B5%D1%82",
         "drop": [
             {
-                "name": "Derim Zahn",
-                "link": null
+                "link": null,
+                "name": "Derim Zahn"
             },
             {
-                "name": "Jen Dro",
-                "link": null
+                "link": null,
+                "name": "Jen Dro"
             },
             {
-                "name": "Lockjaw & Sol",
-                "link": null
+                "link": null,
+                "name": "Lockjaw & Sol"
             },
             {
-                "name": "M-WAM",
-                "link": null
+                "link": null,
+                "name": "M-WAM"
             },
             {
-                "name": "Nako Xol",
-                "link": null
+                "link": null,
+                "name": "Nako Xol"
             },
             {
-                "name": "Pelna Cade",
-                "link": null
+                "link": null,
+                "name": "Pelna Cade"
             },
             {
-                "name": "Tia Mayn",
-                "link": null
+                "link": null,
+                "name": "Tia Mayn"
             },
             {
-                "name": "Ved Xol",
-                "link": null
+                "link": null,
+                "name": "Ved Xol"
             }
         ],
-        "thumb": "icons/ru/thumbs/Kinetic_Ricochet.8b95a6d48643a13e19e04591ef486f38.128x128.png",
+        "description": "<p>Кинетический рикошет — необычный мод для тетры, увеличивающий дальность полёта снарядов и добавляющий им возможность рикошета от поверхности.</p>",
         "icon": "icons/ru/Kinetic_Ricochet.8b95a6d48643a13e19e04591ef486f38.png"
     },
     "rarity": "uncommon",

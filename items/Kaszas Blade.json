@@ -18,35 +18,35 @@
     ],
     "set_root": false,
     "en": {
-        "drop": [
-            {
-                "name": "Red Veil",
-                "link": null
-            },
-            {
-                "name": "Offering",
-                "link": null
-            }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Kaszas",
+        "item_name": "Kaszas Blade",
         "description": "<p>The Kaszas is an Archwing scythe released in Update 17.5.</p>",
         "codex": "Become an angel of death, with this Archwing scythe.",
-        "item_name": "Kaszas Blade"
+        "wiki_link": "http://warframe.wikia.com/wiki/Kaszas",
+        "drop": [
+            {
+                "link": null,
+                "name": "Red Veil"
+            },
+            {
+                "link": null,
+                "name": "Offering"
+            }
+        ]
     },
     "ru": {
+        "item_name": "Косаш Клинок",
+        "description": "<p>Станьте ангелом смерти с этой косой для Арчвингов</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%88",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
-        ],
-        "description": "<p>Станьте ангелом смерти с этой косой для Арчвингов</p>",
-        "item_name": "Косаш Клинок"
+        ]
     },
     "mastery_level": 0,
     "trading_tax": 2000

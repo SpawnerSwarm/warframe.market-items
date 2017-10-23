@@ -11,44 +11,44 @@
     "url_name": "shock_absorbers",
     "tradable": true,
     "en": {
+        "item_name": "Shock Absorbers",
+        "description": "<p>The Shock Absorbers mod increases a Warframe's damage resistance while knocked down. </p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Shock_Absorbers",
         "drop": [
             {
-                "name": "Jackal",
-                "link": null
+                "link": null,
+                "name": "Jackal"
             },
             {
-                "name": "CorpusShield Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusShield Osprey"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>The Shock Absorbers mod increases a Warframe's damage resistance while knocked down. </p>",
-        "item_name": "Shock Absorbers"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.png",
         "item_name": "Амортизаторы",
+        "thumb": "icons/ru/thumbs/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80%D1%8B",
         "drop": [
             {
-                "name": "Jackal",
-                "link": null
+                "link": null,
+                "name": "Jackal"
             },
             {
-                "name": "CorpusShield Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusShield Osprey"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
         ],
-        "thumb": "icons/ru/thumbs/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.128x128.png",
-        "description": "<p>Амортизаторы — эксилус мод, который уменьшает получаемый урон, в то время, когда игрок сбит с ног.</p>"
+        "description": "<p>Амортизаторы — эксилус мод, который уменьшает получаемый урон, в то время, когда игрок сбит с ног.</p>",
+        "icon": "icons/ru/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

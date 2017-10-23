@@ -11,52 +11,52 @@
     "url_name": "target_cracker",
     "tradable": true,
     "en": {
+        "item_name": "Target Cracker",
+        "description": "<p>The Target Cracker mod increases the critical damage of a pistol by 10% for each rank for a maximum of 60% at rank 5.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Target_Cracker",
         "drop": [
             {
-                "name": "GrineerPowerfist",
-                "link": null
+                "link": null,
+                "name": "GrineerPowerfist"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             },
             {
-                "name": "Tier 2 InfestedDefense Reward",
-                "link": null
+                "link": null,
+                "name": "Tier 2 InfestedDefense Reward"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
-        ],
-        "description": "<p>The Target Cracker mod increases the critical damage of a pistol by 10% for each rank for a maximum of 60% at rank 5.</p>",
-        "item_name": "Target Cracker"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Target_Cracker.880956b007fc501ad7bde53299ea281a.png",
         "item_name": "Дробитель",
+        "thumb": "icons/ru/thumbs/Target_Cracker.880956b007fc501ad7bde53299ea281a.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
         "drop": [
             {
-                "name": "GrineerPowerfist",
-                "link": null
+                "link": null,
+                "name": "GrineerPowerfist"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             },
             {
-                "name": "Tier 2 InfestedDefense Reward",
-                "link": null
+                "link": null,
+                "name": "Tier 2 InfestedDefense Reward"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "thumb": "icons/ru/thumbs/Target_Cracker.880956b007fc501ad7bde53299ea281a.128x128.png",
-        "description": "<p>Дробитель — необычный мод для вторичного оружия, который увеличивает множитель критического урона.</p>"
+        "description": "<p>Дробитель — необычный мод для вторичного оружия, который увеличивает множитель критического урона.</p>",
+        "icon": "icons/ru/Target_Cracker.880956b007fc501ad7bde53299ea281a.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

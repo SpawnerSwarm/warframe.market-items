@@ -11,27 +11,27 @@
     "url_name": "astral_twilight",
     "tradable": true,
     "en": {
+        "item_name": "Astral Twilight",
+        "description": "<p>Astral Twilight is one of two available Stance mods for Glaive-type weapons, featuring highly mobile spins and sweeping slashes. </p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Astral_Twilight",
         "drop": [
             {
-                "name": "Overtake RewardDenial BursaBaro Ki'TeerOrokin Moon Spy RewardRathuum - Mission 3 (0.5%)",
-                "link": null
+                "link": null,
+                "name": "Overtake RewardDenial BursaBaro Ki'TeerOrokin Moon Spy RewardRathuum - Mission 3 (0.5%)"
             }
-        ],
-        "description": "<p>Astral Twilight is one of two available Stance mods for Glaive-type weapons, featuring highly mobile spins and sweeping slashes. </p>",
-        "item_name": "Astral Twilight"
+        ]
     },
     "ru": {
-        "description": "<p>Астральный Сумрак  — это стойка, предназначенная для оружия ближнего боя класса Глефы. Увеличение ранга открывает новые комбинации.</p>",
         "item_name": "Астральный сумрак",
+        "thumb": "icons/ru/thumbs/Astral_Twilight.ccdc899cd995447eee438131bd4e02d3.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%BC%D1%80%D0%B0%D0%BA",
         "drop": [
             {
-                "name": "Overtake RewardDenial BursaBaro Ki'TeerOrokin Moon Spy RewardRathuum - Mission 3 (0.5%)",
-                "link": null
+                "link": null,
+                "name": "Overtake RewardDenial BursaBaro Ki'TeerOrokin Moon Spy RewardRathuum - Mission 3 (0.5%)"
             }
         ],
-        "thumb": "icons/ru/thumbs/Astral_Twilight.ccdc899cd995447eee438131bd4e02d3.128x128.png",
+        "description": "<p>Астральный Сумрак  — это стойка, предназначенная для оружия ближнего боя класса Глефы. Увеличение ранга открывает новые комбинации.</p>",
         "icon": "icons/ru/Astral_Twilight.ccdc899cd995447eee438131bd4e02d3.png"
     },
     "rarity": "rare",

@@ -11,27 +11,27 @@
     "url_name": "four_riders",
     "tradable": true,
     "en": {
+        "item_name": "Four Riders",
+        "description": "<p>Four Riders is a Rare Stance mod for Claw-type weapons, featuring fast strikes and powerful slams.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Four_Riders",
         "drop": [
             {
-                "name": "GrineerManic",
-                "link": null
+                "link": null,
+                "name": "GrineerManic"
             }
-        ],
-        "description": "<p>Four Riders is a Rare Stance mod for Claw-type weapons, featuring fast strikes and powerful slams.</p>",
-        "item_name": "Four Riders"
+        ]
     },
     "ru": {
-        "description": "<p>Четыре Всадника — это редкая стойка, предназначенная для оружия ближнего боя класса Когти. Увеличение ранга открывает новые комбинации.</p>",
         "item_name": "Четыре всадника",
+        "thumb": "icons/ru/thumbs/Four_Riders.c3e4151f6c54f40bf421b920781dae4a.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B2%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0",
         "drop": [
             {
-                "name": "GrineerManic",
-                "link": null
+                "link": null,
+                "name": "GrineerManic"
             }
         ],
-        "thumb": "icons/ru/thumbs/Four_Riders.c3e4151f6c54f40bf421b920781dae4a.128x128.png",
+        "description": "<p>Четыре Всадника — это редкая стойка, предназначенная для оружия ближнего боя класса Когти. Увеличение ранга открывает новые комбинации.</p>",
         "icon": "icons/ru/Four_Riders.c3e4151f6c54f40bf421b920781dae4a.png"
     },
     "rarity": "rare",

@@ -11,27 +11,27 @@
     "url_name": "growing_power",
     "tradable": true,
     "en": {
+        "item_name": "Growing Power",
+        "description": "<p>Growing Power is an Aura that temporarily increases Power Strength after inflicting a Status Effect on an enemy unit.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Growing_Power",
         "drop": [
             {
-                "name": "Knave Specter",
-                "link": null
+                "link": null,
+                "name": "Knave Specter"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Growing_Power",
-        "description": "<p>Growing Power is an Aura that temporarily increases Power Strength after inflicting a Status Effect on an enemy unit.</p>",
-        "item_name": "Growing Power"
+        ]
     },
     "ru": {
-        "description": "<p>Растущая мощь — редкая аура, увеличивающая силу способностей при срабатывании негативного статуса на противнике, на короткий промежуток времени.</p>",
         "item_name": "Растущая мощь",
+        "thumb": "icons/ru/thumbs/Growing_Power.f05eb85e839ef46831590e9435ad3d1a.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D1%82%D1%83%D1%89%D0%B0%D1%8F_%D0%BC%D0%BE%D1%89%D1%8C",
         "drop": [
             {
-                "name": "Knave Specter",
-                "link": null
+                "link": null,
+                "name": "Knave Specter"
             }
         ],
-        "thumb": "icons/ru/thumbs/Growing_Power.f05eb85e839ef46831590e9435ad3d1a.128x128.png",
+        "description": "<p>Растущая мощь — редкая аура, увеличивающая силу способностей при срабатывании негативного статуса на противнике, на короткий промежуток времени.</p>",
         "icon": "icons/ru/Growing_Power.f05eb85e839ef46831590e9435ad3d1a.png"
     },
     "rarity": "rare",

@@ -11,52 +11,52 @@
     "url_name": "handspring",
     "tradable": true,
     "en": {
+        "item_name": "Handspring",
+        "description": "<p>Handspring speeds up a Warframe's knock-down recovery rate.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Handspring",
         "drop": [
             {
-                "name": "Jackal",
-                "link": null
+                "link": null,
+                "name": "Jackal"
             },
             {
-                "name": "Corpus Tech",
-                "link": null
+                "link": null,
+                "name": "Corpus Tech"
             },
             {
-                "name": "Corpus Warden",
-                "link": null
+                "link": null,
+                "name": "Corpus Warden"
             },
             {
-                "name": "Grineer T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Grineer T3Defense Reward"
             }
-        ],
-        "description": "<p>Handspring speeds up a Warframe's knock-down recovery rate.</p>",
-        "item_name": "Handspring"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Handspring.73999f1779fdee2f6ab7fe5656e74954.png",
         "item_name": "Сальто",
+        "thumb": "icons/ru/thumbs/Handspring.73999f1779fdee2f6ab7fe5656e74954.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D1%82%D0%BE",
         "drop": [
             {
-                "name": "Jackal",
-                "link": null
+                "link": null,
+                "name": "Jackal"
             },
             {
-                "name": "Corpus Tech",
-                "link": null
+                "link": null,
+                "name": "Corpus Tech"
             },
             {
-                "name": "Corpus Warden",
-                "link": null
+                "link": null,
+                "name": "Corpus Warden"
             },
             {
-                "name": "Grineer T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Grineer T3Defense Reward"
             }
         ],
-        "thumb": "icons/ru/thumbs/Handspring.73999f1779fdee2f6ab7fe5656e74954.128x128.png",
-        "description": "<p>Сальто — эксилус мод для варфреймов, который увеличивает скорость подъёма на ноги после падения.</p>"
+        "description": "<p>Сальто — эксилус мод для варфреймов, который увеличивает скорость подъёма на ноги после падения.</p>",
+        "icon": "icons/ru/Handspring.73999f1779fdee2f6ab7fe5656e74954.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

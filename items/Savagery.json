@@ -11,36 +11,36 @@
     "url_name": "savagery",
     "tradable": true,
     "en": {
+        "item_name": "Savagery",
+        "description": "<p>Savagery mod allows the Sunika Kubrow to overwhelm its prey with a powerful finisher attack.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Savagery",
         "drop": [
             {
-                "name": "Drahk",
-                "link": null
+                "link": null,
+                "name": "Drahk"
             },
             {
-                "name": "Kubrow (Feral)",
-                "link": null
+                "link": null,
+                "name": "Kubrow (Feral)"
             }
-        ],
-        "description": "<p>Savagery mod allows the Sunika Kubrow to overwhelm its prey with a powerful finisher attack.</p>",
-        "item_name": "Savagery"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Savagery.37228f59b30f485bde0addf80f91aed0.png",
         "item_name": "Дикость",
+        "thumb": "icons/ru/thumbs/Savagery.37228f59b30f485bde0addf80f91aed0.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B8%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
         "drop": [
             {
-                "name": "Drahk",
-                "link": null
+                "link": null,
+                "name": "Drahk"
             },
             {
-                "name": "Kubrow (Feral)",
-                "link": null
+                "link": null,
+                "name": "Kubrow (Feral)"
             }
         ],
-        "thumb": "icons/ru/thumbs/Savagery.37228f59b30f485bde0addf80f91aed0.128x128.png",
-        "description": "<p>Дикость — мод-заповедь для кубрау Суника, который позволяет использовать добивающие атаки на сбитом с ног противнике, наносящие дополнительный урон</p>"
+        "description": "<p>Дикость — мод-заповедь для кубрау Суника, который позволяет использовать добивающие атаки на сбитом с ног противнике, наносящие дополнительный урон</p>",
+        "icon": "icons/ru/Savagery.37228f59b30f485bde0addf80f91aed0.png"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

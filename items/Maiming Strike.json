@@ -11,35 +11,35 @@
     "url_name": "maiming_strike",
     "tradable": true,
     "en": {
+        "item_name": "Maiming Strike",
+        "description": "<p>Maiming Strike is a rare Melee mod that increases the chance of a Critical Hit on slide attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Maiming_Strike",
         "drop": [
             {
-                "name": "Misery",
-                "link": null
+                "link": null,
+                "name": "Misery"
             },
             {
-                "name": "Violence",
-                "link": null
+                "link": null,
+                "name": "Violence"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Maiming_Strike",
-        "description": "<p>Maiming Strike is a rare Melee mod that increases the chance of a Critical Hit on slide attacks.</p>",
-        "item_name": "Maiming Strike"
+        ]
     },
     "ru": {
-        "description": "<p>Калечащий Удар — редкий мод для оружия ближнего боя, который добавляет шанс критического урона во время скольжения.</p>",
         "item_name": "Калечащий удар",
+        "thumb": "icons/ru/thumbs/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D1%87%D0%B0%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
         "drop": [
             {
-                "name": "Misery",
-                "link": null
+                "link": null,
+                "name": "Misery"
             },
             {
-                "name": "Violence",
-                "link": null
+                "link": null,
+                "name": "Violence"
             }
         ],
-        "thumb": "icons/ru/thumbs/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.128x128.png",
+        "description": "<p>Калечащий Удар — редкий мод для оружия ближнего боя, который добавляет шанс критического урона во время скольжения.</p>",
         "icon": "icons/ru/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.png"
     },
     "rarity": "rare",

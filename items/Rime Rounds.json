@@ -11,36 +11,36 @@
     "url_name": "rime_rounds",
     "tradable": true,
     "en": {
+        "item_name": "Rime Rounds",
+        "description": "<p>The Rime Rounds mod increases both the  Cold damage and Status Chance of rifles by 15% per rank for a maximum of 60% at rank 3.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Rime_Rounds",
         "drop": [
             {
-                "name": "Spy 2.0 reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 reward"
             },
             {
-                "name": "Reward fromOperation Cryotic Front",
-                "link": null
+                "link": null,
+                "name": "Reward fromOperation Cryotic Front"
             }
-        ],
-        "description": "<p>The Rime Rounds mod increases both the  Cold damage and Status Chance of rifles by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "item_name": "Rime Rounds"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Rime_Rounds.f01336d6a6bafd005e71f47daa821603.png",
         "item_name": "Иней-Патроны",
+        "thumb": "icons/ru/thumbs/Rime_Rounds.f01336d6a6bafd005e71f47daa821603.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%BD%D0%B5%D0%B9-%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
         "drop": [
             {
-                "name": "Spy 2.0 reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 reward"
             },
             {
-                "name": "Reward fromOperation Cryotic Front",
-                "link": null
+                "link": null,
+                "name": "Reward fromOperation Cryotic Front"
             }
         ],
-        "thumb": "icons/ru/thumbs/Rime_Rounds.f01336d6a6bafd005e71f47daa821603.128x128.png",
-        "description": "<p>Иней-Патроны — гибридный мод для основного оружия, который увеличивают  ледяной урон и шанс эффекта статуса.</p>"
+        "description": "<p>Иней-Патроны — гибридный мод для основного оружия, который увеличивают  ледяной урон и шанс эффекта статуса.</p>",
+        "icon": "icons/ru/Rime_Rounds.f01336d6a6bafd005e71f47daa821603.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

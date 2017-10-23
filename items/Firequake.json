@@ -11,35 +11,35 @@
     "url_name": "firequake",
     "tradable": true,
     "en": {
+        "item_name": "Firequake",
+        "description": "<p>Firequake is a Warframe Augment Mod for Ember that gives World On Fire a chance to down enemies caught in the flames.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Firequake",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             }
-        ],
-        "description": "<p>Firequake is a Warframe Augment Mod for Ember that gives World On Fire a chance to down enemies caught in the flames.</p>",
-        "item_name": "Firequake"
+        ]
     },
     "ru": {
-        "description": "<p>Дрожащий Огонь — мод-аугмент для варфрейма Эмбер и Эмбер Прайм, улучшающий её способность Мир В Огне. Враги, задетые способностью, будут опрокинуты с некоторым шансом.</p>",
         "item_name": "Дрожащий огонь",
+        "thumb": "icons/ru/thumbs/Firequake.c1390c4da520b1504720a49604f5a598.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%80%D0%BE%D0%B6%D0%B0%D1%89%D0%B8%D0%B9_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             }
         ],
-        "thumb": "icons/ru/thumbs/Firequake.c1390c4da520b1504720a49604f5a598.128x128.png",
+        "description": "<p>Дрожащий Огонь — мод-аугмент для варфрейма Эмбер и Эмбер Прайм, улучшающий её способность Мир В Огне. Враги, задетые способностью, будут опрокинуты с некоторым шансом.</p>",
         "icon": "icons/ru/Firequake.c1390c4da520b1504720a49604f5a598.png"
     },
     "rarity": "rare",

@@ -19,35 +19,35 @@
     ],
     "set_root": false,
     "en": {
+        "item_name": "Agkuza Handle",
+        "description": "<p>This weapon deals primarily  Puncture damage.</p>",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Agkuza",
-        "description": "<p>This weapon deals primarily  Puncture damage.</p>",
-        "codex": "Tear apart incoming enemies with this massive hooked blade.",
-        "item_name": "Agkuza Handle"
+        "codex": "Tear apart incoming enemies with this massive hooked blade."
     },
     "ru": {
+        "item_name": "Агкуза Рукоять",
+        "description": "<p>Разрывайте врагов на части с этим массивным клинком с крюком</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B3%D0%BA%D1%83%D0%B7%D0%B0",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
-        ],
-        "description": "<p>Разрывайте врагов на части с этим массивным клинком с крюком</p>",
-        "item_name": "Агкуза Рукоять"
+        ]
     },
     "mastery_level": 0,
     "trading_tax": 2000

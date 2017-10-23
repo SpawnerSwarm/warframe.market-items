@@ -11,27 +11,27 @@
     "url_name": "quick_charge",
     "tradable": true,
     "en": {
+        "item_name": "Quick Charge",
+        "description": "<p>Quick Charge is a PvP-exclusive Warframe mod that reduces the recharge delay after the shield is damaged for the cost of Shield Capacity </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Charge",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Charge",
-        "description": "<p>Quick Charge is a PvP-exclusive Warframe mod that reduces the recharge delay after the shield is damaged for the cost of Shield Capacity </p>",
-        "item_name": "Quick Charge"
+        ]
     },
     "ru": {
-        "description": "<p>Быстрая зарядка — редкий мод для варфреймов в режиме конклава, который уменьшает задержку восстановления щита после повреждений, взамен уменьшая его объём.</p>",
         "item_name": "Быстрая зарядка",
+        "thumb": "icons/ru/thumbs/Quick_Charge.65987078029f41a29e7b1f7eb9b37f99.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B0%D1%8F_%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "thumb": "icons/ru/thumbs/Quick_Charge.65987078029f41a29e7b1f7eb9b37f99.128x128.png",
+        "description": "<p>Быстрая зарядка — редкий мод для варфреймов в режиме конклава, который уменьшает задержку восстановления щита после повреждений, взамен уменьшая его объём.</p>",
         "icon": "icons/ru/Quick_Charge.65987078029f41a29e7b1f7eb9b37f99.png"
     },
     "rarity": "rare",

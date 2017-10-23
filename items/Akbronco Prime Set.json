@@ -16,17 +16,17 @@
     ],
     "set_root": true,
     "en": {
+        "item_name": "Akbronco Prime Set",
+        "description": "<p>The Akbronco Prime lowers  Impact damage to increase  Slash damage, while gaining increased firing rate, critical damage, status chance and magazine size. The Akbronco Prime was added into the game in Update 12.4.</p>",
         "drop": [],
         "wiki_link": "http://warframe.wikia.com/wiki/Akbronco_Prime",
-        "description": "<p>The Akbronco Prime lowers  Impact damage to increase  Slash damage, while gaining increased firing rate, critical damage, status chance and magazine size. The Akbronco Prime was added into the game in Update 12.4.</p>",
-        "codex": "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets",
-        "item_name": "Akbronco Prime Set"
+        "codex": "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets"
     },
     "ru": {
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D0%B1%D1%80%D0%BE%D0%BD%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
-        "drop": [],
+        "item_name": "Акбронко прайм Комплект",
         "description": "<p>Используемые в паре, эти пистолеты Орокин дополняют друг друга, нанося высокий урон с увеличенным шансом наложения элементального эффекта.</p>",
-        "item_name": "Акбронко прайм Комплект"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D0%B1%D1%80%D0%BE%D0%BD%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "drop": []
     },
     "mastery_level": 0,
     "trading_tax": 2000

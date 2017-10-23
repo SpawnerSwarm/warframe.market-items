@@ -11,35 +11,35 @@
     "url_name": "everlasting_ward",
     "tradable": true,
     "en": {
+        "item_name": "Everlasting Ward",
+        "description": "<p>Everlasting Ward is an Warframe Augment Mod for Chroma that allows allies to retain Elemental Ward's effects upon moving out of its range, lasting for a percentage of Elemental Ward's remaining duration.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Everlasting_Ward",
         "drop": [
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             },
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             }
-        ],
-        "description": "<p>Everlasting Ward is an Warframe Augment Mod for Chroma that allows allies to retain Elemental Ward's effects upon moving out of its range, lasting for a percentage of Elemental Ward's remaining duration.</p>",
-        "item_name": "Everlasting Ward"
+        ]
     },
     "ru": {
-        "description": "<p>Вечный страж — мод-аугмент для варфрейма Хрома, улучшающий его способность элементальный страж. Союзники, покинувшие радиус действия способности, сохранят эффект способности на определённый процент от её длительности.</p>",
         "item_name": "Вечный страж",
+        "thumb": "icons/ru/thumbs/Everlasting_Ward.69449a39581c9d1070e10d5b6025baf5.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D0%B6",
         "drop": [
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             },
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             }
         ],
-        "thumb": "icons/ru/thumbs/Everlasting_Ward.69449a39581c9d1070e10d5b6025baf5.128x128.png",
+        "description": "<p>Вечный страж — мод-аугмент для варфрейма Хрома, улучшающий его способность элементальный страж. Союзники, покинувшие радиус действия способности, сохранят эффект способности на определённый процент от её длительности.</p>",
         "icon": "icons/ru/Everlasting_Ward.69449a39581c9d1070e10d5b6025baf5.png"
     },
     "rarity": "rare",

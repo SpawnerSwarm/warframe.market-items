@@ -11,28 +11,28 @@
     "url_name": "physique",
     "tradable": true,
     "en": {
+        "item_name": "Physique",
+        "description": "<p>Physique is an Aura that increases maximum health.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Physique",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
-        ],
-        "description": "<p>Physique is an Aura that increases maximum health.</p>",
-        "item_name": "Physique"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Physique.7c864731f10e1e439a0ecb4ba0be10fe.png",
         "item_name": "Излучение жизни",
+        "thumb": "icons/ru/thumbs/Physique.7c864731f10e1e439a0ecb4ba0be10fe.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "thumb": "icons/ru/thumbs/Physique.7c864731f10e1e439a0ecb4ba0be10fe.128x128.png",
-        "description": "<p>Излучение жизни — необычная аура, которая увеличивает базовый показатель здоровья варфрейма для всех членов команды.</p>"
+        "description": "<p>Излучение жизни — необычная аура, которая увеличивает базовый показатель здоровья варфрейма для всех членов команды.</p>",
+        "icon": "icons/ru/Physique.7c864731f10e1e439a0ecb4ba0be10fe.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

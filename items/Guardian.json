@@ -11,43 +11,43 @@
     "url_name": "guardian",
     "tradable": true,
     "en": {
+        "item_name": "Guardian",
+        "description": "<p>Guardian grants a Sentinel the ability to replenish its owner's shield when depleted.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Guardian",
         "drop": [
             {
-                "name": "Orokin Drone",
-                "link": null
+                "link": null,
+                "name": "Orokin Drone"
             },
             {
-                "name": "Orokin Spectator",
-                "link": null
+                "link": null,
+                "name": "Orokin Spectator"
             },
             {
-                "name": "Orokin Storage Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Storage Containers"
             }
-        ],
-        "description": "<p>Guardian grants a Sentinel the ability to replenish its owner's shield when depleted.</p>",
-        "item_name": "Guardian"
+        ]
     },
     "ru": {
-        "description": "<p>Защитник — мод-заповедь для стражей, который предоставляет ему возможность восполнить щиты владельца, если они на нуле.</p>",
         "item_name": "Защитник",
+        "thumb": "icons/ru/thumbs/Guardian.8626522c8178be2b9617cc62332a553f.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA",
         "drop": [
             {
-                "name": "Orokin Drone",
-                "link": null
+                "link": null,
+                "name": "Orokin Drone"
             },
             {
-                "name": "Orokin Spectator",
-                "link": null
+                "link": null,
+                "name": "Orokin Spectator"
             },
             {
-                "name": "Orokin Storage Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Storage Containers"
             }
         ],
-        "thumb": "icons/ru/thumbs/Guardian.8626522c8178be2b9617cc62332a553f.128x128.png",
+        "description": "<p>Защитник — мод-заповедь для стражей, который предоставляет ему возможность восполнить щиты владельца, если они на нуле.</p>",
         "icon": "icons/ru/Guardian.8626522c8178be2b9617cc62332a553f.png"
     },
     "rarity": "common",

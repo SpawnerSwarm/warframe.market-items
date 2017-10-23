@@ -11,27 +11,27 @@
     "url_name": "winds_of_purity",
     "tradable": true,
     "en": {
+        "item_name": "Winds of Purity",
+        "description": "<p>The Winds of Purity mod is a Weapon Augment Mod that adds Life Steal and Purity specifically for the Furis. It increases Life Steal by 0.05 and Purity by 0.25 per rank, at a maximum of 0.2 and 1 at rank 3, respectively.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Winds_of_Purity",
         "drop": [
             {
-                "name": "New Loka Offering",
-                "link": null
+                "link": null,
+                "name": "New Loka Offering"
             }
-        ],
-        "description": "<p>The Winds of Purity mod is a Weapon Augment Mod that adds Life Steal and Purity specifically for the Furis. It increases Life Steal by 0.05 and Purity by 0.25 per rank, at a maximum of 0.2 and 1 at rank 3, respectively.</p>",
-        "item_name": "Winds of Purity"
+        ]
     },
     "ru": {
-        "description": "<p>Ветер Чистоты — мод-аугмент для оружия Фурис, который регенерирует здоровье при нанесении удара и даёт прирост Синдикат-эффекта - Чистота.</p>",
         "item_name": "Ветер чистоты",
+        "thumb": "icons/ru/thumbs/Winds_of_Purity.f240608213bac0e1c215edc5922cdbb3.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D1%82%D0%B5%D1%80_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D1%82%D1%8B",
         "drop": [
             {
-                "name": "New Loka Offering",
-                "link": null
+                "link": null,
+                "name": "New Loka Offering"
             }
         ],
-        "thumb": "icons/ru/thumbs/Winds_of_Purity.f240608213bac0e1c215edc5922cdbb3.128x128.png",
+        "description": "<p>Ветер Чистоты — мод-аугмент для оружия Фурис, который регенерирует здоровье при нанесении удара и даёт прирост Синдикат-эффекта - Чистота.</p>",
         "icon": "icons/ru/Winds_of_Purity.f240608213bac0e1c215edc5922cdbb3.png"
     },
     "rarity": "rare",

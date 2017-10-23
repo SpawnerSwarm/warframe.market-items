@@ -11,43 +11,43 @@
     "url_name": "astral_slash",
     "tradable": true,
     "en": {
+        "item_name": "Astral Slash",
+        "description": "<p>The Astral Slash mod increases melee Slash damage of an Archwing melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash",
         "drop": [
             {
-                "name": "Archwing Sabotage Reward",
-                "link": null
+                "link": null,
+                "name": "Archwing Sabotage Reward"
             },
             {
-                "name": "KeplerPhobos Rush Reward",
-                "link": null
+                "link": null,
+                "name": "KeplerPhobos Rush Reward"
             },
             {
-                "name": "Archwing Mobile Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Archwing Mobile Defense Reward"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash",
-        "description": "<p>The Astral Slash mod increases melee Slash damage of an Archwing melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "item_name": "Astral Slash"
+        ]
     },
     "ru": {
-        "description": "<p>Астральное Рассечение  — редкий мод для оружия ближнего боя арчвинг, который увеличивает  режущий урон.</p>",
         "item_name": "Астральное рассечение",
+        "thumb": "icons/ru/thumbs/Astral_Slash.268ef35fb41a3d9f236ff88f2ac99bdc.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "name": "Archwing Sabotage Reward",
-                "link": null
+                "link": null,
+                "name": "Archwing Sabotage Reward"
             },
             {
-                "name": "KeplerPhobos Rush Reward",
-                "link": null
+                "link": null,
+                "name": "KeplerPhobos Rush Reward"
             },
             {
-                "name": "Archwing Mobile Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Archwing Mobile Defense Reward"
             }
         ],
-        "thumb": "icons/ru/thumbs/Astral_Slash.268ef35fb41a3d9f236ff88f2ac99bdc.128x128.png",
+        "description": "<p>Астральное Рассечение  — редкий мод для оружия ближнего боя арчвинг, который увеличивает  режущий урон.</p>",
         "icon": "icons/ru/Astral_Slash.268ef35fb41a3d9f236ff88f2ac99bdc.png"
     },
     "rarity": "rare",

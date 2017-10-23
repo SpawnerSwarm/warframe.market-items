@@ -11,107 +11,107 @@
     "url_name": "organ_shatter",
     "tradable": true,
     "en": {
+        "item_name": "Organ Shatter",
+        "description": "<p>Organ Shatter increases the critical damage of a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Organ_Shatter",
         "drop": [
             {
-                "name": "Lynx",
-                "link": null
+                "link": null,
+                "name": "Lynx"
             },
             {
-                "name": "Raptor",
-                "link": null
+                "link": null,
+                "name": "Raptor"
             },
             {
-                "name": "Ven'kra Tel",
-                "link": null
+                "link": null,
+                "name": "Ven'kra Tel"
             },
             {
-                "name": "Sprag",
-                "link": null
+                "link": null,
+                "name": "Sprag"
             },
             {
-                "name": "GrineerBallista",
-                "link": null
+                "link": null,
+                "name": "GrineerBallista"
             },
             {
-                "name": "GrineerDrekar Ballista",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Ballista"
             },
             {
-                "name": "GrineerDrekar Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Hellion"
             },
             {
-                "name": "InfestedBoiler",
-                "link": null
+                "link": null,
+                "name": "InfestedBoiler"
             },
             {
-                "name": "InfestedArcane Boiler",
-                "link": null
+                "link": null,
+                "name": "InfestedArcane Boiler"
             },
             {
-                "name": "InfestedToxic Ancient",
-                "link": null
+                "link": null,
+                "name": "InfestedToxic Ancient"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>Organ Shatter increases the critical damage of a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "item_name": "Organ Shatter"
+        ]
     },
     "ru": {
-        "description": "<p>Крушитель Органов — обычный мод для оружия ближнего боя, который увеличивает критический урон.</p>",
         "item_name": "Крушитель органов",
+        "thumb": "icons/ru/thumbs/Organ_Shatter.bba1129449dea8f9638fe51812517403.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2",
         "drop": [
             {
-                "name": "Lynx",
-                "link": null
+                "link": null,
+                "name": "Lynx"
             },
             {
-                "name": "Raptor",
-                "link": null
+                "link": null,
+                "name": "Raptor"
             },
             {
-                "name": "Ven'kra Tel",
-                "link": null
+                "link": null,
+                "name": "Ven'kra Tel"
             },
             {
-                "name": "Sprag",
-                "link": null
+                "link": null,
+                "name": "Sprag"
             },
             {
-                "name": "GrineerBallista",
-                "link": null
+                "link": null,
+                "name": "GrineerBallista"
             },
             {
-                "name": "GrineerDrekar Ballista",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Ballista"
             },
             {
-                "name": "GrineerDrekar Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Hellion"
             },
             {
-                "name": "InfestedBoiler",
-                "link": null
+                "link": null,
+                "name": "InfestedBoiler"
             },
             {
-                "name": "InfestedArcane Boiler",
-                "link": null
+                "link": null,
+                "name": "InfestedArcane Boiler"
             },
             {
-                "name": "InfestedToxic Ancient",
-                "link": null
+                "link": null,
+                "name": "InfestedToxic Ancient"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
         ],
-        "thumb": "icons/ru/thumbs/Organ_Shatter.bba1129449dea8f9638fe51812517403.128x128.png",
+        "description": "<p>Крушитель Органов — обычный мод для оружия ближнего боя, который увеличивает критический урон.</p>",
         "icon": "icons/ru/Organ_Shatter.bba1129449dea8f9638fe51812517403.png"
     },
     "rarity": "common",

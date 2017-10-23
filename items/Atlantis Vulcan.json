@@ -11,35 +11,35 @@
     "url_name": "atlantis_vulcan",
     "tradable": true,
     "en": {
+        "item_name": "Atlantis Vulcan",
+        "description": "<p>Atlantis Vulcan is a Stance for Nunchaku-type weapons, specializing in fast, multi-hit whirling strikes.  </p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Atlantis_Vulcan",
         "drop": [
             {
-                "name": "GrineerGuardsman",
-                "link": null
+                "link": null,
+                "name": "GrineerGuardsman"
             },
             {
-                "name": "Orphid Specter",
-                "link": null
+                "link": null,
+                "name": "Orphid Specter"
             }
-        ],
-        "description": "<p>Atlantis Vulcan is a Stance for Nunchaku-type weapons, specializing in fast, multi-hit whirling strikes.  </p>",
-        "item_name": "Atlantis Vulcan"
+        ]
     },
     "ru": {
-        "description": "<p>Атлантический Вулкан — это стойка, предназначенная для оружия ближнего боя класса Нунчаки. Увеличение ранга открывает новые комбинации.</p>",
         "item_name": "Атлантический вулкан",
+        "thumb": "icons/ru/thumbs/Atlantis_Vulcan.ca8c67457568321c86820f93c31defee.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD",
         "drop": [
             {
-                "name": "GrineerGuardsman",
-                "link": null
+                "link": null,
+                "name": "GrineerGuardsman"
             },
             {
-                "name": "Orphid Specter",
-                "link": null
+                "link": null,
+                "name": "Orphid Specter"
             }
         ],
-        "thumb": "icons/ru/thumbs/Atlantis_Vulcan.ca8c67457568321c86820f93c31defee.128x128.png",
+        "description": "<p>Атлантический Вулкан — это стойка, предназначенная для оружия ближнего боя класса Нунчаки. Увеличение ранга открывает новые комбинации.</p>",
         "icon": "icons/ru/Atlantis_Vulcan.ca8c67457568321c86820f93c31defee.png"
     },
     "rarity": "uncommon",

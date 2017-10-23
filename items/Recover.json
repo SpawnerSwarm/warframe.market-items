@@ -11,27 +11,27 @@
     "url_name": "recover",
     "tradable": true,
     "en": {
+        "item_name": "Recover",
+        "description": "<p>Recover was a PvP-exclusive rifle mod that gave a chance to restore health on kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Recover",
         "drop": [
             {
-                "name": "N/A",
-                "link": null
+                "link": null,
+                "name": "N/A"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Recover",
-        "description": "<p>Recover was a PvP-exclusive rifle mod that gave a chance to restore health on kill.</p>",
-        "item_name": "Recover"
+        ]
     },
     "ru": {
-        "description": "<p>Исцеление — редкий мод для основного оружия в режиме конклава, который с некоторым шансом полностью восстанавливает показатели здоровья при убийстве. </p>",
         "item_name": "Исцеление",
+        "thumb": "icons/ru/thumbs/Recover.2ebdf233711957c85a6d9a13da32cff4.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "name": "N/A",
-                "link": null
+                "link": null,
+                "name": "N/A"
             }
         ],
-        "thumb": "icons/ru/thumbs/Recover.2ebdf233711957c85a6d9a13da32cff4.128x128.png",
+        "description": "<p>Исцеление — редкий мод для основного оружия в режиме конклава, который с некоторым шансом полностью восстанавливает показатели здоровья при убийстве. </p>",
         "icon": "icons/ru/Recover.2ebdf233711957c85a6d9a13da32cff4.png"
     },
     "rarity": "rare",

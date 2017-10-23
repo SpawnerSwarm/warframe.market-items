@@ -11,124 +11,124 @@
     "url_name": "diamond_skin",
     "tradable": true,
     "en": {
+        "item_name": "Diamond Skin",
+        "description": "<p>Diamond Skin increases the  Radiation damage resistance of a Warframe's shield and health.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Diamond_Skin",
         "drop": [
             {
-                "name": "CorpusLeech Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusLeech Osprey"
             },
             {
-                "name": "CorpusSapping Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusSapping Osprey"
             },
             {
-                "name": "GrineerArid Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Hellion"
             },
             {
-                "name": "GrineerArid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Lancer"
             },
             {
-                "name": "GrineerDrekar Elite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Elite Lancer"
             },
             {
-                "name": "GrineerDrekar Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Lancer"
             },
             {
-                "name": "GrineerDrekar Scorpion",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Scorpion"
             },
             {
-                "name": "GrineerFrontier Heavy Gunner",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Heavy Gunner"
             },
             {
-                "name": "GrineerFrontier Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Hellion"
             },
             {
-                "name": "GrineerFrontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Lancer"
             },
             {
-                "name": "GrineerHellion",
-                "link": null
+                "link": null,
+                "name": "GrineerHellion"
             },
             {
-                "name": "GrineerLancer",
-                "link": null
+                "link": null,
+                "name": "GrineerLancer"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
-        ],
-        "description": "<p>Diamond Skin increases the  Radiation damage resistance of a Warframe's shield and health.</p>",
-        "item_name": "Diamond Skin"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Diamond_Skin.ef0153950d2aee27c13a3867c9067c72.png",
         "item_name": "Алмазная кожа",
+        "thumb": "icons/ru/thumbs/Diamond_Skin.ef0153950d2aee27c13a3867c9067c72.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%B6%D0%B0",
         "drop": [
             {
-                "name": "CorpusLeech Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusLeech Osprey"
             },
             {
-                "name": "CorpusSapping Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusSapping Osprey"
             },
             {
-                "name": "GrineerArid Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Hellion"
             },
             {
-                "name": "GrineerArid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Lancer"
             },
             {
-                "name": "GrineerDrekar Elite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Elite Lancer"
             },
             {
-                "name": "GrineerDrekar Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Lancer"
             },
             {
-                "name": "GrineerDrekar Scorpion",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Scorpion"
             },
             {
-                "name": "GrineerFrontier Heavy Gunner",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Heavy Gunner"
             },
             {
-                "name": "GrineerFrontier Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Hellion"
             },
             {
-                "name": "GrineerFrontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Lancer"
             },
             {
-                "name": "GrineerHellion",
-                "link": null
+                "link": null,
+                "name": "GrineerHellion"
             },
             {
-                "name": "GrineerLancer",
-                "link": null
+                "link": null,
+                "name": "GrineerLancer"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
         ],
-        "thumb": "icons/ru/thumbs/Diamond_Skin.ef0153950d2aee27c13a3867c9067c72.128x128.png",
-        "description": "<p>Алмазная Кожа — необычный мод для варфреймов, который увеличивает сопротивление  радиационному урону.</p>"
+        "description": "<p>Алмазная Кожа — необычный мод для варфреймов, который увеличивает сопротивление  радиационному урону.</p>",
+        "icon": "icons/ru/Diamond_Skin.ef0153950d2aee27c13a3867c9067c72.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

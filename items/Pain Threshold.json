@@ -11,83 +11,83 @@
     "url_name": "pain_threshold",
     "tradable": true,
     "en": {
+        "item_name": "Pain Threshold",
+        "description": "<p>Pain Threshold is an exilus Index mod that increases the stagger recovery of your Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pain_Threshold",
         "drop": [
             {
-                "name": "Auditor",
-                "link": null
+                "link": null,
+                "name": "Auditor"
             },
             {
-                "name": "Azoth",
-                "link": null
+                "link": null,
+                "name": "Azoth"
             },
             {
-                "name": "Jad Teran",
-                "link": null
+                "link": null,
+                "name": "Jad Teran"
             },
             {
-                "name": "Lockjaw & Sol",
-                "link": null
+                "link": null,
+                "name": "Lockjaw & Sol"
             },
             {
-                "name": "Nako Xol",
-                "link": null
+                "link": null,
+                "name": "Nako Xol"
             },
             {
-                "name": "Pelna Cade",
-                "link": null
+                "link": null,
+                "name": "Pelna Cade"
             },
             {
-                "name": "Raptor RX",
-                "link": null
+                "link": null,
+                "name": "Raptor RX"
             },
             {
-                "name": "Ved Xol",
-                "link": null
+                "link": null,
+                "name": "Ved Xol"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Pain_Threshold",
-        "description": "<p>Pain Threshold is an exilus Index mod that increases the stagger recovery of your Warframe.</p>",
-        "item_name": "Pain Threshold"
+        ]
     },
     "ru": {
-        "description": "<p>Болевой порог — эксилус мод для варфреймов, увеличивающий скорость восстановления варфрейма после полученного оглушения.</p>",
         "item_name": "Болевой порог",
+        "thumb": "icons/ru/thumbs/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%80%D0%BE%D0%B3",
         "drop": [
             {
-                "name": "Auditor",
-                "link": null
+                "link": null,
+                "name": "Auditor"
             },
             {
-                "name": "Azoth",
-                "link": null
+                "link": null,
+                "name": "Azoth"
             },
             {
-                "name": "Jad Teran",
-                "link": null
+                "link": null,
+                "name": "Jad Teran"
             },
             {
-                "name": "Lockjaw & Sol",
-                "link": null
+                "link": null,
+                "name": "Lockjaw & Sol"
             },
             {
-                "name": "Nako Xol",
-                "link": null
+                "link": null,
+                "name": "Nako Xol"
             },
             {
-                "name": "Pelna Cade",
-                "link": null
+                "link": null,
+                "name": "Pelna Cade"
             },
             {
-                "name": "Raptor RX",
-                "link": null
+                "link": null,
+                "name": "Raptor RX"
             },
             {
-                "name": "Ved Xol",
-                "link": null
+                "link": null,
+                "name": "Ved Xol"
             }
         ],
-        "thumb": "icons/ru/thumbs/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.128x128.png",
+        "description": "<p>Болевой порог — эксилус мод для варфреймов, увеличивающий скорость восстановления варфрейма после полученного оглушения.</p>",
         "icon": "icons/ru/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.png"
     },
     "rarity": "uncommon",

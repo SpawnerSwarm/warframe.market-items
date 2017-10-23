@@ -12,34 +12,34 @@
     "url_name": "icy_avalanche",
     "tradable": true,
     "en": {
+        "item_name": "Icy Avalanche",
+        "description": "<p>Icy Avalanche is a Warframe Augment Mod for Frost that grants allies within the radius a protective coating of ice for each enemy that is frozen by Avalanche.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Icy_Avalanche",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Icy_Avalanche",
-        "description": "<p>Icy Avalanche is a Warframe Augment Mod for Frost that grants allies within the radius a protective coating of ice for each enemy that is frozen by Avalanche.</p>",
-        "item_name": "Icy Avalanche"
+        ]
     },
     "ru": {
+        "item_name": "Леденящая Лавина",
+        "description": "<p>Даёт союзникам в радиусе действия ледяной покров, который впитывает 60 Урона от каждого вражеского попадания.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Леденящая_Лавина",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Леденящая_Лавина",
-        "description": "<p>Даёт союзникам в радиусе действия ледяной покров, который впитывает 60 Урона от каждого вражеского попадания.</p>",
-        "item_name": "Леденящая Лавина"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -1,0 +1,45 @@
+{
+    "_id": "59dfeb63115f1d887cfd7abe",
+    "tags": [
+        "mod",
+        "vigilante"
+    ],
+    "icon": "icons/en/Vigilante_Vigor.f74b61489f4f32ad34416ffb9297f1ed.png",
+    "thumb": "icons/en/thumbs/Vigilante_Vigor.f74b61489f4f32ad34416ffb9297f1ed.128x128.png",
+    "icon_format": "port",
+    "url_name": "vigilante_vigor",
+    "tradable": true,
+    "en": {
+        "item_name": "Vigilante Vigor",
+        "description": "<p>Vigilante Vigor is a set mod that increases the Shield recharge rate of a Warframe. It has no effect on the recharge delay.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Vigor",
+        "drop": [
+            {
+                "link": null,
+                "name": "Bounty (30-50 )"
+            },
+            {
+                "link": null,
+                "name": "Plains Commander (1.14%)"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Виджиланте Напор",
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Vigor",
+        "drop": [
+            {
+                "link": null,
+                "name": "Bounty (30-50 )"
+            },
+            {
+                "link": null,
+                "name": "Plains Commander (1.14%)"
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}
