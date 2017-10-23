@@ -1,0 +1,51 @@
+{
+    "_id": "59e23a55115f1d887cfd7ac7",
+    "tags": [
+        "mod",
+        "dagger"
+    ],
+    "icon": "icons/en/Stinging_Thorn.a76015e252170dda1dbda4abae153fe4.png",
+    "thumb": "icons/en/thumbs/Stinging_Thorn.a76015e252170dda1dbda4abae153fe4.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "stinging_thorn",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Stinging_Thorn",
+        "description": "<p>Stinging Thorn is a Stance mod for Daggers introduced in the Plains of Eidolon update.</p>",
+        "item_name": "Stinging Thorn",
+        "drop": [
+            {
+                "link": null,
+                "name": "Enemies:"
+            },
+            {
+                "link": null,
+                "name": "Eidolon Vomvalyst (0.30%)"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "",
+        "item_name": "",
+        "drop": [
+            {
+                "link": null,
+                "name": "Enemies:"
+            },
+            {
+                "link": null,
+                "name": "Eidolon Vomvalyst (0.30%)"
+            }
+        ],
+        "description": ""
+    },
+    "rarity": "rare",
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": " 8,000"
+}

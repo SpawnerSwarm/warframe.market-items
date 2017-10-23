@@ -20,26 +20,26 @@
     ],
     "set_root": false,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Nekros/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N3 Rare"
+                "name": "Axi N3 Rare",
+                "link": null
             }
         ],
-        "item_name": "Nekros Prime Blueprint",
+        "codex": "Death's new master.",
         "description": "<p>Release Date: August 23rd, 2016</p><p>Nekros Prime is the Prime variant of the Nekros Warframe featuring higher shields and power values, as well as an additional  polarity.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Nekros/Prime",
-        "codex": "Death's new master."
+        "item_name": "Nekros Prime Blueprint"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D1%81",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N3 Rare"
+                "name": "Axi N3 Rare",
+                "link": null
             }
         ],
         "description": "<p>Некрос использует свои тёмные силы, чтобы манипулировать своими врагами - как живыми, так и мёртвыми.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D1%81",
         "item_name": "Некрос Чертеж"
     },
     "ducats": 100,

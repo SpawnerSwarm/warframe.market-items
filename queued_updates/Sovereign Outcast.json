@@ -4,26 +4,40 @@
         "mod",
         "tonfas"
     ],
-    "icon": null,
+    "icon": "icons/en/Sovereign_Outcast.c7057a1044205cdfd9422199b5d76d41.png",
+    "thumb": "icons/en/thumbs/Sovereign_Outcast.c7057a1044205cdfd9422199b5d76d41.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "sovereign_outcast",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Sovereign_Outcast",
+        "description": "<p>Sovereign Outcast is a Stance mod for Tonfa-type weapons.</p>",
         "item_name": "Sovereign Outcast",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Incursions"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Incursions"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
-    "mod_max_rank": 3,
+    "rarity": "rare",
+    "mod_max_rank": null,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

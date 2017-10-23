@@ -21,26 +21,26 @@
     ],
     "set_root": false,
     "en": {
+        "description": "<p>Release Date: July 7, 2015</p><p>Ash Prime is the primed variant of the Ash Warframe featuring more powerful stats, possessing a higher shield capacity, armor and sprint speed, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N1 Rare"
+                "name": "Axi N1 Rare",
+                "link": null
             }
         ],
         "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization.",
-        "description": "<p>Release Date: July 7, 2015</p><p>Ash Prime is the primed variant of the Ash Warframe featuring more powerful stats, possessing a higher shield capacity, armor and sprint speed, as well as an additional  polarity.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
         "item_name": "Ash Prime Systems"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D1%88/Прайм",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N1 Rare"
+                "name": "Axi N1 Rare",
+                "link": null
             }
         ],
         "description": "<p>Отвлекающие маневры и смертельные уловки стали смертоносным оружием для Эша прайм. Содержит измененные полярности для лучшей конфигурации.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D1%88/Прайм",
         "item_name": "Эш Прайм Система"
     },
     "ducats": 100,

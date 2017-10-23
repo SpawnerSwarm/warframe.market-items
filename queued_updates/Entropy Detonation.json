@@ -4,26 +4,48 @@
         "mod",
         "obex"
     ],
-    "icon": null,
+    "icon": "icons/en/Entropy_Detonation.2330a8de6cb887513a92da41f5ea4708.png",
+    "thumb": "icons/en/thumbs/Entropy_Detonation.2330a8de6cb887513a92da41f5ea4708.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "entropy_detonation",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Detonation",
+        "description": "<p>Entropy Detonation causes lethal ground finishers used by the Obex (or its Prisma variant) to cause enemies to explode, dealing damage to other nearby enemies. It also adds an Entropy effect.</p>",
         "item_name": "Entropy Detonation",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "Cephalon Suda Offering"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "Cephalon Suda Offering"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

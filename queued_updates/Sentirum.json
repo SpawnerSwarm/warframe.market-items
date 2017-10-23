@@ -1,0 +1,32 @@
+{
+    "_id": "59eba86952f90ed715e14159",
+    "tags": [
+        "gems"
+    ],
+    "icon": "icons/en/Sentirum.37d724d222f05798383d2bd583a1dc65.png",
+    "thumb": "icons/en/thumbs/Sentirum.37d724d222f05798383d2bd583a1dc65.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "sentirum",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Sentirum",
+        "description": "<p>Sentrium is a gem acquired through mining in the Plains of Eidolon.</p>",
+        "item_name": "Sentirum",
+        "drop": [],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "",
+        "item_name": "",
+        "drop": [],
+        "description": ""
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null
+}

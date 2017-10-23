@@ -4,26 +4,56 @@
         "blueprint",
         "melee"
     ],
-    "icon": null,
-    "sub_icon": null,
+    "icon": "icons/en/Silva_&_Aegis_Prime_Blade.d226bbe86d3eccd8c751958dba46a4f6.png",
+    "thumb": "icons/en/thumbs/Silva_&_Aegis_Prime_Blade.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
     "url_name": "silva_and_aegis_prime_blade",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime",
+        "description": "<p>The Silva & Aegis Prime are the Prime counterparts to the  Heat-based sword and shield combo weapons, Silva & Aegis.</p>",
         "item_name": "Silva & Aegis Prime Blade",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Meso G1 Uncommon"
+            },
+            {
+                "link": null,
+                "name": "Axi C2 Uncommon ("
+            },
+            {
+                "link": null,
+                "name": ")"
+            }
+        ],
+        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield."
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Meso G1 Uncommon"
+            },
+            {
+                "link": null,
+                "name": "Axi C2 Uncommon ("
+            },
+            {
+                "link": null,
+                "name": ")"
+            }
+        ],
+        "description": ""
     },
     "rarity": null,
     "mod_max_rank": null,
-    "mastery_level": null,
-    "ducats": null,
-    "trading_tax": null
+    "mastery_level": 12,
+    "ducats": "45",
+    "trading_tax": 2000
 }

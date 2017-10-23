@@ -13,42 +13,42 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "item_name": "Blood Rush",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush",
         "description": "<p>Blood Rush is an uncommon Melee mod that increases Critical chance as the Melee Combo Counter increases.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush"
+        "item_name": "Blood Rush"
     },
     "ru": {
+        "description": "<p>Приток Крови — необычный мод для оружия ближнего боя, который даёт шанс критического урона в зависимости от счётчика комбо-ударов.</p>",
+        "item_name": "Приток крови",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%BA%D1%80%D0%BE%D0%B2%D0%B8",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "item_name": "Приток крови",
         "thumb": "icons/ru/thumbs/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.128x128.png",
-        "icon": "icons/ru/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.png",
-        "description": "<p>Приток Крови — необычный мод для оружия ближнего боя, который даёт шанс критического урона в зависимости от счётчика комбо-ударов.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%BA%D1%80%D0%BE%D0%B2%D0%B8"
+        "icon": "icons/ru/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 10,

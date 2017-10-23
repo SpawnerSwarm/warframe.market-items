@@ -13,8 +13,8 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Spinning_Needle",
@@ -22,17 +22,17 @@
         "item_name": "Spinning Needle"
     },
     "ru": {
+        "description": "<p>Вращающаяся игла — это необычная стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
+        "item_name": "Вращающаяся игла",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F_%D0%B8%D0%B3%D0%BB%D0%B0",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ],
-        "item_name": "Вращающаяся игла",
         "thumb": "icons/ru/thumbs/Spinning_Needle.221c3feff1f46c55e43e7f22251d1c76.128x128.png",
-        "icon": "icons/ru/Spinning_Needle.221c3feff1f46c55e43e7f22251d1c76.png",
-        "description": "<p>Вращающаяся игла — это необычная стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F_%D0%B8%D0%B3%D0%BB%D0%B0"
+        "icon": "icons/ru/Spinning_Needle.221c3feff1f46c55e43e7f22251d1c76.png"
     },
     "rarity": "uncommon",
     "trading_tax": 4000

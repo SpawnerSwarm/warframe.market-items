@@ -4,26 +4,48 @@
         "mod",
         "lanka"
     ],
-    "icon": null,
+    "icon": "icons/en/Voltage_Sequence.65e42495eb08f41e8bbeb35b041e981a.png",
+    "thumb": "icons/en/thumbs/Voltage_Sequence.65e42495eb08f41e8bbeb35b041e981a.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "voltage_sequence",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Voltage_Sequence",
+        "description": "<p>Voltage Sequence turns flying enemies killed by Lanka into electric traps for a short duration. It also adds a Sequence effect.</p>",
         "item_name": "Voltage Sequence",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "The Perrin Sequence Offering"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "The Perrin Sequence Offering"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

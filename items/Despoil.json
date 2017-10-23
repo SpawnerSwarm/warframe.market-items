@@ -11,36 +11,36 @@
     "url_name": "despoil",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Despoil",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ],
-        "item_name": "Despoil",
         "description": "<p>Despoil is a Warframe Augment Mod that allows Nekros to consume health instead of energy to cast Desecrate.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Despoil"
+        "item_name": "Despoil"
     },
     "ru": {
+        "description": "<p>Лишение — мод-аугмент для варфрейма Некрос, улучшающий его способность осквернение. Способность не расходует энергию, поглощая 10 единиц здоровья за каждое осквернённое тело.</p>",
+        "item_name": "Лишение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ],
-        "item_name": "Лишение",
         "thumb": "icons/ru/thumbs/Despoil.a13144018fd22ac0d13257bf4a391dbc.128x128.png",
-        "icon": "icons/ru/Despoil.a13144018fd22ac0d13257bf4a391dbc.png",
-        "description": "<p>Лишение — мод-аугмент для варфрейма Некрос, улучшающий его способность осквернение. Способность не расходует энергию, поглощая 10 единиц здоровья за каждое осквернённое тело.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Despoil.a13144018fd22ac0d13257bf4a391dbc.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

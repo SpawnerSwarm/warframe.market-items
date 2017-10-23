@@ -1,0 +1,43 @@
+{
+    "_id": "59dfeb6c115f1d887cfd7ac1",
+    "tags": [
+        "mod",
+        "augur"
+    ],
+    "icon": "icons/en/Augur_Pact.7312d1969671f90bc54b84c87e1adb19.png",
+    "thumb": "icons/en/thumbs/Augur_Pact.7312d1969671f90bc54b84c87e1adb19.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "augur_pact",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact",
+        "description": "<p>Augur Pact is a set mod available from bounties on the Plains of Eidolon. It increases the damage of secondaries by 90% at max rank, with the full set bonus applied 150% of energy spent with abilities is converted into Shields</p>",
+        "item_name": "Augur Pact",
+        "drop": [
+            {
+                "link": null,
+                "name": "Recon Commander (1.14%)"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "",
+        "item_name": "Авгур Пакт",
+        "drop": [
+            {
+                "link": null,
+                "name": "Recon Commander (1.14%)"
+            }
+        ],
+        "description": "Пистолет: +80% урона."
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": " 2,000"
+}

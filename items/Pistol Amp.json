@@ -13,8 +13,8 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Amp",
@@ -22,17 +22,17 @@
         "item_name": "Pistol Amp"
     },
     "ru": {
+        "description": "<p>Усилитель: пистолет — необычная аура, увеличивающая урон вторичного оружия для всех членов команды. </p>",
+        "item_name": "Усилитель: пистолет",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
         "drop": [
             {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             }
         ],
-        "item_name": "Усилитель: пистолет",
         "thumb": "icons/ru/thumbs/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.128x128.png",
-        "icon": "icons/ru/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.png",
-        "description": "<p>Усилитель: пистолет — необычная аура, увеличивающая урон вторичного оружия для всех членов команды. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82"
+        "icon": "icons/ru/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

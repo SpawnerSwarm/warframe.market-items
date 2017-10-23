@@ -11,52 +11,52 @@
     "url_name": "accelerated_deflection",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Deflection",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Accelerated Deflection",
         "description": "<p>Accelerated Deflection increases the shield recharge rate Sentinels. It has no effect on the recharge delay.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Deflection"
+        "item_name": "Accelerated Deflection"
     },
     "ru": {
+        "description": "<p>Ускоренное Отражение — необычный мод для стража, который увеличивает скорость восстановления щита.</p>",
+        "item_name": "Ускоренное отражение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Ускоренное отражение",
-        "description": "<p>Ускоренное Отражение — необычный мод для стража, который увеличивает скорость восстановления щита.</p>",
-        "icon": "icons/ru/Accelerated_Deflection.f1fbcb8082d295018936da52aa1e9baf.png",
         "thumb": "icons/ru/thumbs/Accelerated_Deflection.f1fbcb8082d295018936da52aa1e9baf.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Accelerated_Deflection.f1fbcb8082d295018936da52aa1e9baf.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

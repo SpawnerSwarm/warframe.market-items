@@ -8,17 +8,17 @@
     "url_name": "meso_v4_relic",
     "tradable": true,
     "en": {
-        "description": "",
-        "drop": [],
         "item_name": "Meso V4 Relic",
         "codex": "",
+        "description": "",
+        "drop": [],
         "wiki_link": ""
     },
     "ru": {
-        "description": "",
-        "drop": [],
         "item_name": "",
-        "wiki_link": ""
+        "wiki_link": "",
+        "description": "",
+        "drop": []
     },
     "rarity": null,
     "mod_max_rank": null,

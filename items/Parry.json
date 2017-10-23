@@ -11,44 +11,44 @@
     "url_name": "parry",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Parry",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "item_name": "Parry",
         "description": "<p>Parry improves the chance to trigger a counterattack prompt on enemies in melee when blocking while channeling.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Parry"
+        "item_name": "Parry"
     },
     "ru": {
+        "description": "<p>Парирование — мод концентрации, который позволяет с некоторым шансом сбить с ног противника при блокировании атаки при помощи оружия ближнего боя.</p>",
+        "item_name": "Парирование",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "item_name": "Парирование",
         "thumb": "icons/ru/thumbs/Parry.e8a9f4cd6d00891e8a4ce983517613ad.128x128.png",
-        "icon": "icons/ru/Parry.e8a9f4cd6d00891e8a4ce983517613ad.png",
-        "description": "<p>Парирование — мод концентрации, который позволяет с некоторым шансом сбить с ног противника при блокировании атаки при помощи оружия ближнего боя.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Parry.e8a9f4cd6d00891e8a4ce983517613ad.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

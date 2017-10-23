@@ -11,28 +11,28 @@
     "url_name": "quick_rest",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Rest",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ],
-        "item_name": "Quick Rest",
         "description": "<p>Quick Rest increases the Stamina recharge rate of Warframes.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Rest"
+        "item_name": "Quick Rest"
     },
     "ru": {
+        "description": "<p>Быстрый Отдых — необычный мод, ускоряющий восстановление базовой выносливости.</p>",
+        "item_name": "Быстрый отдых",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%BE%D1%82%D0%B4%D1%8B%D1%85",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ],
-        "item_name": "Быстрый отдых",
         "thumb": "icons/ru/thumbs/Quick_Rest.203e609ccf0af9c05c2b0fd1333c9a93.128x128.png",
-        "icon": "icons/ru/Quick_Rest.203e609ccf0af9c05c2b0fd1333c9a93.png",
-        "description": "<p>Быстрый Отдых — необычный мод, ускоряющий восстановление базовой выносливости.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%BE%D1%82%D0%B4%D1%8B%D1%85"
+        "icon": "icons/ru/Quick_Rest.203e609ccf0af9c05c2b0fd1333c9a93.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

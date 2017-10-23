@@ -11,68 +11,68 @@
     "url_name": "shell_shock",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Shock",
         "drop": [
             {
-                "link": null,
-                "name": "Tethra's Doom Reward"
+                "name": "Tethra's Doom Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Mutalist Incursions Reward"
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Project Undermine Reward"
+                "name": "Project Undermine Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache Reward"
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "One Thousand Cuts Reward"
+                "name": "One Thousand Cuts Reward",
+                "link": null
             }
         ],
-        "item_name": "Shell Shock",
         "description": "<p>The Shell Shock mod increases both the  Electricity damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Shock"
+        "item_name": "Shell Shock"
     },
     "ru": {
+        "icon": "icons/ru/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.png",
+        "item_name": "Контузия",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D1%8F",
         "drop": [
             {
-                "link": null,
-                "name": "Tethra's Doom Reward"
+                "name": "Tethra's Doom Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Mutalist Incursions Reward"
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Project Undermine Reward"
+                "name": "Project Undermine Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache Reward"
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "One Thousand Cuts Reward"
+                "name": "One Thousand Cuts Reward",
+                "link": null
             }
         ],
-        "item_name": "Контузия",
-        "description": "<p>Контузия — гибридрный мод для дробовиков, который увеличивает  электрический урон и шанс срабатывания эффекта статуса.</p>",
-        "icon": "icons/ru/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.png",
         "thumb": "icons/ru/thumbs/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D1%8F"
+        "description": "<p>Контузия — гибридрный мод для дробовиков, который увеличивает  электрический урон и шанс срабатывания эффекта статуса.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -11,52 +11,52 @@
     "url_name": "rage",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Rage",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ],
-        "item_name": "Rage",
         "description": "<p>Rage is a Warframe mod that converts a percentage of Health damage received into Energy.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rage"
+        "item_name": "Rage"
     },
     "ru": {
+        "icon": "icons/ru/Rage.53227ea426bf265cad81e949d40a2a0d.png",
+        "item_name": "Гнев",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%BD%D0%B5%D0%B2",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ],
-        "item_name": "Гнев",
-        "description": "<p>Гнев — редкий мод для варфреймов, который конвертирует наносимый врагами урон по здоровью в энергию.</p>",
-        "icon": "icons/ru/Rage.53227ea426bf265cad81e949d40a2a0d.png",
         "thumb": "icons/ru/thumbs/Rage.53227ea426bf265cad81e949d40a2a0d.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%BD%D0%B5%D0%B2"
+        "description": "<p>Гнев — редкий мод для варфреймов, который конвертирует наносимый врагами урон по здоровью в энергию.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

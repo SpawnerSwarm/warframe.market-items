@@ -4,26 +4,30 @@
         "mod",
         "helminth charger"
     ],
-    "icon": null,
+    "icon": "icons/en/Trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
+    "thumb": "icons/en/thumbs/Trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "trample",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Trample",
+        "description": "<p>The Trample mod allows the Helminth Charger to tackle a nearby opponent. The tackle can also hit multiple targets.</p>",
         "item_name": "Trample",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 5,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }
