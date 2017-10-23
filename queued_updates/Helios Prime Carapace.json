@@ -4,26 +4,72 @@
         "set",
         "sentinel"
     ],
-    "icon": null,
-    "sub_icon": null,
+    "icon": "icons/en/Helios_Prime_Carapace.625b7c74ea5dd61b1840f8094df7648a.png",
+    "thumb": "icons/en/thumbs/Helios_Prime_Carapace.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/carapace_128x128.png",
     "url_name": "helios_prime_carapace",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime",
+        "description": "<p>Helios Prime is the Orokin-enhanced version of the Helios Sentinel and is equipped with Deconstructor Prime.</p>",
         "item_name": "Helios Prime Carapace",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Meso S6 Common"
+            },
+            {
+                "link": null,
+                "name": "Neo S7 Common"
+            },
+            {
+                "link": null,
+                "name": "Neo V5 Common"
+            },
+            {
+                "link": null,
+                "name": "Neo N5 Common ("
+            },
+            {
+                "link": null,
+                "name": ")"
+            }
+        ],
+        "codex": "This knowledge hungry protector defends its master with Deconstructor Prime."
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Meso S6 Common"
+            },
+            {
+                "link": null,
+                "name": "Neo S7 Common"
+            },
+            {
+                "link": null,
+                "name": "Neo V5 Common"
+            },
+            {
+                "link": null,
+                "name": "Neo N5 Common ("
+            },
+            {
+                "link": null,
+                "name": ")"
+            }
+        ],
+        "description": ""
     },
     "rarity": null,
     "mod_max_rank": null,
     "mastery_level": null,
-    "ducats": null,
-    "trading_tax": null
+    "ducats": "15",
+    "trading_tax": 4000
 }

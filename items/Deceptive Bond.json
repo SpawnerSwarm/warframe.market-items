@@ -12,26 +12,26 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Deceptive Bond",
+        "wiki_link": "http://warframe.wikia.com/wiki/Deceptive_Bond",
         "description": "<p>Deceptive Bond is a Warframe Augment Mod for Loki's Decoy in PvP that redirects damage dealt to Loki to the decoy, and vice versa. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Deceptive_Bond"
+        "item_name": "Deceptive Bond"
     },
     "ru": {
+        "description": "<p>Узы Приманки - мод-аугмент для варфрейма Локи и Локи прайм в режиме конклава, улучшающий его способность приманка. Некоторый процент урона, наносимого по приманке будет переноситься на Локи, и наоборот.</p>",
+        "item_name": "Узы приманки",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B7%D1%8B_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B8",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Узы приманки",
         "thumb": "icons/ru/thumbs/Deceptive_Bond.71a3717a01706b2a38d5f6bb84419110.128x128.png",
-        "icon": "icons/ru/Deceptive_Bond.71a3717a01706b2a38d5f6bb84419110.png",
-        "description": "<p>Узы Приманки - мод-аугмент для варфрейма Локи и Локи прайм в режиме конклава, улучшающий его способность приманка. Некоторый процент урона, наносимого по приманке будет переноситься на Локи, и наоборот.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B7%D1%8B_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B8"
+        "icon": "icons/ru/Deceptive_Bond.71a3717a01706b2a38d5f6bb84419110.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

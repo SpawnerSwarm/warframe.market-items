@@ -18,15 +18,15 @@
     "set_root": true,
     "en": {
         "drop": [],
-        "codex": "As deadly as any bullet without the associated noise or commotion.",
-        "description": "<p>The Hikou Prime is the primed version of the Hikou throwing stars, released in Update 14.8.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Hikou_Prime",
+        "description": "<p>The Hikou Prime is the primed version of the Hikou throwing stars, released in Update 14.8.</p>",
+        "codex": "As deadly as any bullet without the associated noise or commotion.",
         "item_name": "Hikou Prime Set"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
         "drop": [],
         "description": "<p>Так же смертельны, как пули, но без шума и хаоса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
         "item_name": "Хико прайм Комплект"
     },
     "mastery_level": 4,

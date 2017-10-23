@@ -4,26 +4,48 @@
         "mod",
         "volt"
     ],
-    "icon": null,
+    "icon": "icons/en/Transistor_Shield.b1eb304e0e3c018b8ac465c6b3bcb968.png",
+    "thumb": "icons/en/thumbs/Transistor_Shield.b1eb304e0e3c018b8ac465c6b3bcb968.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "transistor_shield",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Transistor_Shield",
+        "description": "<p>Transistor Shield is a Warframe Augment Mod for Volt's Electric Shield that allows allies to pick up and move Electric Shields. Additionally, a percentage of enemy damage absorbed by the Electric Shield(s) will add up to Volt's Static Discharge passive. </p>",
         "item_name": "Transistor Shield",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Arbiters of Hexis"
+            },
+            {
+                "link": null,
+                "name": "Red Veil"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Arbiters of Hexis"
+            },
+            {
+                "link": null,
+                "name": "Red Veil"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

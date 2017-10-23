@@ -11,28 +11,28 @@
     "url_name": "fatal_attraction",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Fatal_Attraction",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ],
-        "item_name": "Fatal Attraction",
         "description": "<p>Fatal Attraction allows Djinn to damage nearby enemies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fatal_Attraction"
+        "item_name": "Fatal Attraction"
     },
     "ru": {
+        "description": "<p>Смертельное Влечение — обычный мод для стража Джинн, позволяющий отвлекать врагов и приманивать их ближе.</p>",
+        "item_name": "Смертельное влечение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ],
-        "item_name": "Смертельное влечение",
         "thumb": "icons/ru/thumbs/Fatal_Attraction.9ea3cd2a542e498df1f00042c1b5eaa1.128x128.png",
-        "icon": "icons/ru/Fatal_Attraction.9ea3cd2a542e498df1f00042c1b5eaa1.png",
-        "description": "<p>Смертельное Влечение — обычный мод для стража Джинн, позволяющий отвлекать врагов и приманивать их ближе.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Fatal_Attraction.9ea3cd2a542e498df1f00042c1b5eaa1.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

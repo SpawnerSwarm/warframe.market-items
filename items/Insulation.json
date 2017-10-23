@@ -11,36 +11,36 @@
     "url_name": "insulation",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Insulation",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Insulation",
         "description": "<p>Insulation increases the Cold damage resistance of a Warframe's health and shields. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Insulation"
+        "item_name": "Insulation"
     },
     "ru": {
+        "description": "<p>Утепление — обычный мод для варфреймов, который увеличивает сопротивление  Ледяному урону.</p>",
+        "item_name": "Утепление",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Утепление",
         "thumb": "icons/ru/thumbs/Insulation.c9f3b55494ec0200626213cdd12d0d97.128x128.png",
-        "icon": "icons/ru/Insulation.c9f3b55494ec0200626213cdd12d0d97.png",
-        "description": "<p>Утепление — обычный мод для варфреймов, который увеличивает сопротивление  Ледяному урону.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Insulation.c9f3b55494ec0200626213cdd12d0d97.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

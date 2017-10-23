@@ -11,44 +11,44 @@
     "url_name": "sure_shot",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Sure_Shot",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ],
-        "item_name": "Sure Shot",
         "description": "<p>Sure Shot increases the Status Chance of Pistols.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sure_Shot"
+        "item_name": "Sure Shot"
     },
     "ru": {
+        "icon": "icons/ru/Sure_Shot.1a77821f0b863719bf103a66eeca901f.png",
+        "item_name": "Точный выстрел",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ],
-        "item_name": "Точный выстрел",
-        "description": "<p>Точный Выстрел — необычный мод для вторичного оружия, который увеличивает шанс срабатывания эффекта статуса.</p>",
-        "icon": "icons/ru/Sure_Shot.1a77821f0b863719bf103a66eeca901f.png",
         "thumb": "icons/ru/thumbs/Sure_Shot.1a77821f0b863719bf103a66eeca901f.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB"
+        "description": "<p>Точный Выстрел — необычный мод для вторичного оружия, который увеличивает шанс срабатывания эффекта статуса.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

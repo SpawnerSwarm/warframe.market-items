@@ -13,34 +13,34 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Syrtis,Mars"
+                "name": "Syrtis,Mars",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Montes,Venus"
+                "name": "Montes,Venus",
+                "link": null
             }
         ],
-        "item_name": "Shell Rush",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Rush",
         "description": "<p>Shell Rush is a mod that increases the charge rate of certain Archwing guns, particularly the Corvas and the Velocitus.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Rush"
+        "item_name": "Shell Rush"
     },
     "ru": {
+        "description": "<p>Натиск Снарядов — необычный мод для основного оружия арчвинг, который увеличивает скорость зарядки мощного удара.</p>",
+        "item_name": "Натиск снарядов",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%81%D0%BA_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D0%BE%D0%B2",
         "drop": [
             {
-                "link": null,
-                "name": "Syrtis,Mars"
+                "name": "Syrtis,Mars",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Montes,Venus"
+                "name": "Montes,Venus",
+                "link": null
             }
         ],
-        "item_name": "Натиск снарядов",
         "thumb": "icons/ru/thumbs/Shell_Rush.851dcb4de5fe69e4787557a6fb394052.128x128.png",
-        "icon": "icons/ru/Shell_Rush.851dcb4de5fe69e4787557a6fb394052.png",
-        "description": "<p>Натиск Снарядов — необычный мод для основного оружия арчвинг, который увеличивает скорость зарядки мощного удара.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%81%D0%BA_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D0%BE%D0%B2"
+        "icon": "icons/ru/Shell_Rush.851dcb4de5fe69e4787557a6fb394052.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

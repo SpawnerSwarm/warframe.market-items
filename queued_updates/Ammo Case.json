@@ -1,0 +1,53 @@
+{
+    "_id": "59e203ce115f1d887cfd7ac6",
+    "tags": [
+        "mod",
+        "sentinel"
+    ],
+    "icon": "icons/en/Ammo_Case.862c4134af807edfca25894181d72d50.png",
+    "thumb": "icons/en/thumbs/Ammo_Case.862c4134af807edfca25894181d72d50.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "ammo_case",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "codex": null,
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case",
+        "description": "<p>Ammo Case allows the Carrier sentinel to convert any unused ammo type into ammo for the currently equipped weapon and provides increased ammunition capacity.</p>",
+        "item_name": "Ammo Case",
+        "drop": [
+            {
+                "link": null,
+                "name": "Corrupted Butcher (1.14%)"
+            },
+            {
+                "link": null,
+                "name": "Corrupted Lancer (1.14%)"
+            }
+        ]
+    },
+    "ru": {
+        "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/8/8f/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%AF%D1%89%D0%B8%D0%BA_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest?cb=20161014113122&path-prefix=ru",
+        "description": "<p>Мод-заповедь для Стража Носитель, который увеличивает вместимость амуниции и конвертирует подбираемые боеприпасы в используемые установленным оружием после небольшой задержки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%8F%D1%89%D0%B8%D0%BA",
+        "item_name": "Оружейный Ящик",
+        "drop": [
+            {
+                "link": null,
+                "name": "Corrupted Butcher (1.14%)"
+            },
+            {
+                "link": null,
+                "name": "Corrupted Lancer (1.14%)"
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": 2000,
+    "ready": true
+}

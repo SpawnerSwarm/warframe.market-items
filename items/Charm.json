@@ -13,8 +13,8 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Hyekka"
+                "name": "Hyekka",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Charm",
@@ -22,17 +22,17 @@
         "item_name": "Charm"
     },
     "ru": {
+        "description": "<p>Талисман — мод-заповедь для кавата Смита, который накладывает на хозяина один из случайных бонусных эффектов.</p>",
+        "item_name": "Талисман",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD",
         "drop": [
             {
-                "link": null,
-                "name": "Hyekka"
+                "name": "Hyekka",
+                "link": null
             }
         ],
-        "item_name": "Талисман",
         "thumb": "icons/ru/thumbs/Charm.64f4c7ce409fe415d1d81986c9652071.128x128.png",
-        "icon": "icons/ru/Charm.64f4c7ce409fe415d1d81986c9652071.png",
-        "description": "<p>Талисман — мод-заповедь для кавата Смита, который накладывает на хозяина один из случайных бонусных эффектов.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD"
+        "icon": "icons/ru/Charm.64f4c7ce409fe415d1d81986c9652071.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

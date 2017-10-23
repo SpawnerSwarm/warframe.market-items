@@ -11,52 +11,52 @@
     "url_name": "sawtooth_clip",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Sawtooth_Clip",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Seeker"
+                "name": "GrineerArid Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Seeker"
+                "name": "GrineerDrekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Seeker"
+                "name": "GrineerFrontier Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             }
         ],
-        "item_name": "Sawtooth Clip",
         "description": "<p>Sawtooth Clip Increases the  Slash damage of Rifles. Not to be confused with Serration which increases all damage types at once.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sawtooth_Clip"
+        "item_name": "Sawtooth Clip"
     },
     "ru": {
+        "description": "<p>Зубчатый Магазин — обычный мод для основного оружия, который увеличивает  режущий урон.</p>",
+        "item_name": "Зубчатый магазин",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Seeker"
+                "name": "GrineerArid Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Seeker"
+                "name": "GrineerDrekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Seeker"
+                "name": "GrineerFrontier Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             }
         ],
-        "item_name": "Зубчатый магазин",
         "thumb": "icons/ru/thumbs/Sawtooth_Clip.562a54bb2a6fd83f83e0e23b0026180f.128x128.png",
-        "icon": "icons/ru/Sawtooth_Clip.562a54bb2a6fd83f83e0e23b0026180f.png",
-        "description": "<p>Зубчатый Магазин — обычный мод для основного оружия, который увеличивает  режущий урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD"
+        "icon": "icons/ru/Sawtooth_Clip.562a54bb2a6fd83f83e0e23b0026180f.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

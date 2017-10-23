@@ -11,28 +11,28 @@
     "url_name": "kinetic_collision",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Collision",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Kinetic Collision",
         "description": "<p>Kinetic Collision is a Warframe Augment Mod for Volt's Speed in PvP that increases Speed's duration when the player makes contact with an opponent. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Collision"
+        "item_name": "Kinetic Collision"
     },
     "ru": {
+        "description": "<p>Кинетическое столкновение — мод-аугмент для варфрейма Вольт и Вольт прайм в режиме конклава, улучшающий его способность ускорение. При столкновении с противником длительность способности будет продлена. </p>",
+        "item_name": "Кинетическое столкновение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Кинетическое столкновение",
         "thumb": "icons/ru/thumbs/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.128x128.png",
-        "icon": "icons/ru/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.png",
-        "description": "<p>Кинетическое столкновение — мод-аугмент для варфрейма Вольт и Вольт прайм в режиме конклава, улучшающий его способность ускорение. При столкновении с противником длительность способности будет продлена. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

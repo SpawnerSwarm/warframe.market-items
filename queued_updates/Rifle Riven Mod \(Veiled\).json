@@ -1,0 +1,29 @@
+{
+    "_id": "584160cd43e4267b5b699191",
+    "tags": [
+        "mod",
+        "riven"
+    ],
+    "icon": null,
+    "sub_icon": null,
+    "url_name": "rifle_riven_mod_\\(veiled\\)",
+    "tradable": true,
+    "en": {
+        "item_name": "Rifle Riven Mod \\(Veiled\\)",
+        "codex": "",
+        "description": "",
+        "drop": [],
+        "wiki_link": ""
+    },
+    "ru": {
+        "item_name": "",
+        "wiki_link": "",
+        "description": "",
+        "drop": []
+    },
+    "rarity": "Riven",
+    "mod_max_rank": -1,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null
+}

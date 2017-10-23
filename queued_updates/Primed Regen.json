@@ -4,26 +4,40 @@
         "mod",
         "sentinel"
     ],
-    "icon": null,
+    "icon": "icons/en/Primed_Regen.d43312351a7a10acef1b56641029f044.png",
+    "thumb": "icons/en/thumbs/Primed_Regen.d43312351a7a10acef1b56641029f044.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "primed_regen",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Regen",
+        "description": "<p>Primed Regen allows a Sentinel to regenerate some or all of its health up to three times per mission if killed. The Sentinel will also gain invulnerability for 1 + mod rank seconds after regenerating.</p>",
         "item_name": "Primed Regen",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Baro Ki'Teer"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Baro Ki'Teer"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Legendary",
+    "rarity": "legendary",
     "mod_max_rank": 10,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 1,000,000"
 }

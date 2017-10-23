@@ -4,26 +4,48 @@
         "mod",
         "titania"
     ],
-    "icon": null,
+    "icon": "icons/en/Beguiling_Lantern.c3248916b6065e2a6e97151e7cfc912c.png",
+    "thumb": "icons/en/thumbs/Beguiling_Lantern.c3248916b6065e2a6e97151e7cfc912c.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "beguiling_lantern",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Beguiling_Lantern",
+        "description": "<p>Beguiling Lantern is a Warframe Augment Mod for Titania that grants 100% bonus damage for all squadmates' melee attack against attracted enemies.</p>",
         "item_name": "Beguiling Lantern",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Red Veil"
+            },
+            {
+                "link": null,
+                "name": "New Loka"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Red Veil"
+            },
+            {
+                "link": null,
+                "name": "New Loka"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

@@ -4,26 +4,40 @@
         "mod",
         "pistol"
     ],
-    "icon": null,
+    "icon": "icons/en/Fulmination.dd67c2c78640367e5e6cfd94435cf100.png",
+    "thumb": "icons/en/thumbs/Fulmination.dd67c2c78640367e5e6cfd94435cf100.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "fulmination",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Fulmination",
+        "description": "<p>Fulmination increases the AoE damage radius of launcher-type sidearms.</p>",
         "item_name": "Fulmination",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Ergo Glast duringOperation: Ambulas Reborn"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Ergo Glast duringOperation: Ambulas Reborn"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

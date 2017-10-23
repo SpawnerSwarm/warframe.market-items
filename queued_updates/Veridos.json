@@ -1,0 +1,32 @@
+{
+    "_id": "59eba86952f90ed715e14157",
+    "tags": [
+        "gems"
+    ],
+    "icon": "icons/en/Veridos.02f4d31b695ae563068dd7749e377fad.png",
+    "thumb": "icons/en/thumbs/Veridos.02f4d31b695ae563068dd7749e377fad.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "veridos",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Veridos",
+        "description": "<p>May be traded for Ostron standing. May be refined into Marquise Veridos.</p>",
+        "item_name": "Veridos",
+        "drop": [],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "",
+        "item_name": "",
+        "drop": [],
+        "description": ""
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null
+}

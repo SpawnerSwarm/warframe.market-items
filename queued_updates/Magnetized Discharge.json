@@ -4,26 +4,48 @@
         "mod",
         "mag"
     ],
-    "icon": null,
-    "sub_icon": null,
+    "icon": "icons/en/Magnetized_Discharge.7d1a9ccf555181e42039f7f1c1ba26b0.png",
+    "thumb": "icons/en/thumbs/Magnetized_Discharge.7d1a9ccf555181e42039f7f1c1ba26b0.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/disc_128x128.png",
     "url_name": "magnetized_discharge",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Magnetized_Discharge",
+        "description": "<p>Magnetized Discharge is a Warframe Augment Mod for Mag's Magnetize that allows manual detonation by recasting the ability on an active Magnetize bubble. Enemies hit by the detonation have a chance to be disarmed.</p>",
         "item_name": "Magnetized Discharge",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "The Perrin Sequence"
+            },
+            {
+                "link": null,
+                "name": "New Loka"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "The Perrin Sequence"
+            },
+            {
+                "link": null,
+                "name": "New Loka"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

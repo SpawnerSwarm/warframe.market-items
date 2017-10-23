@@ -1,0 +1,29 @@
+{
+    "_id": "58701655937cde2c9d378ac2",
+    "tags": [
+        "mod",
+        "riven"
+    ],
+    "icon": null,
+    "sub_icon": null,
+    "url_name": "shotgun_riven_mod_\\(veiled\\)",
+    "tradable": true,
+    "en": {
+        "item_name": "Shotgun Riven Mod \\(Veiled\\)",
+        "codex": "",
+        "description": "",
+        "drop": [],
+        "wiki_link": ""
+    },
+    "ru": {
+        "item_name": "",
+        "wiki_link": "",
+        "description": "",
+        "drop": []
+    },
+    "rarity": "Riven",
+    "mod_max_rank": -1,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null
+}

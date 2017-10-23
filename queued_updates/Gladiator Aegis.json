@@ -1,0 +1,67 @@
+{
+    "_id": "59dfeb5c115f1d887cfd7ab3",
+    "tags": [
+        "mod",
+        "gladiator"
+    ],
+    "icon": "icons/en/Gladiator_Aegis.b090c523158aaeb9625bdca8df150372.png",
+    "thumb": "icons/en/thumbs/Gladiator_Aegis.b090c523158aaeb9625bdca8df150372.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "gladiator_aegis",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Aegis",
+        "description": "<p>Gladiator Aegis is a set mod that increases the armor of a Warframe.</p>",
+        "item_name": "Gladiator Aegis",
+        "drop": [
+            {
+                "link": null,
+                "name": "Missions:"
+            },
+            {
+                "link": null,
+                "name": "Bounty (20-40 )"
+            },
+            {
+                "link": null,
+                "name": "Enemies:"
+            },
+            {
+                "link": null,
+                "name": "Aerial Commander (1.14%)"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "",
+        "item_name": "",
+        "drop": [
+            {
+                "link": null,
+                "name": "Missions:"
+            },
+            {
+                "link": null,
+                "name": "Bounty (20-40 )"
+            },
+            {
+                "link": null,
+                "name": "Enemies:"
+            },
+            {
+                "link": null,
+                "name": "Aerial Commander (1.14%)"
+            }
+        ],
+        "description": ""
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": " 2,000"
+}
