@@ -17,25 +17,25 @@
     ],
     "set_root": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Xiphos",
         "drop": [
             {
-                "link": null,
-                "name": "Landing Craft"
+                "name": "Landing Craft",
+                "link": null
             }
         ],
-        "item_name": "Xiphos Set",
         "description": "<p>The Xiphos is a Landing Craft, which can serve as an alternative transportation choice to the Liset. If the Xiphos is the selected Landing Craft, using an Air Support Charge will have Ordis deploy a sentry gun. The Xiphos landed in Update 18.5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Xiphos"
+        "item_name": "Xiphos Set"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%81%D0%B8%D1%84%D0%BE%D1%81",
         "drop": [
             {
-                "link": null,
-                "name": "Landing Craft"
+                "name": "Landing Craft",
+                "link": null
             }
         ],
         "description": "<p>Ксифос — десантный корабль, имеющий способность Установка турели. При использовании зарядов поддержки с корабля сбрасывается турель по направлению установленного маяка. Турель имеет высокую скорострельность, но небольшой урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%81%D0%B8%D1%84%D0%BE%D1%81",
         "item_name": "Ксифос Комплект"
     },
     "trading_tax": 4000

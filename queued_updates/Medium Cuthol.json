@@ -1,0 +1,28 @@
+{
+    "_id": "59e6421240c3ee1a65541c59",
+    "tags": [
+        "fish"
+    ],
+    "icon": null,
+    "sub_icon": null,
+    "url_name": "medium_cuthol",
+    "tradable": true,
+    "en": {
+        "item_name": "Medium Cuthol",
+        "codex": "",
+        "description": "",
+        "drop": [],
+        "wiki_link": ""
+    },
+    "ru": {
+        "item_name": "",
+        "wiki_link": "",
+        "description": "",
+        "drop": []
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null
+}

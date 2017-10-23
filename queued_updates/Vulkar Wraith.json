@@ -3,26 +3,30 @@
     "tags": [
         "void trader"
     ],
-    "icon": null,
+    "icon": "icons/en/Vulkar_Wraith.023ff99e851e889d12b8fd69bbd5756e.png",
+    "thumb": "icons/en/thumbs/Vulkar_Wraith.023ff99e851e889d12b8fd69bbd5756e.128x128.png",
+    "icon_format": "land",
     "sub_icon": null,
     "url_name": "vulkar_wraith",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Vulkar_Wraith",
+        "description": "<p>The Vulkar Wraith is the Wraith variant of the Vulkar.This weapon can be sold for 7,500‍ 7,500.</p>",
         "item_name": "Vulkar Wraith",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [],
+        "codex": "A blood-red variant of this devastating sniper rifle."
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [],
+        "description": ""
     },
     "rarity": null,
     "mod_max_rank": null,
-    "mastery_level": null,
+    "mastery_level": 0,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": 2000
 }

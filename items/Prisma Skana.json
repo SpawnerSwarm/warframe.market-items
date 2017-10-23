@@ -11,16 +11,16 @@
     "url_name": "prisma_skana",
     "tradable": true,
     "en": {
-        "drop": [],
-        "codex": "Forged from raw Prisma crystals and infused with void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes.",
         "description": "<p>The Prisma Skana is a special Prisma version of the Skana longsword, featuring enhanced attack speed, critical chance and critical damage.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Skana",
+        "drop": [],
+        "codex": "Forged from raw Prisma crystals and infused with void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes.",
         "item_name": "Prisma Skana"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0",
         "drop": [],
         "description": "<p>Описание отсутствует</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0",
         "item_name": "Призма"
     },
     "trading_tax": 2000

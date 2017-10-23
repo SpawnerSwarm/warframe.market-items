@@ -4,26 +4,48 @@
         "mod",
         "kunai"
     ],
-    "icon": null,
-    "sub_icon": null,
+    "icon": "icons/en/Stockpiled_Blight.3231785f2d66f6d8a1a452aacffb0d3d.png",
+    "thumb": "icons/en/thumbs/Stockpiled_Blight.3231785f2d66f6d8a1a452aacffb0d3d.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/stock_128x128.png",
     "url_name": "stockpiled_blight",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Stockpiled_Blight",
+        "description": "<p>Stockpiled Blight Increases the magazine size of the Kunai and also adds a Blight effect.</p>",
         "item_name": "Stockpiled Blight",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "Red Veil Offering"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "Red Veil Offering"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

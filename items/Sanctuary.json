@@ -11,52 +11,52 @@
     "url_name": "sanctuary",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Sanctuary",
         "description": "<p>Sanctuary allows a Sentinel to create a shield around its master while they heal fallen allies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)"
+        "item_name": "Sanctuary"
     },
     "ru": {
+        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
+        "item_name": "Убежище",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Убежище",
-        "description": "<p>Убежище — редкий мод  для стражей, который даёт ему возможность создавать защитное поле при воскрешении павшего союзника. </p>",
-        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
         "thumb": "icons/ru/thumbs/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5"
+        "description": "<p>Убежище — редкий мод  для стражей, который даёт ему возможность создавать защитное поле при воскрешении павшего союзника. </p>"
     },
     "rarity": "rare",
     "mod_max_rank": 10,

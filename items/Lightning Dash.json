@@ -11,28 +11,28 @@
     "url_name": "lightning_dash",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Dash",
         "drop": [
             {
-                "link": null,
-                "name": "Sabotage ,Uranus"
+                "name": "Sabotage ,Uranus",
+                "link": null
             }
         ],
-        "item_name": "Lightning Dash",
         "description": "<p>The Lightning Dash mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Electric damage to Bullet Jump.  </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Dash"
+        "item_name": "Lightning Dash"
     },
     "ru": {
+        "description": "<p>Молниеносный бросок — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене, также даёт бонусный  электрический урон стремительному прыжку.</p>",
+        "item_name": "Молниеносный бросок",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B1%D1%80%D0%BE%D1%81%D0%BE%D0%BA",
         "drop": [
             {
-                "link": null,
-                "name": "Sabotage ,Uranus"
+                "name": "Sabotage ,Uranus",
+                "link": null
             }
         ],
-        "item_name": "Молниеносный бросок",
         "thumb": "icons/ru/thumbs/Lightning_Dash.b76d9ef14109748858677a458e1078de.128x128.png",
-        "icon": "icons/ru/Lightning_Dash.b76d9ef14109748858677a458e1078de.png",
-        "description": "<p>Молниеносный бросок — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене, также даёт бонусный  электрический урон стремительному прыжку.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B1%D1%80%D0%BE%D1%81%D0%BE%D0%BA"
+        "icon": "icons/ru/Lightning_Dash.b76d9ef14109748858677a458e1078de.png"
     },
     "rarity": "rare",
     "mod_max_rank": 10,

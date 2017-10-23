@@ -13,34 +13,34 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ],
-        "item_name": "Soft Hands",
+        "wiki_link": "http://warframe.wikia.com/wiki/Soft_Hands",
         "description": "<p>Soft Hands is a shotgun mod usable in both PvE and PvP that increases the holster rate of shotguns.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Soft_Hands"
+        "item_name": "Soft Hands"
     },
     "ru": {
+        "description": "<p>Мягкая Длань — необычный мод для дробовиков в режиме конклава, который увеличивает скорость смены оружия.</p>",
+        "item_name": "Мягкая длань",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8F%D0%B3%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BB%D0%B0%D0%BD%D1%8C",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ],
-        "item_name": "Мягкая длань",
         "thumb": "icons/ru/thumbs/Soft_Hands.74e9711f8c83f3ad66b728291e242797.128x128.png",
-        "icon": "icons/ru/Soft_Hands.74e9711f8c83f3ad66b728291e242797.png",
-        "description": "<p>Мягкая Длань — необычный мод для дробовиков в режиме конклава, который увеличивает скорость смены оружия.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8F%D0%B3%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BB%D0%B0%D0%BD%D1%8C"
+        "icon": "icons/ru/Soft_Hands.74e9711f8c83f3ad66b728291e242797.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

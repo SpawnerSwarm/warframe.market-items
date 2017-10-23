@@ -13,42 +13,42 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Violence"
+                "name": "Violence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "item_name": "Shrapnel Shot",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shrapnel_Shot",
         "description": "<p>Shrapnel Shot is a common Shotgun mod that increases Critical damage while aiming for a brief time upon a kill.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shrapnel_Shot"
+        "item_name": "Shrapnel Shot"
     },
     "ru": {
+        "description": "<p>Шрапнельный Выстрел — мод для дробовиков, который увеличивает множитель критического урона при прицеливании в течение определённого промежутка времени после убийства противника. </p>",
+        "item_name": "Шрапнельный выстрел",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Violence"
+                "name": "Violence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "item_name": "Шрапнельный выстрел",
-        "description": "<p>Шрапнельный Выстрел — мод для дробовиков, который увеличивает множитель критического урона при прицеливании в течение определённого промежутка времени после убийства противника. </p>",
-        "icon": "icons/ru/Shrapnel_Shot.90c427edcbc1eed4d3a125cd2302fc85.png",
         "thumb": "icons/ru/thumbs/Shrapnel_Shot.90c427edcbc1eed4d3a125cd2302fc85.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB"
+        "icon": "icons/ru/Shrapnel_Shot.90c427edcbc1eed4d3a125cd2302fc85.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

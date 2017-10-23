@@ -4,26 +4,40 @@
         "mod",
         "rifle"
     ],
-    "icon": null,
+    "icon": "icons/en/Flux_Overdrive.9376e8165c3348b000ea5079648ce948.png",
+    "thumb": "icons/en/thumbs/Flux_Overdrive.9376e8165c3348b000ea5079648ce948.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "flux_overdrive",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Flux_Overdrive",
+        "description": "<p>Flux Overdrive is an Index Mod for the Flux Rifle that increases its Status Chance by a random value for every second it remains fired.</p>",
         "item_name": "Flux Overdrive",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "The Index"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "The Index"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Uncommon",
+    "rarity": "rare",
     "mod_max_rank": 5,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": "4,000‍ 4,000"
 }

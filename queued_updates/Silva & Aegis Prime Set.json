@@ -4,26 +4,30 @@
         "blueprint",
         "melee"
     ],
-    "icon": null,
+    "icon": "icons/en/Silva_&_Aegis_Prime_Set.d226bbe86d3eccd8c751958dba46a4f6.png",
+    "thumb": "icons/en/thumbs/Silva_&_Aegis_Prime_Set.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
+    "icon_format": "land",
     "sub_icon": null,
     "url_name": "silva_and_aegis_prime_set",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime",
+        "description": "<p>The Silva & Aegis Prime are the Prime counterparts to the  Heat-based sword and shield combo weapons, Silva & Aegis.</p>",
         "item_name": "Silva & Aegis Prime Set",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [],
+        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield."
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [],
+        "description": ""
     },
     "rarity": null,
     "mod_max_rank": null,
-    "mastery_level": null,
+    "mastery_level": 12,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": 2000
 }

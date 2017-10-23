@@ -1,0 +1,33 @@
+{
+    "_id": "59e91860f25be4e10d365720",
+    "tags": [
+        "blueprint",
+        "melee"
+    ],
+    "icon": "icons/en/Furax_Wraith_Set.c460830e1437c5ab3cd37e2ea51b09a9.png",
+    "thumb": "icons/en/thumbs/Furax_Wraith_Set.c460830e1437c5ab3cd37e2ea51b09a9.128x128.png",
+    "icon_format": "land",
+    "sub_icon": null,
+    "url_name": "furax_wraith_set",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Furax_Wraith",
+        "description": "<p>The Furax Wraith is the Wraith variant of the Furax, featuring both improved critical statistics and channeling damage.</p>",
+        "item_name": "Furax Wraith Set",
+        "drop": [],
+        "codex": "These Wraith gauntlets have been augmented for power."
+    },
+    "ru": {
+        "wiki_link": "",
+        "item_name": "",
+        "drop": [],
+        "description": ""
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": 0,
+    "ducats": null,
+    "trading_tax": 2000
+}

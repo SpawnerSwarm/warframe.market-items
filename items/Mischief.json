@@ -13,8 +13,8 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Mischief",
@@ -22,17 +22,17 @@
         "item_name": "Mischief"
     },
     "ru": {
+        "description": "<p>Озорство — мод-заповедь для кавата Смита, позволяющий ему становиться невидимым и создавать приманку, отвлекающую противников.</p>",
+        "item_name": "Озорство",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B7%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ],
-        "item_name": "Озорство",
         "thumb": "icons/ru/thumbs/Mischief.1a4faef62888a8ac53ca586f0dc36af2.128x128.png",
-        "icon": "icons/ru/Mischief.1a4faef62888a8ac53ca586f0dc36af2.png",
-        "description": "<p>Озорство — мод-заповедь для кавата Смита, позволяющий ему становиться невидимым и создавать приманку, отвлекающую противников.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B7%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE"
+        "icon": "icons/ru/Mischief.1a4faef62888a8ac53ca586f0dc36af2.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -11,76 +11,76 @@
     "url_name": "heavy_impact",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Impact",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLobber Crawler"
+                "name": "InfestedLobber Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Crawler"
+                "name": "InfestedToxic Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Stalker"
+                "name": "Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Shadow Stalker"
+                "name": "Shadow Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             }
         ],
-        "item_name": "Heavy Impact",
         "description": "<p>Heavy Impact allows a Warframe to create shockwave from heavy landings that knocks foes off their feet.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Impact"
+        "item_name": "Heavy Impact"
     },
     "ru": {
+        "icon": "icons/ru/Heavy_Impact.a8d427ee7dd320c49a6b30197e9704b9.png",
+        "item_name": "Тяжёлое приземление",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLobber Crawler"
+                "name": "InfestedLobber Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Crawler"
+                "name": "InfestedToxic Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Stalker"
+                "name": "Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Shadow Stalker"
+                "name": "Shadow Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             }
         ],
-        "item_name": "Тяжёлое приземление",
-        "description": "<p>Тяжёлое Приземление — эксилус мод для варфреймов, который создаёт наземные ударные волны в радиусе определённом радиусе при приземлении, сбивающие врагов и наносящие им урон.</p>",
-        "icon": "icons/ru/Heavy_Impact.a8d427ee7dd320c49a6b30197e9704b9.png",
         "thumb": "icons/ru/thumbs/Heavy_Impact.a8d427ee7dd320c49a6b30197e9704b9.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5"
+        "description": "<p>Тяжёлое Приземление — эксилус мод для варфреймов, который создаёт наземные ударные волны в радиусе определённом радиусе при приземлении, сбивающие врагов и наносящие им урон.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

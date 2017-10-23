@@ -11,124 +11,124 @@
     "url_name": "blunderbuss",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Blunderbuss",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Razorback"
+                "name": "Razorback",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerCommander"
+                "name": "GrineerCommander",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Heavy Gunner"
+                "name": "GrineerArid Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHeavy Gunner"
+                "name": "GrineerHeavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Warden"
+                "name": "Grineer Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLobber Crawler"
+                "name": "InfestedLobber Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Crawler"
+                "name": "InfestedToxic Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Warden"
+                "name": "Corrupted Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "item_name": "Blunderbuss",
         "description": "<p>The Blunderbuss increases critical chance of a shotgun by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blunderbuss"
+        "item_name": "Blunderbuss"
     },
     "ru": {
+        "description": "<p>Мушкетон — обычный мод для дробовиков, который увеличивает шанс критического урона.</p>",
+        "item_name": "Мушкетон",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D0%BE%D0%BD",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Razorback"
+                "name": "Razorback",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerCommander"
+                "name": "GrineerCommander",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Heavy Gunner"
+                "name": "GrineerArid Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHeavy Gunner"
+                "name": "GrineerHeavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Warden"
+                "name": "Grineer Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLobber Crawler"
+                "name": "InfestedLobber Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Crawler"
+                "name": "InfestedToxic Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Warden"
+                "name": "Corrupted Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "item_name": "Мушкетон",
         "thumb": "icons/ru/thumbs/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.128x128.png",
-        "icon": "icons/ru/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.png",
-        "description": "<p>Мушкетон — обычный мод для дробовиков, который увеличивает шанс критического урона.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D0%BE%D0%BD"
+        "icon": "icons/ru/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

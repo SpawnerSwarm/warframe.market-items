@@ -13,26 +13,26 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Adept Surge",
+        "wiki_link": "http://warframe.wikia.com/wiki/Adept_Surge",
         "description": "<p>Adept Surge is a PvP-exclusive Warframe mod that increases Mobility at the cost of Health.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Adept_Surge"
+        "item_name": "Adept Surge"
     },
     "ru": {
+        "description": "<p>Искусный выброс — эксилус мод для варфреймов в режиме конклава, который увеличивает мобильность, взамен уменьшая показатели здоровья.</p>",
+        "item_name": "Искусный выброс",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D0%B1%D1%80%D0%BE%D1%81",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Искусный выброс",
         "thumb": "icons/ru/thumbs/Adept_Surge.182d075dd4a7cb4072ea3a0875db418d.128x128.png",
-        "icon": "icons/ru/Adept_Surge.182d075dd4a7cb4072ea3a0875db418d.png",
-        "description": "<p>Искусный выброс — эксилус мод для варфреймов в режиме конклава, который увеличивает мобильность, взамен уменьшая показатели здоровья.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D0%B1%D1%80%D0%BE%D1%81"
+        "icon": "icons/ru/Adept_Surge.182d075dd4a7cb4072ea3a0875db418d.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

@@ -11,100 +11,100 @@
     "url_name": "revenge",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Revenge",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusMOA"
+                "name": "CorpusMOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusIsolator Bursa"
+                "name": "CorpusIsolator Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDrover Bursa"
+                "name": "CorpusDrover Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDenial Bursa"
+                "name": "CorpusDenial Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             }
         ],
-        "item_name": "Revenge",
         "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Revenge"
+        "item_name": "Revenge"
     },
     "ru": {
+        "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>",
+        "item_name": "Месть",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusMOA"
+                "name": "CorpusMOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusIsolator Bursa"
+                "name": "CorpusIsolator Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDrover Bursa"
+                "name": "CorpusDrover Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDenial Bursa"
+                "name": "CorpusDenial Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             }
         ],
-        "item_name": "Месть",
-        "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>",
-        "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png",
         "thumb": "icons/ru/thumbs/Revenge.11965b485374f7c64e7b2c929ac34ca9.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C"
+        "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

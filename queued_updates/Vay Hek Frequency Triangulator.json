@@ -4,22 +4,26 @@
         "triangulator",
         "collectible"
     ],
-    "icon": null,
+    "icon": "icons/en/Vay_Hek_Frequency_Triangulator.bd57ac86f610b3414ed9af0b06cad667.png",
+    "thumb": "icons/en/thumbs/Vay_Hek_Frequency_Triangulator.bd57ac86f610b3414ed9af0b06cad667.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "vay_hek_frequency_triangulator",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Vay_Hek_Frequency_Triangulator",
+        "description": "<p>This key used to be the only way players can attain access to Councilor Vay Hek's assassination node until Update 15.13, with the access requirement replaced by simply having a Mastery Rank of 5. This item currently serves no purpose, along with the Beacons that make it.</p>",
         "item_name": "Vay Hek Frequency Triangulator",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [],
+        "description": ""
     },
     "rarity": null,
     "mod_max_rank": null,

@@ -11,36 +11,36 @@
     "url_name": "metal_fiber",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Metal_Fiber",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Metal Fiber",
         "description": "<p>Metal Fiber increases the armor of a Sentinel.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Metal_Fiber"
+        "item_name": "Metal Fiber"
     },
     "ru": {
+        "description": "<p>Металическое Волокно — обычный мод для стража, который увеличивает показатели брони.</p>",
+        "item_name": "Металлическое волокно",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "item_name": "Металлическое волокно",
-        "description": "<p>Металическое Волокно — обычный мод для стража, который увеличивает показатели брони.</p>",
-        "icon": "icons/ru/Metal_Fiber.6432839a0ffc0435bd354fabfa22ade6.png",
         "thumb": "icons/ru/thumbs/Metal_Fiber.6432839a0ffc0435bd354fabfa22ade6.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE"
+        "icon": "icons/ru/Metal_Fiber.6432839a0ffc0435bd354fabfa22ade6.png"
     },
     "rarity": "common",
     "mod_max_rank": 10,

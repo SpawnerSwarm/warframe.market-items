@@ -13,8 +13,8 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "KeplerPhobos Rush RewardErpo Earth Sabotage Reward"
+                "name": "KeplerPhobos Rush RewardErpo Earth Sabotage Reward",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Meteor_Crash",
@@ -22,17 +22,17 @@
         "item_name": "Meteor Crash"
     },
     "ru": {
+        "description": "<p>Метеоритный Удар — редкий мод для оружия ближнего боя арчвинг, который увеличивает  ударный урон</p>",
+        "item_name": "Метеоритный удар",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
         "drop": [
             {
-                "link": null,
-                "name": "KeplerPhobos Rush RewardErpo Earth Sabotage Reward"
+                "name": "KeplerPhobos Rush RewardErpo Earth Sabotage Reward",
+                "link": null
             }
         ],
-        "item_name": "Метеоритный удар",
         "thumb": "icons/ru/thumbs/Meteor_Crash.3f5d7ee0b4126c3f679d6f54c0033fa4.128x128.png",
-        "icon": "icons/ru/Meteor_Crash.3f5d7ee0b4126c3f679d6f54c0033fa4.png",
-        "description": "<p>Метеоритный Удар — редкий мод для оружия ближнего боя арчвинг, который увеличивает  ударный урон</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80"
+        "icon": "icons/ru/Meteor_Crash.3f5d7ee0b4126c3f679d6f54c0033fa4.png"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

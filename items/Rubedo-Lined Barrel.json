@@ -13,44 +13,44 @@
     "url_name": "rubedo_lined_barrel",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Rubedo-Lined_Barrel",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ],
-        "item_name": "Rubedo-Lined Barrel",
         "description": "<p>The Rubedo-Lined Barrel mod increases the damage of an Archwing gun by 10% per rank for a maximum of 60% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rubedo-Lined_Barrel"
+        "item_name": "Rubedo-Lined Barrel"
     },
     "ru": {
+        "description": "<p>Ствол из Рубедо — мод для основного оружия арчвинга, который увеличивает урон.</p>",
+        "item_name": "Ствол из рубедо Ствол",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ],
-        "item_name": "Ствол из рубедо Ствол",
-        "description": "<p>Ствол из Рубедо — мод для основного оружия арчвинга, который увеличивает урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B2%D0%BE%D0%BB_%D0%B8%D0%B7_%D1%80%D1%83%D0%B1%D0%B5%D0%B4%D0%BE",
         "icon": "icons/ru/Rubedo-Lined_Barrel.29560d496e56d4f319c083933ca32d08.png",
-        "thumb": "icons/ru/thumbs/Rubedo-Lined_Barrel.29560d496e56d4f319c083933ca32d08.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B2%D0%BE%D0%BB_%D0%B8%D0%B7_%D1%80%D1%83%D0%B1%D0%B5%D0%B4%D0%BE"
+        "thumb": "icons/ru/thumbs/Rubedo-Lined_Barrel.29560d496e56d4f319c083933ca32d08.128x128.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

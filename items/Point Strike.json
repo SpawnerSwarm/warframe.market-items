@@ -11,124 +11,124 @@
     "url_name": "point_strike",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Point_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Corpus Tech"
+                "name": "Corpus Tech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBailiff"
+                "name": "GrineerBailiff",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBailiff Defector"
+                "name": "GrineerBailiff Defector",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerButcher"
+                "name": "GrineerButcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Butcher"
+                "name": "GrineerDrekar Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrahk Master"
+                "name": "GrineerDrahk Master",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic"
+                "name": "GrineerManic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic"
+                "name": "GrineerDrekar Manic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "item_name": "Point Strike",
         "description": "<p>The Point Strike mod increases a primary weapon's critical chance by 25% per rank for a maximum of 150% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Point_Strike"
+        "item_name": "Point Strike"
     },
     "ru": {
+        "icon": "icons/ru/Point_Strike.1466eb97feebc9bb96c1e55f8a3b4e7c.png",
+        "item_name": "Точечный удар",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
         "drop": [
             {
-                "link": null,
-                "name": "Corpus Tech"
+                "name": "Corpus Tech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBailiff"
+                "name": "GrineerBailiff",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBailiff Defector"
+                "name": "GrineerBailiff Defector",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerButcher"
+                "name": "GrineerButcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Butcher"
+                "name": "GrineerDrekar Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrahk Master"
+                "name": "GrineerDrahk Master",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic"
+                "name": "GrineerManic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic"
+                "name": "GrineerDrekar Manic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "item_name": "Точечный удар",
-        "description": "<p>Точечный Удар — обычный мод для основного оружия, который увеличивает шанс критического урона.</p>",
-        "icon": "icons/ru/Point_Strike.1466eb97feebc9bb96c1e55f8a3b4e7c.png",
         "thumb": "icons/ru/thumbs/Point_Strike.1466eb97feebc9bb96c1e55f8a3b4e7c.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80"
+        "description": "<p>Точечный Удар — обычный мод для основного оружия, который увеличивает шанс критического урона.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,
