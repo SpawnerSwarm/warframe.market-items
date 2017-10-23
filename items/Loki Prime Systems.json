@@ -21,17 +21,17 @@
     ],
     "set_root": false,
     "en": {
-        "drop": [],
-        "codex": "Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization.",
         "description": "<p>Release Date: June 11th, 2014</p><p>Loki Prime is the primed variant of the Loki Warframe featuring more powerful stats: possessing a higher energy capacity, as well as an additional  and a  polarity.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Loki_Prime_Systems",
+        "drop": [],
+        "codex": "Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization.",
         "item_name": "Loki Prime Systems"
     },
     "ru": {
         "drop": [],
-        "item_name": "Локи Прайм Система",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%BE%D0%BA%D0%B8/Прайм",
         "description": "<p>Вносите смущение, обман и уничтожение в ряды противника при помощи Локи прайм. Имеет улучшенные ячейки поляризации для более расширенных возможностей.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%BE%D0%BA%D0%B8/Прайм"
+        "item_name": "Локи Прайм Система"
     },
     "ducats": 100,
     "trading_tax": 4000

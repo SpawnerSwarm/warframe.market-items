@@ -4,26 +4,40 @@
         "mod",
         "rifle"
     ],
-    "icon": null,
+    "icon": "icons/en/Primed_Bane_of_Corrupted.b273d5d38532bdb777d830ce87a84d9e.png",
+    "thumb": "icons/en/thumbs/Primed_Bane_of_Corrupted.b273d5d38532bdb777d830ce87a84d9e.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "primed_bane_of_corrupted",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Corrupted",
+        "description": "<p>Primed Bane of Corrupted is the Primed version of the Bane of Corrupted mod, which increases the damage of rifles against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
         "item_name": "Primed Bane of Corrupted",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Baro Ki'Teer"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Baro Ki'Teer"
+            }
+        ],
+        "description": ""
     },
-    "rarity": null,
+    "rarity": "legendary",
     "mod_max_rank": 10,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 1,000,000"
 }

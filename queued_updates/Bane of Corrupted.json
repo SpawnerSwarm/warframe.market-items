@@ -4,26 +4,48 @@
         "mod",
         "rifle"
     ],
-    "icon": null,
+    "icon": "icons/en/Bane_of_Corrupted.992c9a839a2ce0efe7bc1664fd6dff71.png",
+    "thumb": "icons/en/thumbs/Bane_of_Corrupted.992c9a839a2ce0efe7bc1664fd6dff71.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "bane_of_corrupted",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Corrupted",
+        "description": "<p>Bane of Corrupted increases the damage of primary weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
         "item_name": "Bane of Corrupted",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Missions:"
+            },
+            {
+                "link": null,
+                "name": "Defection (T1 ,T2 ,T3 )"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Missions:"
+            },
+            {
+                "link": null,
+                "name": "Defection (T1 ,T2 ,T3 )"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Uncommon",
+    "rarity": "uncommon",
     "mod_max_rank": 5,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 4,000"
 }

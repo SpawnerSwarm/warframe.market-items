@@ -21,32 +21,32 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
-        "codex": " Devastate free-space enemies with Phaedra, the Soma's big-sister. ",
-        "description": "<p>The Phaedra is a large-caliber Archwing rifle that shares design aesthetics and mechanics to the Soma. It was released in Update 17.5.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Phaedra",
+        "description": "<p>The Phaedra is a large-caliber Archwing rifle that shares design aesthetics and mechanics to the Soma. It was released in Update 17.5.</p>",
+        "codex": " Devastate free-space enemies with Phaedra, the Soma's big-sister. ",
         "item_name": "Phaedra Barrel"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%B5%D0%B4%D1%80%D0%B0",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "description": "<p>Уничтожайте врагов в космосе при помощи Федры, старшей сестры Сомы.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%B5%D0%B4%D1%80%D0%B0",
         "item_name": "Федра Ствол"
     },
     "trading_tax": 2000

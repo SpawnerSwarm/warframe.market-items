@@ -9,17 +9,17 @@
     "url_name": "delta_beacon",
     "tradable": true,
     "en": {
-        "description": "",
-        "drop": [],
         "item_name": "Delta Beacon",
         "codex": "",
+        "description": "",
+        "drop": [],
         "wiki_link": ""
     },
     "ru": {
-        "description": "",
-        "drop": [],
         "item_name": "",
-        "wiki_link": ""
+        "wiki_link": "",
+        "description": "",
+        "drop": []
     },
     "rarity": null,
     "mod_max_rank": null,

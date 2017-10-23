@@ -4,26 +4,48 @@
         "mod",
         "miter"
     ],
-    "icon": null,
+    "icon": "icons/en/Neutralizing_Justice.07728fc8496c758312e086bb788ad1ea.png",
+    "thumb": "icons/en/thumbs/Neutralizing_Justice.07728fc8496c758312e086bb788ad1ea.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "neutralizing_justice",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Neutralizing_Justice",
+        "description": "<p>Neutralizing Justice gives each Miter blade a chance to instantly destroy a Nullifier's bubble. It also adds a Justice effect.</p>",
         "item_name": "Neutralizing Justice",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "Steel Meridian Offering"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Operation: Ambulas Reborn"
+            },
+            {
+                "link": null,
+                "name": "Steel Meridian Offering"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 3,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

@@ -11,28 +11,28 @@
     "url_name": "sapping_reach",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Sapping_Reach",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Sapping Reach",
         "description": "<p>Sapping Reach is a Warframe Augment Mod for Mag's Pull in PvP that steals energy from an opponent. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sapping_Reach"
+        "item_name": "Sapping Reach"
     },
     "ru": {
+        "description": "<p>Ослабляющее притяжение — мод-аугмент для варфрейма Мэг и Мэг прайм в режиме конклава, улучшающий её способность притяжение. Притяжение также будет красть у противника энергию.</p>",
+        "item_name": "Ослабляющее притяжение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D0%BB%D0%B0%D0%B1%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B5_%D0%BF%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "item_name": "Ослабляющее притяжение",
         "thumb": "icons/ru/thumbs/Sapping_Reach.f612157137a5278a9e1bed1fc742347e.128x128.png",
-        "icon": "icons/ru/Sapping_Reach.f612157137a5278a9e1bed1fc742347e.png",
-        "description": "<p>Ослабляющее притяжение — мод-аугмент для варфрейма Мэг и Мэг прайм в режиме конклава, улучшающий её способность притяжение. Притяжение также будет красть у противника энергию.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D0%BB%D0%B0%D0%B1%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B5_%D0%BF%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
+        "icon": "icons/ru/Sapping_Reach.f612157137a5278a9e1bed1fc742347e.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

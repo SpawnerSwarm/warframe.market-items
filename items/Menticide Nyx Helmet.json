@@ -12,15 +12,15 @@
     "url_name": "menticide_nyx_helmet",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Menticide_Nyx_Helmet",
         "drop": [],
-        "item_name": "Menticide Nyx Helmet",
         "description": "<p>Menticide is an alternative Helmet Item for Nyx. </p><p><a href=\"/wiki/Arcane\" title=\"Arcane\">Arcane</a> is a discontinued variant that increases parkour maneuver velocity at the expense of lowering her maximum shield.\n</p><ul><li>Increases Velocity of Parkour Maneuvers <b>+?% </b>\n</li><li>Shield Max <b>-5% </b> <sup><i>(Applies <b>after</b> all other bonuses)</i></sup>\n</li></ul>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Menticide_Nyx_Helmet"
+        "item_name": "Menticide Nyx Helmet"
     },
     "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%BB%D0%B5%D0%BC_%D0%9D%D0%B8%D0%BA%D1%81_%D0%9C%D0%B5%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%B4",
         "drop": [],
         "description": "<p>Ментицид - альтернативный шлем для Никс.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%BB%D0%B5%D0%BC_%D0%9D%D0%B8%D0%BA%D1%81_%D0%9C%D0%B5%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%B4",
         "item_name": "Шлем Никс: Ментицид Шлем"
     },
     "trading_tax": 0

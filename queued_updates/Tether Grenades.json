@@ -4,26 +4,168 @@
         "mod",
         "penta"
     ],
-    "icon": null,
+    "icon": "icons/en/Tether_Grenades.47343337c68b796ee58053004079dfe2.png",
+    "thumb": "icons/en/thumbs/Tether_Grenades.47343337c68b796ee58053004079dfe2.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "tether_grenades",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Tether_Grenades",
+        "description": "<p>Tether Grenades is an Index Mod for the Penta that causes launched grenades to stick to level geometry and pull nearby enemies. Additionally, grenades will stop bouncing from enemies, and instead they will fly straight through them. It also adds delayed self-detonation to grenades.</p>",
         "item_name": "Tether Grenades",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Enemies:"
+            },
+            {
+                "link": null,
+                "name": "002-ER (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Armis Ulta (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Auditor (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Azoth (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Derim Zahn (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Dru Pesfor (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Jad Teran (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Jen Dro (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Lockjaw & Sol (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "M-W.A.M. (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Nako Xol (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Pelna Cade (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Rana Del (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Raptor RX (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Tia Mayn (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Ved Xol (1.25%)"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Enemies:"
+            },
+            {
+                "link": null,
+                "name": "002-ER (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Armis Ulta (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Auditor (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Azoth (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Derim Zahn (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Dru Pesfor (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Jad Teran (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Jen Dro (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Lockjaw & Sol (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "M-W.A.M. (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Nako Xol (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Pelna Cade (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Rana Del (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Raptor RX (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Tia Mayn (1.25%)"
+            },
+            {
+                "link": null,
+                "name": "Ved Xol (1.25%)"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Rare",
+    "rarity": "rare",
     "mod_max_rank": 5,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 8,000"
 }

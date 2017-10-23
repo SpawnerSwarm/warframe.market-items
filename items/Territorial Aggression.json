@@ -13,8 +13,8 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression",
@@ -22,17 +22,17 @@
         "item_name": "Territorial Aggression"
     },
     "ru": {
+        "description": "<p>Территориальная Агрессия — мод-заповедь для каватов, позволяющий компаньону помечать территорию, в зоне которой дикие животные становятся нейтральными к игрокам и стражам.</p>",
+        "item_name": "Территориальная агрессия",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ],
-        "item_name": "Территориальная агрессия",
         "thumb": "icons/ru/thumbs/Territorial_Aggression.c0fb989aae3f68fa02d12049a02509bb.128x128.png",
-        "icon": "icons/ru/Territorial_Aggression.c0fb989aae3f68fa02d12049a02509bb.png",
-        "description": "<p>Территориальная Агрессия — мод-заповедь для каватов, позволяющий компаньону помечать территорию, в зоне которой дикие животные становятся нейтральными к игрокам и стражам.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F"
+        "icon": "icons/ru/Territorial_Aggression.c0fb989aae3f68fa02d12049a02509bb.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

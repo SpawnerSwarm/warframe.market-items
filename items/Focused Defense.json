@@ -12,42 +12,42 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "item_name": "Focused Defense",
+        "wiki_link": "http://warframe.wikia.com/wiki/Focused_Defense",
         "description": "<p>Focused Defense is a melee mod that increases armor while channeling at the cost of reduced channeling efficiency.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Focused_Defense"
+        "item_name": "Focused Defense"
     },
     "ru": {
+        "description": "<p>Идеальная Оборона - обычный мод для оружия ближнего боя, который при активированной концентрации добавляет варфрейму 5% брони, однако также уменьшает эффективность концентрации на -35% за ранг. На максимальном ранге дает +20% брони во время концентрации, уменьшая эффективность концентрации на 140%.</p>",
+        "item_name": "Идеальная оборона",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0",
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "item_name": "Идеальная оборона",
         "thumb": "icons/ru/thumbs/Focused_Defense.3ea4e08a9f596551253e7b00def14d99.128x128.png",
-        "icon": "icons/ru/Focused_Defense.3ea4e08a9f596551253e7b00def14d99.png",
-        "description": "<p>Идеальная Оборона - обычный мод для оружия ближнего боя, который при активированной концентрации добавляет варфрейму 5% брони, однако также уменьшает эффективность концентрации на -35% за ранг. На максимальном ранге дает +20% брони во время концентрации, уменьшая эффективность концентрации на 140%.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0"
+        "icon": "icons/ru/Focused_Defense.3ea4e08a9f596551253e7b00def14d99.png"
     },
     "rarity": "common",
     "mod_max_rank": 3,

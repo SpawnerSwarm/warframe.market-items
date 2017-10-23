@@ -4,26 +4,40 @@
         "mod",
         "melee"
     ],
-    "icon": null,
+    "icon": "icons/en/Smite_Corrupted.423d5c24da5d1afc7e0efe1d91d30544.png",
+    "thumb": "icons/en/thumbs/Smite_Corrupted.423d5c24da5d1afc7e0efe1d91d30544.128x128.png",
+    "icon_format": "port",
     "sub_icon": null,
     "url_name": "smite_corrupted",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Corrupted",
+        "description": "<p>Smite Corrupted increases the damage of melee weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
         "item_name": "Smite Corrupted",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Defection Reward"
+            }
+        ],
+        "codex": null
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Defection Reward"
+            }
+        ],
+        "description": ""
     },
-    "rarity": "Uncommon",
+    "rarity": "uncommon",
     "mod_max_rank": 5,
     "mastery_level": null,
     "ducats": null,
-    "trading_tax": null
+    "trading_tax": " 4,000"
 }

@@ -8,17 +8,17 @@
     "url_name": "color_key",
     "tradable": true,
     "en": {
-        "description": "",
-        "drop": [],
         "item_name": "Color Key",
         "codex": "",
+        "description": "",
+        "drop": [],
         "wiki_link": ""
     },
     "ru": {
-        "description": "",
-        "drop": [],
         "item_name": "",
-        "wiki_link": ""
+        "wiki_link": "",
+        "description": "",
+        "drop": []
     },
     "rarity": null,
     "mod_max_rank": null,

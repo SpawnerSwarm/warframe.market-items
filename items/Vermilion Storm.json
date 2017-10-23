@@ -11,52 +11,52 @@
     "url_name": "vermilion_storm",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Vermilion_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ],
-        "item_name": "Vermilion Storm",
         "description": "<p>Vermilion Storm is a Rare Stance mod for Claw weapons.  </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vermilion_Storm"
+        "item_name": "Vermilion Storm"
     },
     "ru": {
+        "description": "<p>Багровый Шторм  — это редкая стойка, предназначенная для оружия ближнего боя типа Когти. Увеличение ранга открывает новые комбинации.</p>",
+        "item_name": "Багровый шторм",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ],
-        "item_name": "Багровый шторм",
         "thumb": "icons/ru/thumbs/Vermilion_Storm.c9b0ece6a57465d52db9368213bbbbc8.128x128.png",
-        "icon": "icons/ru/Vermilion_Storm.c9b0ece6a57465d52db9368213bbbbc8.png",
-        "description": "<p>Багровый Шторм  — это редкая стойка, предназначенная для оружия ближнего боя типа Когти. Увеличение ранга открывает новые комбинации.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC"
+        "icon": "icons/ru/Vermilion_Storm.c9b0ece6a57465d52db9368213bbbbc8.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -11,92 +11,92 @@
     "url_name": "molten_impact",
     "tradable": true,
     "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Molten_Impact",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lieutenant Lech Kril"
+                "name": "Lieutenant Lech Kril",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Councilor Vay Hek"
+                "name": "Councilor Vay Hek",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Phorid"
+                "name": "Phorid",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Stalker"
+                "name": "Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusIsolator Bursa"
+                "name": "CorpusIsolator Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Once Awake Quest reward"
+                "name": "Once Awake Quest reward",
+                "link": null
             }
         ],
-        "item_name": "Molten Impact",
         "description": "<p>The Molten Impact increases  Heat damage on a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Molten_Impact"
+        "item_name": "Molten Impact"
     },
     "ru": {
+        "description": "<p>Обжигающий Удар — необычный мод для оружия ближнего боя, который увеличивает  огненный урон.</p>",
+        "item_name": "Обжигающий удар",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B6%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lieutenant Lech Kril"
+                "name": "Lieutenant Lech Kril",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Councilor Vay Hek"
+                "name": "Councilor Vay Hek",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Phorid"
+                "name": "Phorid",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Stalker"
+                "name": "Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusIsolator Bursa"
+                "name": "CorpusIsolator Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Once Awake Quest reward"
+                "name": "Once Awake Quest reward",
+                "link": null
             }
         ],
-        "item_name": "Обжигающий удар",
         "thumb": "icons/ru/thumbs/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.128x128.png",
-        "icon": "icons/ru/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.png",
-        "description": "<p>Обжигающий Удар — необычный мод для оружия ближнего боя, который увеличивает  огненный урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B6%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80"
+        "icon": "icons/ru/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

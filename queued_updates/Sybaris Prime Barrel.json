@@ -4,26 +4,40 @@
         "blueprint",
         "assault rifle"
     ],
-    "icon": null,
-    "sub_icon": null,
+    "icon": "icons/en/Sybaris_Prime_Barrel.e2141130bbe92e31fda650499f0efd82.png",
+    "thumb": "icons/en/thumbs/Sybaris_Prime_Barrel.e2141130bbe92e31fda650499f0efd82.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
     "url_name": "sybaris_prime_barrel",
     "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
     "en": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Sybaris_Prime",
+        "description": "<p>The Sybaris Prime is the Prime variant of the Sybaris burst-fire rifle. Released alongside Oberon Prime and Silva & Aegis Prime, it features the highest base damage of all the Sybaris variants and is geared towards inflicting Status Effects.</p>",
         "item_name": "Sybaris Prime Barrel",
-        "codex": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Meso S5 Rare"
+            }
+        ],
+        "codex": "Become judge, jury, and executioner with this elegant and deadly lever-action Tenno rifle capable of firing a twin pair of bullets in quick succession."
     },
     "ru": {
-        "description": "",
-        "drop": [],
+        "wiki_link": "",
         "item_name": "",
-        "wiki_link": ""
+        "drop": [
+            {
+                "link": null,
+                "name": "Meso S5 Rare"
+            }
+        ],
+        "description": ""
     },
     "rarity": null,
     "mod_max_rank": null,
-    "mastery_level": null,
-    "ducats": null,
-    "trading_tax": null
+    "mastery_level": 12,
+    "ducats": "100",
+    "trading_tax": 2000
 }

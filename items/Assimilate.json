@@ -13,12 +13,12 @@
     "en": {
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Assimilate",
@@ -26,21 +26,21 @@
         "item_name": "Assimilate"
     },
     "ru": {
+        "icon": "icons/ru/Assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
+        "item_name": "Ассимиляция",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ],
-        "item_name": "Ассимиляция",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ассимиляция",
         "description": "<p>Улучшение Поглощения - Никс может передвигаться со скоростью 50% от обычной, при этом используя Поглощение, но радиус действия способности снижен вдвое.</p>",
-        "icon": "icons/ru/Assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
-        "thumb": "icons/ru/thumbs/Assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ассимиляция"
+        "thumb": "icons/ru/thumbs/Assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
     },
     "rarity": "rare",
     "mod_max_rank": 3,
