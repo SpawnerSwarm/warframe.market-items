@@ -1,0 +1,45 @@
+{
+    "_id": "587a15c8c13d58ede882322b",
+    "tags": [
+        "mod",
+        "sentinel"
+    ],
+    "icon": "icons/en/Primed_Regen.d43312351a7a10acef1b56641029f044.png",
+    "thumb": "icons/en/thumbs/Primed_Regen.d43312351a7a10acef1b56641029f044.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "primed_regen",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Regen",
+        "description": "<p>Primed Regen allows a Sentinel to regenerate some or all of its health up to three times per mission if killed. The Sentinel will also gain invulnerability for 1 + mod rank seconds after regenerating.</p>",
+        "item_name": "Primed Regen",
+        "drop": [
+            {
+                "link": null,
+                "name": "Baro Ki'Teer"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/a/a3/%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest?cb=20170118151225&path-prefix=ru",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "item_name": "Регенерация Прайм",
+        "drop": [
+            {
+                "link": null,
+                "name": "Baro Ki'Teer"
+            }
+        ],
+        "description": "<p>Регенерация Прайм — легендарный мод для Стражей, который, при максимальной прокачке мода, трижды воскрешает Стража, полностью восстанавливая его здоровье, и дает ему неуязвимость на 11 секунд.</p>"
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": 1000000,
+    "ready": true
+}

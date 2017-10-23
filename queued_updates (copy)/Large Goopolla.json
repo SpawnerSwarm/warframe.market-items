@@ -1,0 +1,29 @@
+{
+    "_id": "59e6421240c3ee1a65541c5d",
+    "tags": [
+        "fish"
+    ],
+    "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/e/e4/Goopolla.png/revision/latest/scale-to-width-down/300?cb=20171018140720",
+    "sub_icon": null,
+    "url_name": "large_goopolla",
+    "tradable": true,
+    "en": {
+        "item_name": "Large Goopolla",
+        "codex": "",
+        "description": "<p>A predatory fish that is attracted to the scent of blood.</p>",
+        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Goopolla"
+    },
+    "ru": {
+        "item_name": "Большая Гуполла",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Гуполла",
+        "description": "<p>Хищная рыба, влекомая запахом крови.</p>",
+        "drop": []
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null,
+    "ready": true
+}

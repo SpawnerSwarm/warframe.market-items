@@ -1,0 +1,33 @@
+{
+    "_id": "59eba86952f90ed715e1415a",
+    "tags": [
+        "gems"
+    ],
+    "icon": "icons/en/Nyth.07580cb14ebf9ab08446fac1198879cd.png",
+    "thumb": "icons/en/thumbs/Nyth.07580cb14ebf9ab08446fac1198879cd.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "nyth",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Nyth",
+        "description": "<p>Nyth is a resource acquired through mining. It can be refined into Heart Nyth, or traded for Ostron faction standing. </p>",
+        "item_name": "Nyth",
+        "drop": [],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D1%82",
+        "item_name": "Нит",
+        "drop": [],
+        "description": "<p>Нит - драгоценный камень, который можно найти и добыть с помощью лазерного резака в жилах синего цвета на локации Равнины Эйдолона.</p>"
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null,
+    "ready": true
+}

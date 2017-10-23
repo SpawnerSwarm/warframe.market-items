@@ -1,0 +1,53 @@
+{
+    "_id": "59385f6716efa3a742b15f61",
+    "tags": [
+        "mod",
+        "chroma"
+    ],
+    "icon": "icons/en/Guided_Effigy.c19b00b3672ac4678a87d7d3494ed55a.png",
+    "thumb": "icons/en/thumbs/Guided_Effigy.c19b00b3672ac4678a87d7d3494ed55a.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "guided_effigy",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Guided_Effigy",
+        "description": "<p>Guided Effigy is a Warframe Augment Mod for Chroma's Effigy that allows him to control the Effigy, dealing rapid damage to enemies in its path and stunning enemies at the destination. </p>",
+        "item_name": "Guided Effigy",
+        "drop": [
+            {
+                "link": null,
+                "name": "Cephalon Suda"
+            },
+            {
+                "link": null,
+                "name": "The Perrin Sequence"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/1/12/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B9_%D0%9E%D0%B1%D1%80%D0%B0%D0%B7_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest?cb=20170614084812&path-prefix=ru",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B9_%D0%9E%D0%B1%D1%80%D0%B0%D0%B7",
+        "item_name": "Управляемый Образ",
+        "drop": [
+            {
+                "link": null,
+                "name": "Цефалон Суда"
+            },
+            {
+                "link": null,
+                "name": "Последовательность Перрина"
+            }
+        ],
+        "description": "<p>Управляемый Образ — мод-аугмент для Варфрейма Хрома, улучшающий способность Образ. Активируйте и удерживайте способность нажатой, чтобы переместить Образ туда, куда вы целитесь. Наносит урон врагам на своем пути и издает рык по прибытии на место, оглушая противников.</p>"
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": 8000,
+    "ready": true
+}

@@ -1,0 +1,29 @@
+{
+    "_id": "59e6421740c3ee1a65541c6b",
+    "tags": [
+        "fish"
+    ],
+    "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/e/ed/Glappid.png/revision/latest/scale-to-width-down/300?cb=20171017224239",
+    "sub_icon": null,
+    "url_name": "medium_glappid",
+    "tradable": true,
+    "en": {
+        "item_name": "Medium Glappid",
+        "codex": "",
+        "description": "<p>The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.</p>",
+        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Glappid"
+    },
+    "ru": {
+        "item_name": "Средняя Глаппида",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Глаппида",
+        "description": "<p>Глаппида — падальщик, питающийся останками рыб. Она сформировала симбиотическую связь с Серамским Жуком, который выводит из неё трупные яды и питается ими.</p>",
+        "drop": []
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null,
+    "ready": true
+}
