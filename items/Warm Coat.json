@@ -11,44 +11,44 @@
     "url_name": "warm_coat",
     "tradable": true,
     "en": {
+        "item_name": "Warm Coat",
+        "description": "<p>Warm Coat increases a Warframe's shield resistance against the cryogenic temperatures environmental hazard.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Warm_Coat",
         "drop": [
             {
-                "name": "GrineerBombard",
-                "link": null
+                "link": null,
+                "name": "GrineerBombard"
             },
             {
-                "name": "InfestedToxic Ancient",
-                "link": null
+                "link": null,
+                "name": "InfestedToxic Ancient"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
-        ],
-        "description": "<p>Warm Coat increases a Warframe's shield resistance against the cryogenic temperatures environmental hazard.</p>",
-        "item_name": "Warm Coat"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.png",
         "item_name": "Обогрев",
+        "thumb": "icons/ru/thumbs/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0",
         "drop": [
             {
-                "name": "GrineerBombard",
-                "link": null
+                "link": null,
+                "name": "GrineerBombard"
             },
             {
-                "name": "InfestedToxic Ancient",
-                "link": null
+                "link": null,
+                "name": "InfestedToxic Ancient"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
         ],
-        "thumb": "icons/ru/thumbs/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.128x128.png",
-        "description": "<p>Обогрев — эксилус мод для варфреймов, который увеличивает сопротивление щита к воздействию льда.</p>"
+        "description": "<p>Обогрев — эксилус мод для варфреймов, который увеличивает сопротивление щита к воздействию льда.</p>",
+        "icon": "icons/ru/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.png"
     },
     "rarity": "common",
     "mod_max_rank": 3,

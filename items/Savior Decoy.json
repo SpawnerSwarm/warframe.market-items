@@ -12,34 +12,34 @@
     "url_name": "savior_decoy",
     "tradable": true,
     "en": {
+        "item_name": "Savior Decoy",
+        "description": "<p>Savior Decoy is a Warframe Augment Mod for Loki that allows Decoy to absorb any fatal damage dealt to the player before switching places, along with reducing Decoy's casting time.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Savior_Decoy",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Arbiters of Hexis ",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis "
             }
-        ],
-        "description": "<p>Savior Decoy is a Warframe Augment Mod for Loki that allows Decoy to absorb any fatal damage dealt to the player before switching places, along with reducing Decoy's casting time.</p>",
-        "item_name": "Savior Decoy"
+        ]
     },
     "ru": {
+        "item_name": "Спасительная Приманка",
+        "description": "<p>Если Локи получает смертельный урон, Приманка впитает этот урон и поменяется местами. Так же увеличивает скорость применения Приманки на 50%.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/Спасительная_Приманка",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Arbiters of Hexis ",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis "
             }
-        ],
-        "description": "<p>Если Локи получает смертельный урон, Приманка впитает этот урон и поменяется местами. Так же увеличивает скорость применения Приманки на 50%.</p>",
-        "item_name": "Спасительная Приманка"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

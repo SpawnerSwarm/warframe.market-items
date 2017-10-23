@@ -11,123 +11,123 @@
     "url_name": "fury",
     "tradable": true,
     "en": {
+        "item_name": "Fury",
+        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fury",
         "drop": [
             {
-                "name": "CorpusCrewman",
-                "link": null
+                "link": null,
+                "name": "CorpusCrewman"
             },
             {
-                "name": "CorpusDrone",
-                "link": null
+                "link": null,
+                "name": "CorpusDrone"
             },
             {
-                "name": "CorpusElite Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusElite Crewman"
             },
             {
-                "name": "CorpusNemes",
-                "link": null
+                "link": null,
+                "name": "CorpusNemes"
             },
             {
-                "name": "CorpusOxium Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusOxium Osprey"
             },
             {
-                "name": "CorpusPower Carrier",
-                "link": null
+                "link": null,
+                "name": "CorpusPower Carrier"
             },
             {
-                "name": "GrineerCarabus",
-                "link": null
+                "link": null,
+                "name": "GrineerCarabus"
             },
             {
-                "name": "GrineerFrontier Regulator",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Regulator"
             },
             {
-                "name": "GrineerRegulator",
-                "link": null
+                "link": null,
+                "name": "GrineerRegulator"
             },
             {
-                "name": "GrineerPower Carrier",
-                "link": null
+                "link": null,
+                "name": "GrineerPower Carrier"
             },
             {
-                "name": "GrineerHellion Power Carrier",
-                "link": null
+                "link": null,
+                "name": "GrineerHellion Power Carrier"
             },
             {
-                "name": "InfestedMutalist Osprey Carrier",
-                "link": null
+                "link": null,
+                "name": "InfestedMutalist Osprey Carrier"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
-        "item_name": "Fury"
+        ]
     },
     "ru": {
-        "description": "<p>Ярость — необычный мод для оружия ближнего боя, который увеличивает скорость атак.</p>",
         "item_name": "Ярость",
+        "thumb": "icons/ru/thumbs/Fury.731f521e43cc0d77f59a6f213b819003.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C",
         "drop": [
             {
-                "name": "CorpusCrewman",
-                "link": null
+                "link": null,
+                "name": "CorpusCrewman"
             },
             {
-                "name": "CorpusDrone",
-                "link": null
+                "link": null,
+                "name": "CorpusDrone"
             },
             {
-                "name": "CorpusElite Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusElite Crewman"
             },
             {
-                "name": "CorpusNemes",
-                "link": null
+                "link": null,
+                "name": "CorpusNemes"
             },
             {
-                "name": "CorpusOxium Osprey",
-                "link": null
+                "link": null,
+                "name": "CorpusOxium Osprey"
             },
             {
-                "name": "CorpusPower Carrier",
-                "link": null
+                "link": null,
+                "name": "CorpusPower Carrier"
             },
             {
-                "name": "GrineerCarabus",
-                "link": null
+                "link": null,
+                "name": "GrineerCarabus"
             },
             {
-                "name": "GrineerFrontier Regulator",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Regulator"
             },
             {
-                "name": "GrineerRegulator",
-                "link": null
+                "link": null,
+                "name": "GrineerRegulator"
             },
             {
-                "name": "GrineerPower Carrier",
-                "link": null
+                "link": null,
+                "name": "GrineerPower Carrier"
             },
             {
-                "name": "GrineerHellion Power Carrier",
-                "link": null
+                "link": null,
+                "name": "GrineerHellion Power Carrier"
             },
             {
-                "name": "InfestedMutalist Osprey Carrier",
-                "link": null
+                "link": null,
+                "name": "InfestedMutalist Osprey Carrier"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
         ],
-        "thumb": "icons/ru/thumbs/Fury.731f521e43cc0d77f59a6f213b819003.128x128.png",
+        "description": "<p>Ярость — необычный мод для оружия ближнего боя, который увеличивает скорость атак.</p>",
         "icon": "icons/ru/Fury.731f521e43cc0d77f59a6f213b819003.png"
     },
     "rarity": "uncommon",

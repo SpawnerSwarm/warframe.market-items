@@ -11,43 +11,43 @@
     "url_name": "continuous_misery",
     "tradable": true,
     "en": {
+        "item_name": "Continuous Misery",
+        "description": "<p>Continuous Misery increases the duration of Status Effects inflicted by rifles.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Continuous_Misery",
         "drop": [
             {
-                "name": "Sprag",
-                "link": null
+                "link": null,
+                "name": "Sprag"
             },
             {
-                "name": "Ven'kra Tel",
-                "link": null
+                "link": null,
+                "name": "Ven'kra Tel"
             },
             {
-                "name": "Drekar Hellion",
-                "link": null
+                "link": null,
+                "name": "Drekar Hellion"
             }
-        ],
-        "description": "<p>Continuous Misery increases the duration of Status Effects inflicted by rifles.</p>",
-        "item_name": "Continuous Misery"
+        ]
     },
     "ru": {
-        "description": "<p>Непрерывные Страдания — обычный мод для основного оружия, который увеличивает длительность эффекта статуса.</p>",
         "item_name": "Непрерывные страдания",
+        "thumb": "icons/ru/thumbs/Continuous_Misery.e871eea096c2c8d218bf38cb5de95e13.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F",
         "drop": [
             {
-                "name": "Sprag",
-                "link": null
+                "link": null,
+                "name": "Sprag"
             },
             {
-                "name": "Ven'kra Tel",
-                "link": null
+                "link": null,
+                "name": "Ven'kra Tel"
             },
             {
-                "name": "Drekar Hellion",
-                "link": null
+                "link": null,
+                "name": "Drekar Hellion"
             }
         ],
-        "thumb": "icons/ru/thumbs/Continuous_Misery.e871eea096c2c8d218bf38cb5de95e13.128x128.png",
+        "description": "<p>Непрерывные Страдания — обычный мод для основного оружия, который увеличивает длительность эффекта статуса.</p>",
         "icon": "icons/ru/Continuous_Misery.e871eea096c2c8d218bf38cb5de95e13.png"
     },
     "rarity": "common",

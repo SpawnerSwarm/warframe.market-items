@@ -11,28 +11,28 @@
     "url_name": "rebound",
     "tradable": true,
     "en": {
+        "item_name": "Rebound",
+        "description": "<p>Rebound increases the number of bounces before a Glaive weapon returns to the player.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Rebound",
         "drop": [
             {
-                "name": "Lephantis",
-                "link": null
+                "link": null,
+                "name": "Lephantis"
             }
-        ],
-        "description": "<p>Rebound increases the number of bounces before a Glaive weapon returns to the player.</p>",
-        "item_name": "Rebound"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Rebound.45a2d4addf994c6ce6c3114e2945d0e2.png",
         "item_name": "Рикошет",
+        "thumb": "icons/ru/thumbs/Rebound.45a2d4addf994c6ce6c3114e2945d0e2.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B8%D0%BA%D0%BE%D1%88%D0%B5%D1%82",
         "drop": [
             {
-                "name": "Lephantis",
-                "link": null
+                "link": null,
+                "name": "Lephantis"
             }
         ],
-        "thumb": "icons/ru/thumbs/Rebound.45a2d4addf994c6ce6c3114e2945d0e2.128x128.png",
-        "description": "<p> Рикошет — обычный мод для оружия ближнего боя класса Глефы, который увеличивает количество отскоков. </p>"
+        "description": "<p> Рикошет — обычный мод для оружия ближнего боя класса Глефы, который увеличивает количество отскоков. </p>",
+        "icon": "icons/ru/Rebound.45a2d4addf994c6ce6c3114e2945d0e2.png"
     },
     "rarity": "common",
     "mod_max_rank": 3,

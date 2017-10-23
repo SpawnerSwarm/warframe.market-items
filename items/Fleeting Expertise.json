@@ -11,28 +11,28 @@
     "url_name": "fleeting_expertise",
     "tradable": true,
     "en": {
+        "item_name": "Fleeting Expertise",
+        "description": "<p>Fleeting Expertise increases Power Efficiency but reduces Power Duration of Warframe abilities.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fleeting_Expertise",
         "drop": [
             {
-                "name": "Orokin Vault",
-                "link": null
+                "link": null,
+                "name": "Orokin Vault"
             }
-        ],
-        "description": "<p>Fleeting Expertise increases Power Efficiency but reduces Power Duration of Warframe abilities.</p>",
-        "item_name": "Fleeting Expertise"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Fleeting_Expertise.41a95d2d8378098a29b980cc830cff92.png",
         "item_name": "Мимолётное мастерство",
+        "thumb": "icons/ru/thumbs/Fleeting_Expertise.41a95d2d8378098a29b980cc830cff92.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B8%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE",
         "drop": [
             {
-                "name": "Orokin Vault",
-                "link": null
+                "link": null,
+                "name": "Orokin Vault"
             }
         ],
-        "thumb": "icons/ru/thumbs/Fleeting_Expertise.41a95d2d8378098a29b980cc830cff92.128x128.png",
-        "description": "<p>Мимолётное мастерство — повреждённый мод для варфреймов, который увеличивает энергоэффективность способностей, взамен уменьшая их длительность.</p>"
+        "description": "<p>Мимолётное мастерство — повреждённый мод для варфреймов, который увеличивает энергоэффективность способностей, взамен уменьшая их длительность.</p>",
+        "icon": "icons/ru/Fleeting_Expertise.41a95d2d8378098a29b980cc830cff92.png"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

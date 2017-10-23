@@ -11,36 +11,36 @@
     "url_name": "concussion_rounds",
     "tradable": true,
     "en": {
+        "item_name": "Concussion Rounds",
+        "description": "<p>Concussion Rounds increases the  Impact damage done by Pistols.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Concussion_Rounds",
         "drop": [
             {
-                "name": "CorpusDetron Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusDetron Crewman"
             },
             {
-                "name": "InfestedVolatile Runner",
-                "link": null
+                "link": null,
+                "name": "InfestedVolatile Runner"
             }
-        ],
-        "description": "<p>Concussion Rounds increases the  Impact damage done by Pistols.</p>",
-        "item_name": "Concussion Rounds"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Concussion_Rounds.e46d458daaa68b3efd20daf013bb84e8.png",
         "item_name": "Контузящие снаряды",
+        "thumb": "icons/ru/thumbs/Concussion_Rounds.e46d458daaa68b3efd20daf013bb84e8.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D0%B7%D1%8F%D1%89%D0%B8%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
         "drop": [
             {
-                "name": "CorpusDetron Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusDetron Crewman"
             },
             {
-                "name": "InfestedVolatile Runner",
-                "link": null
+                "link": null,
+                "name": "InfestedVolatile Runner"
             }
         ],
-        "thumb": "icons/ru/thumbs/Concussion_Rounds.e46d458daaa68b3efd20daf013bb84e8.128x128.png",
-        "description": "<p>Контузящие Снаряды — необычный мод для вторичного оружия, который увеличивает  ударный урон.</p>"
+        "description": "<p>Контузящие Снаряды — необычный мод для вторичного оружия, который увеличивает  ударный урон.</p>",
+        "icon": "icons/ru/Concussion_Rounds.e46d458daaa68b3efd20daf013bb84e8.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

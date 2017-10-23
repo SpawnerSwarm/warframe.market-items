@@ -1,0 +1,45 @@
+{
+    "_id": "59dfeb63115f1d887cfd7aba",
+    "tags": [
+        "mod",
+        "vigilante"
+    ],
+    "icon": "icons/en/Vigilante_Armaments.4aa8eaec104ba573159a2cbf207b6314.png",
+    "thumb": "icons/en/thumbs/Vigilante_Armaments.4aa8eaec104ba573159a2cbf207b6314.128x128.png",
+    "icon_format": "port",
+    "url_name": "vigilante_armaments",
+    "tradable": true,
+    "en": {
+        "item_name": "Vigilante Armaments",
+        "description": "<p>Vigilante Armaments is a set mod that increases Multishot for primary weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Armaments",
+        "drop": [
+            {
+                "link": null,
+                "name": "Bounty (20-40)"
+            },
+            {
+                "link": null,
+                "name": "Plains Commander (1.14%)"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Виджиланте Вооруженность",
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Armaments",
+        "drop": [
+            {
+                "link": null,
+                "name": "Bounty (20-40)"
+            },
+            {
+                "link": null,
+                "name": "Plains Commander (1.14%)"
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

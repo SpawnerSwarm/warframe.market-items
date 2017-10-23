@@ -11,35 +11,35 @@
     "url_name": "overview",
     "tradable": true,
     "en": {
+        "item_name": "Overview",
+        "description": "<p>Overview is a rifle mod usable in both PvE and PvP that decreases Zoom during Aim Glide.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Overview",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             },
             {
-                "name": "Battalyst",
-                "link": null
+                "link": null,
+                "name": "Battalyst"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Overview",
-        "description": "<p>Overview is a rifle mod usable in both PvE and PvP that decreases Zoom during Aim Glide.</p>",
-        "item_name": "Overview"
+        ]
     },
     "ru": {
-        "description": "<p>Обзор — необычный мод для основного оружия в режиме конклава, который уменьшает приближение прицела при управляемом полёте.</p>",
         "item_name": "Обзор",
+        "thumb": "icons/ru/thumbs/Overview.7fbbe67f0613151b0367d95a2ee06bb4.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             },
             {
-                "name": "Battalyst",
-                "link": null
+                "link": null,
+                "name": "Battalyst"
             }
         ],
-        "thumb": "icons/ru/thumbs/Overview.7fbbe67f0613151b0367d95a2ee06bb4.128x128.png",
+        "description": "<p>Обзор — необычный мод для основного оружия в режиме конклава, который уменьшает приближение прицела при управляемом полёте.</p>",
         "icon": "icons/ru/Overview.7fbbe67f0613151b0367d95a2ee06bb4.png"
     },
     "rarity": "uncommon",

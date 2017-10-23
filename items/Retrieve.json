@@ -11,17 +11,17 @@
     "url_name": "retrieve",
     "tradable": true,
     "en": {
-        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve",
-        "drop": [],
+        "item_name": "Retrieve",
         "description": "<p>Retrieve is a Kubrow exclusive mod that allows the Chesa Kubrow to retrieve items.</p>",
-        "item_name": "Retrieve"
+        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve",
+        "drop": []
     },
     "ru": {
-        "description": "<p>Сбор Трофеев — мод-заповедь для Кубрау породы Чеса, позволяющий Кубрау собирать предметы и уничтожать контейнеры. </p>",
         "item_name": "Сбор трофеев",
+        "thumb": "icons/ru/thumbs/Retrieve.8cd0fcfb2539030c4d77f7474e765c73.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B5%D0%B2",
         "drop": [],
-        "thumb": "icons/ru/thumbs/Retrieve.8cd0fcfb2539030c4d77f7474e765c73.128x128.png",
+        "description": "<p>Сбор Трофеев — мод-заповедь для Кубрау породы Чеса, позволяющий Кубрау собирать предметы и уничтожать контейнеры. </p>",
         "icon": "icons/ru/Retrieve.8cd0fcfb2539030c4d77f7474e765c73.png"
     },
     "rarity": "common",

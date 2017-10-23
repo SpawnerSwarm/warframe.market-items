@@ -11,28 +11,28 @@
     "url_name": "jagged_edge",
     "tradable": true,
     "en": {
+        "item_name": "Jagged Edge",
+        "description": "<p>Jagged Edge increase the  Slash damage of a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Jagged_Edge",
         "drop": [
             {
-                "name": "CorpusElite Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusElite Crewman"
             }
-        ],
-        "description": "<p>Jagged Edge increase the  Slash damage of a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "item_name": "Jagged Edge"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Jagged_Edge.3bf3ff1ec903eb262b748d5240651c1e.png",
         "item_name": "Зазубренное лезвие",
+        "thumb": "icons/ru/thumbs/Jagged_Edge.3bf3ff1ec903eb262b748d5240651c1e.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%B7%D1%83%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5",
         "drop": [
             {
-                "name": "CorpusElite Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusElite Crewman"
             }
         ],
-        "thumb": "icons/ru/thumbs/Jagged_Edge.3bf3ff1ec903eb262b748d5240651c1e.128x128.png",
-        "description": "<p>Зазубренное Лезвие — редкий мод для оружия ближнего боя, который увеличивает  режущий урон.</p>"
+        "description": "<p>Зазубренное Лезвие — редкий мод для оружия ближнего боя, который увеличивает  режущий урон.</p>",
+        "icon": "icons/ru/Jagged_Edge.3bf3ff1ec903eb262b748d5240651c1e.png"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

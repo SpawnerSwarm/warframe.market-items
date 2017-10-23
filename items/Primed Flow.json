@@ -13,27 +13,27 @@
     "url_name": "primed_flow",
     "tradable": true,
     "en": {
+        "item_name": "Primed Flow",
+        "description": "<p>Primed Flow is the Primed version of Flow, which increases the maximum Energy reserves of a Warframe. </p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Flow",
         "drop": [
             {
-                "name": "Baro Ki'Teer",
-                "link": null
+                "link": null,
+                "name": "Baro Ki'Teer"
             }
-        ],
-        "description": "<p>Primed Flow is the Primed version of Flow, which increases the maximum Energy reserves of a Warframe. </p>",
-        "item_name": "Primed Flow"
+        ]
     },
     "ru": {
-        "description": "<p>Поток прайм — легендарный мод для варфреймов, который увеличивает максимальное количество запасов энергии.</p>",
         "item_name": "Поток прайм",
+        "thumb": "icons/ru/thumbs/Primed_Flow.2dc03b7a44d324d135ae8e44f89885a0.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
         "drop": [
             {
-                "name": "Baro Ki'Teer",
-                "link": null
+                "link": null,
+                "name": "Baro Ki'Teer"
             }
         ],
-        "thumb": "icons/ru/thumbs/Primed_Flow.2dc03b7a44d324d135ae8e44f89885a0.128x128.png",
+        "description": "<p>Поток прайм — легендарный мод для варфреймов, который увеличивает максимальное количество запасов энергии.</p>",
         "icon": "icons/ru/Primed_Flow.2dc03b7a44d324d135ae8e44f89885a0.png"
     },
     "rarity": "legendary",

@@ -11,36 +11,36 @@
     "url_name": "warrior",
     "tradable": true,
     "en": {
+        "item_name": "Warrior",
+        "description": "<p>Warrior allows Wyrm to attack the first visible enemy in range.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Warrior",
         "drop": [
             {
-                "name": "CorpusNullifier Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusNullifier Crewman"
             },
             {
-                "name": "CorpusSniper Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusSniper Crewman"
             }
-        ],
-        "description": "<p>Warrior allows Wyrm to attack the first visible enemy in range.</p>",
-        "item_name": "Warrior"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Warrior.66f25a1fe744cd29335f648f5592dcce.png",
         "item_name": "Воитель",
+        "thumb": "icons/ru/thumbs/Warrior.66f25a1fe744cd29335f648f5592dcce.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
         "drop": [
             {
-                "name": "CorpusNullifier Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusNullifier Crewman"
             },
             {
-                "name": "CorpusSniper Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusSniper Crewman"
             }
         ],
-        "thumb": "icons/ru/thumbs/Warrior.66f25a1fe744cd29335f648f5592dcce.128x128.png",
-        "description": "<p>Воитель - мод-заповедь для для стража Вирм и Вирм Прайм, дающий ему возможность атаковать врагов в определенном радиусе.</p>"
+        "description": "<p>Воитель - мод-заповедь для для стража Вирм и Вирм Прайм, дающий ему возможность атаковать врагов в определенном радиусе.</p>",
+        "icon": "icons/ru/Warrior.66f25a1fe744cd29335f648f5592dcce.png"
     },
     "rarity": "common",
     "mod_max_rank": 5,

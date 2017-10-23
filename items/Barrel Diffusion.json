@@ -13,68 +13,68 @@
     "url_name": "barrel_diffusion",
     "tradable": true,
     "en": {
+        "item_name": "Barrel Diffusion",
+        "description": "<p>Barrel Diffusion increases the multishot of pistols. These additional rounds do not consume extra ammunition.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Barrel_Diffusion",
         "drop": [
             {
-                "name": "The Grustrag Three",
-                "link": null
+                "link": null,
+                "name": "The Grustrag Three"
             },
             {
-                "name": "GrineerSeeker",
-                "link": null
+                "link": null,
+                "name": "GrineerSeeker"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Dark Sectors Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Dark Sectors Defense Reward"
             },
             {
-                "name": "Infested T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Infested T3Defense Reward"
             },
             {
-                "name": "Interception Wave Reward",
-                "link": null
+                "link": null,
+                "name": "Interception Wave Reward"
             }
-        ],
-        "description": "<p>Barrel Diffusion increases the multishot of pistols. These additional rounds do not consume extra ammunition.</p>",
-        "item_name": "Barrel Diffusion"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.png",
         "item_name": "Двойной ствол Ствол",
+        "thumb": "icons/ru/thumbs/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D0%B2%D0%BE%D0%BB",
         "drop": [
             {
-                "name": "The Grustrag Three",
-                "link": null
+                "link": null,
+                "name": "The Grustrag Three"
             },
             {
-                "name": "GrineerSeeker",
-                "link": null
+                "link": null,
+                "name": "GrineerSeeker"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Dark Sectors Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Dark Sectors Defense Reward"
             },
             {
-                "name": "Infested T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Infested T3Defense Reward"
             },
             {
-                "name": "Interception Wave Reward",
-                "link": null
+                "link": null,
+                "name": "Interception Wave Reward"
             }
         ],
-        "thumb": "icons/ru/thumbs/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.128x128.png",
-        "description": "<p>Двойной Ствол — редкий мод для вторичного оружия, который увеличивает произведения дополнительного выстрела.</p>"
+        "description": "<p>Двойной Ствол — редкий мод для вторичного оружия, который увеличивает произведения дополнительного выстрела.</p>",
+        "icon": "icons/ru/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.png"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

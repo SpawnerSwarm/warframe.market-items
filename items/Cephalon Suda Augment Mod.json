@@ -11,16 +11,16 @@
     "url_name": "cephalon_suda_augment_mod",
     "tradable": true,
     "en": {
-        "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Cephalon_Suda",
+        "item_name": "Cephalon Suda Augment Mod",
         "description": "<p>Tenno who ally themselves with this Syndicate will receive unique Augment Mods for Cephalon Suda's favored weapons after obtaining the title of Wise. The weapons include Bolto, Kestrel, and Supra.</p>",
-        "item_name": "Cephalon Suda Augment Mod"
+        "wiki_link": "http://warframe.wikia.com/wiki/Cephalon_Suda",
+        "drop": []
     },
     "ru": {
-        "drop": [],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A6%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BD_%D0%A1%D1%83%D0%B4%D0%B0",
+        "item_name": "Цефалон Суда Аугмент Мод",
         "description": "Один из шести основных синдикатов. Имеет в своём арсенале моды для таких варфреймов, как Банши, Фрост, Гидроид, Лимбо, Мираж, Нова, Вобан, Хрома и Ивара",
-        "item_name": "Цефалон Суда Аугмент Мод"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A6%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BD_%D0%A1%D1%83%D0%B4%D0%B0",
+        "drop": []
     },
     "rarity": "rare",
     "trading_tax": 8000

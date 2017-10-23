@@ -11,35 +11,35 @@
     "url_name": "gnashing_payara",
     "tradable": true,
     "en": {
+        "item_name": "Gnashing Payara",
+        "description": "<p>Gnashing Payara is a Stance Mod for dual daggers that deals spinning attacks, stabs and slashes. </p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Gnashing_Payara",
         "drop": [
             {
-                "name": "CorpusElite Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusElite Crewman"
             },
             {
-                "name": "Orokin Moon Spy reward",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Spy reward"
             }
-        ],
-        "description": "<p>Gnashing Payara is a Stance Mod for dual daggers that deals spinning attacks, stabs and slashes. </p>",
-        "item_name": "Gnashing Payara"
+        ]
     },
     "ru": {
-        "description": "<p>Скрежешущий Гидролик — это редкая стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
         "item_name": "Скрежешущий гидролик",
+        "thumb": "icons/ru/thumbs/Gnashing_Payara.376ee3b0ea60e05fb58ed7056604173f.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D0%B5%D0%B6%D0%B5%D1%88%D1%83%D1%89%D0%B8%D0%B9_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%BB%D0%B8%D0%BA",
         "drop": [
             {
-                "name": "CorpusElite Crewman",
-                "link": null
+                "link": null,
+                "name": "CorpusElite Crewman"
             },
             {
-                "name": "Orokin Moon Spy reward",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Spy reward"
             }
         ],
-        "thumb": "icons/ru/thumbs/Gnashing_Payara.376ee3b0ea60e05fb58ed7056604173f.128x128.png",
+        "description": "<p>Скрежешущий Гидролик — это редкая стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
         "icon": "icons/ru/Gnashing_Payara.376ee3b0ea60e05fb58ed7056604173f.png"
     },
     "rarity": "rare",

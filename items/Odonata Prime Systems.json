@@ -20,43 +20,43 @@
     ],
     "set_root": false,
     "en": {
+        "item_name": "Odonata Prime Systems",
         "description": "<p>Release Date: March 24th, 2015</p><p>Comparisons:</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Odonata/Prime",
         "drop": [
             {
-                "name": "Lith F2 Common",
-                "link": null
+                "link": null,
+                "name": "Lith F2 Common"
             },
             {
-                "name": "Neo N3 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N3 Common"
             },
             {
-                "name": "Axi V1 Common",
-                "link": null
+                "link": null,
+                "name": "Axi V1 Common"
             }
         ],
-        "codex": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits.",
-        "item_name": "Odonata Prime Systems"
+        "wiki_link": "http://warframe.wikia.com/wiki/Odonata/Prime",
+        "codex": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits."
     },
     "ru": {
+        "item_name": "Одоната Прайм Система",
+        "description": "<p>Это улучшенная версия первого прототипа Арчвинга развивает свою конструкцию до ее теоретического предела.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D0%B0/Прайм",
         "drop": [
             {
-                "name": "Lith F2 Common",
-                "link": null
+                "link": null,
+                "name": "Lith F2 Common"
             },
             {
-                "name": "Neo N3 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N3 Common"
             },
             {
-                "name": "Axi V1 Common",
-                "link": null
+                "link": null,
+                "name": "Axi V1 Common"
             }
-        ],
-        "description": "<p>Это улучшенная версия первого прототипа Арчвинга развивает свою конструкцию до ее теоретического предела.</p>",
-        "item_name": "Одоната Прайм Система"
+        ]
     },
     "ducats": 15,
     "trading_tax": 4000

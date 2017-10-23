@@ -10,27 +10,27 @@
     "url_name": "mesa’s_waltz",
     "tradable": true,
     "en": {
+        "item_name": "Mesa’s Waltz",
+        "description": "<p>Mesa's Waltz is a PvP-only Warframe Augment Mod that allows Mesa to roll while channeling Peacemaker, at the cost of some energy. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mesa%27s_Waltz",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
-        ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Mesa%27s_Waltz",
-        "description": "<p>Mesa's Waltz is a PvP-only Warframe Augment Mod that allows Mesa to roll while channeling Peacemaker, at the cost of some energy. </p>",
-        "item_name": "Mesa’s Waltz"
+        ]
     },
     "ru": {
-        "description": "<p>Вальс Мисы — мод-аугмент для варфрейма Миса в режиме конклава, улучшающий её способность миротворец. Во время активной способности возможно применение кувырка, который обойдётся Мисе в некотором количестве энергии.</p>",
         "item_name": "Вальс Мисы",
+        "thumb": "icons/ru/thumbs/Mesa’s_Waltz.de9784bfdbdfb0bd7300af8d9bcde5ab.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D1%81_%D0%BC%D0%B8%D1%81%D1%8B",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "thumb": "icons/ru/thumbs/Mesa’s_Waltz.de9784bfdbdfb0bd7300af8d9bcde5ab.128x128.png",
+        "description": "<p>Вальс Мисы — мод-аугмент для варфрейма Миса в режиме конклава, улучшающий её способность миротворец. Во время активной способности возможно применение кувырка, который обойдётся Мисе в некотором количестве энергии.</p>",
         "icon": "icons/ru/Mesa’s_Waltz.de9784bfdbdfb0bd7300af8d9bcde5ab.png"
     },
     "rarity": "rare",

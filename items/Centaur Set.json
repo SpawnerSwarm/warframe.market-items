@@ -18,35 +18,35 @@
     ],
     "set_root": true,
     "en": {
+        "item_name": "Centaur Set",
+        "description": "<p>The Centaur is an Archwing based melee that also acts as a shield, which shares its own basic six-hit combo with Rathbone, but also possesses its own six-hit combo when used in quick melee (primary weapon equipped).</p>",
         "drop": [
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Centaur",
-        "description": "<p>The Centaur is an Archwing based melee that also acts as a shield, which shares its own basic six-hit combo with Rathbone, but also possesses its own six-hit combo when used in quick melee (primary weapon equipped).</p>",
-        "codex": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire.",
-        "item_name": "Centaur Set"
+        "codex": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire."
     },
     "ru": {
+        "item_name": "Кентавр Комплект",
+        "description": "<p>Частично меч, частично щит, Кентавр отлично показывает себя в безбашенных атаках под вражеским огнем</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D0%B2%D1%80",
         "drop": [
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D0%B2%D1%80",
-        "description": "<p>Частично меч, частично щит, Кентавр отлично показывает себя в безбашенных атаках под вражеским огнем</p>",
-        "item_name": "Кентавр Комплект"
+        ]
     },
     "trading_tax": 2000
 }

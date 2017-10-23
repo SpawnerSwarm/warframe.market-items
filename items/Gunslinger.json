@@ -11,68 +11,68 @@
     "url_name": "gunslinger",
     "tradable": true,
     "en": {
+        "item_name": "Gunslinger",
+        "description": "<p>The Gunslinger mod increases the fire rate of secondary weapons by 12% per rank for a maximum of 72% at rank 5.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Gunslinger",
         "drop": [
             {
-                "name": "Alad V",
-                "link": null
+                "link": null,
+                "name": "Alad V"
             },
             {
-                "name": "Mutalist Alad V",
-                "link": null
+                "link": null,
+                "name": "Mutalist Alad V"
             },
             {
-                "name": "Captain Vor",
-                "link": null
+                "link": null,
+                "name": "Captain Vor"
             },
             {
-                "name": "GrineerNapalm",
-                "link": null
+                "link": null,
+                "name": "GrineerNapalm"
             },
             {
-                "name": "CorpusScavenger Drone",
-                "link": null
+                "link": null,
+                "name": "CorpusScavenger Drone"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
-        ],
-        "description": "<p>The Gunslinger mod increases the fire rate of secondary weapons by 12% per rank for a maximum of 72% at rank 5.</p>",
-        "item_name": "Gunslinger"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.png",
         "item_name": "Стрелок",
+        "thumb": "icons/ru/thumbs/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
         "drop": [
             {
-                "name": "Alad V",
-                "link": null
+                "link": null,
+                "name": "Alad V"
             },
             {
-                "name": "Mutalist Alad V",
-                "link": null
+                "link": null,
+                "name": "Mutalist Alad V"
             },
             {
-                "name": "Captain Vor",
-                "link": null
+                "link": null,
+                "name": "Captain Vor"
             },
             {
-                "name": "GrineerNapalm",
-                "link": null
+                "link": null,
+                "name": "GrineerNapalm"
             },
             {
-                "name": "CorpusScavenger Drone",
-                "link": null
+                "link": null,
+                "name": "CorpusScavenger Drone"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
         ],
-        "thumb": "icons/ru/thumbs/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.128x128.png",
-        "description": "<p>Стрелок — необычный мод для вторичного оружия, который увеличивает скорострельность.</p>"
+        "description": "<p>Стрелок — необычный мод для вторичного оружия, который увеличивает скорострельность.</p>",
+        "icon": "icons/ru/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.png"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,
