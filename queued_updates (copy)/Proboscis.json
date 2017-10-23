@@ -1,0 +1,35 @@
+{
+  "_id": "58dbcc9e70b42255d6321e8e",
+  "tags": [
+    "mod",
+    "helminth charger"
+  ],
+  "icon": "icons/en/Proboscis.aa653fa8633125a7e94b9ad74878948b.png",
+  "thumb": "icons/en/thumbs/Proboscis.aa653fa8633125a7e94b9ad74878948b.128x128.png",
+  "icon_format": "port",
+  "sub_icon": null,
+  "url_name": "proboscis",
+  "tradable": true,
+  "part_of_set": null,
+  "set_root": null,
+  "en": {
+    "wiki_link": "http://warframe.wikia.com/wiki/Proboscis",
+    "description": "<p>The Proboscis mod allows the Helminth Charger to grapple and drag enemies.</p>",
+    "item_name": "Proboscis",
+    "drop": [],
+    "codex": null
+  },
+  "ru": {
+    "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/8/8c/%D0%A5%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%BA_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest?cb=20170326070708&path-prefix=ru",
+    "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%BA",
+    "item_name": "Хоботок",
+    "drop": [],
+    "description": "<p>Хоботок — мод-заповедь для Гельминтного Инфестоида, который позволяет атаковать противника в определенном радиусе, нанося урон и отталкивая его при этом.</p>"
+  },
+  "rarity": "rare",
+  "mod_max_rank": 5,
+  "mastery_level": null,
+  "ducats": null,
+  "trading_tax": 8000,
+    "ready": true
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "59e3afcd115f1d887cfd7ac8",
+    "tags": [
+        "mod",
+        "dual swords"
+    ],
+    "icon": "icons/en/Carving_Mantis.3536f840864456911b4003a33fc522fd.png",
+    "thumb": "icons/en/thumbs/Carving_Mantis.3536f840864456911b4003a33fc522fd.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "carving_mantis",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Carving_Mantis",
+        "description": "<p>It's obtained from Plains Of Eidolon bounty missions, via transmuting or by incursions as well.</p>",
+        "item_name": "Carving Mantis",
+        "drop": [
+            {
+                "link": null,
+                "name": "Plains Commander (0.02%)"
+            },
+            {
+                "link": null,
+                "name": "Bounty (40-60)"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/4/4a/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9_%D0%B1%D0%BE%D0%B3%D0%BE%D0%BC%D0%BE%D0%BB.jpg/revision/latest?cb=20171014132902&path-prefix=ru",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%BE%D0%BB",
+        "item_name": "Секущий Богомол",
+        "drop": [
+            {
+                "link": null,
+                "name": "Заказ максимальной сложности у Острона"
+            }
+        ],
+        "description": "<p>Это редкая стойка, предназначенная для оружия ближнего боя класса Парные мечи. Увеличение ранга открывает новые комбинации.</p>"
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": 8000,
+    "ready": true
+}

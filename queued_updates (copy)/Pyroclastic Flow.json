@@ -1,0 +1,53 @@
+{
+    "_id": "58f0ee99aa4b70452a173070",
+    "tags": [
+        "mod",
+        "nezha"
+    ],
+    "icon": "icons/en/Pyroclastic_Flow.ac94de8b2515a96114dec14cc78ce907.png",
+    "thumb": "icons/en/thumbs/Pyroclastic_Flow.ac94de8b2515a96114dec14cc78ce907.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "pyroclastic_flow",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow",
+        "description": "<p>Pyroclastic Flow is a Warframe Augment Mod for Nezha that accumulates the damage Fire Walker deals and unleashes it in a trail of fire upon deactivating Fire Walker.</p>",
+        "item_name": "Pyroclastic Flow",
+        "drop": [
+            {
+                "link": null,
+                "name": "Steel Meridian"
+            },
+            {
+                "link": null,
+                "name": "Cephalon Suda"
+            }
+        ],
+        "codex": null
+    },
+    "ru": {
+        "icon": "remote//https://vignette.wikia.nocookie.net/warframe/images/1/16/%D0%9F%D0%B8%D1%80%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest?cb=20170413124206&path-prefix=ru",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
+        "item_name": "Пирокластерный Поток",
+        "drop": [
+            {
+                "link": null,
+                "name": "Стальной Меридиан"
+            },
+            {
+                "link": null,
+                "name": "Цефалон Суда"
+            }
+        ],
+        "description": "<p>Пирокластерный Поток — мод-аугмент для Варфрейма Нэчжа, улучшающий способность Идущий в огне. Позволяет накапливать урон, нанесенный в течение действия способности, выпуская струю пламени длиной 20 метров, существующую на протяжении некоторого времени после деактивации способности.</p>"
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": 8000,
+    "ready": true
+}

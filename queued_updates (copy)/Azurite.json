@@ -1,0 +1,33 @@
+{
+    "_id": "59eba86952f90ed715e14155",
+    "tags": [
+        "gems"
+    ],
+    "icon": "icons/en/Azurite.a45f1cdc77b63f39ea48c99e5abb545b.png",
+    "thumb": "icons/en/thumbs/Azurite.a45f1cdc77b63f39ea48c99e5abb545b.128x128.png",
+    "icon_format": "port",
+    "sub_icon": null,
+    "url_name": "azurite",
+    "tradable": true,
+    "part_of_set": null,
+    "set_root": null,
+    "en": {
+        "wiki_link": "http://warframe.wikia.com/wiki/Azurite",
+        "description": "<p>Azurite is a gem that can be found mined from blue mineral veins the Plains of Eidolon. Can be turned in to Old Man Suumbaat for 25‍25 each.</p>",
+        "item_name": "Azurite",
+        "drop": [],
+        "codex": null
+    },
+    "ru": {
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B7%D1%83%D1%80%D0%B8%D1%82",
+        "item_name": "Азурит",
+        "drop": [],
+        "description": "<p>Драгоценный камень, который можно найти и добыть с помощью лазерного резака в жилах синего цвета на локации Равнины Эйдолона.</p>"
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null,
+    "ready": true
+}

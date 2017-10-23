@@ -1,0 +1,29 @@
+{
+    "_id": "59e6421240c3ee1a65541c54",
+    "tags": [
+        "fish"
+    ],
+    "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/1/17/KhutKhut.png/revision/latest/scale-to-width-down/300?cb=20171017224250",
+    "sub_icon": null,
+    "url_name": "large_khut_khut",
+    "tradable": true,
+    "en": {
+        "item_name": "Large Khut-Khut",
+        "codex": "",
+        "description": "<p>A poisonous fish protected by a hard carapace around its skull.</p>",
+        "drop": [],
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Khut-Khut"
+    },
+    "ru": {
+        "item_name": "Большой Кхут-Кхут",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кхут-Кхут",
+        "description": "<p>Ядовитая рыба, защищённая прочным костным наростом вокруг черепа.</p>",
+        "drop": []
+    },
+    "rarity": null,
+    "mod_max_rank": null,
+    "mastery_level": null,
+    "ducats": null,
+    "trading_tax": null,
+    "ready": true
+}
