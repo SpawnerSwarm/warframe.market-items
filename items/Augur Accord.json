@@ -1,0 +1,37 @@
+{
+    "_id": "59dfeb6c115f1d887cfd7abf",
+    "tags": [
+        "mod",
+        "augur"
+    ],
+    "icon": "icons/en/Augur_Accord.068cadfef07bb4e729df53eb1b2f46db.png",
+    "thumb": "icons/en/thumbs/Augur_Accord.068cadfef07bb4e729df53eb1b2f46db.128x128.png",
+    "icon_format": "port",
+    "url_name": "augur_accord",
+    "tradable": true,
+    "en": {
+        "item_name": "Augur Accord",
+        "drop": [
+            {
+                "name": "Recon Commander (0.33%)",
+                "link": null
+            }
+        ],
+        "description": "<p>Augur Accord is a set mod available from bounties on the Plains of Eidolon. It increases shield capacity by 180% at max rank, the full set bonus apllied converts 150% of energy spent with abilities into Shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord"
+    },
+    "ru": {
+        "item_name": "Авгур Аккорд",
+        "drop": [
+            {
+                "name": "Recon Commander (0.33%)",
+                "link": null
+            }
+        ],
+        "description": "Варфрейм: +160% емкость щита",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}
