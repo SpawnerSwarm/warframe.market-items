@@ -10,16 +10,16 @@
     "url_name": "eidolon_lens_blueprint",
     "tradable": true,
     "en": {
+        "codex": "",
         "item_name": "Eidolon Lens Blueprint",
-        "description": "",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Plains_of_Eidolon/Rewards#Level 40-60",
-        "codex": ""
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Plains_of_Eidolon/Rewards#Level 40-60"
     },
     "ru": {
         "item_name": "Линза Эйдолона Чертеж",
+        "drop": [],
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Plains_of_Eidolon/Rewards#Level 40-60",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Plains_of_Eidolon/Rewards#Level 40-60"
     }
 }

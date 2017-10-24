@@ -7,14 +7,14 @@
     "tradable": true,
     "en": {
         "item_name": "Meso V4 Relic",
+        "drop": [],
         "description": "",
-        "wiki_link": "",
-        "drop": []
+        "wiki_link": ""
     },
     "ru": {
         "item_name": "Мезо V4",
+        "drop": [],
         "description": "",
-        "wiki_link": "",
-        "drop": []
+        "wiki_link": ""
     }
 }

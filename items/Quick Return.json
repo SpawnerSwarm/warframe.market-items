@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Quick Return",
-        "description": "<p>Quick Return decreases the number of bounces before a Glaive weapon returns to the player.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Return",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Crewman"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Быстрое возвращение",
-        "thumb": "icons/ru/thumbs/Quick_Return.85dfcb9a8739ab41ff363cf21fea778e.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Lephantis"
-            },
-            {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             }
         ],
-        "description": "<p>Быстрое возвращение — обычный мод для оружия ближнего боя типа Глефы, который уменьшает количество отскоков при использовании метательной атаки.</p>",
-        "icon": "icons/ru/Quick_Return.85dfcb9a8739ab41ff363cf21fea778e.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Return",
+        "description": "<p>Quick Return decreases the number of bounces before a Glaive weapon returns to the player.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Quick_Return.85dfcb9a8739ab41ff363cf21fea778e.png",
+        "item_name": "Быстрое возвращение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Quick_Return.85dfcb9a8739ab41ff363cf21fea778e.128x128.png",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            }
+        ],
+        "description": "<p>Быстрое возвращение — обычный мод для оружия ближнего боя типа Глефы, который уменьшает количество отскоков при использовании метательной атаки.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 3,

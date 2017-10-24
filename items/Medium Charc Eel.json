@@ -9,16 +9,16 @@
     "url_name": "medium_charc_eel",
     "tradable": true,
     "en": {
+        "codex": "",
         "item_name": "Medium Charc Eel",
-        "description": "<p>Discharges electricity from luminous glands along its flanks to stun its prey.</p>",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Charc Eel",
-        "codex": ""
+        "description": "<p>Discharges electricity from luminous glands along its flanks to stun its prey.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Charc Eel"
     },
     "ru": {
         "item_name": "Средний Чарк Иил",
+        "drop": [],
         "description": "<p>Испускает электричество из расположенных вдоль боков желез, чтобы оглушить жертву.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Чарк Иил",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Чарк Иил"
     }
 }

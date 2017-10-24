@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Stealth Drift",
-        "description": "<p>Stealth Drift is a rare dual-stat Exilus mod that increases enemy detection on the minimap and Aim Glide and Wall Latch time.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stealth_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Скрытое течение",
-        "thumb": "icons/ru/thumbs/Stealth_Drift.a685a9dfd0d5a24d382354c25dd21368.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ],
-        "description": "<p>Скрытое течение — эксилус мод для варфреймов, который отмечает противников в определённом радиусе на мини карте и увеличивает время полёта и фиксации на стене.</p>",
-        "icon": "icons/ru/Stealth_Drift.a685a9dfd0d5a24d382354c25dd21368.png"
+        "description": "<p>Stealth Drift is a rare dual-stat Exilus mod that increases enemy detection on the minimap and Aim Glide and Wall Latch time.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stealth_Drift"
+    },
+    "ru": {
+        "icon": "icons/ru/Stealth_Drift.a685a9dfd0d5a24d382354c25dd21368.png",
+        "item_name": "Скрытое течение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Stealth_Drift.a685a9dfd0d5a24d382354c25dd21368.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ],
+        "description": "<p>Скрытое течение — эксилус мод для варфреймов, который отмечает противников в определённом радиусе на мини карте и увеличивает время полёта и фиксации на стене.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

@@ -12,83 +12,83 @@
     "tradable": true,
     "en": {
         "item_name": "Pain Threshold",
-        "description": "<p>Pain Threshold is an exilus Index mod that increases the stagger recovery of your Warframe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pain_Threshold",
         "drop": [
             {
-                "link": null,
-                "name": "Auditor"
+                "name": "Auditor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Azoth"
+                "name": "Azoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jad Teran"
+                "name": "Jad Teran",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lockjaw & Sol"
+                "name": "Lockjaw & Sol",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nako Xol"
+                "name": "Nako Xol",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Pelna Cade"
+                "name": "Pelna Cade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor RX"
+                "name": "Raptor RX",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ved Xol"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Болевой порог",
-        "thumb": "icons/ru/thumbs/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%80%D0%BE%D0%B3",
-        "drop": [
-            {
-                "link": null,
-                "name": "Auditor"
-            },
-            {
-                "link": null,
-                "name": "Azoth"
-            },
-            {
-                "link": null,
-                "name": "Jad Teran"
-            },
-            {
-                "link": null,
-                "name": "Lockjaw & Sol"
-            },
-            {
-                "link": null,
-                "name": "Nako Xol"
-            },
-            {
-                "link": null,
-                "name": "Pelna Cade"
-            },
-            {
-                "link": null,
-                "name": "Raptor RX"
-            },
-            {
-                "link": null,
-                "name": "Ved Xol"
+                "name": "Ved Xol",
+                "link": null
             }
         ],
-        "description": "<p>Болевой порог — эксилус мод для варфреймов, увеличивающий скорость восстановления варфрейма после полученного оглушения.</p>",
-        "icon": "icons/ru/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.png"
+        "description": "<p>Pain Threshold is an exilus Index mod that increases the stagger recovery of your Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pain_Threshold"
+    },
+    "ru": {
+        "icon": "icons/ru/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.png",
+        "item_name": "Болевой порог",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%80%D0%BE%D0%B3",
+        "thumb": "icons/ru/thumbs/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.128x128.png",
+        "drop": [
+            {
+                "name": "Auditor",
+                "link": null
+            },
+            {
+                "name": "Azoth",
+                "link": null
+            },
+            {
+                "name": "Jad Teran",
+                "link": null
+            },
+            {
+                "name": "Lockjaw & Sol",
+                "link": null
+            },
+            {
+                "name": "Nako Xol",
+                "link": null
+            },
+            {
+                "name": "Pelna Cade",
+                "link": null
+            },
+            {
+                "name": "Raptor RX",
+                "link": null
+            },
+            {
+                "name": "Ved Xol",
+                "link": null
+            }
+        ],
+        "description": "<p>Болевой порог — эксилус мод для варфреймов, увеличивающий скорость восстановления варфрейма после полученного оглушения.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

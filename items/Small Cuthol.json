@@ -9,16 +9,16 @@
     "url_name": "small_cuthol",
     "tradable": true,
     "en": {
+        "codex": "",
         "item_name": "Small Cuthol",
-        "description": "",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Cuthol",
-        "codex": ""
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Cuthol"
     },
     "ru": {
         "item_name": "Маленький Кутол",
+        "drop": [],
         "description": "<p>Гротескное ракообразное, чьи щупальца вырабатывают мощный парализующий токсин.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кутол",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кутол"
     }
 }

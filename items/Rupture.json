@@ -12,43 +12,43 @@
     "tradable": true,
     "en": {
         "item_name": "Rupture",
-        "description": "<p>Rupture increases the  Impact damage of Rifles. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rupture",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Разрыв",
-        "thumb": "icons/ru/thumbs/Rupture.5290f8991b54823669a470be5c23cea9.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2",
-        "drop": [
-            {
-                "link": null,
-                "name": "InfestedCharger"
-            },
-            {
-                "link": null,
-                "name": "InfestedElectric Crawler"
-            },
-            {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             }
         ],
-        "description": "<p>Разрыв — обычный мод для основного оружия, который увеличивает  ударный урон.</p>",
-        "icon": "icons/ru/Rupture.5290f8991b54823669a470be5c23cea9.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Rupture",
+        "description": "<p>Rupture increases the  Impact damage of Rifles. </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Rupture.5290f8991b54823669a470be5c23cea9.png",
+        "item_name": "Разрыв",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2",
+        "thumb": "icons/ru/thumbs/Rupture.5290f8991b54823669a470be5c23cea9.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            }
+        ],
+        "description": "<p>Разрыв — обычный мод для основного оружия, который увеличивает  ударный урон.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

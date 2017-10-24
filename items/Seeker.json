@@ -12,43 +12,43 @@
     "tradable": true,
     "en": {
         "item_name": "Seeker",
-        "description": "<p>The Seeker mod increases Punch Through of a pistol by 0.35 per rank for a maximum of 2.1 at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Seeker_(Mod)",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Swarm-Mutalist MOA"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Искатель",
-        "thumb": "icons/ru/thumbs/Seeker.faf9cfb1043bc865cd349956cdd91e00.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
-        "drop": [
-            {
-                "link": null,
-                "name": "InfestedAncient Healer"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Containers"
-            },
-            {
-                "link": null,
-                "name": "Swarm-Mutalist MOA"
+                "name": "Swarm-Mutalist MOA",
+                "link": null
             }
         ],
-        "description": "<p>Искатель — редкий мод для вторичного оружия, который увеличивает пронзание.</p>",
-        "icon": "icons/ru/Seeker.faf9cfb1043bc865cd349956cdd91e00.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Seeker_(Mod)",
+        "description": "<p>The Seeker mod increases Punch Through of a pistol by 0.35 per rank for a maximum of 2.1 at rank 5.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Seeker.faf9cfb1043bc865cd349956cdd91e00.png",
+        "item_name": "Искатель",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "thumb": "icons/ru/thumbs/Seeker.faf9cfb1043bc865cd349956cdd91e00.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedAncient Healer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Swarm-Mutalist MOA",
+                "link": null
+            }
+        ],
+        "description": "<p>Искатель — редкий мод для вторичного оружия, который увеличивает пронзание.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

@@ -12,43 +12,43 @@
     "tradable": true,
     "en": {
         "item_name": "Hydraulic Crosshairs",
-        "description": "<p>Hydraulic Crosshairs is a common Pistol mod that increases Critical chance while aiming for a brief time upon a headshot.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Crosshairs",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Гидравлические перекрестия",
-        "thumb": "icons/ru/thumbs/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D1%8F",
-        "drop": [
-            {
-                "link": null,
-                "name": "Misery"
-            },
-            {
-                "link": null,
-                "name": "Torment"
-            },
-            {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "description": "<p>Гидравлические Перекрестия — условный мод для вторичного оружия, который при попадании в голову увеличивает шанс критического урона на определенный промежуток времени.</p>",
-        "icon": "icons/ru/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.png"
+        "description": "<p>Hydraulic Crosshairs is a common Pistol mod that increases Critical chance while aiming for a brief time upon a headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Crosshairs"
+    },
+    "ru": {
+        "icon": "icons/ru/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.png",
+        "item_name": "Гидравлические перекрестия",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D1%8F",
+        "thumb": "icons/ru/thumbs/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ],
+        "description": "<p>Гидравлические Перекрестия — условный мод для вторичного оружия, который при попадании в голову увеличивает шанс критического урона на определенный промежуток времени.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

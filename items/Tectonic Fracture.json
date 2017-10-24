@@ -11,35 +11,35 @@
     "tradable": true,
     "en": {
         "item_name": "Tectonic Fracture",
-        "description": "<p>Tectonic Fracture is a Warframe Augment Mod for Atlas that modifies Tectonics to allow additional simultaneous walls, but sacrifices the ability to turn them into offensive boulders.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tectonic_Fracture",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Тектонический разлом",
-        "thumb": "icons/ru/thumbs/Tectonic_Fracture.29621ea88ce56c2a01938e09848628b9.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D0%BA%D1%82%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC",
-        "drop": [
-            {
-                "link": null,
-                "name": "Steel Meridian"
-            },
-            {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ],
-        "description": "<p>Тектонический Разлом - мод для Атласа, изменяющий способность Тектоника. Можно создавать более одной стены, однако эти стены не могут быть превращены в глыбы.</p>",
-        "icon": "icons/ru/Tectonic_Fracture.29621ea88ce56c2a01938e09848628b9.png"
+        "description": "<p>Tectonic Fracture is a Warframe Augment Mod for Atlas that modifies Tectonics to allow additional simultaneous walls, but sacrifices the ability to turn them into offensive boulders.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tectonic_Fracture"
+    },
+    "ru": {
+        "icon": "icons/ru/Tectonic_Fracture.29621ea88ce56c2a01938e09848628b9.png",
+        "item_name": "Тектонический разлом",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D0%BA%D1%82%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC",
+        "thumb": "icons/ru/thumbs/Tectonic_Fracture.29621ea88ce56c2a01938e09848628b9.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ],
+        "description": "<p>Тектонический Разлом - мод для Атласа, изменяющий способность Тектоника. Можно создавать более одной стены, однако эти стены не могут быть превращены в глыбы.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -12,67 +12,67 @@
     "tradable": true,
     "en": {
         "item_name": "Vital Sense",
-        "description": "<p>The Vital Sense mod increases critical damage on rifles by 20% per rank for a maximum of 120% at Rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vital_Sense",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Interception Reward at Rhea,Saturn"
+                "name": "Interception Reward at Rhea,Saturn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation"
+                "name": "Excavation",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Defense on Mars Reward"
+                "name": "Dark Sectors Defense on Mars Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Container"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Чутьё на уязвимости",
-        "thumb": "icons/ru/thumbs/Vital_Sense.ff56bb48619783eaea1c39c447fea158.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%BD%D0%B0_%D1%83%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8",
-        "drop": [
-            {
-                "link": null,
-                "name": "CorpusProd Crewman"
-            },
-            {
-                "link": null,
-                "name": "Tier 2Survival Reward"
-            },
-            {
-                "link": null,
-                "name": "Interception Reward at Rhea,Saturn"
-            },
-            {
-                "link": null,
-                "name": "Excavation"
-            },
-            {
-                "link": null,
-                "name": "Dark Sectors Defense on Mars Reward"
-            },
-            {
-                "link": null,
-                "name": "Orokin Container"
+                "name": "Orokin Container",
+                "link": null
             }
         ],
-        "description": "<p>Чутьё На Уязвимости — редкий мод для основного оружия, который увеличивает множитель критического урона.</p>",
-        "icon": "icons/ru/Vital_Sense.ff56bb48619783eaea1c39c447fea158.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Vital_Sense",
+        "description": "<p>The Vital Sense mod increases critical damage on rifles by 20% per rank for a maximum of 120% at Rank 5.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Vital_Sense.ff56bb48619783eaea1c39c447fea158.png",
+        "item_name": "Чутьё на уязвимости",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%BD%D0%B0_%D1%83%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8",
+        "thumb": "icons/ru/thumbs/Vital_Sense.ff56bb48619783eaea1c39c447fea158.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Interception Reward at Rhea,Saturn",
+                "link": null
+            },
+            {
+                "name": "Excavation",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Defense on Mars Reward",
+                "link": null
+            },
+            {
+                "name": "Orokin Container",
+                "link": null
+            }
+        ],
+        "description": "<p>Чутьё На Уязвимости — редкий мод для основного оружия, который увеличивает множитель критического урона.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

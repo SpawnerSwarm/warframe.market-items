@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Aviator",
-        "description": "<p>Aviator reduces damage taken while airborne. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Aviator",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Oxium Espionage"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Авиатор",
-        "thumb": "icons/ru/thumbs/Aviator.22f14cf4100664715c18257297d6fb9a.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D1%82%D0%BE%D1%80",
-        "drop": [
-            {
-                "link": null,
-                "name": "Operation Oxium Espionage"
+                "name": "Operation Oxium Espionage",
+                "link": null
             }
         ],
-        "description": "<p>Авиатор — эксилус мод для варфреймов, который уменьшает получаемый урон во время нахождения в воздухе. </p>",
-        "icon": "icons/ru/Aviator.22f14cf4100664715c18257297d6fb9a.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Aviator",
+        "description": "<p>Aviator reduces damage taken while airborne. </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Aviator.22f14cf4100664715c18257297d6fb9a.png",
+        "item_name": "Авиатор",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D1%82%D0%BE%D1%80",
+        "thumb": "icons/ru/thumbs/Aviator.22f14cf4100664715c18257297d6fb9a.128x128.png",
+        "drop": [
+            {
+                "name": "Operation Oxium Espionage",
+                "link": null
+            }
+        ],
+        "description": "<p>Авиатор — эксилус мод для варфреймов, который уменьшает получаемый урон во время нахождения в воздухе. </p>"
     },
     "rarity": "common",
     "mod_max_rank": 3,

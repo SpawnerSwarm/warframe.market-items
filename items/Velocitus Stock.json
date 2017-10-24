@@ -19,35 +19,35 @@
     ],
     "set_root": false,
     "en": {
-        "item_name": "Velocitus Stock",
-        "description": "<p>The Velocitus is an Archwing Gauss-gun that deals heavy charged shot damage. It is the first Archwing weapon to have base  Magnetic damage. </p>",
         "codex": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Velocitus",
+        "item_name": "Velocitus Stock",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Velocitus",
+        "description": "<p>The Velocitus is an Archwing Gauss-gun that deals heavy charged shot damage. It is the first Archwing weapon to have base  Magnetic damage. </p>"
     },
     "ru": {
         "item_name": "Велоцитус Приклад",
-        "description": "<p>Полностью заряженный, магнитный ствол Велоцитуса разгоняет металлическую болванку до огромных скоростей, позволяя ей пробивать дыры в броне и разрушать ее.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%86%D0%B8%D1%82%D1%83%D1%81",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Полностью заряженный, магнитный ствол Велоцитуса разгоняет металлическую болванку до огромных скоростей, позволяя ей пробивать дыры в броне и разрушать ее.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%86%D0%B8%D1%82%D1%83%D1%81"
     },
     "trading_tax": 2000
 }

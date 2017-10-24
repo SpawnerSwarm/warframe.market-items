@@ -13,27 +13,27 @@
     "tradable": true,
     "en": {
         "item_name": "Primed Slip Magazine",
-        "description": "<p>Primed Slip Magazine is the Primed version of the Slip Magazine mod, which increases the magazine capacity of pistols. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Slip_Magazine",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Скользящая обойма прайм",
-        "thumb": "icons/ru/thumbs/Primed_Slip_Magazine.20dc5dcce7b3227761f88cf3073f0677.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ],
-        "description": "<p>Скользящая обойма прайм — легендарный мод для вторичного оружия, который увеличивает вместительность обоймы.</p>",
-        "icon": "icons/ru/Primed_Slip_Magazine.20dc5dcce7b3227761f88cf3073f0677.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Slip_Magazine",
+        "description": "<p>Primed Slip Magazine is the Primed version of the Slip Magazine mod, which increases the magazine capacity of pistols. </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Primed_Slip_Magazine.20dc5dcce7b3227761f88cf3073f0677.png",
+        "item_name": "Скользящая обойма прайм",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "thumb": "icons/ru/thumbs/Primed_Slip_Magazine.20dc5dcce7b3227761f88cf3073f0677.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ],
+        "description": "<p>Скользящая обойма прайм — легендарный мод для вторичного оружия, который увеличивает вместительность обоймы.</p>"
     },
     "rarity": "legendary",
     "mod_max_rank": 10,

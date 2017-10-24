@@ -17,35 +17,35 @@
     ],
     "set_root": true,
     "en": {
+        "codex": "Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.",
         "item_name": "Dual Decurion Set",
-        "description": "<p>The Dual Decurion are twin rifles exclusive to the Archwing flight system.</p>",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Dual_Decurion",
-        "codex": "Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space."
+        "description": "<p>The Dual Decurion are twin rifles exclusive to the Archwing flight system.</p>"
     },
     "ru": {
         "item_name": "Парный декурион Комплект",
-        "description": "<p>Использующие два потока высокоточного огня, Декурионы были разработаны специально для ведения боя в безвоздушном пространстве.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BA%D1%83%D1%80%D0%B8%D0%BE%D0%BD",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Использующие два потока высокоточного огня, Декурионы были разработаны специально для ведения боя в безвоздушном пространстве.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BA%D1%83%D1%80%D0%B8%D0%BE%D0%BD"
     },
     "trading_tax": 2000
 }

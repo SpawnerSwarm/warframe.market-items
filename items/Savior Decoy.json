@@ -13,33 +13,33 @@
     "tradable": true,
     "en": {
         "item_name": "Savior Decoy",
-        "description": "<p>Savior Decoy is a Warframe Augment Mod for Loki that allows Decoy to absorb any fatal damage dealt to the player before switching places, along with reducing Decoy's casting time.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Savior_Decoy",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis "
+                "name": "Arbiters of Hexis ",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Savior Decoy is a Warframe Augment Mod for Loki that allows Decoy to absorb any fatal damage dealt to the player before switching places, along with reducing Decoy's casting time.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Savior_Decoy"
     },
     "ru": {
         "item_name": "Спасительная Приманка",
-        "description": "<p>Если Локи получает смертельный урон, Приманка впитает этот урон и поменяется местами. Так же увеличивает скорость применения Приманки на 50%.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Спасительная_Приманка",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis "
+                "name": "Arbiters of Hexis ",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Если Локи получает смертельный урон, Приманка впитает этот урон и поменяется местами. Так же увеличивает скорость применения Приманки на 50%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Спасительная_Приманка"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

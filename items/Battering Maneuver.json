@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Battering Maneuver",
-        "description": "<p>The Battering Maneuver mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Impact damage to Bullet Jump.  </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Battering_Maneuver",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Seeker"
+                "name": "Drekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sealab Sabotage Resource Cache"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Сбивающий манёвр",
-        "thumb": "icons/ru/thumbs/Battering_Maneuver.674180ef3d3817c69ecffaf7ee1a3177.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BC%D0%B0%D0%BD%D1%91%D0%B2%D1%80",
-        "drop": [
-            {
-                "link": null,
-                "name": "Drekar Seeker"
-            },
-            {
-                "link": null,
-                "name": "Sealab Sabotage Resource Cache"
+                "name": "Sealab Sabotage Resource Cache",
+                "link": null
             }
         ],
-        "description": "<p>Сбивающий Манёвр — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене, а также даёт бонусный  ударный урон при стремительном прыжке.</p>",
-        "icon": "icons/ru/Battering_Maneuver.674180ef3d3817c69ecffaf7ee1a3177.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Battering_Maneuver",
+        "description": "<p>The Battering Maneuver mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Impact damage to Bullet Jump.  </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Battering_Maneuver.674180ef3d3817c69ecffaf7ee1a3177.png",
+        "item_name": "Сбивающий манёвр",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BC%D0%B0%D0%BD%D1%91%D0%B2%D1%80",
+        "thumb": "icons/ru/thumbs/Battering_Maneuver.674180ef3d3817c69ecffaf7ee1a3177.128x128.png",
+        "drop": [
+            {
+                "name": "Drekar Seeker",
+                "link": null
+            },
+            {
+                "name": "Sealab Sabotage Resource Cache",
+                "link": null
+            }
+        ],
+        "description": "<p>Сбивающий Манёвр — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене, а также даёт бонусный  ударный урон при стремительном прыжке.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

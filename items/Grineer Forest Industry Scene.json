@@ -10,25 +10,25 @@
     "tradable": true,
     "en": {
         "item_name": "Grineer Forest Industry Scene",
-        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
         "drop": [
             {
-                "link": null,
-                "name": "Forgotten (Rare) Crates"
+                "name": "Forgotten (Rare) Crates",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>"
     },
     "ru": {
         "item_name": "Сцена Лесной Завод Гринир",
-        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
         "drop": [
             {
-                "link": null,
-                "name": "Забытый Контейнер Гринир"
+                "name": "Забытый Контейнер Гринир",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>"
     },
     "trading_tax": 2000
 }

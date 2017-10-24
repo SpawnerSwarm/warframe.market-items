@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Eternal War",
-        "description": "<p>Eternal War is a Warframe Augment Mod for Valkyr that extends Warcry's duration for each melee kill.  </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Eternal_War",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Вечная война",
-        "thumb": "icons/ru/thumbs/Eternal_War.1ebbbfa0bb0d32dca53878770b537d07.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
-        "drop": [
-            {
-                "link": null,
-                "name": "The Perrin Sequence"
-            },
-            {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ],
-        "description": "<p>Вечная Война — мод-аугмент для варфрейма Валькирия, улучшающий её способность Боевой клич. При активной способности длительность Боевого клича увеличивается за каждого убитого в ближнем бою врага.</p>",
-        "icon": "icons/ru/Eternal_War.1ebbbfa0bb0d32dca53878770b537d07.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Eternal_War",
+        "description": "<p>Eternal War is a Warframe Augment Mod for Valkyr that extends Warcry's duration for each melee kill.  </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Eternal_War.1ebbbfa0bb0d32dca53878770b537d07.png",
+        "item_name": "Вечная война",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+        "thumb": "icons/ru/thumbs/Eternal_War.1ebbbfa0bb0d32dca53878770b537d07.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ],
+        "description": "<p>Вечная Война — мод-аугмент для варфрейма Валькирия, улучшающий её способность Боевой клич. При активной способности длительность Боевого клича увеличивается за каждого убитого в ближнем бою врага.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

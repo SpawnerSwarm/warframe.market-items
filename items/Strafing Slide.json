@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Strafing Slide",
-        "description": "<p>Strafing Slide is a pistol mod usable in both PvE and PvP that reduces recoil and spread when firing while sliding.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Strafing_Slide",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Battalyst"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Скользящий обстрел",
-        "thumb": "icons/ru/thumbs/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "drop": [
-            {
-                "link": null,
-                "name": "Conclave Offering"
-            },
-            {
-                "link": null,
-                "name": "Battalyst"
+                "name": "Battalyst",
+                "link": null
             }
         ],
-        "description": "<p>Скользящий Обстрел — условный мод для вторичного оружия в режиме конклава, который увеличивает скорость перезарядки и уменьшает разброс при подкате.</p>",
-        "icon": "icons/ru/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.png"
+        "description": "<p>Strafing Slide is a pistol mod usable in both PvE and PvP that reduces recoil and spread when firing while sliding.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Strafing_Slide"
+    },
+    "ru": {
+        "icon": "icons/ru/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.png",
+        "item_name": "Скользящий обстрел",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "thumb": "icons/ru/thumbs/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ],
+        "description": "<p>Скользящий Обстрел — условный мод для вторичного оружия в режиме конклава, который увеличивает скорость перезарядки и уменьшает разброс при подкате.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

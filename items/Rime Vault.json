@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Rime Vault",
-        "description": "<p>Rime Vault is a PvP-exclusive Exilus mod that increases Bullet Jump speed and grants  Cold damage to Bullet Jumps at Max Energy.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rime_Vault",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Морозный кувырок",
-        "thumb": "icons/ru/thumbs/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B2%D1%8B%D1%80%D0%BE%D0%BA",
-        "drop": [
-            {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ],
-        "description": "<p>Морозный кувырок — эксилус мод для варфреймов в режиме конклава, который даёт бонусный  ледяной урон стремительному прыжку, расходуя энергию при попадании в противника в том случае, если у варфрейма в момент нанесения урона было максимальное количество энергии.</p>",
-        "icon": "icons/ru/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.png"
+        "description": "<p>Rime Vault is a PvP-exclusive Exilus mod that increases Bullet Jump speed and grants  Cold damage to Bullet Jumps at Max Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rime_Vault"
+    },
+    "ru": {
+        "icon": "icons/ru/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.png",
+        "item_name": "Морозный кувырок",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B2%D1%8B%D1%80%D0%BE%D0%BA",
+        "thumb": "icons/ru/thumbs/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ],
+        "description": "<p>Морозный кувырок — эксилус мод для варфреймов в режиме конклава, который даёт бонусный  ледяной урон стремительному прыжку, расходуя энергию при попадании в противника в том случае, если у варфрейма в момент нанесения урона было максимальное количество энергии.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

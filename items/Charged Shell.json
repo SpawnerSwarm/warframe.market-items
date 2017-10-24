@@ -12,51 +12,51 @@
     "tradable": true,
     "en": {
         "item_name": "Charged Shell",
-        "description": "<p>Charged Shell increases the  Electricity damage of a shotgun by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Charged_Shell",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusTech"
+                "name": "CorpusTech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Заряженные снаряды",
-        "thumb": "icons/ru/thumbs/Charged_Shell.d9f8950c54259b3cecb99f31968250c0.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
-        "drop": [
-            {
-                "link": null,
-                "name": "CorpusTech"
-            },
-            {
-                "link": null,
-                "name": "Corpus Warden"
-            },
-            {
-                "link": null,
-                "name": "Tier 2Survival Reward"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "description": "<p>Заряженные Снаряды — необычный мод для дробовиков, который увеличивает  электрический урон.</p>",
-        "icon": "icons/ru/Charged_Shell.d9f8950c54259b3cecb99f31968250c0.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Charged_Shell",
+        "description": "<p>Charged Shell increases the  Electricity damage of a shotgun by 15% per rank for a maximum of 90% at rank 5.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Charged_Shell.d9f8950c54259b3cecb99f31968250c0.png",
+        "item_name": "Заряженные снаряды",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
+        "thumb": "icons/ru/thumbs/Charged_Shell.d9f8950c54259b3cecb99f31968250c0.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusTech",
+                "link": null
+            },
+            {
+                "name": "Corpus Warden",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ],
+        "description": "<p>Заряженные Снаряды — необычный мод для дробовиков, который увеличивает  электрический урон.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

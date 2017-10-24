@@ -11,17 +11,17 @@
     "url_name": "sancti_tigris",
     "tradable": true,
     "en": {
+        "codex": "Echo nature's violent beauty with this special Tigris.",
         "item_name": "Sancti Tigris",
-        "description": "<p>The Sancti Tigris is a Tigris variant available only from New Loka. Featuring increased damage, reload speed, and critical chance, the Sancti Tigris also comes with an innate Purity effect.</p>",
         "drop": [],
         "wiki_link": "http://warframe.wikia.com/wiki/Sancti_Tigris",
-        "codex": "Echo nature's violent beauty with this special Tigris."
+        "description": "<p>The Sancti Tigris is a Tigris variant available only from New Loka. Featuring increased damage, reload speed, and critical chance, the Sancti Tigris also comes with an innate Purity effect.</p>"
     },
     "ru": {
         "item_name": "Санкти тигрис",
+        "drop": [],
         "description": "<p>Это особый Тигрис, воплощающий в себе буйство природы</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82%D0%B8_%D1%82%D0%B8%D0%B3%D1%80%D0%B8%D1%81",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82%D0%B8_%D1%82%D0%B8%D0%B3%D1%80%D0%B8%D1%81"
     },
     "mastery_level": 12,
     "trading_tax": 2000

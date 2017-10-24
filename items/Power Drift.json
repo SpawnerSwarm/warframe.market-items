@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Power Drift",
-        "description": "<p>Power Drift is a rare dual-stat Exilus mod that increases Power Strength and grants a chance to resist knockdown.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Power_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Силовое течение",
-        "thumb": "icons/ru/thumbs/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ],
-        "description": "<p>Силовое течение — эксилус мод для варфреймов, который увеличивает силу способностей и даёт шанс не быть сбитым с ног.</p>",
-        "icon": "icons/ru/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.png"
+        "description": "<p>Power Drift is a rare dual-stat Exilus mod that increases Power Strength and grants a chance to resist knockdown.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Power_Drift"
+    },
+    "ru": {
+        "icon": "icons/ru/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.png",
+        "item_name": "Силовое течение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ],
+        "description": "<p>Силовое течение — эксилус мод для варфреймов, который увеличивает силу способностей и даёт шанс не быть сбитым с ног.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

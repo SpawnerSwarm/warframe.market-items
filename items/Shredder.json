@@ -12,51 +12,51 @@
     "tradable": true,
     "en": {
         "item_name": "Shredder",
-        "description": "<p>Shredder increases  Slash Damage for Shotgun by 5% to a maximum of 30%.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shredder",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedArcane Boiler"
+                "name": "InfestedArcane Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Кромсатель",
-        "thumb": "icons/ru/thumbs/Shredder.29ab6c13db38effc011469562b54d17f.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
-        "drop": [
-            {
-                "link": null,
-                "name": "CorpusDetron Crewman"
-            },
-            {
-                "link": null,
-                "name": "InfestedBoiler"
-            },
-            {
-                "link": null,
-                "name": "InfestedArcane Boiler"
-            },
-            {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             }
         ],
-        "description": "<p>Кромсатель — обычный мод для дробовиков, который увеличивает  режущий урон.</p>",
-        "icon": "icons/ru/Shredder.29ab6c13db38effc011469562b54d17f.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Shredder",
+        "description": "<p>Shredder increases  Slash Damage for Shotgun by 5% to a maximum of 30%.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Shredder.29ab6c13db38effc011469562b54d17f.png",
+        "item_name": "Кромсатель",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "thumb": "icons/ru/thumbs/Shredder.29ab6c13db38effc011469562b54d17f.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusDetron Crewman",
+                "link": null
+            },
+            {
+                "name": "InfestedBoiler",
+                "link": null
+            },
+            {
+                "name": "InfestedArcane Boiler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Ancient",
+                "link": null
+            }
+        ],
+        "description": "<p>Кромсатель — обычный мод для дробовиков, который увеличивает  режущий урон.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

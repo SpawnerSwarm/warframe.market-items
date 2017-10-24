@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Accelerated Blast",
-        "description": "<p>The Accelerated Blast mod increases the fire rate of Shotguns by 15% and  Puncture damage by 15% per rank for a maximum of 60% at rank 3 for both values.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Blast",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Взрывное ускорение",
-        "thumb": "icons/ru/thumbs/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ],
-        "description": "<p>Взрывное ускорение — гибридный мод для дробовиков, который увеличивает скорострельность и  пронзающий урон.</p>",
-        "icon": "icons/ru/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Blast",
+        "description": "<p>The Accelerated Blast mod increases the fire rate of Shotguns by 15% and  Puncture damage by 15% per rank for a maximum of 60% at rank 3 for both values.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.png",
+        "item_name": "Взрывное ускорение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
+            }
+        ],
+        "description": "<p>Взрывное ускорение — гибридный мод для дробовиков, который увеличивает скорострельность и  пронзающий урон.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

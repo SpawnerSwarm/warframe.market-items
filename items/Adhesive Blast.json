@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Adhesive Blast",
-        "description": "<p>Adhesive Blast allows weapon-fired grenades to stick to surfaces.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Адгезивный взрыв",
-        "thumb": "icons/ru/thumbs/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D0%B3%D0%B5%D0%B7%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
-        "drop": [
-            {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
-            },
-            {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             }
         ],
-        "description": "<p>Адгезивный Взрыв — редкий мод для установок, позволяющий снарядам прилипать к поверхности. </p>",
-        "icon": "icons/ru/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast",
+        "description": "<p>Adhesive Blast allows weapon-fired grenades to stick to surfaces.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.png",
+        "item_name": "Адгезивный взрыв",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D0%B3%D0%B5%D0%B7%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "thumb": "icons/ru/thumbs/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedAncient Disruptor",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            }
+        ],
+        "description": "<p>Адгезивный Взрыв — редкий мод для установок, позволяющий снарядам прилипать к поверхности. </p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

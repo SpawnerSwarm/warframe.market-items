@@ -12,67 +12,67 @@
     "tradable": true,
     "en": {
         "item_name": "Flame Repellent",
-        "description": "<p>Flame Repellent increases the  Heat resistance of a Warframe's health and shields.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flame_Repellent",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman Eximus"
+                "name": "GrineerGuardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Огнестойкость",
-        "thumb": "icons/ru/thumbs/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
-        "drop": [
-            {
-                "link": null,
-                "name": "GrineerFlameblade"
-            },
-            {
-                "link": null,
-                "name": "GrineerGuardsman Eximus"
-            },
-            {
-                "link": null,
-                "name": "InfestedAncient Healer"
-            },
-            {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Containers"
-            },
-            {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ],
-        "description": "<p>Огнестойкость — обычный мод для варфреймов, который увеличивает сопротивление  Огненному урону.</p>",
-        "icon": "icons/ru/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Flame_Repellent",
+        "description": "<p>Flame Repellent increases the  Heat resistance of a Warframe's health and shields.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.png",
+        "item_name": "Огнестойкость",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "thumb": "icons/ru/thumbs/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "GrineerGuardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "InfestedAncient Healer",
+                "link": null
+            },
+            {
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ],
+        "description": "<p>Огнестойкость — обычный мод для варфреймов, который увеличивает сопротивление  Огненному урону.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

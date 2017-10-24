@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Furious Javelin",
-        "description": "<p>Furious Javelin is a Warframe Augment Mod that temporarily increases Excalibur's melee damage for every enemy hit by Radial Javelin.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Furious_Javelin",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Яростное копьё",
-        "thumb": "icons/ru/thumbs/Furious_Javelin.9fd8a16654539013a4c7fa2ebe622745.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BF%D1%8C%D1%91",
-        "drop": [
-            {
-                "link": null,
-                "name": "Steel Meridian"
-            },
-            {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             }
         ],
-        "description": "<p>Яростное Копьё — мод-аугмент для варфрейма Экскалибур и Экскалибур Прайм, улучшающий его способность Сияющее Копьё. Каждый подверженный умению противник будет увеличивать урон варфрейма в ближнем бою.</p>",
-        "icon": "icons/ru/Furious_Javelin.9fd8a16654539013a4c7fa2ebe622745.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Furious_Javelin",
+        "description": "<p>Furious Javelin is a Warframe Augment Mod that temporarily increases Excalibur's melee damage for every enemy hit by Radial Javelin.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Furious_Javelin.9fd8a16654539013a4c7fa2ebe622745.png",
+        "item_name": "Яростное копьё",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BF%D1%8C%D1%91",
+        "thumb": "icons/ru/thumbs/Furious_Javelin.9fd8a16654539013a4c7fa2ebe622745.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            }
+        ],
+        "description": "<p>Яростное Копьё — мод-аугмент для варфрейма Экскалибур и Экскалибур Прайм, улучшающий его способность Сияющее Копьё. Каждый подверженный умению противник будет увеличивать урон варфрейма в ближнем бою.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

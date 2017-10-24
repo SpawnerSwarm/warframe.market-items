@@ -11,33 +11,33 @@
     "tradable": true,
     "en": {
         "item_name": "Narrow Barrel",
-        "description": "<p>Narrow Barrel is a shotgun mod that temporarily increases accuracy while aiming upon hitting an enemy.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Narrow_Barrel",
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Narrow Barrel is a shotgun mod that temporarily increases accuracy while aiming upon hitting an enemy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Narrow_Barrel"
     },
     "ru": {
         "item_name": "Узкий ствол Ствол",
-        "description": "<p>Узкий Ствол — условный мод для дробовиков, который увеличивает точность оружия при прицеливании на определённый промежуток времени после нанесении урона противнику.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B7%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B2%D0%BE%D0%BB",
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Узкий Ствол — условный мод для дробовиков, который увеличивает точность оружия при прицеливании на определённый промежуток времени после нанесении урона противнику.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B7%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B2%D0%BE%D0%BB"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

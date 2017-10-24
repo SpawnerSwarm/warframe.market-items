@@ -11,147 +11,147 @@
     "tradable": true,
     "en": {
         "item_name": "Tether Grenades",
-        "description": "<p>Tether Grenades is an Index Mod for the Penta that causes launched grenades to stick to level geometry and pull nearby enemies. Additionally, grenades will stop bouncing from enemies, and instead they will fly straight through them. It also adds delayed self-detonation to grenades.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tether_Grenades",
         "drop": [
             {
-                "link": null,
-                "name": "002-ER (1.25%)"
+                "name": "002-ER (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Armis Ulta (1.25%)"
+                "name": "Armis Ulta (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Auditor (1.25%)"
+                "name": "Auditor (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Azoth (1.25%)"
+                "name": "Azoth (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Derim Zahn (1.25%)"
+                "name": "Derim Zahn (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dru Pesfor (1.25%)"
+                "name": "Dru Pesfor (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jad Teran (1.25%)"
+                "name": "Jad Teran (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jen Dro (1.25%)"
+                "name": "Jen Dro (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lockjaw & Sol (1.25%)"
+                "name": "Lockjaw & Sol (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "M-W.A.M. (1.25%)"
+                "name": "M-W.A.M. (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nako Xol (1.25%)"
+                "name": "Nako Xol (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Pelna Cade (1.25%)"
+                "name": "Pelna Cade (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Rana Del (1.25%)"
+                "name": "Rana Del (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor RX (1.25%)"
+                "name": "Raptor RX (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tia Mayn (1.25%)"
+                "name": "Tia Mayn (1.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ved Xol (1.25%)"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Связывающие Гранаты",
-        "thumb": "icons/ru/thumbs/Tether_Grenades.42e532d5629ef742593255ff1b5c7d56.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%93%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D1%8B",
-        "drop": [
-            {
-                "link": null,
-                "name": "002-ER (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Armis Ulta (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Auditor (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Azoth (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Derim Zahn (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Dru Pesfor (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Jad Teran (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Jen Dro (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Lockjaw & Sol (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "M-W.A.M. (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Nako Xol (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Pelna Cade (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Rana Del (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Raptor RX (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Tia Mayn (1.25%)"
-            },
-            {
-                "link": null,
-                "name": "Ved Xol (1.25%)"
+                "name": "Ved Xol (1.25%)",
+                "link": null
             }
         ],
-        "description": "<p>Связывающие гранаты — редкий мод для оружия Пента и Секура Пента, который позволяет снарядам связывать врагов в определенном радиусе, а также значительно изменяет их механику снарядов.</p>",
-        "icon": "icons/ru/Tether_Grenades.42e532d5629ef742593255ff1b5c7d56.png"
+        "description": "<p>Tether Grenades is an Index Mod for the Penta that causes launched grenades to stick to level geometry and pull nearby enemies. Additionally, grenades will stop bouncing from enemies, and instead they will fly straight through them. It also adds delayed self-detonation to grenades.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tether_Grenades"
+    },
+    "ru": {
+        "icon": "icons/ru/Tether_Grenades.42e532d5629ef742593255ff1b5c7d56.png",
+        "item_name": "Связывающие Гранаты",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%93%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D1%8B",
+        "thumb": "icons/ru/thumbs/Tether_Grenades.42e532d5629ef742593255ff1b5c7d56.128x128.png",
+        "drop": [
+            {
+                "name": "002-ER (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Armis Ulta (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Auditor (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Azoth (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Derim Zahn (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Dru Pesfor (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Jad Teran (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Jen Dro (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Lockjaw & Sol (1.25%)",
+                "link": null
+            },
+            {
+                "name": "M-W.A.M. (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Nako Xol (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Pelna Cade (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Rana Del (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Raptor RX (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Tia Mayn (1.25%)",
+                "link": null
+            },
+            {
+                "name": "Ved Xol (1.25%)",
+                "link": null
+            }
+        ],
+        "description": "<p>Связывающие гранаты — редкий мод для оружия Пента и Секура Пента, который позволяет снарядам связывать врагов в определенном радиусе, а также значительно изменяет их механику снарядов.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,
