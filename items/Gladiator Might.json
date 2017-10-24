@@ -1,0 +1,37 @@
+{
+    "_id": "59dfeb5c115f1d887cfd7ab5",
+    "tags": [
+        "mod",
+        "gladiator"
+    ],
+    "icon": "icons/en/Gladiator_Might.e0d89210119ac4e43b4bf5742ca590bd.png",
+    "thumb": "icons/en/thumbs/Gladiator_Might.e0d89210119ac4e43b4bf5742ca590bd.128x128.png",
+    "icon_format": "port",
+    "url_name": "gladiator_might",
+    "tradable": true,
+    "en": {
+        "item_name": "Gladiator Might",
+        "drop": [
+            {
+                "name": "Aerial Commander (0.33%)",
+                "link": null
+            }
+        ],
+        "description": "<p>Gladiator Might is a set mod that increases the critical damage of a melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Might"
+    },
+    "ru": {
+        "item_name": "Гладиатор Мощь",
+        "drop": [
+            {
+                "name": "Aerial Commander (0.33%)",
+                "link": null
+            }
+        ],
+        "description": "<p>Ближний Бой: +40% Критический урон</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Might"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

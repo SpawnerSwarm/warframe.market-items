@@ -1,0 +1,23 @@
+{
+    "_id": "59eba86952f90ed715e14157",
+    "tags": [
+        "gems"
+    ],
+    "icon": "icons/en/Veridos.02f4d31b695ae563068dd7749e377fad.png",
+    "thumb": "icons/en/thumbs/Veridos.02f4d31b695ae563068dd7749e377fad.128x128.png",
+    "icon_format": "port",
+    "url_name": "veridos",
+    "tradable": true,
+    "en": {
+        "item_name": "Veridos",
+        "drop": [],
+        "description": "<p>May be traded for Ostron standing. May be refined into Marquise Veridos.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Veridos"
+    },
+    "ru": {
+        "item_name": "Верид",
+        "drop": [],
+        "description": "<p>Верид - драгоценный камень, который можно найти и добыть с помощью лазерного резака в жилах синего цвета на локации Равнины Эйдолона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D1%80%D0%B8%D0%B4"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": "592c30c5011e88f094afec7b",
+    "tags": [
+        "void relic"
+    ],
+    "url_name": "meso_v4_relic",
+    "tradable": true,
+    "en": {
+        "item_name": "Meso V4 Relic",
+        "drop": [],
+        "description": "",
+        "wiki_link": ""
+    },
+    "ru": {
+        "item_name": "Мезо V4",
+        "drop": [],
+        "description": "",
+        "wiki_link": ""
+    }
+}
