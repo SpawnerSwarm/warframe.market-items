@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Repeater Clip",
-        "description": "<p>Repeater Clip is an uncommon Shotgun mod that increases Fire Rate while aiming for a brief time upon reloading.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Повторитель обоймы",
-        "thumb": "icons/ru/thumbs/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D1%8B",
-        "drop": [
-            {
-                "link": null,
-                "name": "Angst"
-            },
-            {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ],
-        "description": "<p>Повторитель Обоймы — условный мод для дробовиков, который увеличивает скорострельность при прицеливании на определенный промежуток времени после перезарядки.</p>",
-        "icon": "icons/ru/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.png"
+        "description": "<p>Repeater Clip is an uncommon Shotgun mod that increases Fire Rate while aiming for a brief time upon reloading.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip"
+    },
+    "ru": {
+        "icon": "icons/ru/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.png",
+        "item_name": "Повторитель обоймы",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D1%8B",
+        "thumb": "icons/ru/thumbs/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.128x128.png",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ],
+        "description": "<p>Повторитель Обоймы — условный мод для дробовиков, который увеличивает скорострельность при прицеливании на определенный промежуток времени после перезарядки.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

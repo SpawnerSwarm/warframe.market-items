@@ -12,51 +12,51 @@
     "tradable": true,
     "en": {
         "item_name": "Stabilizer",
-        "description": "<p>The Stabilizer mod is a rifle mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at Rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stabilizer",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2-3Survival Reward"
+                "name": "Tier 2-3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Excavation Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Стабилизатор",
-        "thumb": "icons/ru/thumbs/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80",
-        "drop": [
-            {
-                "link": null,
-                "name": "Lephantis"
-            },
-            {
-                "link": null,
-                "name": "Tier 2-3Survival Reward"
-            },
-            {
-                "link": null,
-                "name": "Spy 2.0 Reward"
-            },
-            {
-                "link": null,
-                "name": "Tier 3Excavation Reward"
+                "name": "Tier 3Excavation Reward",
+                "link": null
             }
         ],
-        "description": "<p>Стабилизатор — редкий мод для основного оружия, который уменьшает отдачу.</p>",
-        "icon": "icons/ru/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Stabilizer",
+        "description": "<p>The Stabilizer mod is a rifle mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at Rank 3.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.png",
+        "item_name": "Стабилизатор",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80",
+        "thumb": "icons/ru/thumbs/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.128x128.png",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Tier 2-3Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            },
+            {
+                "name": "Tier 3Excavation Reward",
+                "link": null
+            }
+        ],
+        "description": "<p>Стабилизатор — редкий мод для основного оружия, который уменьшает отдачу.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

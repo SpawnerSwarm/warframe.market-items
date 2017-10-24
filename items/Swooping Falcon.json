@@ -11,35 +11,35 @@
     "tradable": true,
     "en": {
         "item_name": "Swooping Falcon",
-        "description": "<p>Swooping Falcon is a stance mod for swords</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Swooping_Falcon",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (40-60)"
+                "name": "Bounty (40-60)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Aerial Commander (0.02%)"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Пикирующий Сокол",
-        "thumb": "icons/ru/thumbs/Swooping_Falcon.7698e3b0d5c2926ca1220e1d6a0bd900.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB",
-        "drop": [
-            {
-                "link": null,
-                "name": "Bounty (40-60)"
-            },
-            {
-                "link": null,
-                "name": "Aerial Commander (0.02%)"
+                "name": "Aerial Commander (0.02%)",
+                "link": null
             }
         ],
-        "description": "<p>Пикирующий Сокол — это редкая стойка, предназначенная для оружия ближнего боя класса Мечи. Увеличение ранга открывает новые комбинации.</p>",
-        "icon": "icons/ru/Swooping_Falcon.7698e3b0d5c2926ca1220e1d6a0bd900.png"
+        "description": "<p>Swooping Falcon is a stance mod for swords</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Swooping_Falcon"
+    },
+    "ru": {
+        "icon": "icons/ru/Swooping_Falcon.7698e3b0d5c2926ca1220e1d6a0bd900.png",
+        "item_name": "Пикирующий Сокол",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB",
+        "thumb": "icons/ru/thumbs/Swooping_Falcon.7698e3b0d5c2926ca1220e1d6a0bd900.128x128.png",
+        "drop": [
+            {
+                "name": "Bounty (40-60)",
+                "link": null
+            },
+            {
+                "name": "Aerial Commander (0.02%)",
+                "link": null
+            }
+        ],
+        "description": "<p>Пикирующий Сокол — это редкая стойка, предназначенная для оружия ближнего боя класса Мечи. Увеличение ранга открывает новые комбинации.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

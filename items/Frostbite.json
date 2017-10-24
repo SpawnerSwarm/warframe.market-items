@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Frostbite",
-        "description": "<p>The Frostbite mod increases both the  Cold damage and Status Chance of a sidearm by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Frostbite",
         "drop": [
             {
-                "link": null,
-                "name": "Spy 2.0 reward"
+                "name": "Spy 2.0 reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Reward fromOperation Cryotic Front"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Обморожение",
-        "thumb": "icons/ru/thumbs/Frostbite.6870d89e932383a58a083313f2c74102.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Spy 2.0 reward"
-            },
-            {
-                "link": null,
-                "name": "Reward fromOperation Cryotic Front"
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
             }
         ],
-        "description": "<p>Обморожение — гибридный мод для вторичного оружия, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
-        "icon": "icons/ru/Frostbite.6870d89e932383a58a083313f2c74102.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Frostbite",
+        "description": "<p>The Frostbite mod increases both the  Cold damage and Status Chance of a sidearm by 15% per rank for a maximum of 60% at rank 3.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Frostbite.6870d89e932383a58a083313f2c74102.png",
+        "item_name": "Обморожение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Frostbite.6870d89e932383a58a083313f2c74102.128x128.png",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ],
+        "description": "<p>Обморожение — гибридный мод для вторичного оружия, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

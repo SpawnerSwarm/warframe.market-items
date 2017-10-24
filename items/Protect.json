@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Protect",
-        "description": "<p>Protect mod allows Raksa Kubrow to come to the defense of its master, replenishing both their shields and its own.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Protect",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Защита",
-        "thumb": "icons/ru/thumbs/Protect.9ccfe00bb7c202c589b77a8a7e32f32c.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0",
-        "drop": [
-            {
-                "link": null,
-                "name": "Drahk"
-            },
-            {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ],
-        "description": "<p>Защита - мод-заповедь для Кубрау Ракса, позволяющий восполнять щиты Хозяину, когда они на нуле.</p>",
-        "icon": "icons/ru/Protect.9ccfe00bb7c202c589b77a8a7e32f32c.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Protect",
+        "description": "<p>Protect mod allows Raksa Kubrow to come to the defense of its master, replenishing both their shields and its own.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Protect.9ccfe00bb7c202c589b77a8a7e32f32c.png",
+        "item_name": "Защита",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0",
+        "thumb": "icons/ru/thumbs/Protect.9ccfe00bb7c202c589b77a8a7e32f32c.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ],
+        "description": "<p>Защита - мод-заповедь для Кубрау Ракса, позволяющий восполнять щиты Хозяину, когда они на нуле.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

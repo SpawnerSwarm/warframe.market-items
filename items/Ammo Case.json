@@ -11,35 +11,35 @@
     "tradable": true,
     "en": {
         "item_name": "Ammo Case",
-        "description": "<p>Ammo Case allows the Carrier sentinel to convert any unused ammo type into ammo for the currently equipped weapon and provides increased ammunition capacity.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher (1.14%)"
+                "name": "Corrupted Butcher (1.14%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer (1.14%)"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Оружейный Ящик",
-        "thumb": "icons/ru/thumbs/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%8F%D1%89%D0%B8%D0%BA",
-        "drop": [
-            {
-                "link": null,
-                "name": "Corrupted Butcher (1.14%)"
-            },
-            {
-                "link": null,
-                "name": "Corrupted Lancer (1.14%)"
+                "name": "Corrupted Lancer (1.14%)",
+                "link": null
             }
         ],
-        "description": "<p>Мод-заповедь для Стража Носитель, который увеличивает вместимость амуниции и конвертирует подбираемые боеприпасы в используемые установленным оружием после небольшой задержки.</p>",
-        "icon": "icons/ru/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.png"
+        "description": "<p>Ammo Case allows the Carrier sentinel to convert any unused ammo type into ammo for the currently equipped weapon and provides increased ammunition capacity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
+    },
+    "ru": {
+        "icon": "icons/ru/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.png",
+        "item_name": "Оружейный Ящик",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%8F%D1%89%D0%B8%D0%BA",
+        "thumb": "icons/ru/thumbs/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Butcher (1.14%)",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer (1.14%)",
+                "link": null
+            }
+        ],
+        "description": "<p>Мод-заповедь для Стража Носитель, который увеличивает вместимость амуниции и конвертирует подбираемые боеприпасы в используемые установленным оружием после небольшой задержки.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

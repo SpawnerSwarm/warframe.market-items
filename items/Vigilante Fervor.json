@@ -11,33 +11,33 @@
     "tradable": true,
     "en": {
         "item_name": "Vigilante Fervor",
-        "description": "<p>Vigilante Fervor is a set mod that increases Fire Rate for primary weapons.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Fervor",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (20-40)"
+                "name": "Bounty (20-40)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Plains Commander (0.33%)"
+                "name": "Plains Commander (0.33%)",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Vigilante Fervor is a set mod that increases Fire Rate for primary weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Fervor"
     },
     "ru": {
         "item_name": "Виджиланте Запал",
-        "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Fervor",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (20-40)"
+                "name": "Bounty (20-40)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Plains Commander (0.33%)"
+                "name": "Plains Commander (0.33%)",
+                "link": null
             }
-        ]
+        ],
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Fervor"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

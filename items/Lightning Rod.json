@@ -12,51 +12,51 @@
     "tradable": true,
     "en": {
         "item_name": "Lightning Rod",
-        "description": "<p>Lightning Rod increases the Electrical Damage resistance of a Warframe's health and shields.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Rod",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Громоотвод",
-        "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%BE%D1%82%D0%B2%D0%BE%D0%B4",
-        "drop": [
-            {
-                "link": null,
-                "name": "GrineerScorpion"
-            },
-            {
-                "link": null,
-                "name": "InfestedAncient Healer"
-            },
-            {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ],
-        "description": "<p>Громоотвод — обычный мод для варфрейма, который увеличивает сопротивление  Электрическому урону.</p>",
-        "icon": "icons/ru/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Rod",
+        "description": "<p>Lightning Rod increases the Electrical Damage resistance of a Warframe's health and shields.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.png",
+        "item_name": "Громоотвод",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%BE%D1%82%D0%B2%D0%BE%D0%B4",
+        "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerScorpion",
+                "link": null
+            },
+            {
+                "name": "InfestedAncient Healer",
+                "link": null
+            },
+            {
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ],
+        "description": "<p>Громоотвод — обычный мод для варфрейма, который увеличивает сопротивление  Электрическому урону.</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

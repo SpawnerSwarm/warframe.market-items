@@ -13,25 +13,25 @@
     "tradable": true,
     "en": {
         "item_name": "Empowered Blades",
-        "description": "<p>Empowered Blades is an aura that increases status chance and status damage (where applicable) of charged melee attacks, at the cost of draining a portion of shields per hit.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Empowered_Blades",
         "drop": [
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Empowered_Blades",
+        "description": "<p>Empowered Blades is an aura that increases status chance and status damage (where applicable) of charged melee attacks, at the cost of draining a portion of shields per hit.</p>"
     },
     "ru": {
         "item_name": "Запитанные клинки Клинок",
-        "description": "<p>Запитанные клинки — редкая аура, усиливающая заряженные атаки для всех членов команды. Заряженные атаки будут наносить больший урон и иметь повышенный шанс срабатывания негативного статуса на противнике, взамен тратя небольшое количество щитов при её совершении.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8",
         "drop": [
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Запитанные клинки — редкая аура, усиливающая заряженные атаки для всех членов команды. Заряженные атаки будут наносить больший урон и иметь повышенный шанс срабатывания негативного статуса на противнике, взамен тратя небольшое количество щитов при её совершении.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

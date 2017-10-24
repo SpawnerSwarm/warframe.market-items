@@ -19,35 +19,35 @@
     ],
     "set_root": false,
     "en": {
-        "item_name": "Lex Prime Receiver",
-        "description": "<p>The Lex Prime is the primed version of the Lex heavy pistol, featuring improved stats.</p>",
         "codex": "The Lex Prime is a powerful, accurate pistol that has a low fire rate and clip size. Very efficient at long range.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Lex_Prime",
+        "item_name": "Lex Prime Receiver",
         "drop": [
             {
-                "link": null,
-                "name": "Lith M1 Common"
+                "name": "Lith M1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N2 Common"
+                "name": "Axi N2 Common",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Lex_Prime",
+        "description": "<p>The Lex Prime is the primed version of the Lex heavy pistol, featuring improved stats.</p>"
     },
     "ru": {
         "item_name": "Лекс прайм Приемник",
-        "description": "<p>Лекс Прайм - это мощный и точный пистолет с низкой скорострельностью и малым размером обоймы. Очень эффективен на дальних дистанциях.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%BA%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
         "drop": [
             {
-                "link": null,
-                "name": "Lith M1 Common"
+                "name": "Lith M1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N2 Common"
+                "name": "Axi N2 Common",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%BA%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "description": "<p>Лекс Прайм - это мощный и точный пистолет с низкой скорострельностью и малым размером обоймы. Очень эффективен на дальних дистанциях.</p>"
     },
     "mastery_level": 0,
     "ducats": 15,

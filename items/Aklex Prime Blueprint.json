@@ -17,28 +17,28 @@
     ],
     "set_root": false,
     "en": {
+        "codex": "Savage the enemy with a Lex Prime in each hand.",
         "item_name": "Aklex Prime Blueprint",
-        "description": "<p>Aklex Prime is the Primed version of Aklex, and consists of a pair of hard hitting semi-automatic pistols. Functionally very similar to its single handed counterpart, the Lex Prime, the Aklex Prime trades some accuracy and reload speed for improved rate of fire and magazine capacity.</p>",
         "drop": [
             {
-                "link": null,
-                "name": "Axi A2 Uncommon"
+                "name": "Axi A2 Uncommon",
+                "link": null
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Aklex_Prime",
-        "codex": "Savage the enemy with a Lex Prime in each hand."
+        "description": "<p>Aklex Prime is the Primed version of Aklex, and consists of a pair of hard hitting semi-automatic pistols. Functionally very similar to its single handed counterpart, the Lex Prime, the Aklex Prime trades some accuracy and reload speed for improved rate of fire and magazine capacity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Aklex_Prime"
     },
     "ru": {
+        "codex": "Не оставляйте врагу ни шанса, удерживая по Лексу Прайм в каждой руке.",
         "item_name": "Аклекс Прайм Чертеж",
-        "description": "<p>Аклекс Прайм — это улучшенная версия парных пистолетов Аклекс, которая превосходит их практически по всем характеристикам. Обладает значительным Пронзание черный пронзающим уроном, а также высокими шансами на критическую и статусную атаки.</p>",
         "drop": [
             {
-                "link": null,
-                "name": "Axi A2 Uncommon"
+                "name": "Axi A2 Uncommon",
+                "link": null
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D0%BB%D0%B5%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "codex": "Не оставляйте врагу ни шанса, удерживая по Лексу Прайм в каждой руке."
+        "description": "<p>Аклекс Прайм — это улучшенная версия парных пистолетов Аклекс, которая превосходит их практически по всем характеристикам. Обладает значительным Пронзание черный пронзающим уроном, а также высокими шансами на критическую и статусную атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D0%BB%D0%B5%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "mastery_level": 8,
     "ducats": 45,

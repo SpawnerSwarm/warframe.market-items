@@ -12,83 +12,83 @@
     "tradable": true,
     "en": {
         "item_name": "Hellfire",
-        "description": "<p>The Hellfire mod increases  Heat damage by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hellfire",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Turret"
+                "name": "Lynx Turret",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Roller"
+                "name": "Roller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Адское пламя",
-        "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
-        "drop": [
-            {
-                "link": null,
-                "name": "Ambulas"
-            },
-            {
-                "link": null,
-                "name": "Lynx Osprey"
-            },
-            {
-                "link": null,
-                "name": "Lynx Turret"
-            },
-            {
-                "link": null,
-                "name": "Roller"
-            },
-            {
-                "link": null,
-                "name": "GrineerRoller Sentry"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Container"
-            },
-            {
-                "link": null,
-                "name": "Infested T3Defense Reward"
-            },
-            {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ],
-        "description": "<p>Адское Пламя — необычный мод для основного оружия, который добавляет оружию  огненный урон.</p>",
-        "icon": "icons/ru/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Hellfire",
+        "description": "<p>The Hellfire mod increases  Heat damage by 15% per rank for a maximum of 90% at rank 5.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png",
+        "item_name": "Адское пламя",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
+        "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
+        "drop": [
+            {
+                "name": "Ambulas",
+                "link": null
+            },
+            {
+                "name": "Lynx Osprey",
+                "link": null
+            },
+            {
+                "name": "Lynx Turret",
+                "link": null
+            },
+            {
+                "name": "Roller",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller Sentry",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Infested T3Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ],
+        "description": "<p>Адское Пламя — необычный мод для основного оружия, который добавляет оружию  огненный урон.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

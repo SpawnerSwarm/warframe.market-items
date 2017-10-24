@@ -12,43 +12,43 @@
     "tradable": true,
     "en": {
         "item_name": "Cleaving Whirlwind",
-        "description": "<p>Cleaving Whirlwind is a Stance mod for Heavy Blade melee weapons. It is a momentum-based stance whose slow, sweeping attacks deal high damage in coned or radial areas around the wielder.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Cleaving_Whirlwind",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Рассекающий ураган",
-        "thumb": "icons/ru/thumbs/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
-        "drop": [
-            {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
-            },
-            {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
-            },
-            {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ],
-        "description": "<p>Рассекающий Ураган — это редкая стойка, предназначенная для оружия ближнего боя класса Тяжелые клинки. Увеличение ранга открывает новые комбинации.</p>",
-        "icon": "icons/ru/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Cleaving_Whirlwind",
+        "description": "<p>Cleaving Whirlwind is a Stance mod for Heavy Blade melee weapons. It is a momentum-based stance whose slow, sweeping attacks deal high damage in coned or radial areas around the wielder.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.png",
+        "item_name": "Рассекающий ураган",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
+        "thumb": "icons/ru/thumbs/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedAncient Disruptor",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ],
+        "description": "<p>Рассекающий Ураган — это редкая стойка, предназначенная для оружия ближнего боя класса Тяжелые клинки. Увеличение ранга открывает новые комбинации.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

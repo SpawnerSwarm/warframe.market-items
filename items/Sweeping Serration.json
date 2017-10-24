@@ -12,43 +12,43 @@
     "tradable": true,
     "en": {
         "item_name": "Sweeping Serration",
-        "description": "<p>The Sweeping Serration mod increases  Slash damage of a shotgun by 20% per rank for a maximum of 120% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sweeping_Serration",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Gate Crash reward"
+                "name": "Operation: Gate Crash reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Emergency ExitTactical Alert reward"
+                "name": "Emergency ExitTactical Alert reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Зазубренное рассечение",
-        "thumb": "icons/ru/thumbs/Sweeping_Serration.3156cada9564768ddb9d2280f18fefe8.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%B7%D1%83%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Operation: Gate Crash reward"
-            },
-            {
-                "link": null,
-                "name": "Emergency ExitTactical Alert reward"
-            },
-            {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ],
-        "description": "<p>Зазубренное Рассечение — редкий мод для дробовиков, который увеличивает  режущий урон.</p>",
-        "icon": "icons/ru/Sweeping_Serration.3156cada9564768ddb9d2280f18fefe8.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Sweeping_Serration",
+        "description": "<p>The Sweeping Serration mod increases  Slash damage of a shotgun by 20% per rank for a maximum of 120% at rank 5.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Sweeping_Serration.3156cada9564768ddb9d2280f18fefe8.png",
+        "item_name": "Зазубренное рассечение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%B7%D1%83%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Sweeping_Serration.3156cada9564768ddb9d2280f18fefe8.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Gate Crash reward",
+                "link": null
+            },
+            {
+                "name": "Emergency ExitTactical Alert reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ],
+        "description": "<p>Зазубренное Рассечение — редкий мод для дробовиков, который увеличивает  режущий урон.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

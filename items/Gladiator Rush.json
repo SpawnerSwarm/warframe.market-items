@@ -11,33 +11,33 @@
     "tradable": true,
     "en": {
         "item_name": "Gladiator Rush",
-        "description": "<p>Gladiator Rush is a set mod that extends the duration of the Melee Combo Counter.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Rush",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (30-50)"
+                "name": "Bounty (30-50)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Aerial Commander (1.14%)"
+                "name": "Aerial Commander (1.14%)",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Gladiator Rush is a set mod that extends the duration of the Melee Combo Counter.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Rush"
     },
     "ru": {
         "item_name": "Гладиатор Спешка",
-        "description": "<p>Ближний Бой: Увеличенная продолжительность комбо на 4сек.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Rush",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (30-50 )"
+                "name": "Bounty (30-50 )",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Aerial Commander (1.14%)"
+                "name": "Aerial Commander (1.14%)",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Ближний Бой: Увеличенная продолжительность комбо на 4сек.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Rush"
     },
     "rarity": "common",
     "mod_max_rank": 5,

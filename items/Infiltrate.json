@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Infiltrate",
-        "description": "<p>Infiltrate is a Warframe Augment Mod for Ivara that allows her to pass through security barriers unharmed, and increases her movement speed while Prowl is active. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Infiltrate",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Проникновение",
-        "thumb": "icons/ru/thumbs/Infiltrate.b67a260b06d363b1c994910ed277c7f1.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "Cephalon Suda"
-            },
-            {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ],
-        "description": "<p>Проникновение — мод-аугмент для варфрейма Ивара, улучшающий её способность Обыск. Ивара получает способность миновать любые лазерные преграды, а также получает прибавку к скорости передвижения во время активной способности Обыск. Учитывайте, что на бонус к скорости передвижения влияет сила способностей Ивары (т.е. при 100% силы будет бонус в +25%, при 200% силы бонус будет составлять +50% и т.д.)</p>",
-        "icon": "icons/ru/Infiltrate.b67a260b06d363b1c994910ed277c7f1.png"
+        "description": "<p>Infiltrate is a Warframe Augment Mod for Ivara that allows her to pass through security barriers unharmed, and increases her movement speed while Prowl is active. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Infiltrate"
+    },
+    "ru": {
+        "icon": "icons/ru/Infiltrate.b67a260b06d363b1c994910ed277c7f1.png",
+        "item_name": "Проникновение",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Infiltrate.b67a260b06d363b1c994910ed277c7f1.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ],
+        "description": "<p>Проникновение — мод-аугмент для варфрейма Ивара, улучшающий её способность Обыск. Ивара получает способность миновать любые лазерные преграды, а также получает прибавку к скорости передвижения во время активной способности Обыск. Учитывайте, что на бонус к скорости передвижения влияет сила способностей Ивары (т.е. при 100% силы будет бонус в +25%, при 200% силы бонус будет составлять +50% и т.д.)</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

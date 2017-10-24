@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Pistol Amp",
-        "description": "<p>Pistol Amp is an aura that that increases the damage dealt with Secondary Weapons.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Amp",
         "drop": [
             {
-                "link": null,
-                "name": "Knave Specter"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Усилитель: пистолет",
-        "thumb": "icons/ru/thumbs/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
-        "drop": [
-            {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             }
         ],
-        "description": "<p>Усилитель: пистолет — необычная аура, увеличивающая урон вторичного оружия для всех членов команды. </p>",
-        "icon": "icons/ru/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Amp",
+        "description": "<p>Pistol Amp is an aura that that increases the damage dealt with Secondary Weapons.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.png",
+        "item_name": "Усилитель: пистолет",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
+        "thumb": "icons/ru/thumbs/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.128x128.png",
+        "drop": [
+            {
+                "name": "Knave Specter",
+                "link": null
+            }
+        ],
+        "description": "<p>Усилитель: пистолет — необычная аура, увеличивающая урон вторичного оружия для всех членов команды. </p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

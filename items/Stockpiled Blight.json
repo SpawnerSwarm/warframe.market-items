@@ -11,35 +11,35 @@
     "tradable": true,
     "en": {
         "item_name": "Stockpiled Blight",
-        "description": "<p>Stockpiled Blight Increases the magazine size of the Kunai and also adds a Blight effect.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stockpiled_Blight",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil Offering"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Концентрированная Отрава",
-        "thumb": "icons/ru/thumbs/Stockpiled_Blight.55f975934823d9ed93cf1b361315c198.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%9E%D1%82%D1%80%D0%B0%D0%B2%D0%B0",
-        "drop": [
-            {
-                "link": null,
-                "name": "Операция: Возрождение Амбуласа"
-            },
-            {
-                "link": null,
-                "name": "Красная Вуаль"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ],
-        "description": "<p>Концентрированная Отрава — Мод-Аугмент для оружия Кунаи, который увеличивает обойму и даёт прирост синдикат-эффекта — Гниль.</p>",
-        "icon": "icons/ru/Stockpiled_Blight.55f975934823d9ed93cf1b361315c198.png"
+        "description": "<p>Stockpiled Blight Increases the magazine size of the Kunai and also adds a Blight effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stockpiled_Blight"
+    },
+    "ru": {
+        "icon": "icons/ru/Stockpiled_Blight.55f975934823d9ed93cf1b361315c198.png",
+        "item_name": "Концентрированная Отрава",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%9E%D1%82%D1%80%D0%B0%D0%B2%D0%B0",
+        "thumb": "icons/ru/thumbs/Stockpiled_Blight.55f975934823d9ed93cf1b361315c198.128x128.png",
+        "drop": [
+            {
+                "name": "Операция: Возрождение Амбуласа",
+                "link": null
+            },
+            {
+                "name": "Красная Вуаль",
+                "link": null
+            }
+        ],
+        "description": "<p>Концентрированная Отрава — Мод-Аугмент для оружия Кунаи, который увеличивает обойму и даёт прирост синдикат-эффекта — Гниль.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Path of Statues",
-        "description": "<p>Path of Statues is a Warframe Augment Mod for Atlas, that makes Landslide leave a petrifying path for a short period.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Path_of_Statues",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Тропа статуй",
-        "thumb": "icons/ru/thumbs/Path_of_Statues.11350ba0e1e8f153d2cda4b604fa7771.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D0%B9",
-        "drop": [
-            {
-                "link": null,
-                "name": "Steel Meridian"
-            },
-            {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ],
-        "description": "<p>Тропа статуй - мод для Атласа, изменяющий способность Оползень. Оползень оставляет след, который обращает врагов в камень.</p>",
-        "icon": "icons/ru/Path_of_Statues.11350ba0e1e8f153d2cda4b604fa7771.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Path_of_Statues",
+        "description": "<p>Path of Statues is a Warframe Augment Mod for Atlas, that makes Landslide leave a petrifying path for a short period.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Path_of_Statues.11350ba0e1e8f153d2cda4b604fa7771.png",
+        "item_name": "Тропа статуй",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D0%B9",
+        "thumb": "icons/ru/thumbs/Path_of_Statues.11350ba0e1e8f153d2cda4b604fa7771.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ],
+        "description": "<p>Тропа статуй - мод для Атласа, изменяющий способность Оползень. Оползень оставляет след, который обращает врагов в камень.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

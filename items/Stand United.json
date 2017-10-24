@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Stand United",
-        "description": "<p>Stand United is an Aura that increases Armor.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stand_United",
         "drop": [
             {
-                "link": null,
-                "name": "Orphid Specter"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Единство",
-        "thumb": "icons/ru/thumbs/Stand_United.7e4207f4c2932b4c6d8ec7f618d5c373.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
-        "drop": [
-            {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ],
-        "description": "<p>Единство — необычная аура, увеличивающая показатель брони для всех членов команды.</p>",
-        "icon": "icons/ru/Stand_United.7e4207f4c2932b4c6d8ec7f618d5c373.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Stand_United",
+        "description": "<p>Stand United is an Aura that increases Armor.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Stand_United.7e4207f4c2932b4c6d8ec7f618d5c373.png",
+        "item_name": "Единство",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
+        "thumb": "icons/ru/thumbs/Stand_United.7e4207f4c2932b4c6d8ec7f618d5c373.128x128.png",
+        "drop": [
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ],
+        "description": "<p>Единство — необычная аура, увеличивающая показатель брони для всех членов команды.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

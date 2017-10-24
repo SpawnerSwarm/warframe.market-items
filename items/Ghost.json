@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Ghost",
-        "description": "<p>Ghost allows the Shade sentinel to cloak itself and the user when hostile entities are within range, rendering themselves invisible to enemies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ghost",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Призрак",
-        "thumb": "icons/ru/thumbs/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA",
-        "drop": [
-            {
-                "link": null,
-                "name": "InfestedVolatile Runner"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ],
-        "description": "<p>Описание отсутствует</p>",
-        "icon": "icons/ru/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Ghost",
+        "description": "<p>Ghost allows the Shade sentinel to cloak itself and the user when hostile entities are within range, rendering themselves invisible to enemies.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.png",
+        "item_name": "Призрак",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA",
+        "thumb": "icons/ru/thumbs/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ],
+        "description": "<p>Описание отсутствует</p>"
     },
     "rarity": "common",
     "mod_max_rank": 5,

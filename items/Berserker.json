@@ -12,43 +12,43 @@
     "tradable": true,
     "en": {
         "item_name": "Berserker",
-        "description": "<p>Not to be confused with the Berserker Warframe, Valkyr.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Берсерк",
-        "thumb": "icons/ru/thumbs/Berserker.28d67e50acf910f0e2619fc68688797f.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA%D0%B5%D1%80",
-        "drop": [
-            {
-                "link": null,
-                "name": "Corrupted Ancient"
-            },
-            {
-                "link": null,
-                "name": "Infested Chroma"
-            },
-            {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ],
-        "description": "<p>Берсерк — редкий мод для оружия ближнего боя, который увеличивает скорость атаки после нанесения критического удара. </p>",
-        "icon": "icons/ru/Berserker.28d67e50acf910f0e2619fc68688797f.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
+        "description": "<p>Not to be confused with the Berserker Warframe, Valkyr.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Berserker.28d67e50acf910f0e2619fc68688797f.png",
+        "item_name": "Берсерк",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA%D0%B5%D1%80",
+        "thumb": "icons/ru/thumbs/Berserker.28d67e50acf910f0e2619fc68688797f.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            },
+            {
+                "name": "Infested Chroma",
+                "link": null
+            },
+            {
+                "name": "Infested Mesa",
+                "link": null
+            }
+        ],
+        "description": "<p>Берсерк — редкий мод для оружия ближнего боя, который увеличивает скорость атаки после нанесения критического удара. </p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

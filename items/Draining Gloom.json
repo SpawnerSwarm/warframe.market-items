@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Draining Gloom",
-        "description": "<p>Draining Gloom is PvP-exclusive Despair mod which causes Energy-draining explosions, but reduces Magazine Capacity and Reserve Ammo.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Draining_Gloom",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Поглощающая Тьма",
-        "thumb": "icons/ru/thumbs/Draining_Gloom.178992d2125575a59deec6a43367ecdb.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%A2%D1%8C%D0%BC%D0%B0",
-        "drop": [
-            {
-                "link": null,
-                "name": "Награда за миссии Конклава"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ],
-        "description": "<p>Поглощающая тьма - редкий мод для вторичного оружия отчаяние в режиме конклава, который с некоторым шансом может вызвать вспышку поглощения энергии, но при этом уменьшает боезапас и количество кинжалов в обойме.</p>",
-        "icon": "icons/ru/Draining_Gloom.178992d2125575a59deec6a43367ecdb.png"
+        "description": "<p>Draining Gloom is PvP-exclusive Despair mod which causes Energy-draining explosions, but reduces Magazine Capacity and Reserve Ammo.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Draining_Gloom"
+    },
+    "ru": {
+        "icon": "icons/ru/Draining_Gloom.178992d2125575a59deec6a43367ecdb.png",
+        "item_name": "Поглощающая Тьма",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%A2%D1%8C%D0%BC%D0%B0",
+        "thumb": "icons/ru/thumbs/Draining_Gloom.178992d2125575a59deec6a43367ecdb.128x128.png",
+        "drop": [
+            {
+                "name": "Награда за миссии Конклава",
+                "link": null
+            }
+        ],
+        "description": "<p>Поглощающая тьма - редкий мод для вторичного оружия отчаяние в режиме конклава, который с некоторым шансом может вызвать вспышку поглощения энергии, но при этом уменьшает боезапас и количество кинжалов в обойме.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

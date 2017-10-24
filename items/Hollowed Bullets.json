@@ -12,59 +12,59 @@
     "tradable": true,
     "en": {
         "item_name": "Hollowed Bullets",
-        "description": "<p>Hollowed Bullets increases the critical damage multiplier for Archwing guns by 15% per rank at a maximum of 60% at rank 3. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Caelus,Uranus Interception Reward"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Пустотные пули",
-        "thumb": "icons/ru/thumbs/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BB%D0%B8",
-        "drop": [
-            {
-                "link": null,
-                "name": "CorpusRanger"
-            },
-            {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
-            },
-            {
-                "link": null,
-                "name": "CorpusPenta Ranger"
-            },
-            {
-                "link": null,
-                "name": "CorpusFrigate"
-            },
-            {
-                "link": null,
-                "name": "Caelus,Uranus Interception Reward"
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
             }
         ],
-        "description": "<p>Пустотные Пули — мод для основного оружия арчвинга, который увеличивает множитель критического урона.</p>",
-        "icon": "icons/ru/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets",
+        "description": "<p>Hollowed Bullets increases the critical damage multiplier for Archwing guns by 15% per rank at a maximum of 60% at rank 3. </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.png",
+        "item_name": "Пустотные пули",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BB%D0%B8",
+        "thumb": "icons/ru/thumbs/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
+            }
+        ],
+        "description": "<p>Пустотные Пули — мод для основного оружия арчвинга, который увеличивает множитель критического урона.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

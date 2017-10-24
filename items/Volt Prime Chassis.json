@@ -21,27 +21,27 @@
     ],
     "set_root": false,
     "en": {
+        "codex": "A glorious warrior from the past, Volt Prime features the same abilities as Volt, but with unique mod polarities for greater customization.",
         "item_name": "Volt Prime Chassis",
-        "description": "<p>Release Date: March 24th, 2015</p><p>Volt Prime is the primed variant of the Volt Warframe featuring more powerful stats: possessing a higher energy capacity and armor, as well as an additional  polarity.</p>",
         "drop": [
             {
-                "link": null,
-                "name": "Meso V2 Uncommon"
+                "name": "Meso V2 Uncommon",
+                "link": null
             }
         ],
         "wiki_link": "http://warframe.wikia.com/wiki/Volt_Prime_Chassis",
-        "codex": "A glorious warrior from the past, Volt Prime features the same abilities as Volt, but with unique mod polarities for greater customization."
+        "description": "<p>Release Date: March 24th, 2015</p><p>Volt Prime is the primed variant of the Volt Warframe featuring more powerful stats: possessing a higher energy capacity and armor, as well as an additional  polarity.</p>"
     },
     "ru": {
         "item_name": "Вольт Каркас",
-        "description": "<p>Вольт создаёт и контролирует электричество. Этот костюм имеет сильные боевые способности, он идеально подходит для тех, кто ищет альтернативу огнестрельному оружию.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82",
         "drop": [
             {
-                "link": null,
-                "name": "Meso V2 Uncommon"
+                "name": "Meso V2 Uncommon",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Вольт создаёт и контролирует электричество. Этот костюм имеет сильные боевые способности, он идеально подходит для тех, кто ищет альтернативу огнестрельному оружию.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82"
     },
     "ducats": 45,
     "trading_tax": 4000

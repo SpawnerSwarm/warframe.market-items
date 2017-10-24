@@ -12,59 +12,59 @@
     "tradable": true,
     "en": {
         "item_name": "Rifle Aptitude",
-        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrinnerGuardsman Eximus"
+                "name": "GrinnerGuardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Боеспособность",
-        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
-        "drop": [
-            {
-                "link": null,
-                "name": "GrineerArid Butcher"
-            },
-            {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
-            },
-            {
-                "link": null,
-                "name": "GrineerFlameblade"
-            },
-            {
-                "link": null,
-                "name": "GrinnerGuardsman Eximus"
-            },
-            {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ],
-        "description": "<p>Боеспособность — необычный мод для основного оружия, который увеличивает шанс срабатывания статуса.</p>",
-        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
+        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
+        "item_name": "Боеспособность",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
+        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerArid Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "GrinnerGuardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ],
+        "description": "<p>Боеспособность — необычный мод для основного оружия, который увеличивает шанс срабатывания статуса.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

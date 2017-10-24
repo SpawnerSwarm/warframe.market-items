@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Medi-Ray",
-        "description": "<p>Medi-Ray is a Sentinel precept mod that allows a sentinel to periodically restore a percentage of its owner's health over 4 seconds.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Medi-Ray",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Мед-луч",
-        "thumb": "icons/ru/thumbs/Medi-Ray.480f2f89415d7895a0c8e164ca29e449.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D0%B4-%D0%BB%D1%83%D1%87",
-        "drop": [
-            {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ],
-        "description": "<p>Мед-луч — необычный мод для стража, который позволяет ему регенерировать здоровье владельца. </p>",
-        "icon": "icons/ru/Medi-Ray.480f2f89415d7895a0c8e164ca29e449.png"
+        "description": "<p>Medi-Ray is a Sentinel precept mod that allows a sentinel to periodically restore a percentage of its owner's health over 4 seconds.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Medi-Ray"
+    },
+    "ru": {
+        "icon": "icons/ru/Medi-Ray.480f2f89415d7895a0c8e164ca29e449.png",
+        "item_name": "Мед-луч",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D0%B4-%D0%BB%D1%83%D1%87",
+        "thumb": "icons/ru/thumbs/Medi-Ray.480f2f89415d7895a0c8e164ca29e449.128x128.png",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ],
+        "description": "<p>Мед-луч — необычный мод для стража, который позволяет ему регенерировать здоровье владельца. </p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

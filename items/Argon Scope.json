@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Argon Scope",
-        "description": "<p>Argon Scope is a rare rifle mod that increases critical chance while aiming for a brief time upon a headshot.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Argon_Scope",
         "drop": [
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Аргоновый прицел",
-        "thumb": "icons/ru/thumbs/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
-        "drop": [
-            {
-                "link": null,
-                "name": "Torment"
-            },
-            {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ],
-        "description": "<p>Аргоновый Прицел — условный мод для винтовок, который после попадания в голову увеличивает шанс критического урона на некоторый промежуток времени при прицеливании.</p>",
-        "icon": "icons/ru/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.png"
+        "description": "<p>Argon Scope is a rare rifle mod that increases critical chance while aiming for a brief time upon a headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Argon_Scope"
+    },
+    "ru": {
+        "icon": "icons/ru/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.png",
+        "item_name": "Аргоновый прицел",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
+        "thumb": "icons/ru/thumbs/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.128x128.png",
+        "drop": [
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ],
+        "description": "<p>Аргоновый Прицел — условный мод для винтовок, который после попадания в голову увеличивает шанс критического урона на некоторый промежуток времени при прицеливании.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

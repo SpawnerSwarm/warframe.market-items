@@ -11,25 +11,25 @@
     "tradable": true,
     "en": {
         "item_name": "Gladiator Finesse",
-        "description": "<p>Gladiator Finesse is a set mod that uses a Warframe's residual energy pool as an emergency buffer to prevent death when the Warframe's health reaches 2.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Finesse",
         "drop": [
             {
-                "link": null,
-                "name": "Aerial Commander (0.02%)"
+                "name": "Aerial Commander (0.02%)",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Gladiator Finesse is a set mod that uses a Warframe's residual energy pool as an emergency buffer to prevent death when the Warframe's health reaches 2.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Finesse"
     },
     "ru": {
         "item_name": "Гладиатор Ловкость",
-        "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Finesse",
         "drop": [
             {
-                "link": null,
-                "name": "Aerial Commander (0.02%)"
+                "name": "Aerial Commander (0.02%)",
+                "link": null
             }
-        ]
+        ],
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Finesse"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

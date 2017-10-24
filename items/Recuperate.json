@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Recuperate",
-        "description": "<p>Recuperate was a PvP-exclusive secondary weapon mod that gave a chance to restore health on each kill.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Recuperate",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Выздоровление",
-        "thumb": "icons/ru/thumbs/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": [
-            {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ],
-        "description": "<p>Выздоровление — редкий мод для вторичного оружия в режиме конклава, который с некоторым шансом полностью восстанавливает здоровье при убийстве противника. </p>",
-        "icon": "icons/ru/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.png"
+        "description": "<p>Recuperate was a PvP-exclusive secondary weapon mod that gave a chance to restore health on each kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Recuperate"
+    },
+    "ru": {
+        "icon": "icons/ru/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.png",
+        "item_name": "Выздоровление",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ],
+        "description": "<p>Выздоровление — редкий мод для вторичного оружия в режиме конклава, который с некоторым шансом полностью восстанавливает здоровье при убийстве противника. </p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

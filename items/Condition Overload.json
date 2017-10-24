@@ -12,25 +12,25 @@
     "tradable": true,
     "en": {
         "item_name": "Condition Overload",
-        "description": "<p>Condition Overload grant extra melee damage for each Status Effect type affecting the target.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Condition_Overload",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Butcher"
+                "name": "Drekar Butcher",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>Condition Overload grant extra melee damage for each Status Effect type affecting the target.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Condition_Overload"
     },
     "ru": {
         "item_name": "Избыточное Состояние",
-        "description": "<p>+60% Урона в Ближнем Боя за каждый тип статуса на цели.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Избыточное_Состояние",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Butcher"
+                "name": "Drekar Butcher",
+                "link": null
             }
-        ]
+        ],
+        "description": "<p>+60% Урона в Ближнем Боя за каждый тип статуса на цели.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Избыточное_Состояние"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

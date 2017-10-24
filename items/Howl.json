@@ -12,35 +12,35 @@
     "tradable": true,
     "en": {
         "item_name": "Howl",
-        "description": "<p>Howl mod allows Raksa Kubrow to cry out a blood-curdling howl to strike fear into its foes.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Howl",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Вой",
-        "thumb": "icons/ru/thumbs/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B9",
-        "drop": [
-            {
-                "link": null,
-                "name": "Drahk"
-            },
-            {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ],
-        "description": "<p>Вой — мод-заповедь для кубрау Ракса, позволяющий обращать в бегство противников в определенном радиусе на некоторый промежуток времени.</p>",
-        "icon": "icons/ru/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Howl",
+        "description": "<p>Howl mod allows Raksa Kubrow to cry out a blood-curdling howl to strike fear into its foes.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.png",
+        "item_name": "Вой",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B9",
+        "thumb": "icons/ru/thumbs/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ],
+        "description": "<p>Вой — мод-заповедь для кубрау Ракса, позволяющий обращать в бегство противников в определенном радиусе на некоторый промежуток времени.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

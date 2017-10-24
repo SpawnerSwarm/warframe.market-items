@@ -9,16 +9,16 @@
     "url_name": "small_khut_khut",
     "tradable": true,
     "en": {
+        "codex": "",
         "item_name": "Small Khut-Khut",
-        "description": "<p>A poisonous fish protected by a hard carapace around its skull.</p>",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Khut-Khut",
-        "codex": ""
+        "description": "<p>A poisonous fish protected by a hard carapace around its skull.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Khut-Khut"
     },
     "ru": {
         "item_name": "Маленький Кхут-Кхут",
+        "drop": [],
         "description": "<p>Ядовитая рыба, защищённая прочным костным наростом вокруг черепа.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кхут-Кхут",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кхут-Кхут"
     }
 }

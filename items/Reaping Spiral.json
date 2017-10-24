@@ -12,59 +12,59 @@
     "tradable": true,
     "en": {
         "item_name": "Reaping Spiral",
-        "description": "<p>Reaping Spiral is a Scythe Stance mod that features somersaults and high damage weapon throws. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Power Carrier"
+                "name": "GrineerHellion Power Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey Carrier"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Пожинающая спираль",
-        "thumb": "icons/ru/thumbs/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B6%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C",
-        "drop": [
-            {
-                "link": null,
-                "name": "CorpusCrewman"
-            },
-            {
-                "link": null,
-                "name": "CorpusPower Carrier"
-            },
-            {
-                "link": null,
-                "name": "GrineerPower Carrier"
-            },
-            {
-                "link": null,
-                "name": "GrineerHellion Power Carrier"
-            },
-            {
-                "link": null,
-                "name": "InfestedMutalist Osprey Carrier"
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
             }
         ],
-        "description": "<p>Пожинающая Спираль — это необычная стойка, предназначенная для оружия ближнего боя класса Косы. Увеличение ранга открывает новые комбинации.</p>",
-        "icon": "icons/ru/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral",
+        "description": "<p>Reaping Spiral is a Scythe Stance mod that features somersaults and high damage weapon throws. </p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.png",
+        "item_name": "Пожинающая спираль",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B6%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C",
+        "thumb": "icons/ru/thumbs/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerHellion Power Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            }
+        ],
+        "description": "<p>Пожинающая Спираль — это необычная стойка, предназначенная для оружия ближнего боя класса Косы. Увеличение ранга открывает новые комбинации.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

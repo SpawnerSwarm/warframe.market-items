@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Sinking Talon",
-        "description": "<p>Sinking Talon is a Stance Mod for dual daggers.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sinking_Talon",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Впивающийся коготь",
-        "thumb": "icons/ru/thumbs/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BF%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F_%D0%BA%D0%BE%D0%B3%D0%BE%D1%82%D1%8C",
-        "drop": [
-            {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             }
         ],
-        "description": "<p>Впивающийся Коготь - это необычная стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
-        "icon": "icons/ru/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Sinking_Talon",
+        "description": "<p>Sinking Talon is a Stance Mod for dual daggers.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.png",
+        "item_name": "Впивающийся коготь",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BF%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F_%D0%BA%D0%BE%D0%B3%D0%BE%D1%82%D1%8C",
+        "thumb": "icons/ru/thumbs/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusDetron Crewman",
+                "link": null
+            }
+        ],
+        "description": "<p>Впивающийся Коготь - это необычная стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

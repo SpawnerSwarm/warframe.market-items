@@ -12,25 +12,25 @@
     "tradable": true,
     "en": {
         "item_name": "Guardian Derision",
-        "description": "<p>Guardian Derision allows the player to taunt enemies into attacking them instead of allies when blocking.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Guardian_Derision",
         "drop": [
             {
-                "link": null,
-                "name": "Prod Crewman"
+                "name": "Prod Crewman",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Guardian_Derision",
+        "description": "<p>Guardian Derision allows the player to taunt enemies into attacking them instead of allies when blocking.</p>"
     },
     "ru": {
         "item_name": "Блокирующая Намешка",
-        "description": "<p>Блокирование заставляет врагов в радиусе 15 метров атаковать вас, а не ваших союзников.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Блокирующая_Намешка",
         "drop": [
             {
-                "link": null,
-                "name": "Prod Crewman"
+                "name": "Prod Crewman",
+                "link": null
             }
-        ]
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Блокирующая_Намешка",
+        "description": "<p>Блокирование заставляет врагов в радиусе 15 метров атаковать вас, а не ваших союзников.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

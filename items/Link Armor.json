@@ -14,35 +14,35 @@
     "tradable": true,
     "en": {
         "item_name": "Link Armor",
-        "description": "<p>Link Armor is a Companion mod that allows the owner to share their armor as an addition to the Companion's armor.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Link_Armor",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Связь брони Связь",
-        "thumb": "icons/ru/thumbs/Link_Armor.4a1250db0f55635fffd95c7408d34f45.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D0%B1%D1%80%D0%BE%D0%BD%D0%B8",
-        "drop": [
-            {
-                "link": null,
-                "name": "Drahk"
-            },
-            {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ],
-        "description": "<p>Связь Брони — необычный мод для всех пород Кубрау, увеличивающий максимальное значение брони питомца путем добавления к нему процента брони экипированного варфрейма.</p>",
-        "icon": "icons/ru/Link_Armor.4a1250db0f55635fffd95c7408d34f45.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Link_Armor",
+        "description": "<p>Link Armor is a Companion mod that allows the owner to share their armor as an addition to the Companion's armor.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Link_Armor.4a1250db0f55635fffd95c7408d34f45.png",
+        "item_name": "Связь брони Связь",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D0%B1%D1%80%D0%BE%D0%BD%D0%B8",
+        "thumb": "icons/ru/thumbs/Link_Armor.4a1250db0f55635fffd95c7408d34f45.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ],
+        "description": "<p>Связь Брони — необычный мод для всех пород Кубрау, увеличивающий максимальное значение брони питомца путем добавления к нему процента брони экипированного варфрейма.</p>"
     },
     "rarity": "uncommon",
     "mod_max_rank": 10,

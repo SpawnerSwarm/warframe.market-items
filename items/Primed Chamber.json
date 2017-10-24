@@ -13,27 +13,27 @@
     "tradable": true,
     "en": {
         "item_name": "Primed Chamber",
-        "description": "<p>Not to be confused with Charged Chamber.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Chamber",
         "drop": [
             {
-                "link": null,
-                "name": "Informant Event"
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Заряженный патронник Редкий",
-        "thumb": "icons/ru/thumbs/Primed_Chamber.9e58e6bb93760e8daaf8430c5ce03896.128x128.png",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA/%D1%80%D0%B5%D0%B4%D0%BA%D0%B8%D0%B9",
-        "drop": [
-            {
-                "link": null,
-                "name": "Informant Event"
+                "name": "Informant Event",
+                "link": null
             }
         ],
-        "description": "<p>Заряженный Патронник — редкий мод для снайперского оружия, который увеличивает урон первого выстрела после перезарядки.</p>",
-        "icon": "icons/ru/Primed_Chamber.9e58e6bb93760e8daaf8430c5ce03896.png"
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Chamber",
+        "description": "<p>Not to be confused with Charged Chamber.</p>"
+    },
+    "ru": {
+        "icon": "icons/ru/Primed_Chamber.9e58e6bb93760e8daaf8430c5ce03896.png",
+        "item_name": "Заряженный патронник Редкий",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA/%D1%80%D0%B5%D0%B4%D0%BA%D0%B8%D0%B9",
+        "thumb": "icons/ru/thumbs/Primed_Chamber.9e58e6bb93760e8daaf8430c5ce03896.128x128.png",
+        "drop": [
+            {
+                "name": "Informant Event",
+                "link": null
+            }
+        ],
+        "description": "<p>Заряженный Патронник — редкий мод для снайперского оружия, который увеличивает урон первого выстрела после перезарядки.</p>"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

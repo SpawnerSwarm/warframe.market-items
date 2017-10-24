@@ -10,14 +10,14 @@
     "tradable": true,
     "en": {
         "item_name": "Nyth",
+        "drop": [],
         "description": "<p>Nyth is a resource acquired through mining. It can be refined into Heart Nyth, or traded for Ostron faction standing. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Nyth",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Nyth"
     },
     "ru": {
         "item_name": "Нит",
+        "drop": [],
         "description": "<p>Нит - драгоценный камень, который можно найти и добыть с помощью лазерного резака в жилах синего цвета на локации Равнины Эйдолона.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D1%82",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D1%82"
     }
 }

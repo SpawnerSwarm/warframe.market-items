@@ -10,14 +10,14 @@
     "tradable": true,
     "en": {
         "item_name": "Crimzian",
+        "drop": [],
         "description": "<p>Crimzian is a gem that can be mined from blue mineral veins in the Plains of Eidolon. Can be turned in to Old Man Suumbaat for 100‍100 Ostron each. Can also be refined into a Star Crimzian.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Crimzian",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Crimzian"
     },
     "ru": {
         "item_name": "Кримциан",
+        "drop": [],
         "description": "<p>Драгоценный камень, который можно найти и добыть с помощью лазерного резака в жилах синего цвета на локации Равнины Эйдолона.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%86%D0%B8%D0%B0%D0%BD",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%86%D0%B8%D0%B0%D0%BD"
     }
 }
