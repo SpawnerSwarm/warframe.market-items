@@ -72,6 +72,7 @@ Do not define them.
 ### How to contribute an Icon
 
 When you filling json-template for some item, you can define Icon in 2 ways:
+
 1. Define it as `remote://<direct_link_to_image>`
 
 **Example:**
