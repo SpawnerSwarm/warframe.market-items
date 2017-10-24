@@ -4,9 +4,9 @@
 
 > Icon files is not included in that repo, you can find them :
 
-> `Icons`: [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrUHQxaHVMTEhzTkE)
+> `Icons`: [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrLU11WnI5SzhRZGM)
 
-> `sub_icons`: [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrOG9penNDTzlqakU)
+> `sub_icons`: [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrbzlneXVrWmxTdms)
 
 ## Directories ##
 
