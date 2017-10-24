@@ -2,7 +2,11 @@
 
 > This is repo that contains Warframe.market item database in JSON format.
 
-> Icon files is not included in that repo, you can find them [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrZ3hhcG1kVmg1RjA)
+> Icon files is not included in that repo, you can find them :
+
+> `Icons`: [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrUHQxaHVMTEhzTkE)
+
+> `sub_icons`: [Here](https://drive.google.com/open?id=0B0DCzCsWH1SrOG9penNDTzlqakU)
 
 ## Directories ##
 
