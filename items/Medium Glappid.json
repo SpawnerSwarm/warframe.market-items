@@ -9,9 +9,9 @@
     "url_name": "medium_glappid",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Medium Glappid",
         "drop": [],
+        "item_name": "Medium Glappid",
+        "codex": "",
         "description": "<p>The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Glappid"
     },

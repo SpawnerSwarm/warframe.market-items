@@ -14,12 +14,12 @@
         "item_name": "Resonating Quake",
         "drop": [
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             },
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             }
         ],
         "description": "<p>Resonating Quake is an Warframe Augment Mod for Banshee that increases Sound Quake's damage, range and energy drain for every second it is active.</p>",
@@ -27,20 +27,20 @@
     },
     "ru": {
         "icon": "icons/ru/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.png",
-        "item_name": "Резонирующий взрыв",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
-        "thumb": "icons/ru/thumbs/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.128x128.png",
+        "description": "<p>Резонирующий Взрыв - мод-аугмент для варфрейма Банши, улучшающий её способность Звуковой Взрыв. Каждую секунду мод будет увеличивать урон на 60, радиус на 0.5м и поглощение энергии в секунду на 1. На максимальном ранге мода урон способности будет увеличиваться на 100, а радиус на 1м.</p>",
         "drop": [
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             },
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             }
         ],
-        "description": "<p>Резонирующий Взрыв - мод-аугмент для варфрейма Банши, улучшающий её способность Звуковой Взрыв. Каждую секунду мод будет увеличивать урон на 60, радиус на 0.5м и поглощение энергии в секунду на 1. На максимальном ранге мода урон способности будет увеличиваться на 100, а радиус на 1м.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "thumb": "icons/ru/thumbs/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.128x128.png",
+        "item_name": "Резонирующий взрыв"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

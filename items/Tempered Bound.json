@@ -14,8 +14,8 @@
         "item_name": "Tempered Bound",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
         "description": "<p>Tempered Bound is a PvP-exclusive Warframe Mod that reduce Mobility and increases Shield Capacity.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Tempered_Bound.668e99d27a772886e71c6580f94233f7.png",
-        "item_name": "Умеренный прыжок",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
-        "thumb": "icons/ru/thumbs/Tempered_Bound.668e99d27a772886e71c6580f94233f7.128x128.png",
+        "description": "<p>Умеренный прыжок — эксилус мод для варфреймов в режиме конклава который увеличивает максимальное количество щита, взамен уменьшая мобильность.</p>",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "description": "<p>Умеренный прыжок — эксилус мод для варфреймов в режиме конклава который увеличивает максимальное количество щита, взамен уменьшая мобильность.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
+        "thumb": "icons/ru/thumbs/Tempered_Bound.668e99d27a772886e71c6580f94233f7.128x128.png",
+        "item_name": "Умеренный прыжок"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

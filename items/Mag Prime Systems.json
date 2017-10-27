@@ -25,23 +25,23 @@
         "item_name": "Mag Prime Systems",
         "drop": [
             {
-                "name": "Neo D1 Common",
-                "link": null
+                "link": null,
+                "name": "Neo D1 Common"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Mag/Prime",
-        "description": "<p>Release Date: September 13th, 2013</p><p>Mag Prime is the primed variant of the Mag Warframe featuring more powerful stats: possessing increased health, as well as an additional  polarity.</p>"
+        "description": "<p>Release Date: September 13th, 2013</p><p>Mag Prime is the primed variant of the Mag Warframe featuring more powerful stats: possessing increased health, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mag/Prime"
     },
     "ru": {
-        "item_name": "Мэг Прайм Система",
+        "description": "<p>Изящная Мэг прайм обладает теми же способностями, что и Мэг, но имеет уникальные полярности для больших возможностей улучшения.</p>",
         "drop": [
             {
-                "name": "Neo D1 Common",
-                "link": null
+                "link": null,
+                "name": "Neo D1 Common"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8D%D0%B3/Прайм",
-        "description": "<p>Изящная Мэг прайм обладает теми же способностями, что и Мэг, но имеет уникальные полярности для больших возможностей улучшения.</p>"
+        "item_name": "Мэг Прайм Система",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8D%D0%B3/Прайм"
     },
     "ducats": 15,
     "trading_tax": 4000

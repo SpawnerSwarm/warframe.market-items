@@ -14,8 +14,8 @@
         "item_name": "Lie In Wait",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
         "description": "<p>Lie In Wait is a PvP-exclusive sniper rifle mod that increases damage dealt while zoomed at the cost of higher recoil.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Lie_In_Wait.1b9b5b7f55cf4a0a6018be67e604d9bf.png",
-        "item_name": "Скрытая опасность",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%9E%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "description": "<p>Скрытая Опасность — мод для снайперского оружия в режиме конклава, который увеличивает урон при прицеливании, взамен увеличивая и отдачу.</p>",
         "thumb": "icons/ru/thumbs/Lie_In_Wait.1b9b5b7f55cf4a0a6018be67e604d9bf.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%9E%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "description": "<p>Скрытая Опасность — мод для снайперского оружия в режиме конклава, который увеличивает урон при прицеливании, взамен увеличивая и отдачу.</p>"
+        "item_name": "Скрытая опасность"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

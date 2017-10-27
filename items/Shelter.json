@@ -14,33 +14,33 @@
         "item_name": "Shelter",
         "drop": [
             {
-                "name": "Drahk",
-                "link": null
+                "link": null,
+                "name": "Drahk"
             },
             {
-                "name": "Kubrow (Feral)",
-                "link": null
+                "link": null,
+                "name": "Kubrow (Feral)"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Shelter",
-        "description": "<p>Shelter allows a Kubrow to create a Shield around its master while they revive fallen Allies.</p>"
+        "description": "<p>Shelter allows a Kubrow to create a Shield around its master while they revive fallen Allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shelter"
     },
     "ru": {
         "icon": "icons/ru/Shelter.c319e66f57a27e059c3dbde6f53a5dcf.png",
-        "item_name": "Приют",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%8E%D1%82",
-        "thumb": "icons/ru/thumbs/Shelter.c319e66f57a27e059c3dbde6f53a5dcf.128x128.png",
+        "description": "<p>Приют — необычный мод для всех пород Кубрау, который создает защитное поле вокруг владельца, когда тот воскрешает павшего союзника.</p>",
         "drop": [
             {
-                "name": "Drahk",
-                "link": null
+                "link": null,
+                "name": "Drahk"
             },
             {
-                "name": "Kubrow (Feral)",
-                "link": null
+                "link": null,
+                "name": "Kubrow (Feral)"
             }
         ],
-        "description": "<p>Приют — необычный мод для всех пород Кубрау, который создает защитное поле вокруг владельца, когда тот воскрешает павшего союзника.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%8E%D1%82",
+        "thumb": "icons/ru/thumbs/Shelter.c319e66f57a27e059c3dbde6f53a5dcf.128x128.png",
+        "item_name": "Приют"
     },
     "rarity": "uncommon",
     "mod_max_rank": 10,

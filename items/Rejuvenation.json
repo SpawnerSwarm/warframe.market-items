@@ -14,25 +14,25 @@
         "item_name": "Rejuvenation",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Rejuvenation",
-        "description": "<p>Rejuvenation is an Aura that regenerates all team members' health every second.</p>"
+        "description": "<p>Rejuvenation is an Aura that regenerates all team members' health every second.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rejuvenation"
     },
     "ru": {
         "icon": "icons/ru/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.png",
-        "item_name": "Омоложение",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BC%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
-        "thumb": "icons/ru/thumbs/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.128x128.png",
+        "description": "<p>Омоложение — необычная аура, которая регенерирует здоровье команды с течением времени.</p>",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "description": "<p>Омоложение — необычная аура, которая регенерирует здоровье команды с течением времени.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BC%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.128x128.png",
+        "item_name": "Омоложение"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

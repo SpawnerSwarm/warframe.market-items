@@ -18,16 +18,16 @@
     ],
     "set_root": true,
     "en": {
-        "codex": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling",
-        "item_name": "Carrier Prime Set",
         "drop": [],
+        "item_name": "Carrier Prime Set",
+        "codex": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling",
         "description": "<p>The Primed version of the Carrier Sentinel, the Carrier Prime features increased health and armor, and comes with the enhanced Sweeper Prime weapon. </p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Carrier_Prime"
     },
     "ru": {
-        "item_name": "Носитель Прайм Комплект",
-        "drop": [],
         "description": "<p>Этот украшенный страж - прекрасный образец мастерства и стиля последних разработок Орокин.</p>",
+        "drop": [],
+        "item_name": "Носитель Прайм Комплект",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC/Прайм"
     },
     "trading_tax": 4000

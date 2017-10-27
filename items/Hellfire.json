@@ -14,81 +14,81 @@
         "item_name": "Hellfire",
         "drop": [
             {
-                "name": "Ambulas",
-                "link": null
+                "link": null,
+                "name": "Ambulas"
             },
             {
-                "name": "Lynx Osprey",
-                "link": null
+                "link": null,
+                "name": "Lynx Osprey"
             },
             {
-                "name": "Lynx Turret",
-                "link": null
+                "link": null,
+                "name": "Lynx Turret"
             },
             {
-                "name": "Roller",
-                "link": null
+                "link": null,
+                "name": "Roller"
             },
             {
-                "name": "GrineerRoller Sentry",
-                "link": null
+                "link": null,
+                "name": "GrineerRoller Sentry"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             },
             {
-                "name": "Infested T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Infested T3Defense Reward"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Hellfire",
-        "description": "<p>The Hellfire mod increases  Heat damage by 15% per rank for a maximum of 90% at rank 5.</p>"
+        "description": "<p>The Hellfire mod increases  Heat damage by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hellfire"
     },
     "ru": {
         "icon": "icons/ru/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png",
-        "item_name": "Адское пламя",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
-        "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
+        "description": "<p>Адское Пламя — необычный мод для основного оружия, который добавляет оружию  огненный урон.</p>",
         "drop": [
             {
-                "name": "Ambulas",
-                "link": null
+                "link": null,
+                "name": "Ambulas"
             },
             {
-                "name": "Lynx Osprey",
-                "link": null
+                "link": null,
+                "name": "Lynx Osprey"
             },
             {
-                "name": "Lynx Turret",
-                "link": null
+                "link": null,
+                "name": "Lynx Turret"
             },
             {
-                "name": "Roller",
-                "link": null
+                "link": null,
+                "name": "Roller"
             },
             {
-                "name": "GrineerRoller Sentry",
-                "link": null
+                "link": null,
+                "name": "GrineerRoller Sentry"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             },
             {
-                "name": "Infested T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Infested T3Defense Reward"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "description": "<p>Адское Пламя — необычный мод для основного оружия, который добавляет оружию  огненный урон.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
+        "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
+        "item_name": "Адское пламя"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

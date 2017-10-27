@@ -9,9 +9,9 @@
     "url_name": "medium_cuthol",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Medium Cuthol",
         "drop": [],
+        "item_name": "Medium Cuthol",
+        "codex": "",
         "description": "",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Cuthol"
     },

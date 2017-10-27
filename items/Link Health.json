@@ -16,33 +16,33 @@
         "item_name": "Link Health",
         "drop": [
             {
-                "name": "Drahk",
-                "link": null
+                "link": null,
+                "name": "Drahk"
             },
             {
-                "name": "Kubrow (Feral)",
-                "link": null
+                "link": null,
+                "name": "Kubrow (Feral)"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Link_Health",
-        "description": "<p>Link Health is a Kubrow mod that increases its health based on a percentage of the player's health. The player's health is unaffected by this mod.</p>"
+        "description": "<p>Link Health is a Kubrow mod that increases its health based on a percentage of the player's health. The player's health is unaffected by this mod.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Link_Health"
     },
     "ru": {
         "icon": "icons/ru/Link_Health.2d40213a2ea7696cbb96a47b2bbf19a0.png",
-        "item_name": "Связь здоровья Связь",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F",
-        "thumb": "icons/ru/thumbs/Link_Health.2d40213a2ea7696cbb96a47b2bbf19a0.128x128.png",
+        "description": "<p>Связь Здоровья — необычный мод для всех пород Кубрау, увеличивающий максимальное значение здоровья питомца путем добавления к нему процента здоровья текущего варфрейма.</p>",
         "drop": [
             {
-                "name": "Drahk",
-                "link": null
+                "link": null,
+                "name": "Drahk"
             },
             {
-                "name": "Kubrow (Feral)",
-                "link": null
+                "link": null,
+                "name": "Kubrow (Feral)"
             }
         ],
-        "description": "<p>Связь Здоровья — необычный мод для всех пород Кубрау, увеличивающий максимальное значение здоровья питомца путем добавления к нему процента здоровья текущего варфрейма.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F",
+        "thumb": "icons/ru/thumbs/Link_Health.2d40213a2ea7696cbb96a47b2bbf19a0.128x128.png",
+        "item_name": "Связь здоровья Связь"
     },
     "rarity": "uncommon",
     "mod_max_rank": 10,

@@ -9,9 +9,9 @@
     "url_name": "large_cuthol",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Large Cuthol",
         "drop": [],
+        "item_name": "Large Cuthol",
+        "codex": "",
         "description": "",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Cuthol"
     },

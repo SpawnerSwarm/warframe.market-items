@@ -14,97 +14,97 @@
         "item_name": "Revenge",
         "drop": [
             {
-                "name": "CorpusMOA",
-                "link": null
+                "link": null,
+                "name": "CorpusMOA"
             },
             {
-                "name": "CorpusIsolator Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusIsolator Bursa"
             },
             {
-                "name": "CorpusDrover Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDrover Bursa"
             },
             {
-                "name": "CorpusDenial Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDenial Bursa"
             },
             {
-                "name": "GrineerElite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Lancer"
             },
             {
-                "name": "GrineerElite Arid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Arid Lancer"
             },
             {
-                "name": "GrineerElite Frontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Frontier Lancer"
             },
             {
-                "name": "GrineerDraga",
-                "link": null
+                "link": null,
+                "name": "GrineerDraga"
             },
             {
-                "name": "GrineerDarek Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerDarek Draga"
             },
             {
-                "name": "GrineerShock Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerShock Draga"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Revenge",
-        "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>"
+        "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Revenge"
     },
     "ru": {
         "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png",
-        "item_name": "Месть",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C",
+        "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>",
         "thumb": "icons/ru/thumbs/Revenge.11965b485374f7c64e7b2c929ac34ca9.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C",
         "drop": [
             {
-                "name": "CorpusMOA",
-                "link": null
+                "link": null,
+                "name": "CorpusMOA"
             },
             {
-                "name": "CorpusIsolator Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusIsolator Bursa"
             },
             {
-                "name": "CorpusDrover Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDrover Bursa"
             },
             {
-                "name": "CorpusDenial Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDenial Bursa"
             },
             {
-                "name": "GrineerElite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Lancer"
             },
             {
-                "name": "GrineerElite Arid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Arid Lancer"
             },
             {
-                "name": "GrineerElite Frontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Frontier Lancer"
             },
             {
-                "name": "GrineerDraga",
-                "link": null
+                "link": null,
+                "name": "GrineerDraga"
             },
             {
-                "name": "GrineerDarek Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerDarek Draga"
             },
             {
-                "name": "GrineerShock Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerShock Draga"
             }
         ],
-        "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>"
+        "item_name": "Месть"
     },
     "rarity": "common",
     "mod_max_rank": 5,

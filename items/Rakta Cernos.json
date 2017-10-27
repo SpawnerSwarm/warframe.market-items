@@ -11,16 +11,16 @@
     "url_name": "rakta_cernos",
     "tradable": true,
     "en": {
-        "codex": "A finely tuned instrument of assassination.",
-        "item_name": "Rakta Cernos",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Rakta_Cernos",
-        "description": "<p>The Rakta Cernos is a modified Cernos bow exclusively available to the Red Veil. It features the fastest charge time of all bows, along with increased base damage, status chance, and innate Blight effect. </p>"
+        "item_name": "Rakta Cernos",
+        "codex": "A finely tuned instrument of assassination.",
+        "description": "<p>The Rakta Cernos is a modified Cernos bow exclusively available to the Red Veil. It features the fastest charge time of all bows, along with increased base damage, status chance, and innate Blight effect. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rakta_Cernos"
     },
     "ru": {
-        "item_name": "Ракта кернунн",
-        "drop": [],
         "description": "<p>Искуссный инструмент умерщвления</p>",
+        "drop": [],
+        "item_name": "Ракта кернунн",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%BA%D1%82%D0%B0_%D0%BA%D0%B5%D1%80%D0%BD%D1%83%D0%BD%D0%BD"
     },
     "mastery_level": 12,

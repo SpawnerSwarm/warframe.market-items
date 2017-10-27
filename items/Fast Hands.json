@@ -14,97 +14,97 @@
         "item_name": "Fast Hands",
         "drop": [
             {
-                "name": "GrineerButcher",
-                "link": null
+                "link": null,
+                "name": "GrineerButcher"
             },
             {
-                "name": "GrineerDrahk Master",
-                "link": null
+                "link": null,
+                "name": "GrineerDrahk Master"
             },
             {
-                "name": "GrineerHyekka Master",
-                "link": null
+                "link": null,
+                "name": "GrineerHyekka Master"
             },
             {
-                "name": "GrineerBailiff",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff"
             },
             {
-                "name": "GrineerGuardsman",
-                "link": null
+                "link": null,
+                "name": "GrineerGuardsman"
             },
             {
-                "name": "GrineerManic",
-                "link": null
+                "link": null,
+                "name": "GrineerManic"
             },
             {
-                "name": "GrineerDrekar Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Butcher"
             },
             {
-                "name": "GrineerDrekar Manic",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Manic"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Fast_Hands",
-        "description": "<p>The Fast Hands mod increases reload speed by 5% per rank for a maximum of 30% at rank 5.</p>"
+        "description": "<p>The Fast Hands mod increases reload speed by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fast_Hands"
     },
     "ru": {
         "icon": "icons/ru/Fast_Hands.52147847eb284936524366e8d5302013.png",
-        "item_name": "Быстрые руки",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5_%D1%80%D1%83%D0%BA%D0%B8",
-        "thumb": "icons/ru/thumbs/Fast_Hands.52147847eb284936524366e8d5302013.128x128.png",
+        "description": "<p>Быстрые Руки — обычный мод для основного оружия, который увеличивает скорость перезарядки.</p>",
         "drop": [
             {
-                "name": "GrineerButcher",
-                "link": null
+                "link": null,
+                "name": "GrineerButcher"
             },
             {
-                "name": "GrineerDrahk Master",
-                "link": null
+                "link": null,
+                "name": "GrineerDrahk Master"
             },
             {
-                "name": "GrineerHyekka Master",
-                "link": null
+                "link": null,
+                "name": "GrineerHyekka Master"
             },
             {
-                "name": "GrineerBailiff",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff"
             },
             {
-                "name": "GrineerGuardsman",
-                "link": null
+                "link": null,
+                "name": "GrineerGuardsman"
             },
             {
-                "name": "GrineerManic",
-                "link": null
+                "link": null,
+                "name": "GrineerManic"
             },
             {
-                "name": "GrineerDrekar Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Butcher"
             },
             {
-                "name": "GrineerDrekar Manic",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Manic"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "description": "<p>Быстрые Руки — обычный мод для основного оружия, который увеличивает скорость перезарядки.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5_%D1%80%D1%83%D0%BA%D0%B8",
+        "thumb": "icons/ru/thumbs/Fast_Hands.52147847eb284936524366e8d5302013.128x128.png",
+        "item_name": "Быстрые руки"
     },
     "rarity": "common",
     "mod_max_rank": 5,

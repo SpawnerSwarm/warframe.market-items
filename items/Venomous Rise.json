@@ -14,8 +14,8 @@
         "item_name": "Venomous Rise",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
         "description": "<p>Venomous Rise is a PvP-exclusive Exilus mod that increases Bullet Jump speed and grants  Toxin damage to Bullet Jumps at Max Energy.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Venomous_Rise.980cfd40af060c1049ffa60c757ce220.png",
-        "item_name": "Ядовитый восход",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D1%8B%D0%B9_%D0%B2%D0%BE%D1%81%D1%85%D0%BE%D0%B4",
-        "thumb": "icons/ru/thumbs/Venomous_Rise.980cfd40af060c1049ffa60c757ce220.128x128.png",
+        "description": "<p>Ядовитый восход — эксилус мод для варфреймов в режиме конклава, который даёт бонусный  токсичный урон стремительному прыжку, расходуя энергию при попадании в противника в том случае, если у варфрейма в момент нанесения урона было максимальное колчество энергии.</p>",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             }
         ],
-        "description": "<p>Ядовитый восход — эксилус мод для варфреймов в режиме конклава, который даёт бонусный  токсичный урон стремительному прыжку, расходуя энергию при попадании в противника в том случае, если у варфрейма в момент нанесения урона было максимальное колчество энергии.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D1%8B%D0%B9_%D0%B2%D0%BE%D1%81%D1%85%D0%BE%D0%B4",
+        "thumb": "icons/ru/thumbs/Venomous_Rise.980cfd40af060c1049ffa60c757ce220.128x128.png",
+        "item_name": "Ядовитый восход"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

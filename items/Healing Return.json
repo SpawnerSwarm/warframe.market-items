@@ -14,23 +14,23 @@
         "item_name": "Healing Return",
         "drop": [
             {
-                "name": "Crawler",
-                "link": null
+                "link": null,
+                "name": "Crawler"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return",
-        "description": "<p>Healing Return heals the player when hitting a target currently affected by a Status Effect proc.</p>"
+        "description": "<p>Healing Return heals the player when hitting a target currently affected by a Status Effect proc.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return"
     },
     "ru": {
         "item_name": "Ответное Лечение",
         "drop": [
             {
-                "name": "Crawler",
-                "link": null
+                "link": null,
+                "name": "Crawler"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ответное_Лечение",
-        "description": "<p>Восстанавливает +11 Здоровья при каждом ударе по цели под воздействием Эффекта Статуса.</p>"
+        "description": "<p>Восстанавливает +11 Здоровья при каждом ударе по цели под воздействием Эффекта Статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ответное_Лечение"
     },
     "rarity": "rare",
     "mod_max_rank": 10,

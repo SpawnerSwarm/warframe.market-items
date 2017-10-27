@@ -26,9 +26,9 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vauban/Prime"
     },
     "ru": {
-        "item_name": "Вобан Комплект",
-        "drop": [],
         "description": "<p>Мастер тактики Вобан может создавать ловушки, которые наносят урон электричеством, обездвиживают и пространственно сминают врагов.</p>",
+        "drop": [],
+        "item_name": "Вобан Комплект",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B1%D0%B0%D0%BD"
     },
     "trading_tax": 4000

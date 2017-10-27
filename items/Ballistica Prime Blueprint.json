@@ -23,8 +23,8 @@
         "item_name": "Ballistica Prime Blueprint",
         "drop": [
             {
-                "name": "Lith B2 Rare",
-                "link": null
+                "link": null,
+                "name": "Lith B2 Rare"
             }
         ],
         "description": "<p>The Ballistica Prime is the Prime variant of the Ballistica. It was released in Update 21.6 alongside Hydroid Prime and Nami Skyla Prime.</p>",
@@ -34,8 +34,8 @@
         "item_name": "Баллистика Прайм Чертеж",
         "drop": [
             {
-                "name": "Lith B2 Rare",
-                "link": null
+                "link": null,
+                "name": "Lith B2 Rare"
             }
         ],
         "description": "<p>Красота этого роскошного позолоченного арбалета не может преуменьшить его смертоносное призвание.</p>",

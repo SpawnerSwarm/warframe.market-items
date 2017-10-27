@@ -19,22 +19,22 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "This knowledge hungry protector defends its master with Deconstructor Prime.",
-        "item_name": "Helios Prime Blueprint",
         "drop": [
             {
-                "name": "Lith V4 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Lith V4 Uncommon"
             },
             {
-                "name": "Meso C3 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Meso C3 Uncommon"
             },
             {
-                "name": "Lith N2 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Lith N2 Uncommon"
             }
         ],
+        "item_name": "Helios Prime Blueprint",
+        "codex": "This knowledge hungry protector defends its master with Deconstructor Prime.",
         "description": "<p>Helios Prime is the Orokin-enhanced version of the Helios Sentinel and is equipped with Deconstructor Prime.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime"
     },
@@ -42,16 +42,16 @@
         "item_name": "Гелиос Прайм Чертеж",
         "drop": [
             {
-                "name": "Lith V4 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Lith V4 Uncommon"
             },
             {
-                "name": "Meso C3 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Meso C3 Uncommon"
             },
             {
-                "name": "Lith N2 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Lith N2 Uncommon"
             }
         ],
         "description": "<p>Гелиос Прайм является Прайм версией обычного Гелиоса. Он отличается большим количеством здоровья и брони, а также дополнительной Вазарин полярностью.</p>",

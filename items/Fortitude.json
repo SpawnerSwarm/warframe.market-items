@@ -14,25 +14,25 @@
         "item_name": "Fortitude",
         "drop": [
             {
-                "name": "Nightmare Mode rewardAlerts",
-                "link": null
+                "link": null,
+                "name": "Nightmare Mode rewardAlerts"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Fortitude",
-        "description": "<p>Fortitude increases chance to resist knockdown effects and increases the shield recharge rate of a Warframe.</p>"
+        "description": "<p>Fortitude increases chance to resist knockdown effects and increases the shield recharge rate of a Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fortitude"
     },
     "ru": {
         "icon": "icons/ru/Fortitude.1f20eddf3f0ae111c5af921b0776b95d.png",
-        "item_name": "Стойкость",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
-        "thumb": "icons/ru/thumbs/Fortitude.1f20eddf3f0ae111c5af921b0776b95d.128x128.png",
+        "description": "<p>Стойкость — гибридный мод для варфреймов, который даёт шанс не быть сбитым с ног и увеличивает скорость восстановления щита.</p>",
         "drop": [
             {
-                "name": "Nightmare Mode rewardAlerts",
-                "link": null
+                "link": null,
+                "name": "Nightmare Mode rewardAlerts"
             }
         ],
-        "description": "<p>Стойкость — гибридный мод для варфреймов, который даёт шанс не быть сбитым с ног и увеличивает скорость восстановления щита.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "thumb": "icons/ru/thumbs/Fortitude.1f20eddf3f0ae111c5af921b0776b95d.128x128.png",
+        "item_name": "Стойкость"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

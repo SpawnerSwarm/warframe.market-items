@@ -15,9 +15,9 @@
     ],
     "set_root": true,
     "en": {
-        "codex": "A fragment of Stalker's War Sword, a symbol of his defeat.",
-        "item_name": "Broken War Set",
         "drop": [],
+        "item_name": "Broken War Set",
+        "codex": "A fragment of Stalker's War Sword, a symbol of his defeat.",
         "description": "<p>Broken War is a sword formed from a portion of the War greatsword, the weapon given to Stalker by the Sentient Hunhow. This weapon is granted as a reward for completing The Second Dream Quest.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Broken_War"
     },

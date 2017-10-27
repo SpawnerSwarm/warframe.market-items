@@ -10,10 +10,10 @@
     "url_name": "vaya_ayatan_sculpture",
     "tradable": true,
     "en": {
-        "item_name": "Vaya Ayatan Sculpture",
+        "description": "<p>Ayatan Sculptures are ancient Orokin treasures powered by Endo that can be discovered across the system. There are two types available: the sculptures themselves, and smaller Stars which can be inserted into the larger sculptures to increase their value. These sculptures can be traded to Maroo at her Bazaar for varying amounts of Endo (with a fee in Credits), or placed within the Orbiter as decorations.</p>",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture",
-        "description": "<p>Ayatan Sculptures are ancient Orokin treasures powered by Endo that can be discovered across the system. There are two types available: the sculptures themselves, and smaller Stars which can be inserted into the larger sculptures to increase their value. These sculptures can be traded to Maroo at her Bazaar for varying amounts of Endo (with a fee in Credits), or placed within the Orbiter as decorations.</p>"
+        "item_name": "Vaya Ayatan Sculpture",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture"
     },
     "ru": {
         "item_name": "Вая Аятанская Скульптура",

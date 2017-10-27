@@ -14,41 +14,41 @@
         "item_name": "Maim",
         "drop": [
             {
-                "name": "Operation: Gate Crash reward",
-                "link": null
+                "link": null,
+                "name": "Operation: Gate Crash reward"
             },
             {
-                "name": "Emergency ExitTactical Alert reward",
-                "link": null
+                "link": null,
+                "name": "Emergency ExitTactical Alert reward"
             },
             {
-                "name": "Baro Ki'Teer",
-                "link": null
+                "link": null,
+                "name": "Baro Ki'Teer"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Maim",
-        "description": "<p>The Maim mod increases  Slash damage of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>"
+        "description": "<p>The Maim mod increases  Slash damage of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Maim"
     },
     "ru": {
         "icon": "icons/ru/Maim.4fe4214fe68c683d09a7d4fee17c03bb.png",
-        "item_name": "Порез",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7",
-        "thumb": "icons/ru/thumbs/Maim.4fe4214fe68c683d09a7d4fee17c03bb.128x128.png",
+        "description": "<p>Порез — редкий мод для вторичного оружия, который увеличивает   режущий урон.</p>",
         "drop": [
             {
-                "name": "Operation: Gate Crash reward",
-                "link": null
+                "link": null,
+                "name": "Operation: Gate Crash reward"
             },
             {
-                "name": "Emergency ExitTactical Alert reward",
-                "link": null
+                "link": null,
+                "name": "Emergency ExitTactical Alert reward"
             },
             {
-                "name": "Baro Ki'Teer",
-                "link": null
+                "link": null,
+                "name": "Baro Ki'Teer"
             }
         ],
-        "description": "<p>Порез — редкий мод для вторичного оружия, который увеличивает   режущий урон.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7",
+        "thumb": "icons/ru/thumbs/Maim.4fe4214fe68c683d09a7d4fee17c03bb.128x128.png",
+        "item_name": "Порез"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

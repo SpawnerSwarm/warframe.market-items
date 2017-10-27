@@ -13,8 +13,8 @@
         "item_name": "Augur Pact",
         "drop": [
             {
-                "name": "Recon Commander (1.14%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (1.14%)"
             }
         ],
         "description": "<p>Augur Pact is a set mod available from bounties on the Plains of Eidolon. It increases the damage of secondaries by 90% at max rank, with the full set bonus applied 150% of energy spent with abilities is converted into Shields</p>",
@@ -24,8 +24,8 @@
         "item_name": "Авгур Пакт",
         "drop": [
             {
-                "name": "Recon Commander (1.14%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (1.14%)"
             }
         ],
         "description": "Пистолет: +80% урона.",
