@@ -9,9 +9,9 @@
     "url_name": "small_goopolla",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Small Goopolla",
         "drop": [],
+        "item_name": "Small Goopolla",
+        "codex": "",
         "description": "<p>A predatory fish that is attracted to the scent of blood.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Goopolla"
     },

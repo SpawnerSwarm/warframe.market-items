@@ -25,23 +25,23 @@
         "item_name": "Nyx Prime Systems",
         "drop": [
             {
-                "name": "Neo S2 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Neo S2 Uncommon"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Nyx_Prime_Systems",
-        "description": "<p>Release Date: September 23rd, 2014</p><p>Nyx Prime is the primed variant of the Nyx Warframe featuring more powerful stats: possessing higher armor, sprint speed and shield capacity, as well as an additional  polarity.</p>"
+        "description": "<p>Release Date: September 23rd, 2014</p><p>Nyx Prime is the primed variant of the Nyx Warframe featuring more powerful stats: possessing higher armor, sprint speed and shield capacity, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nyx_Prime_Systems"
     },
     "ru": {
-        "item_name": "Никс Прайм Система",
+        "description": "<p>Атакуйте разум ваших противников с Никс прайм. Обладает дополнительными слотами полярности для большей кастомизации.</p>",
         "drop": [
             {
-                "name": "Neo S2 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Neo S2 Uncommon"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D0%BA%D1%81/Прайм",
-        "description": "<p>Атакуйте разум ваших противников с Никс прайм. Обладает дополнительными слотами полярности для большей кастомизации.</p>"
+        "item_name": "Никс Прайм Система",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D0%BA%D1%81/Прайм"
     },
     "ducats": 45,
     "trading_tax": 4000

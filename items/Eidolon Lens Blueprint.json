@@ -10,9 +10,9 @@
     "url_name": "eidolon_lens_blueprint",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Eidolon Lens Blueprint",
         "drop": [],
+        "item_name": "Eidolon Lens Blueprint",
+        "codex": "",
         "description": "",
         "wiki_link": "http://warframe.wikia.com/wiki/Plains_of_Eidolon/Rewards#Level 40-60"
     },

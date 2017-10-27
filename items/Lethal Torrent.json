@@ -14,41 +14,41 @@
         "item_name": "Lethal Torrent",
         "drop": [
             {
-                "name": "Operation Arid Fear",
-                "link": null
+                "link": null,
+                "name": "Operation Arid Fear"
             },
             {
-                "name": "Nightmare Mode reward",
-                "link": null
+                "link": null,
+                "name": "Nightmare Mode reward"
             },
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Lethal_Torrent",
-        "description": "<p>The Lethal Torrent mod increases both fire rate and multishot percentage. These additional rounds do not consume extra ammunition.</p>"
+        "description": "<p>The Lethal Torrent mod increases both fire rate and multishot percentage. These additional rounds do not consume extra ammunition.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lethal_Torrent"
     },
     "ru": {
         "icon": "icons/ru/Lethal_Torrent.a3b66a06c82256ec7f9e3f1e3555f389.png",
-        "item_name": "Смертоносный ливень",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C",
-        "thumb": "icons/ru/thumbs/Lethal_Torrent.a3b66a06c82256ec7f9e3f1e3555f389.128x128.png",
+        "description": "<p>Смертоносный Ливень — гибридный мод для вторичного оружия, который увеличивает скорострельность даёт шанс произвести дополнительный выстрел.</p>",
         "drop": [
             {
-                "name": "Operation Arid Fear",
-                "link": null
+                "link": null,
+                "name": "Operation Arid Fear"
             },
             {
-                "name": "Nightmare Mode reward",
-                "link": null
+                "link": null,
+                "name": "Nightmare Mode reward"
             },
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "description": "<p>Смертоносный Ливень — гибридный мод для вторичного оружия, который увеличивает скорострельность даёт шанс произвести дополнительный выстрел.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C",
+        "thumb": "icons/ru/thumbs/Lethal_Torrent.a3b66a06c82256ec7f9e3f1e3555f389.128x128.png",
+        "item_name": "Смертоносный ливень"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

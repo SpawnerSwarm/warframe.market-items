@@ -1,0 +1,35 @@
+{
+    "_id": "59f38f558c202c007335ba66",
+    "tags": [
+        "mod"
+    ],
+    "icon": "icons/en/Spring-Loaded_Blade.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "icons/en/thumbs/Spring-Loaded_Blade.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon_format": "port",
+    "url_name": "spring_loaded_blade",
+    "tradable": true,
+    "en": {
+        "description": "<p>Spring-Loaded Blade is a melee mod that increases Melee Range by 30% for +24 secs on proccing a Status Effect.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Incursions 1.01% (Rot B)"
+            }
+        ],
+        "item_name": "Spring-Loaded Blade",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade"
+    },
+    "ru": {
+        "description": "<p>Spring-Loaded Blade is a melee mod that increases Melee Range by 30% for +24 secs on proccing a Status Effect.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Налет 1.01% (Ротация B)"
+            }
+        ],
+        "item_name": "Spring-Loaded Клинок",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade"
+    },
+    "rarity": "rare",
+    "trading_tax": 8000
+}

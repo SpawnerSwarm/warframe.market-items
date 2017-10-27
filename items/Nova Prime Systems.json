@@ -25,39 +25,39 @@
         "item_name": "Nova Prime Systems",
         "drop": [
             {
-                "name": "Lith C1 Common",
-                "link": null
+                "link": null,
+                "name": "Lith C1 Common"
             },
             {
-                "name": "Meso S1 Common",
-                "link": null
+                "link": null,
+                "name": "Meso S1 Common"
             },
             {
-                "name": "Neo S2 Common",
-                "link": null
+                "link": null,
+                "name": "Neo S2 Common"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Nova_Prime_Systems",
-        "description": "<p>Release Date: December 16, 2014</p><p>Nova Prime is the primed variant of the Nova Warframe featuring more powerful stats: possessing a higher energy capacity and shield capacity, as well as an additional  polarity. </p>"
+        "description": "<p>Release Date: December 16, 2014</p><p>Nova Prime is the primed variant of the Nova Warframe featuring more powerful stats: possessing a higher energy capacity and shield capacity, as well as an additional  polarity. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nova_Prime_Systems"
     },
     "ru": {
-        "item_name": "Нова Прайм Система",
+        "description": "<p>Благодаря большему количеству щитов и энергии Нова прайм сможет более эффективнo использовать свои способности к управлению антиматерией.</p>",
         "drop": [
             {
-                "name": "Lith C1 Common",
-                "link": null
+                "link": null,
+                "name": "Lith C1 Common"
             },
             {
-                "name": "Meso S1 Common",
-                "link": null
+                "link": null,
+                "name": "Meso S1 Common"
             },
             {
-                "name": "Neo S2 Common",
-                "link": null
+                "link": null,
+                "name": "Neo S2 Common"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%BE%D0%B2%D0%B0/Прайм",
-        "description": "<p>Благодаря большему количеству щитов и энергии Нова прайм сможет более эффективнo использовать свои способности к управлению антиматерией.</p>"
+        "item_name": "Нова Прайм Система",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%BE%D0%B2%D0%B0/Прайм"
     },
     "ducats": 15,
     "trading_tax": 4000

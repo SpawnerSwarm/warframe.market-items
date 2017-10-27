@@ -13,8 +13,8 @@
         "item_name": "Gladiator Might",
         "drop": [
             {
-                "name": "Aerial Commander (0.33%)",
-                "link": null
+                "link": null,
+                "name": "Aerial Commander (0.33%)"
             }
         ],
         "description": "<p>Gladiator Might is a set mod that increases the critical damage of a melee weapon.</p>",
@@ -24,8 +24,8 @@
         "item_name": "Гладиатор Мощь",
         "drop": [
             {
-                "name": "Aerial Commander (0.33%)",
-                "link": null
+                "link": null,
+                "name": "Aerial Commander (0.33%)"
             }
         ],
         "description": "<p>Ближний Бой: +40% Критический урон</p>",

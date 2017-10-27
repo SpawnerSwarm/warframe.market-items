@@ -21,26 +21,26 @@
     "set_root": false,
     "en": {
         "codex": "A proud fighter emerges unscarred by time or malice.",
-        "item_name": "Valkyr Prime Blueprint",
+        "description": "<p>Release date: November 22nd, 2016</p><p>Valkyr Prime is the Prime variant of the Valkyr Warframe featuring higher armor and power values, as well as an additional Madurai Pol polarity.</p>",
         "drop": [
             {
-                "name": "Meso S3 Common",
-                "link": null
+                "link": null,
+                "name": "Meso S3 Common"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Valkyr/Prime",
-        "description": "<p>Release date: November 22nd, 2016</p><p>Valkyr Prime is the Prime variant of the Valkyr Warframe featuring higher armor and power values, as well as an additional Madurai Pol polarity.</p>"
+        "item_name": "Valkyr Prime Blueprint",
+        "wiki_link": "http://warframe.wikia.com/wiki/Valkyr/Prime"
     },
     "ru": {
-        "item_name": "Валькирия Прайм Чертеж",
+        "description": "<p>Варфрейм-берсеркер, ориентированный на быстрое и безжалостное уничтожение врагов. В её арсенале способностей есть всё необходимое, чтобы расправиться с противником как можно быстрей.</p>",
         "drop": [
             {
-                "name": "Meso S3 Common",
-                "link": null
+                "link": null,
+                "name": "Meso S3 Common"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D1%8F/Прайм",
-        "description": "<p>Варфрейм-берсеркер, ориентированный на быстрое и безжалостное уничтожение врагов. В её арсенале способностей есть всё необходимое, чтобы расправиться с противником как можно быстрей.</p>"
+        "item_name": "Валькирия Прайм Чертеж",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D1%8F/Прайм"
     },
     "ducats": 100,
     "trading_tax": 4000

@@ -13,8 +13,8 @@
         "item_name": "Expel Corrupted",
         "drop": [
             {
-                "name": "Defection (T1, T2, T3)",
-                "link": null
+                "link": null,
+                "name": "Defection (T1, T2, T3)"
             }
         ],
         "description": "<p>Expel Corrupted increases the damage of secondary weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
@@ -24,8 +24,8 @@
         "item_name": "Изгнание: Порабощённые",
         "drop": [
             {
-                "name": "Defection (T1, T2, T3)",
-                "link": null
+                "link": null,
+                "name": "Defection (T1, T2, T3)"
             }
         ],
         "description": "Нету",

@@ -9,9 +9,9 @@
     "url_name": "small_mawfish",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Small Mawfish",
         "drop": [],
+        "item_name": "Small Mawfish",
+        "codex": "",
         "description": "<p>Its gaping maw allows it to scoop up smaller fish as it swims by them.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Mawfish"
     },

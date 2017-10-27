@@ -9,9 +9,9 @@
     "url_name": "large_khut_khut",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Large Khut-Khut",
         "drop": [],
+        "item_name": "Large Khut-Khut",
+        "codex": "",
         "description": "<p>A poisonous fish protected by a hard carapace around its skull.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Khut-Khut"
     },

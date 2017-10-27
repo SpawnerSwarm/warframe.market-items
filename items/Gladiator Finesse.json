@@ -13,8 +13,8 @@
         "item_name": "Gladiator Finesse",
         "drop": [
             {
-                "name": "Aerial Commander (0.02%)",
-                "link": null
+                "link": null,
+                "name": "Aerial Commander (0.02%)"
             }
         ],
         "description": "<p>Gladiator Finesse is a set mod that uses a Warframe's residual energy pool as an emergency buffer to prevent death when the Warframe's health reaches 2.</p>",
@@ -24,8 +24,8 @@
         "item_name": "Гладиатор Ловкость",
         "drop": [
             {
-                "name": "Aerial Commander (0.02%)",
-                "link": null
+                "link": null,
+                "name": "Aerial Commander (0.02%)"
             }
         ],
         "description": "",

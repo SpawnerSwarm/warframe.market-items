@@ -14,81 +14,81 @@
         "item_name": "Lingering Torment",
         "drop": [
             {
-                "name": "GrineerEviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerEviscerator"
             },
             {
-                "name": "GrineerTrooper",
-                "link": null
+                "link": null,
+                "name": "GrineerTrooper"
             },
             {
-                "name": "GrineerArid Eviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Eviscerator"
             },
             {
-                "name": "GrineerArid Trooper",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Trooper"
             },
             {
-                "name": "GrineerDrekar Eviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Eviscerator"
             },
             {
-                "name": "GrineerDrekar Trooper",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Trooper"
             },
             {
-                "name": "GrineerFrontier Eviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Eviscerator"
             },
             {
-                "name": "GrineerFrontier Trooper",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Trooper"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Lingering_Torment",
-        "description": "<p>Lingering Torment increases the duration of Status Effects inflicted by Shotguns. </p>"
+        "description": "<p>Lingering Torment increases the duration of Status Effects inflicted by Shotguns. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lingering_Torment"
     },
     "ru": {
         "icon": "icons/ru/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.png",
-        "item_name": "Долгие мучения",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B8%D0%B5_%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
-        "thumb": "icons/ru/thumbs/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.128x128.png",
+        "description": "<p>Долгие Мучения — обычный мод для дробовиков, который увеличивает длительность статуса.</p>",
         "drop": [
             {
-                "name": "GrineerEviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerEviscerator"
             },
             {
-                "name": "GrineerTrooper",
-                "link": null
+                "link": null,
+                "name": "GrineerTrooper"
             },
             {
-                "name": "GrineerArid Eviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Eviscerator"
             },
             {
-                "name": "GrineerArid Trooper",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Trooper"
             },
             {
-                "name": "GrineerDrekar Eviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Eviscerator"
             },
             {
-                "name": "GrineerDrekar Trooper",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Trooper"
             },
             {
-                "name": "GrineerFrontier Eviscerator",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Eviscerator"
             },
             {
-                "name": "GrineerFrontier Trooper",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Trooper"
             }
         ],
-        "description": "<p>Долгие Мучения — обычный мод для дробовиков, который увеличивает длительность статуса.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B8%D0%B5_%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
+        "thumb": "icons/ru/thumbs/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.128x128.png",
+        "item_name": "Долгие мучения"
     },
     "rarity": "common",
     "mod_max_rank": 5,

@@ -14,49 +14,49 @@
         "item_name": "High Noon",
         "drop": [
             {
-                "name": "InfestedBrood Mother",
-                "link": null
+                "link": null,
+                "name": "InfestedBrood Mother"
             },
             {
-                "name": "Orokin Moon Spy Reward",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Spy Reward"
             },
             {
-                "name": "Operation: Rathuum Tier 1",
-                "link": null
+                "link": null,
+                "name": "Operation: Rathuum Tier 1"
             },
             {
-                "name": "Feyarch Specter",
-                "link": null
+                "link": null,
+                "name": "Feyarch Specter"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/High_Noon",
-        "description": "<p>High Noon is a Stance mod for gunblades, blending swift slashes with gunshots. </p>"
+        "description": "<p>High Noon is a Stance mod for gunblades, blending swift slashes with gunshots. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/High_Noon"
     },
     "ru": {
         "icon": "icons/ru/High_Noon.b7ce963c8e5d7a24f3adce1c1b899590.png",
-        "item_name": "Ровно в полдень",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%BE%D0%B2%D0%BD%D0%BE_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C",
-        "thumb": "icons/ru/thumbs/High_Noon.b7ce963c8e5d7a24f3adce1c1b899590.128x128.png",
+        "description": "<p>Ровно В Полдень — это редкая стойка, предназначенная для оружия ближнего боя класса Ганблейд. Увеличение ранга открывает новые комбинации.</p>",
         "drop": [
             {
-                "name": "InfestedBrood Mother",
-                "link": null
+                "link": null,
+                "name": "InfestedBrood Mother"
             },
             {
-                "name": "Orokin Moon Spy Reward",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Spy Reward"
             },
             {
-                "name": "Operation: Rathuum Tier 1",
-                "link": null
+                "link": null,
+                "name": "Operation: Rathuum Tier 1"
             },
             {
-                "name": "Feyarch Specter",
-                "link": null
+                "link": null,
+                "name": "Feyarch Specter"
             }
         ],
-        "description": "<p>Ровно В Полдень — это редкая стойка, предназначенная для оружия ближнего боя класса Ганблейд. Увеличение ранга открывает новые комбинации.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%BE%D0%B2%D0%BD%D0%BE_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C",
+        "thumb": "icons/ru/thumbs/High_Noon.b7ce963c8e5d7a24f3adce1c1b899590.128x128.png",
+        "item_name": "Ровно в полдень"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

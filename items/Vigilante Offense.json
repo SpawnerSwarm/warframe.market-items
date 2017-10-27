@@ -13,12 +13,12 @@
         "item_name": "Vigilante Offense",
         "drop": [
             {
-                "name": "Bounty (30-50)",
-                "link": null
+                "link": null,
+                "name": "Bounty (30-50)"
             },
             {
-                "name": "Plains Commander (0.02%)",
-                "link": null
+                "link": null,
+                "name": "Plains Commander (0.02%)"
             }
         ],
         "description": "<p>Vigilante Offense is a set mod that increases Punch Through for primary weapons.</p>",
@@ -28,12 +28,12 @@
         "item_name": "Виджиланте Нападение",
         "drop": [
             {
-                "name": "Bounty (30-50)",
-                "link": null
+                "link": null,
+                "name": "Bounty (30-50)"
             },
             {
-                "name": "Plains Commander (0.02%)",
-                "link": null
+                "link": null,
+                "name": "Plains Commander (0.02%)"
             }
         ],
         "description": "",

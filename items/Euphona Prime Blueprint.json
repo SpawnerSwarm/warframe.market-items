@@ -18,26 +18,26 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots.",
-        "item_name": "Euphona Prime Blueprint",
         "drop": [
             {
-                "name": "Axi N5 Common",
-                "link": null
+                "link": null,
+                "name": "Axi N5 Common"
             },
             {
-                "name": "Axi O1 Common",
-                "link": null
+                "link": null,
+                "name": "Axi O1 Common"
             },
             {
-                "name": "Neo N7 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N7 Common"
             },
             {
-                "name": "Axi B1 Common",
-                "link": null
+                "link": null,
+                "name": "Axi B1 Common"
             }
         ],
+        "item_name": "Euphona Prime Blueprint",
+        "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots.",
         "description": "<p>The Euphona Prime is a Prime shotgun type sidearm and the signature weapon of Banshee Prime, capable of two different firing modes. The primary fire shoots a slug for longer range engagements while the Alternate Fire shoots wider spread shots for close range fights.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Euphona_Prime"
     },
@@ -45,20 +45,20 @@
         "item_name": "Юфона Прайм Чертеж",
         "drop": [
             {
-                "name": "Axi N5 Common",
-                "link": null
+                "link": null,
+                "name": "Axi N5 Common"
             },
             {
-                "name": "Axi O1 Common",
-                "link": null
+                "link": null,
+                "name": "Axi O1 Common"
             },
             {
-                "name": "Neo N7 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N7 Common"
             },
             {
-                "name": "Axi B1 Common",
-                "link": null
+                "link": null,
+                "name": "Axi B1 Common"
             }
         ],
         "description": "<p>Именной дробовик Банши Прайм - это инструмент разрушения, убивающий равно как прицельным, так и беглым огнём.</p>",

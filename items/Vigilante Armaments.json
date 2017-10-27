@@ -13,12 +13,12 @@
         "item_name": "Vigilante Armaments",
         "drop": [
             {
-                "name": "Bounty (20-40)",
-                "link": null
+                "link": null,
+                "name": "Bounty (20-40)"
             },
             {
-                "name": "Plains Commander (1.14%)",
-                "link": null
+                "link": null,
+                "name": "Plains Commander (1.14%)"
             }
         ],
         "description": "<p>Vigilante Armaments is a set mod that increases Multishot for primary weapons.</p>",
@@ -28,12 +28,12 @@
         "item_name": "Виджиланте Вооруженность",
         "drop": [
             {
-                "name": "Bounty (20-40)",
-                "link": null
+                "link": null,
+                "name": "Bounty (20-40)"
             },
             {
-                "name": "Plains Commander (1.14%)",
-                "link": null
+                "link": null,
+                "name": "Plains Commander (1.14%)"
             }
         ],
         "description": "",

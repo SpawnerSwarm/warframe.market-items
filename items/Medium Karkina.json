@@ -9,9 +9,9 @@
     "url_name": "medium_karkina",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Medium Karkina",
         "drop": [],
+        "item_name": "Medium Karkina",
+        "codex": "",
         "description": "<p>A crustacean that hunts during the twilight hours.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Karkina"
     },

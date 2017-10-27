@@ -13,12 +13,12 @@
         "item_name": "Duality",
         "drop": [
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             },
             {
-                "name": "Arbiters of Hexis",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis"
             }
         ],
         "description": "<p>Duality is a Warframe Augment Mod for Equinox that causes her opposite form to split from her when casting Metamorphosis, creating a Specter armed with the weapon Equinox was using during casting.</p>",
@@ -26,20 +26,20 @@
     },
     "ru": {
         "icon": "icons/ru/Duality.8883bceb80c4f93f6c9cab24b6a486b8.png",
-        "item_name": "Двуликость",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-        "thumb": "icons/ru/thumbs/Duality.8883bceb80c4f93f6c9cab24b6a486b8.128x128.png",
+        "description": "<p>Двуликость - мод для варфрейма Эквинокс, изменяющий способность Метаморфоза. На некоторое время призывает на поле боя вторую половину Эквинокс.</p>",
         "drop": [
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             },
             {
-                "name": "Arbiters of Hexis",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis"
             }
         ],
-        "description": "<p>Двуликость - мод для варфрейма Эквинокс, изменяющий способность Метаморфоза. На некоторое время призывает на поле боя вторую половину Эквинокс.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "thumb": "icons/ru/thumbs/Duality.8883bceb80c4f93f6c9cab24b6a486b8.128x128.png",
+        "item_name": "Двуликость"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

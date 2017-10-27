@@ -21,13 +21,13 @@
     "en": {
         "item_name": "Mantis Fuselage",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Mantis",
-        "description": "<p>The Mantis is a Landing Craft, which can serve as an alternative transportation choice to the Liset. If the Mantis is the selected Landing Craft, using an Air Support Charge will have Ordis deploy a Med Tower resembling a Life Support Capsule that heals for 100 Health upon each activation, with each Med Tower providing up to 20 healing charges that can be activated by any player. It landed in Update 17.5.</p>"
+        "description": "<p>The Mantis is a Landing Craft, which can serve as an alternative transportation choice to the Liset. If the Mantis is the selected Landing Craft, using an Air Support Charge will have Ordis deploy a Med Tower resembling a Life Support Capsule that heals for 100 Health upon each activation, with each Med Tower providing up to 20 healing charges that can be activated by any player. It landed in Update 17.5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mantis"
     },
     "ru": {
-        "item_name": "Мантис Фюзеляж",
-        "drop": [],
         "description": "<p>Мантис — десантный корабль, имеющий способность Мед Башня. При использовании зарядов поддержки с корабля сбрасывается Мед Башня, восстанавливающая здоровье ближайшим союзникам.</p>",
+        "drop": [],
+        "item_name": "Мантис Фюзеляж",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D1%81"
     }
 }

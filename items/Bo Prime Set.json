@@ -17,16 +17,16 @@
     ],
     "set_root": true,
     "en": {
-        "codex": "A classic Orokin weapon, Bo Prime creates elegant fury on the battlefield.",
-        "item_name": "Bo Prime Set",
         "drop": [],
+        "item_name": "Bo Prime Set",
+        "codex": "A classic Orokin weapon, Bo Prime creates elegant fury on the battlefield.",
         "description": "<p>The Bo Prime is the primed variant of the Bo staff. It was added in Update 13.7, featuring higher damage and an additional  polarity.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Bo_Prime"
     },
     "ru": {
-        "item_name": "Бо прайм Комплект",
-        "drop": [],
         "description": "<p>Классическое оружие Орокин, Бо Прайм выплескивает свою прекрасную ярость на поле боя.</p>",
+        "drop": [],
+        "item_name": "Бо прайм Комплект",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм"
     },
     "mastery_level": 5,

@@ -17,9 +17,9 @@
     ],
     "set_root": true,
     "en": {
-        "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots.",
-        "item_name": "Euphona Prime Set",
         "drop": [],
+        "item_name": "Euphona Prime Set",
+        "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots.",
         "description": "<p>The Euphona Prime is a Prime shotgun type sidearm and the signature weapon of Banshee Prime, capable of two different firing modes. The primary fire shoots a slug for longer range engagements while the Alternate Fire shoots wider spread shots for close range fights.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Euphona_Prime"
     },

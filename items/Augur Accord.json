@@ -13,8 +13,8 @@
         "item_name": "Augur Accord",
         "drop": [
             {
-                "name": "Recon Commander (0.33%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (0.33%)"
             }
         ],
         "description": "<p>Augur Accord is a set mod available from bounties on the Plains of Eidolon. It increases shield capacity by 180% at max rank, the full set bonus apllied converts 150% of energy spent with abilities into Shields.</p>",
@@ -24,8 +24,8 @@
         "item_name": "Авгур Аккорд",
         "drop": [
             {
-                "name": "Recon Commander (0.33%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (0.33%)"
             }
         ],
         "description": "Варфрейм: +160% емкость щита",

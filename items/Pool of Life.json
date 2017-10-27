@@ -14,33 +14,33 @@
         "item_name": "Pool of Life",
         "drop": [
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             },
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Pool_of_Life",
-        "description": "<p>Pool Of Life is a Warframe Augment Mod that makes enemies marked by Trinity's Well Of Life drop Health Orbs upon death, with a chance to drop an additional Energy Orb.</p>"
+        "description": "<p>Pool Of Life is a Warframe Augment Mod that makes enemies marked by Trinity's Well Of Life drop Health Orbs upon death, with a chance to drop an additional Energy Orb.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pool_of_Life"
     },
     "ru": {
         "icon": "icons/ru/Pool_of_Life.61819d55fa32eb55e62603eee7ea13c4.png",
-        "item_name": "Жизненный пруд",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%83%D0%B4",
-        "thumb": "icons/ru/thumbs/Pool_of_Life.61819d55fa32eb55e62603eee7ea13c4.128x128.png",
+        "description": "<p>Жизненный Пруд — мод-аугмент для варфрейма Тринити и Тринити Прайм, улучшающий её способность Источник Жизни. Враг, на котором была задействована способность, после смерти роняет сферу здоровья и с определенным шансом сферу энергии.</p>",
         "drop": [
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             },
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             }
         ],
-        "description": "<p>Жизненный Пруд — мод-аугмент для варфрейма Тринити и Тринити Прайм, улучшающий её способность Источник Жизни. Враг, на котором была задействована способность, после смерти роняет сферу здоровья и с определенным шансом сферу энергии.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%83%D0%B4",
+        "thumb": "icons/ru/thumbs/Pool_of_Life.61819d55fa32eb55e62603eee7ea13c4.128x128.png",
+        "item_name": "Жизненный пруд"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -14,8 +14,8 @@
         "item_name": "Coaction Drift",
         "drop": [
             {
-                "name": "Orokin Moon Test",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Test"
             }
         ],
         "description": "<p>Coaction Drift is a rare dual-stat Exilus mod that increases an Aura's strength and effectiveness.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Coaction_Drift.09d644f73526465ab6267fc9e35d613f.png",
-        "item_name": "Совместное течение",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "thumb": "icons/ru/thumbs/Coaction_Drift.09d644f73526465ab6267fc9e35d613f.128x128.png",
+        "description": "<p>Совместное течение — эксилус мод для варфреймов, который увеличивает силу и эффективность ауры.</p>",
         "drop": [
             {
-                "name": "Orokin Moon Test",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Test"
             }
         ],
-        "description": "<p>Совместное течение — эксилус мод для варфреймов, который увеличивает силу и эффективность ауры.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Coaction_Drift.09d644f73526465ab6267fc9e35d613f.128x128.png",
+        "item_name": "Совместное течение"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

@@ -17,11 +17,11 @@
     },
     "ru": {
         "icon": "icons/ru/Proboscis.1308bd2545b659b10a4998be450e5e1b.png",
-        "item_name": "Хоботок",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%BA",
+        "description": "<p>Хоботок — мод-заповедь для Гельминтного Инфестоида, который позволяет атаковать противника в определенном радиусе, нанося урон и отталкивая его при этом.</p>",
         "thumb": "icons/ru/thumbs/Proboscis.1308bd2545b659b10a4998be450e5e1b.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%BA",
         "drop": [],
-        "description": "<p>Хоботок — мод-заповедь для Гельминтного Инфестоида, который позволяет атаковать противника в определенном радиусе, нанося урон и отталкивая его при этом.</p>"
+        "item_name": "Хоботок"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

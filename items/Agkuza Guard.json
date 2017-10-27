@@ -22,30 +22,30 @@
         "item_name": "Agkuza Guard",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Agkuza",
-        "description": "<p>This weapon deals primarily  Puncture damage.</p>"
+        "description": "<p>This weapon deals primarily  Puncture damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Agkuza"
     },
     "ru": {
-        "item_name": "Агкуза",
+        "description": "<p>Разрывайте врагов на части с этим массивным клинком с крюком</p>",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
         ],
-        "description": "<p>Разрывайте врагов на части с этим массивным клинком с крюком</p>",
+        "item_name": "Агкуза",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B3%D0%BA%D1%83%D0%B7%D0%B0"
     },
     "mastery_level": 0,

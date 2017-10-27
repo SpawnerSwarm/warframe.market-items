@@ -23,31 +23,31 @@
         "item_name": "Hikou Prime Stars",
         "drop": [
             {
-                "name": "Lith F2 Common",
-                "link": null
+                "link": null,
+                "name": "Lith F2 Common"
             },
             {
-                "name": "Neo N1 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N1 Common"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Hikou_Prime",
-        "description": "<p>The Hikou Prime is the primed version of the Hikou throwing stars, released in Update 14.8.</p>"
+        "description": "<p>The Hikou Prime is the primed version of the Hikou throwing stars, released in Update 14.8.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hikou_Prime"
     },
     "ru": {
-        "item_name": "Хико прайм Сюрикены",
+        "description": "<p>Так же смертельны, как пули, но без шума и хаоса.</p>",
         "drop": [
             {
-                "name": "Lith F2 Common",
-                "link": null
+                "link": null,
+                "name": "Lith F2 Common"
             },
             {
-                "name": "Neo N1 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N1 Common"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
-        "description": "<p>Так же смертельны, как пули, но без шума и хаоса.</p>"
+        "item_name": "Хико прайм Сюрикены",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D0%BA%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм"
     },
     "mastery_level": 4,
     "ducats": 15,
