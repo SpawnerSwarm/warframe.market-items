@@ -13,8 +13,8 @@
         "item_name": "Augur Message",
         "drop": [
             {
-                "name": "Recon Commander (1.14%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (1.14%)"
             }
         ],
         "description": "<p>Augur Message is a set mod available from bounties on the Plains of Eidolon. It increases the Ability Duration of the Warframe by +24% at max rank, with the full Set Bonus applied 150% of the Energy spent with the Abilities is converted into Shields.</p>",
@@ -24,8 +24,8 @@
         "item_name": "Авгур Послание",
         "drop": [
             {
-                "name": "Recon Commander (1.14%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (1.14%)"
             }
         ],
         "description": "Варфрейм: +20% длительность способности.",

@@ -14,25 +14,25 @@
         "item_name": "Pistol Scavenger",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Scavenger",
-        "description": "<p>Pistol Scavenger is an Aura that increases the amount of pistol ammo recovered per drop.</p>"
+        "description": "<p>Pistol Scavenger is an Aura that increases the amount of pistol ammo recovered per drop.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Scavenger"
     },
     "ru": {
         "icon": "icons/ru/Pistol_Scavenger.bc0e7095d1ff29537a1af5c62c900464.png",
-        "item_name": "Добытчик: пистолет",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
-        "thumb": "icons/ru/thumbs/Pistol_Scavenger.bc0e7095d1ff29537a1af5c62c900464.128x128.png",
+        "description": "<p>Добытчик: пистолет — необычная аура, которая увеличивает количество подбираемых патронов для пистолета.</p>",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "description": "<p>Добытчик: пистолет — необычная аура, которая увеличивает количество подбираемых патронов для пистолета.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
+        "thumb": "icons/ru/thumbs/Pistol_Scavenger.bc0e7095d1ff29537a1af5c62c900464.128x128.png",
+        "item_name": "Добытчик: пистолет"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

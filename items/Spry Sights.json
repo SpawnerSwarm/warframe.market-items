@@ -14,12 +14,12 @@
         "item_name": "Spry Sights",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             },
             {
-                "name": "Conculyst",
-                "link": null
+                "link": null,
+                "name": "Conculyst"
             }
         ],
         "description": "<p>Spry Sights is a pistol mod usable in both PvE and PvP that increases movement speed while aiming.</p>",
@@ -27,20 +27,20 @@
     },
     "ru": {
         "icon": "icons/ru/Spry_Sights.01466c04188863b53254a6eb43c9f3ee.png",
-        "item_name": "Подвижное прицеливание",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D0%BE%D0%B5_%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
+        "description": "<p>Подвижное Прицеливание — необычный мод для вторичного оружия в режиме конклава, который увеличивает скорость передвижения варфрейма при прицеливании.</p>",
         "thumb": "icons/ru/thumbs/Spry_Sights.01466c04188863b53254a6eb43c9f3ee.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D0%BE%D0%B5_%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             },
             {
-                "name": "Conculyst",
-                "link": null
+                "link": null,
+                "name": "Conculyst"
             }
         ],
-        "description": "<p>Подвижное Прицеливание — необычный мод для вторичного оружия в режиме конклава, который увеличивает скорость передвижения варфрейма при прицеливании.</p>"
+        "item_name": "Подвижное прицеливание"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

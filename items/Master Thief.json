@@ -14,57 +14,57 @@
         "item_name": "Master Thief",
         "drop": [
             {
-                "name": "GrineerScorpion",
-                "link": null
+                "link": null,
+                "name": "GrineerScorpion"
             },
             {
-                "name": "Infested Mesa",
-                "link": null
+                "link": null,
+                "name": "Infested Mesa"
             },
             {
-                "name": "Infested Chroma",
-                "link": null
+                "link": null,
+                "name": "Infested Chroma"
             },
             {
-                "name": "Hyena Pack",
-                "link": null
+                "link": null,
+                "name": "Hyena Pack"
             },
             {
-                "name": "Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Defense Reward"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Master_Thief",
-        "description": "<p>Master Thief grants a chance of unlocking locked lockers.  </p>"
+        "description": "<p>Master Thief grants a chance of unlocking locked lockers.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Master_Thief"
     },
     "ru": {
         "icon": "icons/ru/Master_Thief.99c6e9bf1306768db4381e5d2be3fdd7.png",
-        "item_name": "Мастер-вор",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%B2%D0%BE%D1%80",
-        "thumb": "icons/ru/thumbs/Master_Thief.99c6e9bf1306768db4381e5d2be3fdd7.128x128.png",
+        "description": "<p>Мастер-Вор — эксилус мод для варфреймов, который с некоторым шансом позволяет открывать запертые шкафчики.</p>",
         "drop": [
             {
-                "name": "GrineerScorpion",
-                "link": null
+                "link": null,
+                "name": "GrineerScorpion"
             },
             {
-                "name": "Infested Mesa",
-                "link": null
+                "link": null,
+                "name": "Infested Mesa"
             },
             {
-                "name": "Infested Chroma",
-                "link": null
+                "link": null,
+                "name": "Infested Chroma"
             },
             {
-                "name": "Hyena Pack",
-                "link": null
+                "link": null,
+                "name": "Hyena Pack"
             },
             {
-                "name": "Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Defense Reward"
             }
         ],
-        "description": "<p>Мастер-Вор — эксилус мод для варфреймов, который с некоторым шансом позволяет открывать запертые шкафчики.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%B2%D0%BE%D1%80",
+        "thumb": "icons/ru/thumbs/Master_Thief.99c6e9bf1306768db4381e5d2be3fdd7.128x128.png",
+        "item_name": "Мастер-вор"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

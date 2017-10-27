@@ -13,12 +13,12 @@
         "item_name": "Magnetized Discharge",
         "drop": [
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             },
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             }
         ],
         "description": "<p>Magnetized Discharge is a Warframe Augment Mod for Mag's Magnetize that allows manual detonation by recasting the ability on an active Magnetize bubble. Enemies hit by the detonation have a chance to be disarmed.</p>",
@@ -28,12 +28,12 @@
         "item_name": "Намагниченное Разоружение",
         "drop": [
             {
-                "name": "The Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "The Perrin Sequence"
             },
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             }
         ],
         "description": "<p>Намагниченное Разоружение — мод-аугмент для Варфреймов Мэг и Мэг Прайм, улучшающий способность Намагничивание. При повторном использовании способности на противнике вызывает взрыв сферы намагничивания. Задетые взрывом противники имеют 50% шанс оказаться обезоруженными.</p>",

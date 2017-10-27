@@ -14,121 +14,121 @@
         "item_name": "Flow",
         "drop": [
             {
-                "name": "GrineerBailiff",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff"
             },
             {
-                "name": "GrineerBailiff Defector",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff Defector"
             },
             {
-                "name": "GrineerArid Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Butcher"
             },
             {
-                "name": "GrineerButcher",
-                "link": null
+                "link": null,
+                "name": "GrineerButcher"
             },
             {
-                "name": "GrineerFrontier Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Butcher"
             },
             {
-                "name": "GrineerDrahk Master",
-                "link": null
+                "link": null,
+                "name": "GrineerDrahk Master"
             },
             {
-                "name": "GrineerHyekka Master",
-                "link": null
+                "link": null,
+                "name": "GrineerHyekka Master"
             },
             {
-                "name": "GrineerManic",
-                "link": null
+                "link": null,
+                "name": "GrineerManic"
             },
             {
-                "name": "GrineerDrekar Manic",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Manic"
             },
             {
-                "name": "Infested Chroma",
-                "link": null
+                "link": null,
+                "name": "Infested Chroma"
             },
             {
-                "name": "Infested Mesa",
-                "link": null
+                "link": null,
+                "name": "Infested Mesa"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Tier 3Survival Reward",
-                "link": null
+                "link": null,
+                "name": "Tier 3Survival Reward"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Flow",
-        "description": "<p>Flow increases the Maximum Energy reserve of a Warframe.</p>"
+        "description": "<p>Flow increases the Maximum Energy reserve of a Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flow"
     },
     "ru": {
         "icon": "icons/ru/Flow.fbd625752e6c15063fea368b83f7eaf3.png",
-        "item_name": "Поток",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
-        "thumb": "icons/ru/thumbs/Flow.fbd625752e6c15063fea368b83f7eaf3.128x128.png",
+        "description": "<p>Поток — редкий мод для варфреймов, который увеличивает максимальное количество запасов энергии.</p>",
         "drop": [
             {
-                "name": "GrineerBailiff",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff"
             },
             {
-                "name": "GrineerBailiff Defector",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff Defector"
             },
             {
-                "name": "GrineerArid Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Butcher"
             },
             {
-                "name": "GrineerButcher",
-                "link": null
+                "link": null,
+                "name": "GrineerButcher"
             },
             {
-                "name": "GrineerFrontier Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Butcher"
             },
             {
-                "name": "GrineerDrahk Master",
-                "link": null
+                "link": null,
+                "name": "GrineerDrahk Master"
             },
             {
-                "name": "GrineerHyekka Master",
-                "link": null
+                "link": null,
+                "name": "GrineerHyekka Master"
             },
             {
-                "name": "GrineerManic",
-                "link": null
+                "link": null,
+                "name": "GrineerManic"
             },
             {
-                "name": "GrineerDrekar Manic",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Manic"
             },
             {
-                "name": "Infested Chroma",
-                "link": null
+                "link": null,
+                "name": "Infested Chroma"
             },
             {
-                "name": "Infested Mesa",
-                "link": null
+                "link": null,
+                "name": "Infested Mesa"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Tier 3Survival Reward",
-                "link": null
+                "link": null,
+                "name": "Tier 3Survival Reward"
             }
         ],
-        "description": "<p>Поток — редкий мод для варфреймов, который увеличивает максимальное количество запасов энергии.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
+        "thumb": "icons/ru/thumbs/Flow.fbd625752e6c15063fea368b83f7eaf3.128x128.png",
+        "item_name": "Поток"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

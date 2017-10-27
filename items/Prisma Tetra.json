@@ -11,16 +11,16 @@
     "url_name": "prisma_tetra",
     "tradable": true,
     "en": {
-        "codex": "When bathed in void energy and Prisma crystal, the simple Tetra becomes a beacon of style and intimidation.",
-        "item_name": "Prisma Tetra",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Tetra",
-        "description": "<p>The Prisma Tetra is the Prisma version of the Corpus Tetra, delivering higher damage, fire rate, status proc, and critical stats.</p>"
+        "item_name": "Prisma Tetra",
+        "codex": "When bathed in void energy and Prisma crystal, the simple Tetra becomes a beacon of style and intimidation.",
+        "description": "<p>The Prisma Tetra is the Prisma version of the Corpus Tetra, delivering higher damage, fire rate, status proc, and critical stats.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Tetra"
     },
     "ru": {
-        "item_name": "Тетра призма",
-        "drop": [],
         "description": "<p>При помощи энергии бездны и кристаллов Призма, обычная тетра может стать эталоном стиля и устрашения врагов.</p>",
+        "drop": [],
+        "item_name": "Тетра призма",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D1%82%D1%80%D0%B0_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0"
     },
     "mastery_level": 4,

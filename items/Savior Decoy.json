@@ -15,12 +15,12 @@
         "item_name": "Savior Decoy",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Arbiters of Hexis ",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis "
             }
         ],
         "description": "<p>Savior Decoy is a Warframe Augment Mod for Loki that allows Decoy to absorb any fatal damage dealt to the player before switching places, along with reducing Decoy's casting time.</p>",
@@ -30,12 +30,12 @@
         "item_name": "Спасительная Приманка",
         "drop": [
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             },
             {
-                "name": "Arbiters of Hexis ",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis "
             }
         ],
         "description": "<p>Если Локи получает смертельный урон, Приманка впитает этот урон и поменяется местами. Так же увеличивает скорость применения Приманки на 50%.</p>",

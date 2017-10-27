@@ -9,9 +9,9 @@
     "url_name": "prisma_angstrum",
     "tradable": true,
     "en": {
-        "codex": "Imbued with the finest Prisma crystal, this refined Angstrum features boosted charge and reload speeds.",
-        "item_name": "Prisma Angstrum",
         "drop": [],
+        "item_name": "Prisma Angstrum",
+        "codex": "Imbued with the finest Prisma crystal, this refined Angstrum features boosted charge and reload speeds.",
         "description": "<p>The Prisma Angstrum is the Prisma variant of the Corpus-built rocket pistol, Angstrum.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Angstrum"
     },

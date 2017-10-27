@@ -14,8 +14,8 @@
         "item_name": "Loose Chamber",
         "drop": [
             {
-                "name": "Conclave Mission Reward",
-                "link": null
+                "link": null,
+                "name": "Conclave Mission Reward"
             }
         ],
         "description": "<p>Loose Chamber is a PvP-exclusive shotgun mod which grants improved reload speed at the cost of increased recoil. </p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Loose_Chamber.91bd72eeea4a2f5958815d44ef83cb7a.png",
-        "item_name": "Подвижный патронник",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA",
-        "thumb": "icons/ru/thumbs/Loose_Chamber.91bd72eeea4a2f5958815d44ef83cb7a.128x128.png",
+        "description": "<p>Подвижный Патронник — обычный мод для дробовиков в режиме конклава, который увеличивает скорость перезарядки, взамен также увеличивая и отдачу при стрельбе.</p>",
         "drop": [
             {
-                "name": "Conclave Mission Reward",
-                "link": null
+                "link": null,
+                "name": "Conclave Mission Reward"
             }
         ],
-        "description": "<p>Подвижный Патронник — обычный мод для дробовиков в режиме конклава, который увеличивает скорость перезарядки, взамен также увеличивая и отдачу при стрельбе.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA",
+        "thumb": "icons/ru/thumbs/Loose_Chamber.91bd72eeea4a2f5958815d44ef83cb7a.128x128.png",
+        "item_name": "Подвижный патронник"
     },
     "rarity": "common",
     "mod_max_rank": 5,

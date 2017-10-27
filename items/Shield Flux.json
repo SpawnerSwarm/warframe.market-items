@@ -14,25 +14,25 @@
         "item_name": "Shield Flux",
         "drop": [
             {
-                "name": "N/A",
-                "link": null
+                "link": null,
+                "name": "N/A"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Flux",
-        "description": "<p>Shield Flux converts a Warframe's Shield to Stamina continuously after Stamina is completely drained.</p>"
+        "description": "<p>Shield Flux converts a Warframe's Shield to Stamina continuously after Stamina is completely drained.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Flux"
     },
     "ru": {
         "icon": "icons/ru/Shield_Flux.495420140a5f01a1c5adbb69d31f5d71.png",
-        "item_name": "Потоковый щит",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%89%D0%B8%D1%82",
-        "thumb": "icons/ru/thumbs/Shield_Flux.495420140a5f01a1c5adbb69d31f5d71.128x128.png",
+        "description": "<p>Потоковый Щит — мод для варфреймов, который перенаправляет траты выносливости в щит.</p>",
         "drop": [
             {
-                "name": "N/A",
-                "link": null
+                "link": null,
+                "name": "N/A"
             }
         ],
-        "description": "<p>Потоковый Щит — мод для варфреймов, который перенаправляет траты выносливости в щит.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%89%D0%B8%D1%82",
+        "thumb": "icons/ru/thumbs/Shield_Flux.495420140a5f01a1c5adbb69d31f5d71.128x128.png",
+        "item_name": "Потоковый щит"
     },
     "rarity": "common",
     "mod_max_rank": 3,

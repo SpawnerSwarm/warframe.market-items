@@ -14,97 +14,97 @@
         "item_name": "Heavy Trauma",
         "drop": [
             {
-                "name": "GrineerArid Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Hellion"
             },
             {
-                "name": "GrineerArid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Lancer"
             },
             {
-                "name": "GrineerDrekar Elite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Elite Lancer"
             },
             {
-                "name": "GrineerDrekar Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Lancer"
             },
             {
-                "name": "GrineerDrekar Scorpion",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Scorpion"
             },
             {
-                "name": "GrineerFrontier Heavy Gunner",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Heavy Gunner"
             },
             {
-                "name": "GrineerFrontier Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Hellion"
             },
             {
-                "name": "GrineerFrontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Lancer"
             },
             {
-                "name": "GrineerLancer",
-                "link": null
+                "link": null,
+                "name": "GrineerLancer"
             },
             {
-                "name": "GrineerHellion",
-                "link": null
+                "link": null,
+                "name": "GrineerHellion"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Trauma",
-        "description": "<p>Heavy Trauma increases the  Impact damage of melee weapons.</p>"
+        "description": "<p>Heavy Trauma increases the  Impact damage of melee weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Trauma"
     },
     "ru": {
         "icon": "icons/ru/Heavy_Trauma.ffdae811bd536d10bbf3cc2930891e51.png",
-        "item_name": "Тяжёлая травма",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D0%B0%D1%8F_%D1%82%D1%80%D0%B0%D0%B2%D0%BC%D0%B0",
-        "thumb": "icons/ru/thumbs/Heavy_Trauma.ffdae811bd536d10bbf3cc2930891e51.128x128.png",
+        "description": "<p>Тяжёлая Травма — редкий мод для оружия ближнего боя, который увеличивает  ударный урон.</p>",
         "drop": [
             {
-                "name": "GrineerArid Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Hellion"
             },
             {
-                "name": "GrineerArid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerArid Lancer"
             },
             {
-                "name": "GrineerDrekar Elite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Elite Lancer"
             },
             {
-                "name": "GrineerDrekar Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Lancer"
             },
             {
-                "name": "GrineerDrekar Scorpion",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Scorpion"
             },
             {
-                "name": "GrineerFrontier Heavy Gunner",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Heavy Gunner"
             },
             {
-                "name": "GrineerFrontier Hellion",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Hellion"
             },
             {
-                "name": "GrineerFrontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerFrontier Lancer"
             },
             {
-                "name": "GrineerLancer",
-                "link": null
+                "link": null,
+                "name": "GrineerLancer"
             },
             {
-                "name": "GrineerHellion",
-                "link": null
+                "link": null,
+                "name": "GrineerHellion"
             }
         ],
-        "description": "<p>Тяжёлая Травма — редкий мод для оружия ближнего боя, который увеличивает  ударный урон.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D0%B0%D1%8F_%D1%82%D1%80%D0%B0%D0%B2%D0%BC%D0%B0",
+        "thumb": "icons/ru/thumbs/Heavy_Trauma.ffdae811bd536d10bbf3cc2930891e51.128x128.png",
+        "item_name": "Тяжёлая травма"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

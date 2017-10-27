@@ -14,25 +14,25 @@
         "item_name": "Entropy Flight",
         "drop": [
             {
-                "name": "Cephalon Suda Offering",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda Offering"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Flight",
-        "description": "<p>The Entropy Flight mod is a Weapon Augment Mod that increases flight speed and Entropy specifically for the Kestrel. It increases flight speed by 35% and Entropy by 0.25 per rank, at a maximum of 140% and 1 at rank 3, respectively.</p>"
+        "description": "<p>The Entropy Flight mod is a Weapon Augment Mod that increases flight speed and Entropy specifically for the Kestrel. It increases flight speed by 35% and Entropy by 0.25 per rank, at a maximum of 140% and 1 at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Flight"
     },
     "ru": {
         "icon": "icons/ru/Entropy_Flight.0550a67f2ca90039302001b1c9092617.png",
-        "item_name": "Полёт энтропии",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%BB%D1%91%D1%82_%D1%8D%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D0%B8",
-        "thumb": "icons/ru/thumbs/Entropy_Flight.0550a67f2ca90039302001b1c9092617.128x128.png",
+        "description": "<p>Полёт Энтропии —мод-аугмент для оружия Кестрел, который увеличивает скорость полёта метательной атаки и даёт прирост Синдикат-эффекта - Энтропия.</p>",
         "drop": [
             {
-                "name": "Cephalon Suda Offering",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda Offering"
             }
         ],
-        "description": "<p>Полёт Энтропии —мод-аугмент для оружия Кестрел, который увеличивает скорость полёта метательной атаки и даёт прирост Синдикат-эффекта - Энтропия.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%BB%D1%91%D1%82_%D1%8D%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D0%B8",
+        "thumb": "icons/ru/thumbs/Entropy_Flight.0550a67f2ca90039302001b1c9092617.128x128.png",
+        "item_name": "Полёт энтропии"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

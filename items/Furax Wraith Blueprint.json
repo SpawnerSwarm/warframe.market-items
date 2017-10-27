@@ -18,9 +18,9 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "These Wraith gauntlets have been augmented for power.",
-        "item_name": "Furax Wraith Blueprint",
         "drop": [],
+        "item_name": "Furax Wraith Blueprint",
+        "codex": "These Wraith gauntlets have been augmented for power.",
         "description": "<p>The Furax Wraith is the Wraith variant of the Furax, featuring both improved critical statistics and channeling damage.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Furax_Wraith"
     },

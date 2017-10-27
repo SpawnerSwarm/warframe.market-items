@@ -14,25 +14,25 @@
         "item_name": "Sniper Scavenger",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Sniper_Scavenger",
-        "description": "<p>Sniper Scavenger is an Aura that increases the amount of sniper ammo recovered per drop.</p>"
+        "description": "<p>Sniper Scavenger is an Aura that increases the amount of sniper ammo recovered per drop.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sniper_Scavenger"
     },
     "ru": {
         "icon": "icons/ru/Sniper_Scavenger.8b13d12aec692e7fc8e91d3b8262984f.png",
-        "item_name": "Добытчик: снайпер",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D1%81%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80",
-        "thumb": "icons/ru/thumbs/Sniper_Scavenger.8b13d12aec692e7fc8e91d3b8262984f.128x128.png",
+        "description": "<p>Добытчик: снайпер — необычная аура, которая увеличивает количество подбираемых снайперских патронов.</p>",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "description": "<p>Добытчик: снайпер — необычная аура, которая увеличивает количество подбираемых снайперских патронов.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D1%81%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80",
+        "thumb": "icons/ru/thumbs/Sniper_Scavenger.8b13d12aec692e7fc8e91d3b8262984f.128x128.png",
+        "item_name": "Добытчик: снайпер"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

@@ -14,36 +14,36 @@
         "item_name": "Medi-Pet Kit",
         "drop": [
             {
-                "name": "Auditor",
-                "link": null
+                "link": null,
+                "name": "Auditor"
             },
             {
-                "name": "Azoth",
-                "link": null
+                "link": null,
+                "name": "Azoth"
             },
             {
-                "name": "Derim Zahn",
-                "link": null
+                "link": null,
+                "name": "Derim Zahn"
             },
             {
-                "name": "Jad Teran",
-                "link": null
+                "link": null,
+                "name": "Jad Teran"
             },
             {
-                "name": "Jen Dro",
-                "link": null
+                "link": null,
+                "name": "Jen Dro"
             },
             {
-                "name": "M-WAM",
-                "link": null
+                "link": null,
+                "name": "M-WAM"
             },
             {
-                "name": "Raptor RX",
-                "link": null
+                "link": null,
+                "name": "Raptor RX"
             },
             {
-                "name": "Tia Mayn",
-                "link": null
+                "link": null,
+                "name": "Tia Mayn"
             }
         ],
         "description": "<p>Medi-Pet Kit is a companion Index mod that provides health regeneration and a bleedout timer increase to the companion.</p>",
@@ -51,44 +51,44 @@
     },
     "ru": {
         "icon": "icons/ru/Medi-Pet_Kit.f3009d8f3acedecd8b26f46259e20bd4.png",
-        "item_name": "Аптечка для питомца",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Medi-Pet_Kit",
+        "description": "<p>Аптечка для питомца — необычный мод для кубрау и каватов, который восстанавливает им здоровье и уменьшает скорость кровопотери.</p>",
         "thumb": "icons/ru/thumbs/Medi-Pet_Kit.f3009d8f3acedecd8b26f46259e20bd4.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Medi-Pet_Kit",
         "drop": [
             {
-                "name": "Auditor",
-                "link": null
+                "link": null,
+                "name": "Auditor"
             },
             {
-                "name": "Azoth",
-                "link": null
+                "link": null,
+                "name": "Azoth"
             },
             {
-                "name": "Derim Zahn",
-                "link": null
+                "link": null,
+                "name": "Derim Zahn"
             },
             {
-                "name": "Jad Teran",
-                "link": null
+                "link": null,
+                "name": "Jad Teran"
             },
             {
-                "name": "Jen Dro",
-                "link": null
+                "link": null,
+                "name": "Jen Dro"
             },
             {
-                "name": "M-WAM",
-                "link": null
+                "link": null,
+                "name": "M-WAM"
             },
             {
-                "name": "Raptor RX",
-                "link": null
+                "link": null,
+                "name": "Raptor RX"
             },
             {
-                "name": "Tia Mayn",
-                "link": null
+                "link": null,
+                "name": "Tia Mayn"
             }
         ],
-        "description": "<p>Аптечка для питомца — необычный мод для кубрау и каватов, который восстанавливает им здоровье и уменьшает скорость кровопотери.</p>"
+        "item_name": "Аптечка для питомца"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

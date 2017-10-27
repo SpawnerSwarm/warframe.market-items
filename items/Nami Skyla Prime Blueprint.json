@@ -18,14 +18,14 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "Forged by a forgotten master, these exquisite blades are bounty from a golden-age long gone.",
-        "item_name": "Nami Skyla Prime Blueprint",
         "drop": [
             {
-                "name": "Meso C3 Common",
-                "link": null
+                "link": null,
+                "name": "Meso C3 Common"
             }
         ],
+        "item_name": "Nami Skyla Prime Blueprint",
+        "codex": "Forged by a forgotten master, these exquisite blades are bounty from a golden-age long gone.",
         "description": "<p>The Nami Skyla Prime is the Prime variant to the Nami Skyla. It was released in Update 21.6 alongside Ballistica Prime and Hydroid Prime.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Nami_Skyla_Prime"
     },
@@ -33,8 +33,8 @@
         "item_name": "Нами Скила Прайм Чертеж",
         "drop": [
             {
-                "name": "Meso C3 Common",
-                "link": null
+                "link": null,
+                "name": "Meso C3 Common"
             }
         ],
         "description": "<p>Выкованные забытым мастером, эти клинки - дар давно минувших золотых времен.</p>",

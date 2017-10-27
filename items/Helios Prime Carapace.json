@@ -19,26 +19,26 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "This knowledge hungry protector defends its master with Deconstructor Prime.",
-        "item_name": "Helios Prime Carapace",
         "drop": [
             {
-                "name": "Meso S6 Common",
-                "link": null
+                "link": null,
+                "name": "Meso S6 Common"
             },
             {
-                "name": "Neo S7 Common",
-                "link": null
+                "link": null,
+                "name": "Neo S7 Common"
             },
             {
-                "name": "Neo V5 Common",
-                "link": null
+                "link": null,
+                "name": "Neo V5 Common"
             },
             {
-                "name": "Neo N5 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N5 Common"
             }
         ],
+        "item_name": "Helios Prime Carapace",
+        "codex": "This knowledge hungry protector defends its master with Deconstructor Prime.",
         "description": "<p>Helios Prime is the Orokin-enhanced version of the Helios Sentinel and is equipped with Deconstructor Prime.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime"
     },
@@ -46,20 +46,20 @@
         "item_name": "Гелиос Прайм Панцирь",
         "drop": [
             {
-                "name": "Meso S6 Common",
-                "link": null
+                "link": null,
+                "name": "Meso S6 Common"
             },
             {
-                "name": "Neo S7 Common",
-                "link": null
+                "link": null,
+                "name": "Neo S7 Common"
             },
             {
-                "name": "Neo V5 Common",
-                "link": null
+                "link": null,
+                "name": "Neo V5 Common"
             },
             {
-                "name": "Neo N5 Common",
-                "link": null
+                "link": null,
+                "name": "Neo N5 Common"
             }
         ],
         "description": "<p>Гелиос Прайм является Прайм версией обычного Гелиоса. Он отличается большим количеством здоровья и брони, а также дополнительной Вазарин полярностью.</p>",

@@ -20,15 +20,15 @@
     "set_root": false,
     "en": {
         "codex": "Transform into a winged guardian.",
-        "item_name": "Amesha Harness",
+        "description": "<p>The Amesha is a support-type Archwing that sacrifices offensive power in exchange for area-of-effect defensive abilities that can buff and heal allies and weaken enemies. </p>",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Amesha/Main",
-        "description": "<p>The Amesha is a support-type Archwing that sacrifices offensive power in exchange for area-of-effect defensive abilities that can buff and heal allies and weaken enemies. </p>"
+        "item_name": "Amesha Harness",
+        "wiki_link": "http://warframe.wikia.com/wiki/Amesha/Main"
     },
     "ru": {
-        "item_name": "Амеша Упряжь",
-        "drop": [],
         "description": "<p>Трансформируйтесь в крылатого стража.</p>",
+        "drop": [],
+        "item_name": "Амеша Упряжь",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BC%D0%B5%D1%88%D0%B0"
     },
     "trading_tax": 4000

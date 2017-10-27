@@ -14,97 +14,97 @@
         "item_name": "Smite Grineer",
         "drop": [
             {
-                "name": "CorpusMOA",
-                "link": null
+                "link": null,
+                "name": "CorpusMOA"
             },
             {
-                "name": "CorpusIsolator Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusIsolator Bursa"
             },
             {
-                "name": "CorpusDrover Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDrover Bursa"
             },
             {
-                "name": "CorpusDenial Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDenial Bursa"
             },
             {
-                "name": "GrineerBailiff",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff"
             },
             {
-                "name": "GrineerBailiff Defector",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff Defector"
             },
             {
-                "name": "GrineerButcher",
-                "link": null
+                "link": null,
+                "name": "GrineerButcher"
             },
             {
-                "name": "GrineerDrekar Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Butcher"
             },
             {
-                "name": "GrineerGuardsman",
-                "link": null
+                "link": null,
+                "name": "GrineerGuardsman"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Grineer",
-        "description": "<p>The Smite Grineer mod increases the damage of melee weapons against Grineer by 5% per rank for a maximum of 30% at rank 5.</p>"
+        "description": "<p>The Smite Grineer mod increases the damage of melee weapons against Grineer by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Grineer"
     },
     "ru": {
         "icon": "icons/ru/Smite_Grineer.4e1e049810ca5064322b313caa26d639.png",
-        "item_name": "Крушитель: Гринир",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
-        "thumb": "icons/ru/thumbs/Smite_Grineer.4e1e049810ca5064322b313caa26d639.128x128.png",
+        "description": "<p>Крушитель: Гринир — необычный мод для оружия ближнего боя, который увеличивает урон по бойцам  Гринир.</p>",
         "drop": [
             {
-                "name": "CorpusMOA",
-                "link": null
+                "link": null,
+                "name": "CorpusMOA"
             },
             {
-                "name": "CorpusIsolator Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusIsolator Bursa"
             },
             {
-                "name": "CorpusDrover Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDrover Bursa"
             },
             {
-                "name": "CorpusDenial Bursa",
-                "link": null
+                "link": null,
+                "name": "CorpusDenial Bursa"
             },
             {
-                "name": "GrineerBailiff",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff"
             },
             {
-                "name": "GrineerBailiff Defector",
-                "link": null
+                "link": null,
+                "name": "GrineerBailiff Defector"
             },
             {
-                "name": "GrineerButcher",
-                "link": null
+                "link": null,
+                "name": "GrineerButcher"
             },
             {
-                "name": "GrineerDrekar Butcher",
-                "link": null
+                "link": null,
+                "name": "GrineerDrekar Butcher"
             },
             {
-                "name": "GrineerGuardsman",
-                "link": null
+                "link": null,
+                "name": "GrineerGuardsman"
             },
             {
-                "name": "Orokin Void Container",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Container"
             }
         ],
-        "description": "<p>Крушитель: Гринир — необычный мод для оружия ближнего боя, который увеличивает урон по бойцам  Гринир.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
+        "thumb": "icons/ru/thumbs/Smite_Grineer.4e1e049810ca5064322b313caa26d639.128x128.png",
+        "item_name": "Крушитель: Гринир"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

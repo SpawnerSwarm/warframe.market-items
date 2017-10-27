@@ -21,14 +21,14 @@
         "codex": "",
         "item_name": "Venka Prime Set",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Venka_Prime",
-        "description": "<p>The Venka Prime are ancient Orokin claws that serve as an upgrade of the Venka. Apart from having higher base damage and slightly faster attack speed, the Venka Prime also has an improved melee combo multiplier.</p>"
+        "description": "<p>The Venka Prime are ancient Orokin claws that serve as an upgrade of the Venka. Apart from having higher base damage and slightly faster attack speed, the Venka Prime also has an improved melee combo multiplier.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Venka_Prime"
     },
     "ru": {
-        "item_name": "Венка прайм Комплект",
+        "description": "<p>Сияющие белизной лезвия, что пускают кровь темнейших оттенков красного.</p>",
         "drop": [],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "description": "<p>Сияющие белизной лезвия, что пускают кровь темнейших оттенков красного.</p>"
+        "item_name": "Венка прайм Комплект",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "mastery_level": 8,
     "ducats": 160,

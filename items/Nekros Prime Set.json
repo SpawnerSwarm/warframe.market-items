@@ -20,15 +20,15 @@
     "set_root": true,
     "en": {
         "codex": "Death's new master.",
-        "item_name": "Nekros Prime Set",
+        "description": "<p>Release Date: August 23rd, 2016</p><p>Nekros Prime is the Prime variant of the Nekros Warframe featuring higher shields and power values, as well as an additional  polarity.</p>",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Nekros/Prime",
-        "description": "<p>Release Date: August 23rd, 2016</p><p>Nekros Prime is the Prime variant of the Nekros Warframe featuring higher shields and power values, as well as an additional  polarity.</p>"
+        "item_name": "Nekros Prime Set",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nekros/Prime"
     },
     "ru": {
-        "item_name": "Некрос Комплект",
-        "drop": [],
         "description": "<p>Некрос использует свои тёмные силы, чтобы манипулировать своими врагами - как живыми, так и мёртвыми.</p>",
+        "drop": [],
+        "item_name": "Некрос Комплект",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D1%81"
     },
     "trading_tax": 4000

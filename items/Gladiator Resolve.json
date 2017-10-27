@@ -13,12 +13,12 @@
         "item_name": "Gladiator Resolve",
         "drop": [
             {
-                "name": "Bounty (20-40, 30-50)",
-                "link": null
+                "link": null,
+                "name": "Bounty (20-40, 30-50)"
             },
             {
-                "name": "Aerial Commander (0.33%)",
-                "link": null
+                "link": null,
+                "name": "Aerial Commander (0.33%)"
             }
         ],
         "description": "<p>Gladiator Resolve is a set mod that increases the health of a Warframe.</p>",
@@ -28,12 +28,12 @@
         "item_name": "Гладиатор Решимость",
         "drop": [
             {
-                "name": "Bounty (20-40, 30-50)",
-                "link": null
+                "link": null,
+                "name": "Bounty (20-40, 30-50)"
             },
             {
-                "name": "Aerial Commander (0.33%)",
-                "link": null
+                "link": null,
+                "name": "Aerial Commander (0.33%)"
             }
         ],
         "description": "<p>Варфрейм: +160% Здоровья</p>",

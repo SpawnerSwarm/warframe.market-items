@@ -25,9 +25,9 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fragor_Prime"
     },
     "ru": {
-        "item_name": "Фрагор прайм Комплект",
-        "drop": [],
         "description": "<p>Изумительно выкованный инструмент разрушения.</p>",
+        "drop": [],
+        "item_name": "Фрагор прайм Комплект",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D1%80%D0%B0%D0%B3%D0%BE%D1%80_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "mastery_level": 7,

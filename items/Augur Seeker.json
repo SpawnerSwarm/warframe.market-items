@@ -13,8 +13,8 @@
         "item_name": "Augur Seeker",
         "drop": [
             {
-                "name": "Recon Commander (0.02%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (0.02%)"
             }
         ],
         "description": "<p>Augur Seeker is a set mod available from bounties on the Plains of Eidolon. It increase the Status Duration of the Weapons by +30% at max rank, with the full Set Bonus applied the 150% of the Energy spent with the Abilities is converted into Shields.</p>",
@@ -24,8 +24,8 @@
         "item_name": "Авгур Искатель",
         "drop": [
             {
-                "name": "Recon Commander (0.02%)",
-                "link": null
+                "link": null,
+                "name": "Recon Commander (0.02%)"
             }
         ],
         "description": "Пистолет: +20% статуса.",

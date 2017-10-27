@@ -14,65 +14,65 @@
         "item_name": "Razor Shot",
         "drop": [
             {
-                "name": "GrineerElite Arid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Arid Lancer"
             },
             {
-                "name": "GrineerElite Frontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Frontier Lancer"
             },
             {
-                "name": "GrineerElite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Lancer"
             },
             {
-                "name": "GrineerDraga",
-                "link": null
+                "link": null,
+                "name": "GrineerDraga"
             },
             {
-                "name": "GrineerDarek Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerDarek Draga"
             },
             {
-                "name": "GrineerShock Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerShock Draga"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot",
-        "description": "<p>Razor Shot increases the  Slash damage of pistols.</p>"
+        "description": "<p>Razor Shot increases the  Slash damage of pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot"
     },
     "ru": {
         "icon": "icons/ru/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.png",
-        "item_name": "Выстрел лезвием",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
-        "thumb": "icons/ru/thumbs/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png",
+        "description": "<p>Выстрел Лезвием — необычный мод для вторичного оружия, который увеличивает  режущий урон.</p>",
         "drop": [
             {
-                "name": "GrineerElite Arid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Arid Lancer"
             },
             {
-                "name": "GrineerElite Frontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Frontier Lancer"
             },
             {
-                "name": "GrineerElite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Lancer"
             },
             {
-                "name": "GrineerDraga",
-                "link": null
+                "link": null,
+                "name": "GrineerDraga"
             },
             {
-                "name": "GrineerDarek Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerDarek Draga"
             },
             {
-                "name": "GrineerShock Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerShock Draga"
             }
         ],
-        "description": "<p>Выстрел Лезвием — необычный мод для вторичного оружия, который увеличивает  режущий урон.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
+        "thumb": "icons/ru/thumbs/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png",
+        "item_name": "Выстрел лезвием"
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

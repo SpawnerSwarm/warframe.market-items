@@ -14,33 +14,33 @@
         "item_name": "Insulation",
         "drop": [
             {
-                "name": "GrineerNapalm",
-                "link": null
+                "link": null,
+                "name": "GrineerNapalm"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Insulation",
-        "description": "<p>Insulation increases the Cold damage resistance of a Warframe's health and shields. </p>"
+        "description": "<p>Insulation increases the Cold damage resistance of a Warframe's health and shields. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Insulation"
     },
     "ru": {
         "icon": "icons/ru/Insulation.c9f3b55494ec0200626213cdd12d0d97.png",
-        "item_name": "Утепление",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
-        "thumb": "icons/ru/thumbs/Insulation.c9f3b55494ec0200626213cdd12d0d97.128x128.png",
+        "description": "<p>Утепление — обычный мод для варфреймов, который увеличивает сопротивление  Ледяному урону.</p>",
         "drop": [
             {
-                "name": "GrineerNapalm",
-                "link": null
+                "link": null,
+                "name": "GrineerNapalm"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             }
         ],
-        "description": "<p>Утепление — обычный мод для варфреймов, который увеличивает сопротивление  Ледяному урону.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Insulation.c9f3b55494ec0200626213cdd12d0d97.128x128.png",
+        "item_name": "Утепление"
     },
     "rarity": "common",
     "mod_max_rank": 5,

@@ -14,12 +14,12 @@
         "item_name": "Body Count",
         "drop": [
             {
-                "name": "Angst",
-                "link": null
+                "link": null,
+                "name": "Angst"
             },
             {
-                "name": "Misery",
-                "link": null
+                "link": null,
+                "name": "Misery"
             }
         ],
         "description": "<p>Body Count is a common Melee mod that extends the duration of the Melee Combo Counter.</p>",
@@ -27,20 +27,20 @@
     },
     "ru": {
         "icon": "icons/ru/Body_Count.e9af37df6d017de652805b7a9ae1f8b1.png",
-        "item_name": "Счётчик тел",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%87%D1%91%D1%82%D1%87%D0%B8%D0%BA_%D1%82%D0%B5%D0%BB",
-        "thumb": "icons/ru/thumbs/Body_Count.e9af37df6d017de652805b7a9ae1f8b1.128x128.png",
+        "description": "<p>Счётчик Тел — обычный мод для оружия ближнего боя, который увеличивает продолжительность до сброса комбо-счётчика.</p>",
         "drop": [
             {
-                "name": "Angst",
-                "link": null
+                "link": null,
+                "name": "Angst"
             },
             {
-                "name": "Misery",
-                "link": null
+                "link": null,
+                "name": "Misery"
             }
         ],
-        "description": "<p>Счётчик Тел — обычный мод для оружия ближнего боя, который увеличивает продолжительность до сброса комбо-счётчика.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%87%D1%91%D1%82%D1%87%D0%B8%D0%BA_%D1%82%D0%B5%D0%BB",
+        "thumb": "icons/ru/thumbs/Body_Count.e9af37df6d017de652805b7a9ae1f8b1.128x128.png",
+        "item_name": "Счётчик тел"
     },
     "rarity": "common",
     "mod_max_rank": 5,
