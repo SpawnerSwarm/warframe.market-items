@@ -14,31 +14,31 @@
         "item_name": "Relentless Combination",
         "drop": [
             {
-                "name": "Ancient Disruptor",
-                "link": null
+                "link": null,
+                "name": "Ancient Disruptor"
             },
             {
-                "name": "Tar-Mutalist MOA",
-                "link": null
+                "link": null,
+                "name": "Tar-Mutalist MOA"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination",
-        "description": "<p>Relentless Combination grants a chance to deal Combo Counter hits when a target is dealt damage from a Slash b Slash proc caused by the player.</p>"
+        "description": "<p>Relentless Combination grants a chance to deal Combo Counter hits when a target is dealt damage from a Slash b Slash proc caused by the player.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
     },
     "ru": {
         "item_name": "Неустанная Комбинация",
         "drop": [
             {
-                "name": "Ancient Disruptor",
-                "link": null
+                "link": null,
+                "name": "Ancient Disruptor"
             },
             {
-                "name": "Tar-Mutalist MOA",
-                "link": null
+                "link": null,
+                "name": "Tar-Mutalist MOA"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Неустанная_Комбинация",
-        "description": "<p>+100% шанса увеличения комбо, когда Статус Разреза наносит урон.</p>"
+        "description": "<p>+100% шанса увеличения комбо, когда Статус Разреза наносит урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Неустанная_Комбинация"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

@@ -14,8 +14,8 @@
         "item_name": "Endurance Drift",
         "drop": [
             {
-                "name": "Orokin Moon Test",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Test"
             }
         ],
         "description": "<p>Endurance Drift is a rare dual-stat Exilus mod that increases Maximum Energy and parkour velocity.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Endurance_Drift.68570de70e71f2718aff4dfba72764a0.png",
-        "item_name": "Стойкое течение",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "thumb": "icons/ru/thumbs/Endurance_Drift.68570de70e71f2718aff4dfba72764a0.128x128.png",
+        "description": "<p>Стойкое течение — эксилус мод для варфреймов, который увеличивает максимальное количество энергии и скорость паркура.</p>",
         "drop": [
             {
-                "name": "Orokin Moon Test",
-                "link": null
+                "link": null,
+                "name": "Orokin Moon Test"
             }
         ],
-        "description": "<p>Стойкое течение — эксилус мод для варфреймов, который увеличивает максимальное количество энергии и скорость паркура.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Endurance_Drift.68570de70e71f2718aff4dfba72764a0.128x128.png",
+        "item_name": "Стойкое течение"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

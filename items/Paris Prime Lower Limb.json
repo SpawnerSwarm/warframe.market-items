@@ -25,39 +25,39 @@
         "item_name": "Paris Prime Lower Limb",
         "drop": [
             {
-                "name": "Lith V1 Common",
-                "link": null
+                "link": null,
+                "name": "Lith V1 Common"
             },
             {
-                "name": "Meso F1 Common",
-                "link": null
+                "link": null,
+                "name": "Meso F1 Common"
             },
             {
-                "name": "Neo S2 Common",
-                "link": null
+                "link": null,
+                "name": "Neo S2 Common"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Paris_Prime",
-        "description": "<p>The Paris Prime features higher base and charge damage, and a faster draw time than the Paris. The Paris Prime was added into the game in Update 9.0.</p>"
+        "description": "<p>The Paris Prime features higher base and charge damage, and a faster draw time than the Paris. The Paris Prime was added into the game in Update 9.0.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Paris_Prime"
     },
     "ru": {
-        "item_name": "Парис прайм Нижнее плечо",
+        "description": "<p>Обнаруженный глубоко внутри древних руин Орокин, Парис Прайм значительно увеличивает кинетическую энергию выпущенных стрел, нанося больше урона, чем его обычная версия.</p>",
         "drop": [
             {
-                "name": "Lith V1 Common",
-                "link": null
+                "link": null,
+                "name": "Lith V1 Common"
             },
             {
-                "name": "Meso F1 Common",
-                "link": null
+                "link": null,
+                "name": "Meso F1 Common"
             },
             {
-                "name": "Neo S2 Common",
-                "link": null
+                "link": null,
+                "name": "Neo S2 Common"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
-        "description": "<p>Обнаруженный глубоко внутри древних руин Орокин, Парис Прайм значительно увеличивает кинетическую энергию выпущенных стрел, нанося больше урона, чем его обычная версия.</p>"
+        "item_name": "Парис прайм Нижнее плечо",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм"
     },
     "mastery_level": 4,
     "ducats": 15,

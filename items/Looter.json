@@ -14,8 +14,8 @@
         "item_name": "Looter",
         "drop": [
             {
-                "name": "Cephalon Simaris Offering",
-                "link": null
+                "link": null,
+                "name": "Cephalon Simaris Offering"
             }
         ],
         "description": "<p>Looter allows the Carrier to break nearby containers by shooting them.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Looter.8c8b5d356d30759d5cb0ad5f2ba3be36.png",
-        "item_name": "Грабитель",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%B4%D0%B5%D1%80",
-        "thumb": "icons/ru/thumbs/Looter.8c8b5d356d30759d5cb0ad5f2ba3be36.128x128.png",
+        "description": "<p>Грабитель — редкий мод для Стража Носитель, который позволяет ему разрушать контейнеры в определенном радиусе.</p>",
         "drop": [
             {
-                "name": "Cephalon Simaris Offering",
-                "link": null
+                "link": null,
+                "name": "Cephalon Simaris Offering"
             }
         ],
-        "description": "<p>Грабитель — редкий мод для Стража Носитель, который позволяет ему разрушать контейнеры в определенном радиусе.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%B4%D0%B5%D1%80",
+        "thumb": "icons/ru/thumbs/Looter.8c8b5d356d30759d5cb0ad5f2ba3be36.128x128.png",
+        "item_name": "Грабитель"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

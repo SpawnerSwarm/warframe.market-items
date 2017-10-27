@@ -21,26 +21,26 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization.",
-        "item_name": "Trinity Prime Chassis",
         "drop": [
             {
-                "name": "Neo S1 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Neo S1 Uncommon"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Trinity/Prime",
-        "description": "<p><p><b>Release Date:</b> October 6th, 2015</p></p><p>Trinity Prime is the primed variant of the Trinity Warframe featuring more powerful stats: possessing a higher shield capacity and sprint speed, as well as having an additional  and  polarity.</p>"
+        "item_name": "Trinity Prime Chassis",
+        "codex": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization.",
+        "description": "<p><p><b>Release Date:</b> October 6th, 2015</p></p><p>Trinity Prime is the primed variant of the Trinity Warframe featuring more powerful stats: possessing a higher shield capacity and sprint speed, as well as having an additional  and  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Trinity/Prime"
     },
     "ru": {
-        "item_name": "Тринити Прайм Каркас",
+        "description": "<p>Станьте бастионом, защищающим союзников с помощью мощных исцеляющих умений в качестве Тринити прайм. Содержит измененные слоты поляризации для лучшей конфигурации</p>",
         "drop": [
             {
-                "name": "Neo S1 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Neo S1 Uncommon"
             }
         ],
-        "description": "<p>Станьте бастионом, защищающим союзников с помощью мощных исцеляющих умений в качестве Тринити прайм. Содержит измененные слоты поляризации для лучшей конфигурации</p>",
+        "item_name": "Тринити Прайм Каркас",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8/Прайм"
     },
     "ducats": 45,

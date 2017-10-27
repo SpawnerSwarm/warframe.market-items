@@ -12,8 +12,8 @@
         "item_name": "Color Key Scene",
         "drop": [
             {
-                "name": "Cephalon Simaris",
-                "link": null
+                "link": null,
+                "name": "Cephalon Simaris"
             }
         ],
         "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
@@ -23,8 +23,8 @@
         "item_name": "Хромакей",
         "drop": [
             {
-                "name": "Цефалон Симэрис",
-                "link": null
+                "link": null,
+                "name": "Цефалон Симэрис"
             }
         ],
         "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",

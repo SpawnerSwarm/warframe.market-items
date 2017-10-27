@@ -21,26 +21,26 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization.",
-        "item_name": "Ash Prime Chassis",
         "drop": [
             {
-                "name": "Meso V2 Common",
-                "link": null
+                "link": null,
+                "name": "Meso V2 Common"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
-        "description": "<p>Release Date: July 7, 2015</p><p>Ash Prime is the primed variant of the Ash Warframe featuring more powerful stats, possessing a higher shield capacity, armor and sprint speed, as well as an additional  polarity.</p>"
+        "item_name": "Ash Prime Chassis",
+        "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization.",
+        "description": "<p>Release Date: July 7, 2015</p><p>Ash Prime is the primed variant of the Ash Warframe featuring more powerful stats, possessing a higher shield capacity, armor and sprint speed, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime"
     },
     "ru": {
-        "item_name": "Эш Прайм Каркас",
+        "description": "<p>Отвлекающие маневры и смертельные уловки стали смертоносным оружием для Эша прайм. Содержит измененные полярности для лучшей конфигурации.</p>",
         "drop": [
             {
-                "name": "Meso V2 Common",
-                "link": null
+                "link": null,
+                "name": "Meso V2 Common"
             }
         ],
-        "description": "<p>Отвлекающие маневры и смертельные уловки стали смертоносным оружием для Эша прайм. Содержит измененные полярности для лучшей конфигурации.</p>",
+        "item_name": "Эш Прайм Каркас",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D1%88/Прайм"
     },
     "ducats": 15,

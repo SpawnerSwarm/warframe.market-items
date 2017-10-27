@@ -1,0 +1,38 @@
+{
+    "_id": "59f38f558c202c007335ba65",
+    "tags": [
+        "mod"
+    ],
+    "icon": "icons/en/Target_Acquired.37df828c8240d01887610497fbd10dd4.png",
+    "thumb": "icons/en/thumbs/Target_Acquired.37df828c8240d01887610497fbd10dd4.128x128.png",
+    "icon_format": "port",
+    "url_name": "target_acquired",
+    "tradable": true,
+    "en": {
+        "description": "<p>Target Acquired is a sniper mod that increases the Headshot Multiplier.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Incursions 1.01% (Rot A)"
+            }
+        ],
+        "item_name": "Target Acquired",
+        "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
+    },
+    "ru": {
+        "icon": "icons/ru/Target_Acquired.023406817e2a55236153761ff5f36e34.png",
+        "description": "<p>Цель Получена — необычный мод для снайперских винтовок, который увеличивает множитель урона в голову.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Налет 1.01% (Ротация A)"
+            }
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A6%D0%B5%D0%BB%D1%8C_%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B0",
+        "thumb": "icons/ru/thumbs/Target_Acquired.023406817e2a55236153761ff5f36e34.128x128.png",
+        "item_name": "Цель Получена"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

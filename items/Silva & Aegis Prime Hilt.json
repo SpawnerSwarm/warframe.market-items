@@ -19,14 +19,14 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
-        "item_name": "Silva & Aegis Prime Hilt",
         "drop": [
             {
-                "name": "Neo V5 Common",
-                "link": null
+                "link": null,
+                "name": "Neo V5 Common"
             }
         ],
+        "item_name": "Silva & Aegis Prime Hilt",
+        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
         "description": "<p>The Silva & Aegis Prime are the Prime counterparts to the  Heat-based sword and shield combo weapons, Silva & Aegis.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime"
     },
@@ -34,8 +34,8 @@
         "item_name": "Сильва и Эгида Прайм: Рукоять",
         "drop": [
             {
-                "name": "Neo V5 Common",
-                "link": null
+                "link": null,
+                "name": "Neo V5 Common"
             }
         ],
         "description": "<p>Превосходно подобранная пара, эта комбинация булавы и щита была создана для демонстраций, но сбалансирована для поля боя.</p>",

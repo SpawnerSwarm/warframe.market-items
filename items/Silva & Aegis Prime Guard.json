@@ -19,18 +19,18 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
-        "item_name": "Silva & Aegis Prime Guard",
         "drop": [
             {
-                "name": "Neo S7 Rare",
-                "link": null
+                "link": null,
+                "name": "Neo S7 Rare"
             },
             {
-                "name": "Neo S6 Rare",
-                "link": null
+                "link": null,
+                "name": "Neo S6 Rare"
             }
         ],
+        "item_name": "Silva & Aegis Prime Guard",
+        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
         "description": "<p>The Silva & Aegis Prime are the Prime counterparts to the  Heat-based sword and shield combo weapons, Silva & Aegis.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime"
     },
@@ -38,12 +38,12 @@
         "item_name": "Сильва и Эгида Прайм: Щит",
         "drop": [
             {
-                "name": "Neo S7 Rare",
-                "link": null
+                "link": null,
+                "name": "Neo S7 Rare"
             },
             {
-                "name": "Neo S6 Rare",
-                "link": null
+                "link": null,
+                "name": "Neo S6 Rare"
             }
         ],
         "description": "<p>Превосходно подобранная пара, эта комбинация булавы и щита была создана для демонстраций, но сбалансирована для поля боя.</p>",

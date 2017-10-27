@@ -9,26 +9,26 @@
     "url_name": "ergos_boardroom_scene",
     "tradable": true,
     "en": {
-        "item_name": "Ergo's Boardroom Scene",
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
         "drop": [
             {
-                "name": "Perrin Sequence",
-                "link": null
+                "link": null,
+                "name": "Perrin Sequence"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
-        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>"
+        "item_name": "Ergo's Boardroom Scene",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura"
     },
     "ru": {
-        "item_name": "Зал Эрго",
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
         "drop": [
             {
-                "name": "Последовательность Перрина",
-                "link": null
+                "link": null,
+                "name": "Последовательность Перрина"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
-        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>"
+        "item_name": "Зал Эрго",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0"
     },
     "trading_tax": 2000
 }

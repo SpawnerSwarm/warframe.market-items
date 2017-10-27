@@ -14,8 +14,8 @@
         "item_name": "Enduring Affliction",
         "drop": [
             {
-                "name": "Guardsman",
-                "link": null
+                "link": null,
+                "name": "Guardsman"
             }
         ],
         "description": "<p>Enduring Affliction is a Mod for melee weapons that grants extra Status Effect duration on melee hits while Channeling.</p>",
@@ -25,8 +25,8 @@
         "item_name": "Стойкий Недуг",
         "drop": [
             {
-                "name": "Guardsman",
-                "link": null
+                "link": null,
+                "name": "Guardsman"
             }
         ],
         "description": "<p>+150% длительности Статуса при ударе.</p>",

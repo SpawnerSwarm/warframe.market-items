@@ -11,36 +11,36 @@
     "url_name": "assimilate",
     "tradable": true,
     "en": {
-        "item_name": "Assimilate",
+        "description": "<p>Assimilate is a Warframe Augment Mod for Nyx that allows her to move while channeling Absorb, at the cost of shrinking Absorb's effective radius by 50%. </p>",
         "drop": [
             {
-                "name": "Arbiters of Hexis",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis"
             },
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Assimilate",
-        "description": "<p>Assimilate is a Warframe Augment Mod for Nyx that allows her to move while channeling Absorb, at the cost of shrinking Absorb's effective radius by 50%. </p>"
+        "item_name": "Assimilate",
+        "wiki_link": "http://warframe.wikia.com/wiki/Assimilate"
     },
     "ru": {
-        "icon": "icons/ru/Assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
-        "item_name": "Ассимиляция",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ассимиляция",
-        "thumb": "icons/ru/thumbs/Assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png",
+        "icon": "icons/ru/Assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.png",
+        "description": "<p>Улучшение Поглощения - Никс может передвигаться со скоростью 50% от обычной, при этом используя Поглощение, но радиус действия способности снижен вдвое.</p>",
         "drop": [
             {
-                "name": "Arbiters of Hexis",
-                "link": null
+                "link": null,
+                "name": "Арбитры Гексиса"
             },
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "Новая Лока"
             }
         ],
-        "description": "<p>Улучшение Поглощения - Никс может передвигаться со скоростью 50% от обычной, при этом используя Поглощение, но радиус действия способности снижен вдвое.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ассимиляция",
+        "thumb": "icons/ru/thumbs/Assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.128x128.png",
+        "item_name": "Ассимиляция"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -9,9 +9,9 @@
     "url_name": "small_charc_eel",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Small Charc Eel",
         "drop": [],
+        "item_name": "Small Charc Eel",
+        "codex": "",
         "description": "<p>Discharges electricity from luminous glands along its flanks to stun its prey.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Charc Eel"
     },

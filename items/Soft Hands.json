@@ -14,12 +14,12 @@
         "item_name": "Soft Hands",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             },
             {
-                "name": "Conculyst",
-                "link": null
+                "link": null,
+                "name": "Conculyst"
             }
         ],
         "description": "<p>Soft Hands is a shotgun mod usable in both PvE and PvP that increases the holster rate of shotguns.</p>",
@@ -27,20 +27,20 @@
     },
     "ru": {
         "icon": "icons/ru/Soft_Hands.74e9711f8c83f3ad66b728291e242797.png",
-        "item_name": "Мягкая длань",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8F%D0%B3%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BB%D0%B0%D0%BD%D1%8C",
-        "thumb": "icons/ru/thumbs/Soft_Hands.74e9711f8c83f3ad66b728291e242797.128x128.png",
+        "description": "<p>Мягкая Длань — необычный мод для дробовиков в режиме конклава, который увеличивает скорость смены оружия.</p>",
         "drop": [
             {
-                "name": "Conclave Offering",
-                "link": null
+                "link": null,
+                "name": "Conclave Offering"
             },
             {
-                "name": "Conculyst",
-                "link": null
+                "link": null,
+                "name": "Conculyst"
             }
         ],
-        "description": "<p>Мягкая Длань — необычный мод для дробовиков в режиме конклава, который увеличивает скорость смены оружия.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8F%D0%B3%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BB%D0%B0%D0%BD%D1%8C",
+        "thumb": "icons/ru/thumbs/Soft_Hands.74e9711f8c83f3ad66b728291e242797.128x128.png",
+        "item_name": "Мягкая длань"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

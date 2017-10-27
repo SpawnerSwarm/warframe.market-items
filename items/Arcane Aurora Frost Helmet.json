@@ -14,13 +14,13 @@
     "en": {
         "item_name": "Arcane Aurora Frost Helmet",
         "drop": [],
-        "wiki_link": "http://warframe.wikia.com/wiki/Aurora_Frost_Helmet",
-        "description": "<p>Aurora is an alternative Helmet Item for Frost. </p><p><a href=\"/wiki/Arcane\" title=\"Arcane\">Arcane</a> is a discontinued variant that increases armor at the expense of lowering his maximum health.\n</p><ul><li>Armor <b>+25%</b>\n</li><li>Health Max <b>-5%</b>\n</li></ul>"
+        "description": "<p>Aurora is an alternative Helmet Item for Frost. </p><p><a href=\"/wiki/Arcane\" title=\"Arcane\">Arcane</a> is a discontinued variant that increases armor at the expense of lowering his maximum health.\n</p><ul><li>Armor <b>+25%</b>\n</li><li>Health Max <b>-5%</b>\n</li></ul>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Aurora_Frost_Helmet"
     },
     "ru": {
-        "item_name": "Мистический Шлем Фроста: Аврора",
-        "drop": [],
         "description": "<p>Аврора - альтернативный шлем для Фроста.</p>",
+        "drop": [],
+        "item_name": "Мистический Шлем Фроста: Аврора",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%BB%D0%B5%D0%BC_%D0%A4%D1%80%D0%BE%D1%81%D1%82%D0%B0_%D0%90%D0%B2%D1%80%D0%BE%D1%80%D0%B0"
     },
     "trading_tax": 0

@@ -19,18 +19,18 @@
     ],
     "set_root": false,
     "en": {
-        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
-        "item_name": "Silva & Aegis Prime Blade",
         "drop": [
             {
-                "name": "Meso G1 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Meso G1 Uncommon"
             },
             {
-                "name": "Axi C2 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Axi C2 Uncommon"
             }
         ],
+        "item_name": "Silva & Aegis Prime Blade",
+        "codex": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
         "description": "<p>The Silva & Aegis Prime are the Prime counterparts to the  Heat-based sword and shield combo weapons, Silva & Aegis.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime"
     },
@@ -38,12 +38,12 @@
         "item_name": "Сильва и Эгида Прайм: Клинок",
         "drop": [
             {
-                "name": "Meso G1 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Meso G1 Uncommon"
             },
             {
-                "name": "Axi C2 Uncommon",
-                "link": null
+                "link": null,
+                "name": "Axi C2 Uncommon"
             }
         ],
         "description": "<p>Превосходно подобранная пара, эта комбинация булавы и щита была создана для демонстраций, но сбалансирована для поля боя.</p>",

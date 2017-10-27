@@ -14,73 +14,73 @@
         "item_name": "Thunderbolt",
         "drop": [
             {
-                "name": "GrineerElite Arid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Arid Lancer"
             },
             {
-                "name": "GrineerElite Frontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Frontier Lancer"
             },
             {
-                "name": "GrineerElite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Lancer"
             },
             {
-                "name": "GrineerDraga",
-                "link": null
+                "link": null,
+                "name": "GrineerDraga"
             },
             {
-                "name": "GrineerDarek Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerDarek Draga"
             },
             {
-                "name": "GrineerShock Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerShock Draga"
             },
             {
-                "name": "Infested T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Infested T3Defense Reward"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Thunderbolt",
-        "description": "<p>The Thunderbolt mod gives arrows from Bows a 7.5% chance per rank of exploding on impact for a maximum of 30% chance at Rank 3, dealing 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>"
+        "description": "<p>The Thunderbolt mod gives arrows from Bows a 7.5% chance per rank of exploding on impact for a maximum of 30% chance at Rank 3, dealing 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thunderbolt"
     },
     "ru": {
         "icon": "icons/ru/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.png",
-        "item_name": "Громобой",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%BE%D0%B9",
-        "thumb": "icons/ru/thumbs/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.128x128.png",
+        "description": "<p>Громобой — редкий мод для луков, который с некоторым шансом подрывает стрелы при попадании, нанося урон врагам в радиусе 10-ти метров от взрыва.</p>",
         "drop": [
             {
-                "name": "GrineerElite Arid Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Arid Lancer"
             },
             {
-                "name": "GrineerElite Frontier Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Frontier Lancer"
             },
             {
-                "name": "GrineerElite Lancer",
-                "link": null
+                "link": null,
+                "name": "GrineerElite Lancer"
             },
             {
-                "name": "GrineerDraga",
-                "link": null
+                "link": null,
+                "name": "GrineerDraga"
             },
             {
-                "name": "GrineerDarek Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerDarek Draga"
             },
             {
-                "name": "GrineerShock Draga",
-                "link": null
+                "link": null,
+                "name": "GrineerShock Draga"
             },
             {
-                "name": "Infested T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Infested T3Defense Reward"
             }
         ],
-        "description": "<p>Громобой — редкий мод для луков, который с некоторым шансом подрывает стрелы при попадании, нанося урон врагам в радиусе 10-ти метров от взрыва.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%BE%D0%B9",
+        "thumb": "icons/ru/thumbs/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.128x128.png",
+        "item_name": "Громобой"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

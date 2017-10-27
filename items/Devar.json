@@ -9,9 +9,9 @@
     "url_name": "devar",
     "tradable": true,
     "en": {
-        "codex": "",
-        "item_name": "Devar",
         "drop": [],
+        "item_name": "Devar",
+        "codex": "",
         "description": "<p>Devar is a gem that can be mined from blue mineral veins the Plains of Eidolon. Can be turned in to Old Man Suumbaat for ‍25 Ostron standing each, or crafted into Esher Devar.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Devar"
     },

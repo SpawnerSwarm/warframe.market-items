@@ -9,26 +9,26 @@
     "url_name": "cressas_garrison_scene",
     "tradable": true,
     "en": {
-        "item_name": "Cressa's Garrison Scene",
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
-        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>"
+        "item_name": "Cressa's Garrison Scene",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura"
     },
     "ru": {
-        "item_name": "Сцена Гарнизон Крессы",
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
         "drop": [
             {
-                "name": "Стальной Меридиан",
-                "link": null
+                "link": null,
+                "name": "Стальной Меридиан"
             }
         ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
-        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>"
+        "item_name": "Сцена Гарнизон Крессы",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0"
     },
     "trading_tax": 2000
 }

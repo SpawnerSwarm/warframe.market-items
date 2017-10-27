@@ -14,8 +14,8 @@
         "item_name": "Grinloked",
         "drop": [
             {
-                "name": "Conclave Mission Reward",
-                "link": null
+                "link": null,
+                "name": "Conclave Mission Reward"
             }
         ],
         "description": "<p>Grinloked is PvP-exclusive Grinlok mod which increases accuracy while aiming.</p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/Grinloked.36b3f1ad3743a88f694ffd7341cb9b26.png",
-        "item_name": "Меченный",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
-        "thumb": "icons/ru/thumbs/Grinloked.36b3f1ad3743a88f694ffd7341cb9b26.128x128.png",
+        "description": "<p>Меченный — условный мод для винтовки Гринлок в режиме конклава, который увеличивает точность.</p>",
         "drop": [
             {
-                "name": "Conclave Mission Reward",
-                "link": null
+                "link": null,
+                "name": "Conclave Mission Reward"
             }
         ],
-        "description": "<p>Меченный — условный мод для винтовки Гринлок в режиме конклава, который увеличивает точность.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+        "thumb": "icons/ru/thumbs/Grinloked.36b3f1ad3743a88f694ffd7341cb9b26.128x128.png",
+        "item_name": "Меченный"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

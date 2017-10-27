@@ -14,33 +14,33 @@
         "item_name": "Capacitance",
         "drop": [
             {
-                "name": "Arbiters of Hexis",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis"
             },
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Capacitance",
-        "description": "<p>Capacitance is a Warframe Augment Mod for Volt that converts a percentage of damage dealt by Discharge into shields, split between himself and allies.</p>"
+        "description": "<p>Capacitance is a Warframe Augment Mod for Volt that converts a percentage of damage dealt by Discharge into shields, split between himself and allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Capacitance"
     },
     "ru": {
         "icon": "icons/ru/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.png",
-        "item_name": "Вместилище",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5",
-        "thumb": "icons/ru/thumbs/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.128x128.png",
+        "description": "<p>Вместилище — мод-аугмент для варфрейма Вольт и Вольт Прайм, улучшающий его способность Разрядка. Преобразует наносимый способностью урон в щиты, равномерно распределяющиеся между Вольтом и его союзниками. </p>",
         "drop": [
             {
-                "name": "Arbiters of Hexis",
-                "link": null
+                "link": null,
+                "name": "Arbiters of Hexis"
             },
             {
-                "name": "Red Veil",
-                "link": null
+                "link": null,
+                "name": "Red Veil"
             }
         ],
-        "description": "<p>Вместилище — мод-аугмент для варфрейма Вольт и Вольт Прайм, улучшающий его способность Разрядка. Преобразует наносимый способностью урон в щиты, равномерно распределяющиеся между Вольтом и его союзниками. </p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5",
+        "thumb": "icons/ru/thumbs/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.128x128.png",
+        "item_name": "Вместилище"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -14,8 +14,8 @@
         "item_name": "EMP Aura",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
         "description": "<p></p>",
@@ -23,16 +23,16 @@
     },
     "ru": {
         "icon": "icons/ru/EMP_Aura.1fec7dcdd6b0fd79a31b5cc66ca9cbfe.png",
-        "item_name": "ЭМИ аура",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BC%D0%B8_%D0%B0%D1%83%D1%80%D0%B0",
-        "thumb": "icons/ru/thumbs/EMP_Aura.1fec7dcdd6b0fd79a31b5cc66ca9cbfe.128x128.png",
+        "description": "<p>ЭМИ Аура — необычная аура, которая снижает точность врагов фракции  Корпус.</p>",
         "drop": [
             {
-                "name": "Alerts",
-                "link": null
+                "link": null,
+                "name": "Alerts"
             }
         ],
-        "description": "<p>ЭМИ Аура — необычная аура, которая снижает точность врагов фракции  Корпус.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BC%D0%B8_%D0%B0%D1%83%D1%80%D0%B0",
+        "thumb": "icons/ru/thumbs/EMP_Aura.1fec7dcdd6b0fd79a31b5cc66ca9cbfe.128x128.png",
+        "item_name": "ЭМИ аура"
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

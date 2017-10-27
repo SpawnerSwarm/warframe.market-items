@@ -9,9 +9,9 @@
     "url_name": "vulkar_wraith",
     "tradable": true,
     "en": {
-        "codex": "A blood-red variant of this devastating sniper rifle.",
-        "item_name": "Vulkar Wraith",
         "drop": [],
+        "item_name": "Vulkar Wraith",
+        "codex": "A blood-red variant of this devastating sniper rifle.",
         "description": "<p>The Vulkar Wraith is the Wraith variant of the Vulkar.This weapon can be sold for 7,500‍ 7,500.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Vulkar_Wraith"
     },

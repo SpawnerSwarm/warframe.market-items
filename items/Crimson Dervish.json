@@ -14,41 +14,41 @@
         "item_name": "Crimson Dervish",
         "drop": [
             {
-                "name": "GrineerBombard",
-                "link": null
+                "link": null,
+                "name": "GrineerBombard"
             },
             {
-                "name": "Rathuum - Mission 3 (0.50%)",
-                "link": null
+                "link": null,
+                "name": "Rathuum - Mission 3 (0.50%)"
             },
             {
-                "name": "Knave Specter",
-                "link": null
+                "link": null,
+                "name": "Knave Specter"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Crimson_Dervish",
-        "description": "<p>Crimson Dervish is a Stance for swords, specializing in strong spinning attacks that can hit adjacent enemies or deal multiple strikes against a single foe, sacrificing mobility and speed. Combos executed in this stance are notable for their high damage multiplier.</p>"
+        "description": "<p>Crimson Dervish is a Stance for swords, specializing in strong spinning attacks that can hit adjacent enemies or deal multiple strikes against a single foe, sacrificing mobility and speed. Combos executed in this stance are notable for their high damage multiplier.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Crimson_Dervish"
     },
     "ru": {
         "icon": "icons/ru/Crimson_Dervish.12f1451d9ba47c437c239a650d613525.png",
-        "item_name": "Кровавый дервиш",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B4%D0%B5%D1%80%D0%B2%D0%B8%D1%88",
-        "thumb": "icons/ru/thumbs/Crimson_Dervish.12f1451d9ba47c437c239a650d613525.128x128.png",
+        "description": "<p>Кровавый Дервиш — это редкая стойка, предназначенная для оружия ближнего боя класса Мечи. Увеличение ранга открывает новые комбинации.</p>",
         "drop": [
             {
-                "name": "GrineerBombard",
-                "link": null
+                "link": null,
+                "name": "GrineerBombard"
             },
             {
-                "name": "Rathuum - Mission 3 (0.50%)",
-                "link": null
+                "link": null,
+                "name": "Rathuum - Mission 3 (0.50%)"
             },
             {
-                "name": "Knave Specter",
-                "link": null
+                "link": null,
+                "name": "Knave Specter"
             }
         ],
-        "description": "<p>Кровавый Дервиш — это редкая стойка, предназначенная для оружия ближнего боя класса Мечи. Увеличение ранга открывает новые комбинации.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B4%D0%B5%D1%80%D0%B2%D0%B8%D1%88",
+        "thumb": "icons/ru/thumbs/Crimson_Dervish.12f1451d9ba47c437c239a650d613525.128x128.png",
+        "item_name": "Кровавый дервиш"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

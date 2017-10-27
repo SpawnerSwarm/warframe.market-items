@@ -14,33 +14,33 @@
         "item_name": "Escape Velocity",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Escape_Velocity",
-        "description": "<p>Escape Velocity is a Nova Warframe Augment Mod for Worm Hole that grants Nova and her allies increased movement speed after teleporting. </p>"
+        "description": "<p>Escape Velocity is a Nova Warframe Augment Mod for Worm Hole that grants Nova and her allies increased movement speed after teleporting. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Escape_Velocity"
     },
     "ru": {
         "icon": "icons/ru/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.png",
-        "item_name": "Бегство",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE",
-        "thumb": "icons/ru/thumbs/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.128x128.png",
+        "description": "<p>Бегство - мод-аугмент для варфрейма Нова и Нова Прайм, улучшающий её способность Червоточина. Варфреймы, прошедшие через Червоточину, получают ускорение на некоторый промежуток времени. </p>",
         "drop": [
             {
-                "name": "Steel Meridian",
-                "link": null
+                "link": null,
+                "name": "Steel Meridian"
             },
             {
-                "name": "Cephalon Suda",
-                "link": null
+                "link": null,
+                "name": "Cephalon Suda"
             }
         ],
-        "description": "<p>Бегство - мод-аугмент для варфрейма Нова и Нова Прайм, улучшающий её способность Червоточина. Варфреймы, прошедшие через Червоточину, получают ускорение на некоторый промежуток времени. </p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE",
+        "thumb": "icons/ru/thumbs/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.128x128.png",
+        "item_name": "Бегство"
     },
     "rarity": "rare",
     "mod_max_rank": 3,

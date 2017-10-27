@@ -11,9 +11,9 @@
     "url_name": "ignis_wraith_blueprint",
     "tradable": true,
     "en": {
-        "codex": "A blood-red variant of this destructive flamethrower.",
-        "item_name": "Ignis Wraith Blueprint",
         "drop": [],
+        "item_name": "Ignis Wraith Blueprint",
+        "codex": "A blood-red variant of this destructive flamethrower.",
         "description": "<p>The Ignis Wraith is the Wraith version of the Ignis flamethrower, featuring improved stats and firing characteristics.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Ignis_Wraith"
     },

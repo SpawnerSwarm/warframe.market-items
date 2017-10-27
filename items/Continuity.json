@@ -14,49 +14,49 @@
         "item_name": "Continuity",
         "drop": [
             {
-                "name": "General Sargas Ruk",
-                "link": null
+                "link": null,
+                "name": "General Sargas Ruk"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Corpus T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Corpus T3Defense Reward"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "wiki_link": "http://warframe.wikia.com/wiki/Continuity",
-        "description": "<p>Continuity increases the Power Duration of a Warframe's abilities.</p>"
+        "description": "<p>Continuity increases the Power Duration of a Warframe's abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Continuity"
     },
     "ru": {
         "icon": "icons/ru/Continuity.d3175cd01c144a47114e37f29bf432f6.png",
-        "item_name": "Непрерывность",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-        "thumb": "icons/ru/thumbs/Continuity.d3175cd01c144a47114e37f29bf432f6.128x128.png",
+        "description": "<p>Непрерывность — редкий мод для варфреймов, который увеличивает длительность способностей.</p>",
         "drop": [
             {
-                "name": "General Sargas Ruk",
-                "link": null
+                "link": null,
+                "name": "General Sargas Ruk"
             },
             {
-                "name": "Orokin Void Containers",
-                "link": null
+                "link": null,
+                "name": "Orokin Void Containers"
             },
             {
-                "name": "Corpus T3Defense Reward",
-                "link": null
+                "link": null,
+                "name": "Corpus T3Defense Reward"
             },
             {
-                "name": "Spy 2.0 Reward",
-                "link": null
+                "link": null,
+                "name": "Spy 2.0 Reward"
             }
         ],
-        "description": "<p>Непрерывность — редкий мод для варфреймов, который увеличивает длительность способностей.</p>"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "thumb": "icons/ru/thumbs/Continuity.d3175cd01c144a47114e37f29bf432f6.128x128.png",
+        "item_name": "Непрерывность"
     },
     "rarity": "rare",
     "mod_max_rank": 5,

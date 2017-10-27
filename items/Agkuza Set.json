@@ -18,34 +18,34 @@
     ],
     "set_root": true,
     "en": {
-        "codex": "Tear apart incoming enemies with this massive hooked blade.",
-        "item_name": "Agkuza Set",
         "drop": [
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
         ],
         "description": "<p>This weapon deals primarily  Puncture damage.</p>",
+        "codex": "Tear apart incoming enemies with this massive hooked blade.",
+        "item_name": "Agkuza Set",
         "wiki_link": "http://warframe.wikia.com/wiki/Agkuza"
     },
     "ru": {
-        "item_name": "Агкуза Комплект",
+        "description": "<p>Разрывайте врагов на части с этим массивным клинком с крюком</p>",
         "drop": [
             {
-                "name": "New Loka",
-                "link": null
+                "link": null,
+                "name": "New Loka"
             },
             {
-                "name": "Offering",
-                "link": null
+                "link": null,
+                "name": "Offering"
             }
         ],
-        "description": "<p>Разрывайте врагов на части с этим массивным клинком с крюком</p>",
+        "item_name": "Агкуза Комплект",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B3%D0%BA%D1%83%D0%B7%D0%B0"
     },
     "mastery_level": 0,
