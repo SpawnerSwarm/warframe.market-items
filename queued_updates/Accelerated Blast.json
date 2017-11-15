@@ -30,8 +30,8 @@
             }
         ],
         "description": "<p>Souffle Accéléré est un mod de fusil à pompe double-statistiques qui augmente la cadence de tir de 15% et les dégâts de Perforation de 15% par rang pour un maximum de 60% au rang 3 pour les deux valeurs.</p>",
-        "wiki_link": "http://fr.warframe.wikia.com/wiki/Souffle_Acc%C3%A9l%C3%A9r%C3%A9"
-		 "icon": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/Souffle_acc%C3%A9l%C3%A9r%C3%A9.png/revision/latest?cb=20170225190229&path-prefix=fr",
+        "wiki_link": "http://fr.warframe.wikia.com/wiki/Souffle_Acc%C3%A9l%C3%A9r%C3%A9",
+		 "icon": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/Souffle_acc%C3%A9l%C3%A9r%C3%A9.png/revision/latest?cb=20170225190229&path-prefix=fr"
     },
     "ru": {
         "icon": "icons/ru/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.png",

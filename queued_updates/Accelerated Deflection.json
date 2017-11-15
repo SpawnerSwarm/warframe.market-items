@@ -1,0 +1,88 @@
+{
+    "_id": "5758af5142ba8659dde2f573",
+    "tags": [
+        "mod",
+        "sentinel",
+        "uncommon"
+    ],
+    "icon": "icons/en/Accelerated_Deflection.95d36a3449dba3a6cf7f2e9291fc9a5e.png",
+    "thumb": "icons/en/thumbs/Accelerated_Deflection.95d36a3449dba3a6cf7f2e9291fc9a5e.128x128.png",
+    "icon_format": "port",
+    "url_name": "accelerated_deflection",
+    "tradable": true,
+    "en": {
+        "item_name": "Accelerated Deflection",
+        "drop": [
+            {
+                "link": null,
+                "name": "GrineerSeeker"
+            },
+            {
+                "link": null,
+                "name": "InfestedBoiler"
+            },
+            {
+                "link": null,
+                "name": "InfestedToxic Ancient"
+            },
+            {
+                "link": null,
+                "name": "Orokin Void Containers"
+            }
+        ],
+        "description": "<p>Accelerated Deflection increases the shield recharge rate Sentinels. It has no effect on the recharge delay.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Deflection"
+    },
+	"fr": {
+        "item_name": "Déviation Accélérée",
+        "drop": [
+            {
+                "link": null,
+                "name": "Chercheur"
+            },
+            {
+                "link": null,
+                "name": "Éclabousseur"
+            },
+            {
+                "link": null,
+                "name": "Ancien Toxique"
+            },
+            {
+                "link": null,
+                "name": "Conteneur du néant"
+            }
+        ],
+        "description": "<p>Déviation Accélérée augmente le taux de recharge du Bouclier de la Sentinelle. Ce mod n'a aucun effet sur le temps de la recharge.</p>",
+        "wiki_link": "http://fr.warframe.wikia.com/wiki/D%C3%A9viation_Acc%C3%A9l%C3%A9r%C3%A9e",
+		"icon": "https://vignette.wikia.nocookie.net/warframe/images/0/03/D%C3%A9viation_Acc%C3%A9l%C3%A9r%C3%A9e.png/revision/latest?cb=20170303164702&path-prefix=fr"
+    },
+    "ru": {
+        "icon": "icons/ru/Accelerated_Deflection.f1fbcb8082d295018936da52aa1e9baf.png",
+        "description": "<p>Ускоренное Отражение — необычный мод для стража, который увеличивает скорость восстановления щита.</p>",
+        "thumb": "icons/ru/thumbs/Accelerated_Deflection.f1fbcb8082d295018936da52aa1e9baf.128x128.png",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "drop": [
+            {
+                "link": null,
+                "name": "GrineerSeeker"
+            },
+            {
+                "link": null,
+                "name": "InfestedBoiler"
+            },
+            {
+                "link": null,
+                "name": "InfestedToxic Ancient"
+            },
+            {
+                "link": null,
+                "name": "Orokin Void Containers"
+            }
+        ],
+        "item_name": "Ускоренное отражение"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}
