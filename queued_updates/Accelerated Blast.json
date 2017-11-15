@@ -1,0 +1,52 @@
+{
+    "_id": "54a74455e779892d5e5156bd",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Accelerated_Blast.11868e0d3de7aa13ec22647b3d0d3230.png",
+    "thumb": "icons/en/thumbs/Accelerated_Blast.11868e0d3de7aa13ec22647b3d0d3230.128x128.png",
+    "icon_format": "port",
+    "url_name": "accelerated_blast",
+    "tradable": true,
+    "en": {
+        "item_name": "Accelerated Blast",
+        "drop": [
+            {
+                "link": null,
+                "name": "Nightmare Mode rewardAlerts"
+            }
+        ],
+        "description": "<p>The Accelerated Blast mod increases the fire rate of Shotguns by 15% and  Puncture damage by 15% per rank for a maximum of 60% at rank 3 for both values.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Blast"
+    },
+	   "fr": {
+        "item_name": "Souffle Accéléré",
+        "drop": [
+            {
+                "link": null,
+                "name": "Alerte Mod Cauchemar"
+            }
+        ],
+        "description": "<p>Souffle Accéléré est un mod de fusil à pompe double-statistiques qui augmente la cadence de tir de 15% et les dégâts de Perforation de 15% par rang pour un maximum de 60% au rang 3 pour les deux valeurs.</p>",
+        "wiki_link": "http://fr.warframe.wikia.com/wiki/Souffle_Acc%C3%A9l%C3%A9r%C3%A9"
+		 "icon": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/Souffle_acc%C3%A9l%C3%A9r%C3%A9.png/revision/latest?cb=20170225190229&path-prefix=fr",
+    },
+    "ru": {
+        "icon": "icons/ru/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.png",
+        "description": "<p>Взрывное ускорение — гибридный мод для дробовиков, который увеличивает скорострельность и  пронзающий урон.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Nightmare Mode rewardAlerts"
+            }
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5",
+        "thumb": "icons/ru/thumbs/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.128x128.png",
+        "item_name": "Взрывное ускорение"
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}
