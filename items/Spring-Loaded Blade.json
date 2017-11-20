@@ -1,35 +1,39 @@
 {
     "_id": "59f38f558c202c007335ba66",
     "tags": [
-        "mod"
+        "mod",
+        "melee"
     ],
-    "icon": "icons/en/Spring-Loaded_Blade.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/Spring-Loaded_Blade.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "icons/en/Spring-Loaded_Blade.da5dd58b47d86b2eebf3f8102124c024.png",
+    "thumb": "icons/en/thumbs/Spring-Loaded_Blade.da5dd58b47d86b2eebf3f8102124c024.128x128.png",
     "icon_format": "port",
     "url_name": "spring_loaded_blade",
     "tradable": true,
     "en": {
+        "item_name": "Spring-Loaded Blade",
         "description": "<p>Spring-Loaded Blade is a melee mod that increases Melee Range by 30% for +24 secs on proccing a Status Effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade",
         "drop": [
             {
                 "link": null,
                 "name": "Incursions 1.01% (Rot B)"
             }
-        ],
-        "item_name": "Spring-Loaded Blade",
-        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade"
+        ]
     },
     "ru": {
-        "description": "<p>Spring-Loaded Blade is a melee mod that increases Melee Range by 30% for +24 secs on proccing a Status Effect.</p>",
+        "item_name": "Пружинное Лезвие",
+        "description": "<p>Пружинное Лезвие - редкий мод для оружия ближнего боя, который увеличивает радиус атаки оружия ближнего боя при срабатывании статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5",
+        "icon": "icons/ru/Spring-Loaded_Blade.8d625609f0b628d31fb3cf1777bb22fd.png",
+        "thumb": "icons/ru/thumbs/Spring-Loaded_Blade.8d625609f0b628d31fb3cf1777bb22fd.128x128.png",
         "drop": [
             {
                 "link": null,
                 "name": "Налет 1.01% (Ротация B)"
             }
-        ],
-        "item_name": "Spring-Loaded Клинок",
-        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade"
+        ]
     },
     "rarity": "rare",
+    "mod_max_rank": 5,
     "trading_tax": 8000
 }

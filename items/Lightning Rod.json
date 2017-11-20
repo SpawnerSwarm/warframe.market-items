@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Lightning Rod",
+        "description": "<p>Lightning Rod increases the Electrical Damage resistance of a Warframe's health and shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Rod",
         "drop": [
             {
                 "link": null,
@@ -29,13 +31,14 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>Lightning Rod increases the Electrical Damage resistance of a Warframe's health and shields.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Rod"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.png",
+        "item_name": "Громоотвод",
         "description": "<p>Громоотвод — обычный мод для варфрейма, который увеличивает сопротивление  Электрическому урону.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%BE%D1%82%D0%B2%D0%BE%D0%B4",
+        "icon": "icons/ru/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.png",
+        "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -53,10 +56,7 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%BE%D1%82%D0%B2%D0%BE%D0%B4",
-        "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
-        "item_name": "Громоотвод"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,

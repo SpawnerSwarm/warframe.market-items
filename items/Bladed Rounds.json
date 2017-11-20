@@ -11,7 +11,9 @@
     "url_name": "bladed_rounds",
     "tradable": true,
     "en": {
+        "item_name": "Bladed Rounds",
         "description": "<p>Bladed Rounds is an uncommon Rifle mod that increases Critical damage while aiming for a brief time upon a kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bladed_Rounds",
         "drop": [
             {
                 "link": null,
@@ -21,12 +23,14 @@
                 "link": null,
                 "name": "Violence"
             }
-        ],
-        "item_name": "Bladed Rounds",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bladed_Rounds"
+        ]
     },
     "ru": {
+        "item_name": "Пули с лезвиями Клинок",
         "description": "<p>Пули C Лезвиями — мод для основного оружия, который увеличивает множитель критического урона на определенный промежуток времени при убийстве противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%83%D0%BB%D0%B8_%D1%81_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
@@ -36,9 +40,7 @@
                 "link": null,
                 "name": "Violence"
             }
-        ],
-        "item_name": "Пули с лезвиями Клинок",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%83%D0%BB%D0%B8_%D1%81_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

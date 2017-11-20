@@ -11,25 +11,27 @@
     "tradable": true,
     "en": {
         "item_name": "Augur Pact",
+        "description": "<p>Augur Pact is a set mod available from bounties on the Plains of Eidolon. It increases the damage of secondaries by 90% at max rank, with the full set bonus applied 150% of energy spent with abilities is converted into Shields</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact",
         "drop": [
             {
                 "link": null,
                 "name": "Recon Commander (1.14%)"
             }
-        ],
-        "description": "<p>Augur Pact is a set mod available from bounties on the Plains of Eidolon. It increases the damage of secondaries by 90% at max rank, with the full set bonus applied 150% of energy spent with abilities is converted into Shields</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact"
+        ]
     },
     "ru": {
         "item_name": "Авгур Пакт",
+        "description": "Пистолет: +80% урона.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
                 "name": "Recon Commander (1.14%)"
             }
-        ],
-        "description": "Пистолет: +80% урона.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,

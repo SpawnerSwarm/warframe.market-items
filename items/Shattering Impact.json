@@ -12,27 +12,27 @@
     "tradable": true,
     "en": {
         "item_name": "Shattering Impact",
+        "description": "<p>Shattering Impact is a melee mod added in Update 17.0 that permanently reduces an enemy's base armor by 1 per rank upon dealing  Impact damage with a melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Impact",
         "drop": [
             {
                 "link": null,
                 "name": "Drekar Butcher"
             }
-        ],
-        "description": "<p>Shattering Impact is a melee mod added in Update 17.0 that permanently reduces an enemy's base armor by 1 per rank upon dealing  Impact damage with a melee weapon.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Impact"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Shattering_Impact.45db92d86f9589bc273747f587fe18f4.png",
+        "item_name": "Крушащий удар",
         "description": "<p>Крушащий Удар — обычный мод для оружия ближнего боя, который навсегда снижает базовую броню противника при нанесении ему   ударного урона оружием.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B0%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Shattering_Impact.45db92d86f9589bc273747f587fe18f4.png",
+        "thumb": "icons/ru/thumbs/Shattering_Impact.45db92d86f9589bc273747f587fe18f4.128x128.png",
         "drop": [
             {
                 "link": null,
                 "name": "Drekar Butcher"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B0%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
-        "thumb": "icons/ru/thumbs/Shattering_Impact.45db92d86f9589bc273747f587fe18f4.128x128.png",
-        "item_name": "Крушащий удар"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,

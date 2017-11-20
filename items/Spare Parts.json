@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Spare Parts",
+        "description": "<p>Spare Parts gives the Sentinel a chance to drop rare items on death.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts",
         "drop": [
             {
                 "link": null,
@@ -33,13 +35,14 @@
                 "link": null,
                 "name": "Tier 2Survival Reward"
             }
-        ],
-        "description": "<p>Spare Parts gives the Sentinel a chance to drop rare items on death.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.png",
+        "item_name": "Запасные части",
         "description": "<p>Запасные Части — необычный мод для стражей, который позволяет стражу с некоторым шансом выронить ресурсы после его смерти. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%87%D0%B0%D1%81%D1%82%D0%B8",
+        "icon": "icons/ru/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.png",
+        "thumb": "icons/ru/thumbs/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -61,10 +64,7 @@
                 "link": null,
                 "name": "Tier 2Survival Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%87%D0%B0%D1%81%D1%82%D0%B8",
-        "thumb": "icons/ru/thumbs/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.128x128.png",
-        "item_name": "Запасные части"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

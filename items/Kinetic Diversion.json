@@ -10,28 +10,28 @@
     "url_name": "kinetic_diversion",
     "tradable": true,
     "en": {
+        "item_name": "Kinetic Diversion",
         "description": "<p>Kinetic Diversion is an Archwing mod that converts +40% of Damage on Health to Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Diversion",
         "drop": [
             {
                 "link": null,
                 "name": "Incursions 0.29% (Rot C)"
             }
-        ],
-        "item_name": "Kinetic Diversion",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Diversion"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Kinetic_Diversion.62e5576b52c7782baa15a315b5ce0f1d.png",
+        "item_name": "Кинетическая Диверсия",
         "description": "<p>Кинетическая Диверсия — редкий мод для арчвинга, который конвертирует наносимый врагами урон по здоровью в энергию.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F",
+        "icon": "icons/ru/Kinetic_Diversion.62e5576b52c7782baa15a315b5ce0f1d.png",
+        "thumb": "icons/ru/thumbs/Kinetic_Diversion.62e5576b52c7782baa15a315b5ce0f1d.128x128.png",
         "drop": [
             {
                 "link": null,
                 "name": "Налет 0.29% (Ротация C)"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F",
-        "thumb": "icons/ru/thumbs/Kinetic_Diversion.62e5576b52c7782baa15a315b5ce0f1d.128x128.png",
-        "item_name": "Кинетическая Диверсия"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

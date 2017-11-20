@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Revenge",
+        "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Revenge",
         "drop": [
             {
                 "link": null,
@@ -53,15 +55,14 @@
                 "link": null,
                 "name": "GrineerShock Draga"
             }
-        ],
-        "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Revenge"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png",
+        "item_name": "Месть",
         "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>",
-        "thumb": "icons/ru/thumbs/Revenge.11965b485374f7c64e7b2c929ac34ca9.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png",
+        "thumb": "icons/ru/thumbs/Revenge.11965b485374f7c64e7b2c929ac34ca9.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -103,8 +104,7 @@
                 "link": null,
                 "name": "GrineerShock Draga"
             }
-        ],
-        "item_name": "Месть"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,

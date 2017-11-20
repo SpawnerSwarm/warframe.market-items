@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Shell Shock",
+        "description": "<p>The Shell Shock mod increases both the  Electricity damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Shock",
         "drop": [
             {
                 "link": null,
@@ -37,13 +39,14 @@
                 "link": null,
                 "name": "One Thousand Cuts Reward"
             }
-        ],
-        "description": "<p>The Shell Shock mod increases both the  Electricity damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Shock"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.png",
+        "item_name": "Контузия",
         "description": "<p>Контузия — гибридрный мод для дробовиков, который увеличивает  электрический урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D1%8F",
+        "icon": "icons/ru/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.png",
+        "thumb": "icons/ru/thumbs/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -69,10 +72,7 @@
                 "link": null,
                 "name": "One Thousand Cuts Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D1%8F",
-        "thumb": "icons/ru/thumbs/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.128x128.png",
-        "item_name": "Контузия"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Piercing Caliber",
+        "description": "<p>The Piercing Caliber mod increases  Puncture damage of a rifle by 20% per rank for a maximum of 120% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Caliber",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "Tactical Alert (Divine Will ) Endurance Reward"
             }
-        ],
-        "description": "<p>The Piercing Caliber mod increases  Puncture damage of a rifle by 20% per rank for a maximum of 120% at Rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Caliber"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Piercing_Caliber.c03e0d2471177b20ab94325efb956843.png",
+        "item_name": "Пробивающий калибр",
         "description": "<p>Пробивающий Калибр - редкий мод для основного оружия, который увеличивает   пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B8%D0%B1%D1%80",
+        "icon": "icons/ru/Piercing_Caliber.c03e0d2471177b20ab94325efb956843.png",
+        "thumb": "icons/ru/thumbs/Piercing_Caliber.c03e0d2471177b20ab94325efb956843.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "Tactical Alert (Divine Will ) Endurance Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B8%D0%B1%D1%80",
-        "thumb": "icons/ru/thumbs/Piercing_Caliber.c03e0d2471177b20ab94325efb956843.128x128.png",
-        "item_name": "Пробивающий калибр"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 5,

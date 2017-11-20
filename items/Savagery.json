@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Savagery",
+        "description": "<p>Savagery mod allows the Sunika Kubrow to overwhelm its prey with a powerful finisher attack.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Savagery",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "Kubrow (Feral)"
             }
-        ],
-        "description": "<p>Savagery mod allows the Sunika Kubrow to overwhelm its prey with a powerful finisher attack.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Savagery"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Savagery.37228f59b30f485bde0addf80f91aed0.png",
+        "item_name": "Дикость",
         "description": "<p>Дикость — мод-заповедь для кубрау Суника, который позволяет использовать добивающие атаки на сбитом с ног противнике, наносящие дополнительный урон</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B8%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Savagery.37228f59b30f485bde0addf80f91aed0.png",
+        "thumb": "icons/ru/thumbs/Savagery.37228f59b30f485bde0addf80f91aed0.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "Kubrow (Feral)"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B8%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
-        "thumb": "icons/ru/thumbs/Savagery.37228f59b30f485bde0addf80f91aed0.128x128.png",
-        "item_name": "Дикость"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 5,

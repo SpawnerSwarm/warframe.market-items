@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Despoil",
+        "description": "<p>Despoil is a Warframe Augment Mod that allows Nekros to consume health instead of energy to cast Desecrate.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Despoil",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "Red Veil"
             }
-        ],
-        "description": "<p>Despoil is a Warframe Augment Mod that allows Nekros to consume health instead of energy to cast Desecrate.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Despoil"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Despoil.a13144018fd22ac0d13257bf4a391dbc.png",
+        "item_name": "Лишение",
         "description": "<p>Лишение — мод-аугмент для варфрейма Некрос, улучшающий его способность осквернение. Способность не расходует энергию, поглощая 10 единиц здоровья за каждое осквернённое тело.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Despoil.a13144018fd22ac0d13257bf4a391dbc.png",
+        "thumb": "icons/ru/thumbs/Despoil.a13144018fd22ac0d13257bf4a391dbc.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "Red Veil"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
-        "thumb": "icons/ru/thumbs/Despoil.a13144018fd22ac0d13257bf4a391dbc.128x128.png",
-        "item_name": "Лишение"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

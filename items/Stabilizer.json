@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Stabilizer",
+        "description": "<p>The Stabilizer mod is a rifle mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at Rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stabilizer",
         "drop": [
             {
                 "link": null,
@@ -29,13 +31,14 @@
                 "link": null,
                 "name": "Tier 3Excavation Reward"
             }
-        ],
-        "description": "<p>The Stabilizer mod is a rifle mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at Rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stabilizer"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.png",
+        "item_name": "Стабилизатор",
         "description": "<p>Стабилизатор — редкий мод для основного оружия, который уменьшает отдачу.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80",
+        "icon": "icons/ru/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.png",
+        "thumb": "icons/ru/thumbs/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -53,10 +56,7 @@
                 "link": null,
                 "name": "Tier 3Excavation Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80",
-        "thumb": "icons/ru/thumbs/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.128x128.png",
-        "item_name": "Стабилизатор"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

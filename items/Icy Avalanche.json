@@ -12,7 +12,9 @@
     "url_name": "icy_avalanche",
     "tradable": true,
     "en": {
+        "item_name": "Icy Avalanche",
         "description": "<p>Icy Avalanche is a Warframe Augment Mod for Frost that grants allies within the radius a protective coating of ice for each enemy that is frozen by Avalanche.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Icy_Avalanche",
         "drop": [
             {
                 "link": null,
@@ -22,12 +24,14 @@
                 "link": null,
                 "name": "Cephalon Suda"
             }
-        ],
-        "item_name": "Icy Avalanche",
-        "wiki_link": "http://warframe.wikia.com/wiki/Icy_Avalanche"
+        ]
     },
     "ru": {
+        "item_name": "Леденящая Лавина",
         "description": "<p>Даёт союзникам в радиусе действия ледяной покров, который впитывает 60 Урона от каждого вражеского попадания.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Леденящая_Лавина",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
@@ -37,9 +41,7 @@
                 "link": null,
                 "name": "Cephalon Suda"
             }
-        ],
-        "item_name": "Леденящая Лавина",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Леденящая_Лавина"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

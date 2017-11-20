@@ -13,15 +13,17 @@
     "tradable": true,
     "en": {
         "item_name": "Corroding Barrage",
-        "drop": [],
         "description": "<p>Corroding Barrage is a Warframe Augment Mod for Hydroid where each projectile of Tempest Barrage has a percent chance of inflicting a Corrosive b Corrosive status effect.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corroding_Barrage"
+        "wiki_link": "http://warframe.wikia.com/wiki/Corroding_Barrage",
+        "drop": []
     },
     "ru": {
         "item_name": "Коррозийный Шквал",
-        "drop": [],
         "description": "<p>Каждый снаряд имеет 100% шанс нанести эффект статуса Коррозии.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Коррозийный_Шквал"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Коррозийный_Шквал",
+        "icon": null,
+        "thumb": null,
+        "drop": []
     },
     "rarity": "rare",
     "mod_max_rank": 3,

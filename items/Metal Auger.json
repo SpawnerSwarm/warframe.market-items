@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Metal Auger",
+        "description": "<p>Metal Auger increases Punch Through for Rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Metal_Auger",
         "drop": [
             {
                 "link": null,
@@ -41,13 +43,14 @@
                 "link": null,
                 "name": "Spy 2.0 Reward"
             }
-        ],
-        "description": "<p>Metal Auger increases Punch Through for Rifles.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Metal_Auger"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Metal_Auger.2a022761d87618a596a4d38804f425d0.png",
+        "item_name": "Металлический бур",
         "description": "<p>Металлический Бур — редкий мод для основного оружия,  который увеличивает пронзание.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D1%80",
+        "icon": "icons/ru/Metal_Auger.2a022761d87618a596a4d38804f425d0.png",
+        "thumb": "icons/ru/thumbs/Metal_Auger.2a022761d87618a596a4d38804f425d0.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -77,10 +80,7 @@
                 "link": null,
                 "name": "Spy 2.0 Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D1%80",
-        "thumb": "icons/ru/thumbs/Metal_Auger.2a022761d87618a596a4d38804f425d0.128x128.png",
-        "item_name": "Металлический бур"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 5,

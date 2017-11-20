@@ -19,17 +19,19 @@
     ],
     "set_root": true,
     "en": {
-        "drop": [],
         "item_name": "Volt Prime Set",
-        "codex": "A glorious warrior from the past, Volt Prime features the same abilities as Volt, but with unique mod polarities for greater customization.",
         "description": "<p>Release Date: March 24th, 2015</p><p>Volt Prime is the primed variant of the Volt Warframe featuring more powerful stats: possessing a higher energy capacity and armor, as well as an additional  polarity.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Volt/Prime"
+        "wiki_link": "http://warframe.wikia.com/wiki/Volt/Prime",
+        "drop": [],
+        "codex": "A glorious warrior from the past, Volt Prime features the same abilities as Volt, but with unique mod polarities for greater customization."
     },
     "ru": {
-        "description": "<p>Вольт создаёт и контролирует электричество. Этот костюм имеет сильные боевые способности, он идеально подходит для тех, кто ищет альтернативу огнестрельному оружию.</p>",
-        "drop": [],
         "item_name": "Вольт Комплект",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82"
+        "description": "<p>Вольт создаёт и контролирует электричество. Этот костюм имеет сильные боевые способности, он идеально подходит для тех, кто ищет альтернативу огнестрельному оружию.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82",
+        "icon": null,
+        "thumb": null,
+        "drop": []
     },
     "trading_tax": 4000
 }

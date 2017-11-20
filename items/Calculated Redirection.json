@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Calculated Redirection",
+        "description": "<p>Calculated Redirection increases the shield capacity of a Sentinel.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Redirection",
         "drop": [
             {
                 "link": null,
@@ -33,15 +35,14 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>Calculated Redirection increases the shield capacity of a Sentinel.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Redirection"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Calculated_Redirection.a936a0d7d0d82594501180644f815238.png",
+        "item_name": "Просчитанное перенаправление",
         "description": "<p>Просчитанное Перенаправление — обычный мод для стражей, который увеличивает базовый показатель щита.</p>",
-        "thumb": "icons/ru/thumbs/Calculated_Redirection.a936a0d7d0d82594501180644f815238.128x128.png",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Calculated_Redirection.a936a0d7d0d82594501180644f815238.png",
+        "thumb": "icons/ru/thumbs/Calculated_Redirection.a936a0d7d0d82594501180644f815238.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -63,8 +64,7 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "item_name": "Просчитанное перенаправление"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 10,

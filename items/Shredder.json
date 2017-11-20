@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Shredder",
+        "description": "<p>Shredder increases  Slash Damage for Shotgun by 5% to a maximum of 30%.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shredder",
         "drop": [
             {
                 "link": null,
@@ -29,13 +31,14 @@
                 "link": null,
                 "name": "InfestedToxic Ancient"
             }
-        ],
-        "description": "<p>Shredder increases  Slash Damage for Shotgun by 5% to a maximum of 30%.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shredder"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Shredder.29ab6c13db38effc011469562b54d17f.png",
+        "item_name": "Кромсатель",
         "description": "<p>Кромсатель — обычный мод для дробовиков, который увеличивает  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Shredder.29ab6c13db38effc011469562b54d17f.png",
+        "thumb": "icons/ru/thumbs/Shredder.29ab6c13db38effc011469562b54d17f.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -53,10 +56,7 @@
                 "link": null,
                 "name": "InfestedToxic Ancient"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
-        "thumb": "icons/ru/thumbs/Shredder.29ab6c13db38effc011469562b54d17f.128x128.png",
-        "item_name": "Кромсатель"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,

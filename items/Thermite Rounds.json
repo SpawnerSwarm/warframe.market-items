@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Thermite Rounds",
+        "description": "<p>The Thermite Rounds mod increases both the  Heat damage and Status Chance of a rifle by 15% per rank for a maximum of 60% at Rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thermite_Rounds",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "17 points inOperation Breeding Grounds"
             }
-        ],
-        "description": "<p>The Thermite Rounds mod increases both the  Heat damage and Status Chance of a rifle by 15% per rank for a maximum of 60% at Rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Thermite_Rounds"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Thermite_Rounds.564e4bd01182a484fc0f74380ad82059.png",
+        "item_name": "Термитные пули",
         "description": "<p>Термитные Пули — гибридный мод для основного оружия, который увеличивают  огненный урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BB%D0%B8",
+        "icon": "icons/ru/Thermite_Rounds.564e4bd01182a484fc0f74380ad82059.png",
+        "thumb": "icons/ru/thumbs/Thermite_Rounds.564e4bd01182a484fc0f74380ad82059.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "17 points inOperation Breeding Grounds"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BB%D0%B8",
-        "thumb": "icons/ru/thumbs/Thermite_Rounds.564e4bd01182a484fc0f74380ad82059.128x128.png",
-        "item_name": "Термитные пули"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

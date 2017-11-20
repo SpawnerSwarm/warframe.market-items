@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Rifle Aptitude",
+        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
         "drop": [
             {
                 "link": null,
@@ -33,13 +35,14 @@
                 "link": null,
                 "name": "Orokin Void Container"
             }
-        ],
-        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
+        "item_name": "Боеспособность",
         "description": "<p>Боеспособность — необычный мод для основного оружия, который увеличивает шанс срабатывания статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
+        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
+        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -61,10 +64,7 @@
                 "link": null,
                 "name": "Orokin Void Container"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
-        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
-        "item_name": "Боеспособность"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

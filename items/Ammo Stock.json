@@ -14,6 +14,8 @@
     "tradable": true,
     "en": {
         "item_name": "Ammo Stock",
+        "description": "<p>The Ammo Stock mod increases shotgun magazine capacity by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Stock",
         "drop": [
             {
                 "link": null,
@@ -23,13 +25,14 @@
                 "link": null,
                 "name": "Orokin Void Container"
             }
-        ],
-        "description": "<p>The Ammo Stock mod increases shotgun magazine capacity by 10% per rank for a maximum of 60% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Stock"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.png",
+        "item_name": "Патронташ Приклад",
         "description": "<p>Патронташ — необычный мод для дробовиков, который увеличивает вместимость магазина.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%82%D0%B0%D1%88",
+        "icon": "icons/ru/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.png",
+        "thumb": "icons/ru/thumbs/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -39,10 +42,7 @@
                 "link": null,
                 "name": "Orokin Void Container"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%82%D0%B0%D1%88",
-        "thumb": "icons/ru/thumbs/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.128x128.png",
-        "item_name": "Патронташ Приклад"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

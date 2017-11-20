@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Firestorm",
+        "description": "<p>Firestorm increases the area-of-effect radius of the Ignis, Ogris, Penta, Torid, Opticor, and Tonkor.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Firestorm",
         "drop": [
             {
                 "link": null,
@@ -29,13 +31,14 @@
                 "link": null,
                 "name": "Hive Sabotage cache reward"
             }
-        ],
-        "description": "<p>Firestorm increases the area-of-effect radius of the Ignis, Ogris, Penta, Torid, Opticor, and Tonkor.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Firestorm"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Firestorm.98517690aa7e2c6ce0dc119935e95616.png",
+        "item_name": "Огненный шторм",
         "description": "<p>Огненный Шторм — редкий мод для некоторых гранатометов, который увеличивает радиус взрывной атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC",
+        "icon": "icons/ru/Firestorm.98517690aa7e2c6ce0dc119935e95616.png",
+        "thumb": "icons/ru/thumbs/Firestorm.98517690aa7e2c6ce0dc119935e95616.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -53,10 +56,7 @@
                 "link": null,
                 "name": "Hive Sabotage cache reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC",
-        "thumb": "icons/ru/thumbs/Firestorm.98517690aa7e2c6ce0dc119935e95616.128x128.png",
-        "item_name": "Огненный шторм"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,
