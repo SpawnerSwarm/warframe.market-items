@@ -1,0 +1,28 @@
+{
+    "_id": "5a0475076c4655012038ddbe",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Magus_Cadence.c8bed80c3557c2f049419dc080f9f45d.png",
+    "thumb": "icons/en/thumbs/Magus_Cadence.c8bed80c3557c2f049419dc080f9f45d.128x128.png",
+    "icon_format": "land",
+    "url_name": "magus_cadence",
+    "tradable": true,
+    "en": {
+        "item_name": "Magus Cadence",
+        "description": "<p>Magus Cadence is an Arcane Enhancement for the operator that grants a chance at increased sprint speed after a void dash.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cadence",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Magus Cadence",
+        "description": "<p>Magus Cadence is an Arcane Enhancement for the operator that grants a chance at increased sprint speed after a void dash.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cadence",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

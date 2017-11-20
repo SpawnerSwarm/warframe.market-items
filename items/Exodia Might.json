@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750d6c4655012038ddcd",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Exodia_Might.9aa2324d5c9ff093811c03d6cb0335ff.png",
+    "thumb": "icons/en/thumbs/Exodia_Might.9aa2324d5c9ff093811c03d6cb0335ff.128x128.png",
+    "icon_format": "land",
+    "url_name": "exodia_might",
+    "tradable": true,
+    "en": {
+        "item_name": "Exodia Might",
+        "description": "<p>Exodia Might is an Arcane Enhancement for Zaws that has a chance to grant lifesteal on finishers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Might",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Exodia Might",
+        "description": "<p>Exodia Might is an Arcane Enhancement for Zaws that has a chance to grant lifesteal on finishers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Might",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

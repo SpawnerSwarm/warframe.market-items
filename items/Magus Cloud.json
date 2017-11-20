@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750e6c4655012038ddcf",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Magus_Cloud.34d337a9286d1bdc1d4327b524e16b12.png",
+    "thumb": "icons/en/thumbs/Magus_Cloud.34d337a9286d1bdc1d4327b524e16b12.128x128.png",
+    "icon_format": "land",
+    "url_name": "magus_cloud",
+    "tradable": true,
+    "en": {
+        "item_name": "Magus Cloud",
+        "description": "<p>Magus Cloud is an Arcane Enhancement for the operator that grants a chance to become immune to fall damage after a void dash.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cloud",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Magus Cloud",
+        "description": "<p>Magus Cloud is an Arcane Enhancement for the operator that grants a chance to become immune to fall damage after a void dash.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cloud",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 3,
+    "trading_tax": 0
+}

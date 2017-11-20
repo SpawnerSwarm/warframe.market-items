@@ -1,0 +1,39 @@
+{
+    "_id": "5a0eeb7d243f770045219473",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.png",
+    "thumb": "icons/en/thumbs/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_command",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Command",
+        "description": "<p>Hunter Command is a set mod dropped from the Hemocyte during Operation: Plague Star that causes your companion to attack the nearest enemy effected by Slash b Slash Status.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Command",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Hunter Command",
+        "description": "<p>Hunter Command is a set mod dropped from the Hemocyte during Operation: Plague Star that causes your companion to attack the nearest enemy effected by Slash b Slash Status.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Command",
+        "icon": "icons/ru/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.png",
+        "thumb": "icons/ru/thumbs/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.128x128.png",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750c6c4655012038ddcb",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Virtuos_Strike.35437c854acecfa8f9cdd46a3056f34c.png",
+    "thumb": "icons/en/thumbs/Virtuos_Strike.35437c854acecfa8f9cdd46a3056f34c.128x128.png",
+    "icon_format": "land",
+    "url_name": "virtuos_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Virtuos Strike",
+        "description": "<p>Virtuos Strike is an Arcane Enhancement for the Operator Amps that grants a chance at increased critical damage after a critical hit.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Strike",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Virtuos Strike",
+        "description": "<p>Virtuos Strike is an Arcane Enhancement for the Operator Amps that grants a chance at increased critical damage after a critical hit.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Strike",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

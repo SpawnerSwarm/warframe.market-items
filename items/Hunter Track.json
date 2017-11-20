@@ -1,0 +1,39 @@
+{
+    "_id": "5a0eeb7e243f770045219474",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Hunter_Track.119d2bc410b81135e16f194286efb4fb.png",
+    "thumb": "icons/en/thumbs/Hunter_Track.119d2bc410b81135e16f194286efb4fb.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_track",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Track",
+        "description": "<p>Hunter Track is a set mod dropped from the Hemocyte during Operation: Plague Star that increases the duration of Status Effects inflicted by primary weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Track",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Hunter Track",
+        "description": "<p>Hunter Track is a set mod dropped from the Hemocyte during Operation: Plague Star that increases the duration of Status Effects inflicted by primary weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Track",
+        "icon": "icons/ru/Hunter_Track.119d2bc410b81135e16f194286efb4fb.png",
+        "thumb": "icons/ru/thumbs/Hunter_Track.119d2bc410b81135e16f194286efb4fb.128x128.png",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}
