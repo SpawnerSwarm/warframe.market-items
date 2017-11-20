@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Equilibrium",
+        "description": "<p>Equilibrium restores additional Energy when collecting Health Orbs, and additional Health when collecting Energy Orbs. Converted orbs are denoted by a  symbol.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Equilibrium",
         "drop": [
             {
                 "link": null,
@@ -25,13 +27,14 @@
                 "link": null,
                 "name": "Vor's Prize (Damaged )"
             }
-        ],
-        "description": "<p>Equilibrium restores additional Energy when collecting Health Orbs, and additional Health when collecting Energy Orbs. Converted orbs are denoted by a  symbol.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Equilibrium"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.png",
+        "item_name": "Равновесие",
         "description": "<p>Равновесие — необычный мод для варфреймоов, который при подборе сферы здоровья также восстанавливает энергию, а при подборе сферы энергии - здоровье. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5",
+        "icon": "icons/ru/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.png",
+        "thumb": "icons/ru/thumbs/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -45,10 +48,7 @@
                 "link": null,
                 "name": "Vor's Prize (Damaged )"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5",
-        "thumb": "icons/ru/thumbs/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.128x128.png",
-        "item_name": "Равновесие"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 10,

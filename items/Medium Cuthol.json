@@ -9,16 +9,18 @@
     "url_name": "medium_cuthol",
     "tradable": true,
     "en": {
-        "drop": [],
         "item_name": "Medium Cuthol",
-        "codex": "",
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Cuthol"
+        "wiki_link": "http://warframe.wikia.com/wiki/Fishing#Cuthol",
+        "drop": [],
+        "codex": ""
     },
     "ru": {
         "item_name": "Средний Кутол",
-        "drop": [],
         "description": "<p>Гротескное ракообразное, чьи щупальца вырабатывают мощный парализующий токсин.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кутол"
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0#Кутол",
+        "icon": null,
+        "thumb": null,
+        "drop": []
     }
 }

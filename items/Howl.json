@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Howl",
+        "description": "<p>Howl mod allows Raksa Kubrow to cry out a blood-curdling howl to strike fear into its foes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Howl",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "Kubrow (Feral)"
             }
-        ],
-        "description": "<p>Howl mod allows Raksa Kubrow to cry out a blood-curdling howl to strike fear into its foes.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Howl"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.png",
+        "item_name": "Вой",
         "description": "<p>Вой — мод-заповедь для кубрау Ракса, позволяющий обращать в бегство противников в определенном радиусе на некоторый промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B9",
+        "icon": "icons/ru/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.png",
+        "thumb": "icons/ru/thumbs/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "Kubrow (Feral)"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B9",
-        "thumb": "icons/ru/thumbs/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png",
-        "item_name": "Вой"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 5,

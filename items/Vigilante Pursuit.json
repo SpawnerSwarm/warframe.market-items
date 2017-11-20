@@ -11,6 +11,8 @@
     "tradable": true,
     "en": {
         "item_name": "Vigilante Pursuit",
+        "description": "<p>Vigilante Pursuit is a set mod that displays all enemies within its radius with red markers on the mini-map.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit",
         "drop": [
             {
                 "link": null,
@@ -20,12 +22,14 @@
                 "link": null,
                 "name": "Plains Commander (0.33%)"
             }
-        ],
-        "description": "<p>Vigilante Pursuit is a set mod that displays all enemies within its radius with red markers on the mini-map.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit"
+        ]
     },
     "ru": {
         "item_name": "Виджиланте Преследование",
+        "description": "",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
@@ -35,9 +39,7 @@
                 "link": null,
                 "name": "Plains Commander (0.33%)"
             }
-        ],
-        "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Sudden Impact",
+        "description": "<p>The Sudden Impact mod increases status chance of an Archwing melee weapon by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sudden_Impact",
         "drop": [
             {
                 "link": null,
@@ -25,13 +27,14 @@
                 "link": null,
                 "name": "GrineerZeplen"
             }
-        ],
-        "description": "<p>The Sudden Impact mod increases status chance of an Archwing melee weapon by 10% per rank for a maximum of 60% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sudden_Impact"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Sudden_Impact.c5270a1e82f017c23f2ba72369a0e544.png",
+        "item_name": "Внезапный удар",
         "description": "<p>Внезапный Удар — обычный мод для оружия ближнего боя арчвинг, который увеличивает шанс срабатывания статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BD%D0%B5%D0%B7%D0%B0%D0%BF%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Sudden_Impact.c5270a1e82f017c23f2ba72369a0e544.png",
+        "thumb": "icons/ru/thumbs/Sudden_Impact.c5270a1e82f017c23f2ba72369a0e544.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -45,10 +48,7 @@
                 "link": null,
                 "name": "GrineerZeplen"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BD%D0%B5%D0%B7%D0%B0%D0%BF%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
-        "thumb": "icons/ru/thumbs/Sudden_Impact.c5270a1e82f017c23f2ba72369a0e544.128x128.png",
-        "item_name": "Внезапный удар"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,

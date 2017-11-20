@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "North Wind",
+        "description": "<p>The North Wind mod increases  Cold damage on a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/North_Wind",
         "drop": [
             {
                 "link": null,
@@ -69,13 +71,14 @@
                 "link": null,
                 "name": "Spy 2.0 Reward"
             }
-        ],
-        "description": "<p>The North Wind mod increases  Cold damage on a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/North_Wind"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/North_Wind.69e5d459accbeaf7e5d66d3c27b9f4f7.png",
+        "item_name": "Северный ветер",
         "description": "<p>Северный Ветер — необычный мод для оружия ближнего боя, который увеличивает  ледяной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80",
+        "icon": "icons/ru/North_Wind.69e5d459accbeaf7e5d66d3c27b9f4f7.png",
+        "thumb": "icons/ru/thumbs/North_Wind.69e5d459accbeaf7e5d66d3c27b9f4f7.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -133,10 +136,7 @@
                 "link": null,
                 "name": "Spy 2.0 Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80",
-        "thumb": "icons/ru/thumbs/North_Wind.69e5d459accbeaf7e5d66d3c27b9f4f7.128x128.png",
-        "item_name": "Северный ветер"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

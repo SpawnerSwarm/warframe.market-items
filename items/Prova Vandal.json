@@ -10,17 +10,19 @@
     "url_name": "prova_vandal",
     "tradable": true,
     "en": {
-        "codex": "A customized version of the vicious Prova, with metallic finish and Lotus decal.",
         "item_name": "Prova Vandal",
-        "drop": [],
         "description": "<p>The Prova Vandal is the Vandal version of the Prova melee weapon, offering greater damage and status chance than the standard version. Originally a potential reward for The Gradivus Dilemma, it was later offered as a reward for getting at least 48 points in a single mission in the Operation Breeding Grounds event. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Prova_Vandal"
+        "wiki_link": "http://warframe.wikia.com/wiki/Prova_Vandal",
+        "drop": [],
+        "codex": "A customized version of the vicious Prova, with metallic finish and Lotus decal."
     },
     "ru": {
-        "description": "<p>Прова Вандал - модернизированная версия Провы, с отделкой металлики и украшениями Лотоса.</p>",
-        "drop": [],
         "item_name": "Прова вандал",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B0_%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB"
+        "description": "<p>Прова Вандал - модернизированная версия Провы, с отделкой металлики и украшениями Лотоса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B0_%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB",
+        "icon": null,
+        "thumb": null,
+        "drop": []
     },
     "mastery_level": 0,
     "trading_tax": 2000

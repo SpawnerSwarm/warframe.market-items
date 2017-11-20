@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Reflex Guard",
+        "description": "<p>The Reflex Guard mod grants a chance for a Warframe to automatically parry incoming attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reflex_Guard",
         "drop": [
             {
                 "link": null,
@@ -25,13 +27,14 @@
                 "link": null,
                 "name": "Spy 2.0 Reward"
             }
-        ],
-        "description": "<p>The Reflex Guard mod grants a chance for a Warframe to automatically parry incoming attacks.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Reflex_Guard"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.png",
+        "item_name": "Защитный рефлекс",
         "description": "<p>Защитный Рефлекс — редкий мод для варфреймов, который позволяет с некоторым шансом автоматически блокировать атаки ближнего и дальнего боя.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81",
+        "icon": "icons/ru/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.png",
+        "thumb": "icons/ru/thumbs/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -45,10 +48,7 @@
                 "link": null,
                 "name": "Spy 2.0 Reward"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81",
-        "thumb": "icons/ru/thumbs/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.128x128.png",
-        "item_name": "Защитный рефлекс"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 10,

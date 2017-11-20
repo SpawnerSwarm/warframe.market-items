@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Sanctuary",
+        "description": "<p>Sanctuary allows a Sentinel to create a shield around its master while they heal fallen allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)",
         "drop": [
             {
                 "link": null,
@@ -29,13 +31,14 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>Sanctuary allows a Sentinel to create a shield around its master while they heal fallen allies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
+        "item_name": "Убежище",
         "description": "<p>Убежище — редкий мод  для стражей, который даёт ему возможность создавать защитное поле при воскрешении павшего союзника. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
+        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
+        "thumb": "icons/ru/thumbs/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -53,10 +56,7 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
-        "thumb": "icons/ru/thumbs/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png",
-        "item_name": "Убежище"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 10,

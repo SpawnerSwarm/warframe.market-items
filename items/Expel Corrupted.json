@@ -11,25 +11,27 @@
     "tradable": true,
     "en": {
         "item_name": "Expel Corrupted",
+        "description": "<p>Expel Corrupted increases the damage of secondary weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Expel_Corrupted",
         "drop": [
             {
                 "link": null,
                 "name": "Defection (T1, T2, T3)"
             }
-        ],
-        "description": "<p>Expel Corrupted increases the damage of secondary weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Expel_Corrupted"
+        ]
     },
     "ru": {
         "item_name": "Изгнание: Порабощённые",
+        "description": "Нету",
+        "wiki_link": "http://warframe.wikia.com/wiki/Expel_Corrupted",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
                 "name": "Defection (T1, T2, T3)"
             }
-        ],
-        "description": "Нету",
-        "wiki_link": "http://warframe.wikia.com/wiki/Expel_Corrupted"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

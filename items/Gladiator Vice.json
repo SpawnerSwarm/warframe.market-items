@@ -11,6 +11,8 @@
     "tradable": true,
     "en": {
         "item_name": "Gladiator Vice",
+        "description": "<p>Gladiator Vice is a set mod that increases the attack speed of a melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Vice",
         "drop": [
             {
                 "link": null,
@@ -20,12 +22,14 @@
                 "link": null,
                 "name": "Aerial Commander (0.02%)"
             }
-        ],
-        "description": "<p>Gladiator Vice is a set mod that increases the attack speed of a melee weapon.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Vice"
+        ]
     },
     "ru": {
         "item_name": "Гладиатор Норов",
+        "description": "<p>Ближний Бой: +20% Скорость атаки.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Vice",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
@@ -35,9 +39,7 @@
                 "link": null,
                 "name": "Aerial Commander (0.02%)"
             }
-        ],
-        "description": "<p>Ближний Бой: +20% Скорость атаки.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Vice"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 5,

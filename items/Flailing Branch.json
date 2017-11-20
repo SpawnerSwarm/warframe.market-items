@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Flailing Branch",
+        "description": "<p>Flailing Branch is a Stance mod for staff weapons. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flailing_Branch",
         "drop": [
             {
                 "link": null,
@@ -25,13 +27,14 @@
                 "link": null,
                 "name": "Corrupted Nullifier"
             }
-        ],
-        "description": "<p>Flailing Branch is a Stance mod for staff weapons. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flailing_Branch"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Flailing_Branch.e33f4579b6e688a0e75a6e5872691316.png",
+        "item_name": "Молотильня",
         "description": "<p>Молотильня — это редкая стойка, предназначенная для оружия ближнего боя класса Посохи. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%8F",
+        "icon": "icons/ru/Flailing_Branch.e33f4579b6e688a0e75a6e5872691316.png",
+        "thumb": "icons/ru/thumbs/Flailing_Branch.e33f4579b6e688a0e75a6e5872691316.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -45,10 +48,7 @@
                 "link": null,
                 "name": "Corrupted Nullifier"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%8F",
-        "thumb": "icons/ru/thumbs/Flailing_Branch.e33f4579b6e688a0e75a6e5872691316.128x128.png",
-        "item_name": "Молотильня"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

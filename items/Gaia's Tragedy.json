@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Gaia's Tragedy",
+        "description": "<p>Gaia's Tragedy is one of three Stance mods for Fist type weapons. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy",
         "drop": [
             {
                 "link": null,
@@ -25,13 +27,14 @@
                 "link": null,
                 "name": "CorpusDatalyst"
             }
-        ],
-        "description": "<p>Gaia's Tragedy is one of three Stance mods for Fist type weapons. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.png",
+        "item_name": "Трагедия гайи",
         "description": "<p>Трагедия Гайи — это редкая стойка, предназначенная для оружия ближнего боя класса Кулаки. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B3%D0%B0%D0%B9%D0%B8",
+        "icon": "icons/ru/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.png",
+        "thumb": "icons/ru/thumbs/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -45,10 +48,7 @@
                 "link": null,
                 "name": "CorpusDatalyst"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B3%D0%B0%D0%B9%D0%B8",
-        "thumb": "icons/ru/thumbs/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.128x128.png",
-        "item_name": "Трагедия гайи"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

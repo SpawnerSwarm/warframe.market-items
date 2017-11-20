@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Stalking Fan",
+        "description": "<p>Stalking Fan is a Scythe Stance mod with fast and powerful spinning weapon swings.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "CorpusNullifier Crewman"
             }
-        ],
-        "description": "<p>Stalking Fan is a Scythe Stance mod with fast and powerful spinning weapon swings.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.png",
+        "item_name": "Настигающий веер",
         "description": "<p>Настигающий Веер — это редкая стойка, предназначенная для оружия ближнего боя класса Косы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D0%B5%D0%B5%D1%80",
+        "icon": "icons/ru/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.png",
+        "thumb": "icons/ru/thumbs/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "CorpusNullifier Crewman"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D0%B5%D0%B5%D1%80",
-        "thumb": "icons/ru/thumbs/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.128x128.png",
-        "item_name": "Настигающий веер"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 3,

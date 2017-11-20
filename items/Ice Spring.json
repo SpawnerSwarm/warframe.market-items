@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Ice Spring",
+        "description": "<p>The Ice Spring mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Cold damage to Bullet Jump.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ice_Spring",
         "drop": [
             {
                 "link": null,
@@ -21,13 +23,14 @@
                 "link": null,
                 "name": "Sabotage ,Uranus"
             }
-        ],
-        "description": "<p>The Ice Spring mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Cold damage to Bullet Jump.  </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ice_Spring"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Ice_Spring.1136a1c37e573f91be9da416d32789ac.png",
+        "item_name": "Ледяной источник",
         "description": "<p>Ледяной Источник — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене, а также даёт бонусный  ледяной урон стремительному прыжку.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA",
+        "icon": "icons/ru/Ice_Spring.1136a1c37e573f91be9da416d32789ac.png",
+        "thumb": "icons/ru/thumbs/Ice_Spring.1136a1c37e573f91be9da416d32789ac.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -37,10 +40,7 @@
                 "link": null,
                 "name": "Sabotage ,Uranus"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA",
-        "thumb": "icons/ru/thumbs/Ice_Spring.1136a1c37e573f91be9da416d32789ac.128x128.png",
-        "item_name": "Ледяной источник"
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 10,

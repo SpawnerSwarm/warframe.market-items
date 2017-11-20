@@ -12,6 +12,8 @@
     "tradable": true,
     "en": {
         "item_name": "Fury",
+        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fury",
         "drop": [
             {
                 "link": null,
@@ -65,13 +67,14 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fury"
+        ]
     },
     "ru": {
-        "icon": "icons/ru/Fury.731f521e43cc0d77f59a6f213b819003.png",
+        "item_name": "Ярость",
         "description": "<p>Ярость — необычный мод для оружия ближнего боя, который увеличивает скорость атак.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Fury.731f521e43cc0d77f59a6f213b819003.png",
+        "thumb": "icons/ru/thumbs/Fury.731f521e43cc0d77f59a6f213b819003.128x128.png",
         "drop": [
             {
                 "link": null,
@@ -125,10 +128,7 @@
                 "link": null,
                 "name": "Orokin Void Containers"
             }
-        ],
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C",
-        "thumb": "icons/ru/thumbs/Fury.731f521e43cc0d77f59a6f213b819003.128x128.png",
-        "item_name": "Ярость"
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 5,

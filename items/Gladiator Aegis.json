@@ -11,6 +11,8 @@
     "tradable": true,
     "en": {
         "item_name": "Gladiator Aegis",
+        "description": "<p>Gladiator Aegis is a set mod that increases the armor of a Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Aegis",
         "drop": [
             {
                 "link": null,
@@ -20,12 +22,14 @@
                 "link": null,
                 "name": "Aerial Commander (1.14%)"
             }
-        ],
-        "description": "<p>Gladiator Aegis is a set mod that increases the armor of a Warframe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Aegis"
+        ]
     },
     "ru": {
         "item_name": "Гладиатор Эгида",
+        "description": "<p>Варфрейм: +40% Брони</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Aegis",
+        "icon": null,
+        "thumb": null,
         "drop": [
             {
                 "link": null,
@@ -35,9 +39,7 @@
                 "link": null,
                 "name": "Aerial Commander (1.14%)"
             }
-        ],
-        "description": "<p>Варфрейм: +40% Брони</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Aegis"
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,
