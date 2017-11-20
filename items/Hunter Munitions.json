@@ -1,0 +1,39 @@
+{
+    "_id": "5a0eeb7f243f770045219476",
+    "tags": [
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.png",
+    "thumb": "icons/en/thumbs/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_munitions",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Munitions",
+        "description": "<p>Hunter Munitions is a set mod dropped from the Hemocyte during Operation: Plague Star that grants primary weapons a chance to apply Slash b Slash status on a critical hit.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Munitions",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Hunter Munitions",
+        "description": "<p>Hunter Munitions is a set mod dropped from the Hemocyte during Operation: Plague Star that grants primary weapons a chance to apply Slash b Slash status on a critical hit.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Munitions",
+        "icon": "icons/ru/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.png",
+        "thumb": "icons/ru/thumbs/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

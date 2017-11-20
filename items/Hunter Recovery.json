@@ -1,0 +1,39 @@
+{
+    "_id": "5a0eeb7e243f770045219475",
+    "tags": [
+        "mod",
+        "common"
+    ],
+    "icon": "icons/en/Hunter_Recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
+    "thumb": "icons/en/thumbs/Hunter_Recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_recovery",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Recovery",
+        "description": "<p>Hunter Recovery is a set mod dropped from the Hemocyte during Operation: Plague Star that allows a companion to heal the player for a percentage of the damage it deals.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Recovery",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Hunter Recovery",
+        "description": "<p>Hunter Recovery is a set mod dropped from the Hemocyte during Operation: Plague Star that allows a companion to heal the player for a percentage of the damage it deals.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Recovery",
+        "icon": "icons/ru/Hunter_Recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
+        "thumb": "icons/ru/thumbs/Hunter_Recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

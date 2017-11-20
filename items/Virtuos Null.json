@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750a6c4655012038ddc7",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Virtuos_Null.ed98997761514c7a691a58f3971d8e7c.png",
+    "thumb": "icons/en/thumbs/Virtuos_Null.ed98997761514c7a691a58f3971d8e7c.128x128.png",
+    "icon_format": "land",
+    "url_name": "virtuos_null",
+    "tradable": true,
+    "en": {
+        "item_name": "Virtuos Null",
+        "description": "<p>Virtuos Null is an Arcane Enhancement for Operator Amps that grants a chance to increase Amp and Void Beam energy regeneration on kills.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Virtuos Null",
+        "description": "<p>Virtuos Null is an Arcane Enhancement for Operator Amps that grants a chance to increase Amp and Void Beam energy regeneration on kills.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

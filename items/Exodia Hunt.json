@@ -1,0 +1,28 @@
+{
+    "_id": "5a0475096c4655012038ddc2",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Exodia_Hunt.a47112e5a8ac51e18e61bdccb5343404.png",
+    "thumb": "icons/en/thumbs/Exodia_Hunt.a47112e5a8ac51e18e61bdccb5343404.128x128.png",
+    "icon_format": "land",
+    "url_name": "exodia_hunt",
+    "tradable": true,
+    "en": {
+        "item_name": "Exodia Hunt",
+        "description": "<p>Exodia Hunt is an Arcane Enhancement for Zaws that grants a chance to pull in nearby enemies on slam attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Hunt",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Exodia Hunt",
+        "description": "<p>Exodia Hunt is an Arcane Enhancement for Zaws that grants a chance to pull in nearby enemies on slam attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Hunt",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

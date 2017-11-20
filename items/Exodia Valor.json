@@ -1,0 +1,28 @@
+{
+    "_id": "5a0475086c4655012038ddc0",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Exodia_Valor.df74b7435133330a26d96addec592881.png",
+    "thumb": "icons/en/thumbs/Exodia_Valor.df74b7435133330a26d96addec592881.128x128.png",
+    "icon_format": "land",
+    "url_name": "exodia_valor",
+    "tradable": true,
+    "en": {
+        "item_name": "Exodia Valor",
+        "description": "<p>Exodia Valor is an Arcane Enhancement for Zaws that grants a chance to increase channeling damage for a few seconds on Critical Hits.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Valor",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Exodia Valor",
+        "description": "<p>Exodia Valor is an Arcane Enhancement for Zaws that grants a chance to increase channeling damage for a few seconds on Critical Hits.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Valor",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

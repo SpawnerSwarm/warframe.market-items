@@ -1,0 +1,39 @@
+{
+    "_id": "5a0eeb7f243f770045219477",
+    "tags": [
+        "mod",
+        "common"
+    ],
+    "icon": "icons/en/Hunter_Adrenaline.4aa86a8459126574f6f7191a08cbeb84.png",
+    "thumb": "icons/en/thumbs/Hunter_Adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_adrenaline",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Adrenaline",
+        "description": "<p>Hunter Adrenaline is a set mod dropped from the Hemocyte during Operation: Plague Star that converts a percentage of Health damage received into Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Adrenaline",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Hunter Adrenaline",
+        "description": "<p>Hunter Adrenaline is a set mod dropped from the Hemocyte during Operation: Plague Star that converts a percentage of Health damage received into Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Adrenaline",
+        "icon": "icons/ru/Hunter_Adrenaline.4aa86a8459126574f6f7191a08cbeb84.png",
+        "thumb": "icons/ru/thumbs/Hunter_Adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

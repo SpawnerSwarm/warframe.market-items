@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750c6c4655012038ddca",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Magus_Husk.ac51a65bcc1e2c2412128f642a4a1bcb.png",
+    "thumb": "icons/en/thumbs/Magus_Husk.ac51a65bcc1e2c2412128f642a4a1bcb.128x128.png",
+    "icon_format": "land",
+    "url_name": "magus_husk",
+    "tradable": true,
+    "en": {
+        "item_name": "Magus Husk",
+        "description": "<p>Magus Husk is an Arcane Enhancement for the Operator that grants them additional armor upon transferring out of the Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Husk",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Magus Husk",
+        "description": "<p>Magus Husk is an Arcane Enhancement for the Operator that grants them additional armor upon transferring out of the Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Husk",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 3,
+    "trading_tax": 0
+}

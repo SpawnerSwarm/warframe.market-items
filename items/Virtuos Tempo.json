@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750b6c4655012038ddc8",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Virtuos_Tempo.e76edfa6b689aa54565888f5a6ef93a8.png",
+    "thumb": "icons/en/thumbs/Virtuos_Tempo.e76edfa6b689aa54565888f5a6ef93a8.128x128.png",
+    "icon_format": "land",
+    "url_name": "virtuos_tempo",
+    "tradable": true,
+    "en": {
+        "item_name": "Virtuos Tempo",
+        "description": "<p>Virtuos Tempo is an Arcane Enhancement for Operator Amps that grants a chance to increase Fire Rate on kills.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Tempo",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Virtuos Tempo",
+        "description": "<p>Virtuos Tempo is an Arcane Enhancement for Operator Amps that grants a chance to increase Fire Rate on kills.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Tempo",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

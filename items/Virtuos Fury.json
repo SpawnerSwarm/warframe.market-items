@@ -1,0 +1,28 @@
+{
+    "_id": "5a04750a6c4655012038ddc6",
+    "tags": [
+        "arcane enhancements",
+        "operator"
+    ],
+    "icon": "icons/en/Virtuos_Fury.82fa1998e071395d444701f641b74595.png",
+    "thumb": "icons/en/thumbs/Virtuos_Fury.82fa1998e071395d444701f641b74595.128x128.png",
+    "icon_format": "land",
+    "url_name": "virtuos_fury",
+    "tradable": true,
+    "en": {
+        "item_name": "Virtuos Fury",
+        "description": "<p>Virtuos Fury is an Arcane Enhancement for Operator Amps that grants a chance at increased damage after inflicting a Status Effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Fury",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Virtuos Fury",
+        "description": "<p>Virtuos Fury is an Arcane Enhancement for Operator Amps that grants a chance at increased damage after inflicting a Status Effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Fury",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "mod_max_rank": 4,
+    "trading_tax": 0
+}

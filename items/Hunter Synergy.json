@@ -1,0 +1,39 @@
+{
+    "_id": "5a0eeb80243f770045219478",
+    "tags": [
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.png",
+    "thumb": "icons/en/thumbs/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_synergy",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Synergy",
+        "description": "<p>Hunter Synergy is a set mod dropped by the Hemocyte during Operation: Plague Star that possibly grants your companion a critical chance bonus based on mods equipped for the current weapon (It's actual effect is unconfirmed.)</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Synergy",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Hunter Synergy",
+        "description": "<p>Hunter Synergy is a set mod dropped by the Hemocyte during Operation: Plague Star that possibly grants your companion a critical chance bonus based on mods equipped for the current weapon (It's actual effect is unconfirmed.)</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Synergy",
+        "icon": "icons/ru/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.png",
+        "thumb": "icons/ru/thumbs/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.128x128.png",
+        "drop": [
+            {
+                "link": null,
+                "name": "Hemocyte"
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}
