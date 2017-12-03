@@ -1,0 +1,48 @@
+{
+    "_id": "59dfeb6c115f1d887cfd7abf",
+    "tags": [
+        "mod",
+        "augur"
+    ],
+    "icon": "icons/en/Augur_Accord.068cadfef07bb4e729df53eb1b2f46db.png",
+    "thumb": "icons/en/thumbs/Augur_Accord.068cadfef07bb4e729df53eb1b2f46db.128x128.png",
+    "icon_format": "port",
+    "url_name": "augur_accord",
+    "tradable": true,
+    "en": {
+        "item_name": "Augur Accord",
+        "drop": [
+            {
+                "link": null,
+                "name": "Recon Commander (0.33%)"
+            }
+        ],
+        "description": "<p>Augur Accord is a set mod available from bounties on the Plains of Eidolon. It increases shield capacity by 180% at max rank, the full set bonus apllied converts 150% of energy spent with abilities into Shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord"
+    },
+	"fr": {
+        "item_name": "Accord de l'Augure",
+        "drop": [
+            {
+                "link": null,
+                "name": "Commandante de reconnaissance"
+            }
+        ],
+        "description": "<p>Augur Accord est un mod disponible à partir des mise a prix sur les Plaines d'Eidolon. Il augmente la capacité de bouclier de 180% au rang max, le set complet appliqué, convertit 150% de l'énergie dépensée avec les capacités en boucliers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord"
+    },
+    "ru": {
+        "item_name": "Авгур Аккорд",
+        "drop": [
+            {
+                "link": null,
+                "name": "Recon Commander (0.33%)"
+            }
+        ],
+        "description": "Варфрейм: +160% емкость щита",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

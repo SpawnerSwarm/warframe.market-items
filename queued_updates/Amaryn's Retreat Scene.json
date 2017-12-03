@@ -1,0 +1,45 @@
+{
+    "_id": "58e6407ada6e257f670cf069",
+    "tags": [
+        "scene"
+    ],
+    "icon": "icons/en/Amaryn's_Retreat_Scene.def87b9d3d721f247fb7ab92be44ba30.png",
+    "thumb": "icons/en/thumbs/Amaryn's_Retreat_Scene.def87b9d3d721f247fb7ab92be44ba30.128x128.png",
+    "icon_format": "land",
+    "url_name": "amaryns_retreat_scene",
+    "tradable": true,
+    "en": {
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "New Loka"
+            }
+        ],
+        "item_name": "Amaryn's Retreat Scene",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura"
+    },
+	"fr": {
+        "description": "<p>Les scènes sont des  outils de capture et d'édition d'images qui permet aux joueurs de manipuler et de composer des scénarios pour les captures d'écran.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Nouveau Loka"
+            }
+        ],
+        "item_name": "Scène de retraite d'Amaryn",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura"
+    },
+    "ru": {
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Новая Лока"
+            }
+        ],
+        "item_name": "Сцена Отступление Амарин",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0"
+    },
+    "trading_tax": 2000
+}
