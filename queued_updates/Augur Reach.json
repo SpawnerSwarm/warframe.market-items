@@ -1,0 +1,48 @@
+{
+    "_id": "59dfeb6c115f1d887cfd7ac2",
+    "tags": [
+        "mod",
+        "augur"
+    ],
+    "icon": "icons/en/Augur_Reach.f7ec6b1dd7f4636d502d4a463883e027.png",
+    "thumb": "icons/en/thumbs/Augur_Reach.f7ec6b1dd7f4636d502d4a463883e027.128x128.png",
+    "icon_format": "port",
+    "url_name": "augur_reach",
+    "tradable": true,
+    "en": {
+        "item_name": "Augur Reach",
+        "drop": [
+            {
+                "link": null,
+                "name": "Recon Commander (0.33%)"
+            }
+        ],
+        "description": "<p>Augur Reach is a set mod available from bounties on the Plains of Eidolon. It increases Ability Range by +30% at max rank , with the full Set Bonus applied the 150% of the Energy spent with the Abilities is converted into Shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Reach"
+    },
+	"fr": {
+        "item_name": "Influence de l'Augure",
+        "drop": [
+            {
+                "link": null,
+                "name": "Commandante de reconnaissance"
+            }
+        ],
+        "description": "<p>Influence de l'Augure mod disponible à partir des mise a prix sur les Plaines d'Eidolon. Il augmente la portée des pouvoir de +30% au rang maximum, avec le bonus de set complet appliqué, les 150% de l'Energie dépensée avec les Capacités sont convertis en Boucliers..</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Reach"
+    },
+    "ru": {
+        "item_name": "Авгур Охват",
+        "drop": [
+            {
+                "link": null,
+                "name": "Recon Commander (0.33%)"
+            }
+        ],
+        "description": "Варфрейм: +30% зоны действия способности.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Reach"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

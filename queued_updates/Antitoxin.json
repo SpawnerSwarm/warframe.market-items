@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e51563b",
+    "tags": [
+        "mod",
+        "warframe",
+        "uncommon"
+    ],
+    "icon": "icons/en/Antitoxin.a03872dae3e9b75b7f278d6f9007816c.png",
+    "thumb": "icons/en/thumbs/Antitoxin.a03872dae3e9b75b7f278d6f9007816c.128x128.png",
+    "icon_format": "port",
+    "url_name": "antitoxin",
+    "tradable": true,
+    "en": {
+        "item_name": "Antitoxin",
+        "drop": [
+            {
+                "link": null,
+                "name": "CorpusFusion MOA"
+            },
+            {
+                "link": null,
+                "name": "Tier 2Survival Reward"
+            },
+            {
+                "link": null,
+                "name": "Tier 1Excavation reward"
+            },
+            {
+                "link": null,
+                "name": "Orokin Void Container"
+            }
+        ],
+        "description": "<p>Antitoxin increases the Toxin resistance of a Warframe's health.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Antitoxin_(Mod)"
+    },
+	"fr": {
+        "item_name": "Antitoxine",
+        "drop": [
+            {
+                "link": null,
+                "name": "MOA Fusion"
+            },
+            {
+                "link": null,
+                "name": "Transmuter"
+            },
+            {
+                "link": null,
+                "name": "Excavation Tier 1/Survie Tier 2"
+            },
+            {
+                "link": null,
+                "name": "Conteneur du néant"
+            }
+        ],
+        "description": "<p>Antitoxine augmente la résistance aux dégâts de Poison des Warframes..</p>",
+        "icon": "https://vignette.wikia.nocookie.net/warframe/images/b/b4/Antitoxine.png/revision/latest?cb=20170226162143&path-prefix=fr",
+		"wiki_link": "http://fr.warframe.wikia.com/wiki/Antitoxine"
+    },
+    "ru": {
+        "icon": "icons/ru/Antitoxin.72252cc58215e6041361b7a5b67887cf.png",
+        "description": "<p>Антитоксин — необычный мод для варфреймов, который увеличивает сопротивление  токсичному урону.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "CorpusFusion MOA"
+            },
+            {
+                "link": null,
+                "name": "Tier 2Survival Reward"
+            },
+            {
+                "link": null,
+                "name": "Tier 1Excavation reward"
+            },
+            {
+                "link": null,
+                "name": "Orokin Void Container"
+            }
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BD_(%D0%BC%D0%BE%D0%B4)",
+        "thumb": "icons/ru/thumbs/Antitoxin.72252cc58215e6041361b7a5b67887cf.128x128.png",
+        "item_name": "Антитоксин (мод)"
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

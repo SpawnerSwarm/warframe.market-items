@@ -1,0 +1,64 @@
+{
+    "_id": "54e644ffe779897594fa68cf",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Antimatter_Absorb.1402d671df9b6f5ae2504d6abec4d4fd.png",
+    "thumb": "icons/en/thumbs/Antimatter_Absorb.1402d671df9b6f5ae2504d6abec4d4fd.128x128.png",
+    "icon_format": "port",
+    "url_name": "antimatter_absorb",
+    "tradable": true,
+    "en": {
+        "item_name": "Antimatter Absorb",
+        "drop": [
+            {
+                "link": null,
+                "name": "Steel Meridian"
+            },
+            {
+                "link": null,
+                "name": "Cephalon Suda"
+            }
+        ],
+        "description": "<p>Antimatter Absorb is a Warframe Augment Mod for Nova's Antimatter Drop that gives it an Absorb field to absorb incoming enemy gunfire, adding to its total damage potential.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Antimatter_Absorb"
+    },
+	"fr": {
+        "item_name": "Absorption d'Antimatière",
+        "drop": [
+            {
+                "link": null,
+                "name": "Méridien d'Acier"
+            },
+            {
+                "link": null,
+                "name": "Céphalon Suda"
+            }
+        ],
+        "description": "<p>Absorption d'Antimatière est un Mods d'Augmentation de Warframes pour la capacité Lâché d'Antimatière de Nova qui permet d'absorber les dégâts des armes à feu ennemis et de les additionner à ses propres dégâts lors de l'explosion finale.</p>",
+        "icon": "https://vignette.wikia.nocookie.net/warframe/images/9/93/Absorption_d%27Antimati%C3%A8re.png/revision/latest?cb=20170226001907&path-prefix=fr",
+		"wiki_link": "http://fr.warframe.wikia.com/wiki/Absorption_d%27Antimati%C3%A8re"
+    },
+    "ru": {
+        "icon": "icons/ru/Antimatter_Absorb.6fb2ab18e1846fe4f57616c50803c58a.png",
+        "description": "<p>Поглощающее Антивещество — мод-аугмент для варфрейма Нова и Нова Прайм, улучшающий ее способность Сброс Антивещества. Выпущенная сфера поглощает пули врагов в определенном радиусе, увеличивая урон при взрыве.</p>",
+        "drop": [
+            {
+                "link": null,
+                "name": "Steel Meridian"
+            },
+            {
+                "link": null,
+                "name": "Cephalon Suda"
+            }
+        ],
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
+        "thumb": "icons/ru/thumbs/Antimatter_Absorb.6fb2ab18e1846fe4f57616c50803c58a.128x128.png",
+        "item_name": "Поглощающее антивещество"
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}
