@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Meteor_Munitions",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Meteor_Munitions.9de7a87c15be5e1a44bc8f6dc333cd77.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

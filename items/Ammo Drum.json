@@ -16,44 +16,44 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Drum",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusMOA"
+                "name": "CorpusMOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDenial Bursa"
+                "name": "CorpusDenial Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDrover Bursa"
+                "name": "CorpusDrover Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusIsolator Bursa"
+                "name": "CorpusIsolator Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Power Carrier"
+                "name": "GrineerHellion Power Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey Carrier"
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -65,44 +65,44 @@
         "thumb": "icons/ru/thumbs/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusMOA"
+                "name": "CorpusMOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDenial Bursa"
+                "name": "CorpusDenial Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDrover Bursa"
+                "name": "CorpusDrover Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusIsolator Bursa"
+                "name": "CorpusIsolator Bursa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Power Carrier"
+                "name": "GrineerHellion Power Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey Carrier"
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Radiant_Finish",
         "drop": [
             {
-                "link": null,
-                "name": "Steel MeridianArbiters of Hexis"
+                "name": "Steel MeridianArbiters of Hexis",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Radiant_Finish.679a18cfd9fa20649f4fed116e690983.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel MeridianArbiters of Hexis"
+                "name": "Steel MeridianArbiters of Hexis",
+                "link": null
             }
         ]
     },

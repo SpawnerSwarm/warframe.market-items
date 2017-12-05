@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Pyroclastic_Flow.8ab2a7e9c970d93cbabac8e879a10914.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Стальной Меридиан"
+                "name": "Стальной Меридиан",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Цефалон Суда"
+                "name": "Цефалон Суда",
+                "link": null
             }
         ]
     },

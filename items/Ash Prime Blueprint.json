@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith S3 Uncommon"
+                "name": "Lith S3 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C1 Uncommon"
+                "name": "Meso C1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith S3 Uncommon"
+                "name": "Lith S3 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C1 Uncommon"
+                "name": "Meso C1 Uncommon",
+                "link": null
             }
         ]
     },

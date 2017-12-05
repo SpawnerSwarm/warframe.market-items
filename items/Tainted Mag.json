@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tainted_Mag",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Tainted_Mag.2062b1b81473fcb525e66cee6129b117.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Eroding_Blight",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Eroding_Blight.b25d6f539c4dde34b15be327fc2c7bc0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },

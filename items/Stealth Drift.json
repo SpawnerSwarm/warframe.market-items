@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stealth_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Stealth_Drift.a685a9dfd0d5a24d382354c25dd21368.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },

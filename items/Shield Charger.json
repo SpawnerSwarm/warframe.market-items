@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shield_Charger",
         "drop": [
             {
-                "link": null,
-                "name": "Auditor"
+                "name": "Auditor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Azoth"
+                "name": "Azoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jad Teran"
+                "name": "Jad Teran",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor RX"
+                "name": "Raptor RX",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Auditor"
+                "name": "Auditor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Azoth"
+                "name": "Azoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jad Teran"
+                "name": "Jad Teran",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor RX"
+                "name": "Raptor RX",
+                "link": null
             }
         ]
     },

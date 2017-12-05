@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Air_Recon",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Battalyst"
+                "name": "Battalyst",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Air_Recon.533b818ff66d01bf0cf7a045e94043d1.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Battalyst"
+                "name": "Battalyst",
+                "link": null
             }
         ]
     },

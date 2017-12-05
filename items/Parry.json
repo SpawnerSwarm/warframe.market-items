@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Parry",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Parry.e8a9f4cd6d00891e8a4ce983517613ad.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

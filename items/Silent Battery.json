@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Silent_Battery",
         "drop": [
             {
-                "link": null,
-                "name": "Executioner Dhurnam"
+                "name": "Executioner Dhurnam",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Silent_Battery.415413cc99112bf59e165c8a379a8f7b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Executioner Dhurnam"
+                "name": "Executioner Dhurnam",
+                "link": null
             }
         ]
     },

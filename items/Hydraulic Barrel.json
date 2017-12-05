@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Barrel",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Hydraulic_Barrel.4c71172863cdc481524c761c4c03bc2f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

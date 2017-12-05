@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vasto_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith A1 Common"
+                "name": "Lith A1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso V2 Common"
+                "name": "Meso V2 Common",
+                "link": null
             }
         ],
         "codex": "This elegant rapid-fire revolver is the embodiment of superior Orokin craftsmanship."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith A1 Common"
+                "name": "Lith A1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso V2 Common"
+                "name": "Meso V2 Common",
+                "link": null
             }
         ]
     },

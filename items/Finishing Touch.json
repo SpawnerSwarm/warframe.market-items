@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Finishing_Touch",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer"
+                "name": "Corrupted Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Finishing_Touch.25db53081243adc0d91522cb74fd6aa0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer"
+                "name": "Corrupted Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },

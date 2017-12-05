@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vile_Precision",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Vile_Precision.bb07880f239ceda3f354a64e8ff6e0bd.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

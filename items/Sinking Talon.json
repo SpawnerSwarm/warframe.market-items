@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sinking_Talon",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             }
         ]
     },

@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spira_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo S3 Rare"
+                "name": "Neo S3 Rare",
+                "link": null
             }
         ],
         "codex": "These rare, braided throwing daggers were a favorite tool of high ranking Orokin assassins."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo S3 Rare"
+                "name": "Neo S3 Rare",
+                "link": null
             }
         ]
     },

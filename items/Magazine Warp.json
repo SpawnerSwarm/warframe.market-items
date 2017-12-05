@@ -16,48 +16,48 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Warp",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jordas Golem"
+                "name": "Jordas Golem",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Sergeant"
+                "name": "The Sergeant",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusLeech Osprey"
+                "name": "CorpusLeech Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSapping Osprey"
+                "name": "CorpusSapping Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerCommander"
+                "name": "GrineerCommander",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Heavy Gunner"
+                "name": "GrineerArid Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHeavy Gunner"
+                "name": "GrineerHeavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Warden"
+                "name": "Grineer Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Warden"
+                "name": "Corrupted Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -69,48 +69,48 @@
         "thumb": "icons/ru/thumbs/Magazine_Warp.9e56362bf1204e44a878a0da5483ca56.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jordas Golem"
+                "name": "Jordas Golem",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Sergeant"
+                "name": "The Sergeant",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusLeech Osprey"
+                "name": "CorpusLeech Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSapping Osprey"
+                "name": "CorpusSapping Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerCommander"
+                "name": "GrineerCommander",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Heavy Gunner"
+                "name": "GrineerArid Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHeavy Gunner"
+                "name": "GrineerHeavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Warden"
+                "name": "Grineer Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Warden"
+                "name": "Corrupted Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

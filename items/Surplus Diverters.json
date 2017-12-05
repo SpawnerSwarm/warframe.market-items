@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Surplus_Diverters.03c7791e722ea417d1c34298f07f2bba.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

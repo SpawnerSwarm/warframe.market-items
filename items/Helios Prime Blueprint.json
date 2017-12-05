@@ -24,16 +24,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith V4 Uncommon"
+                "name": "Lith V4 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C3 Uncommon"
+                "name": "Meso C3 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith N2 Uncommon"
+                "name": "Lith N2 Uncommon",
+                "link": null
             }
         ],
         "codex": "This knowledge hungry protector defends its master with Deconstructor Prime."
@@ -46,16 +46,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith V4 Uncommon"
+                "name": "Lith V4 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C3 Uncommon"
+                "name": "Meso C3 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith N2 Uncommon"
+                "name": "Lith N2 Uncommon",
+                "link": null
             }
         ]
     },

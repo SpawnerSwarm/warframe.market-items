@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Buzz_Kill",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Gate Crash reward"
+                "name": "Operation: Gate Crash reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tactical Alert Emergency Exit"
+                "name": "Tactical Alert Emergency Exit",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Buzz_Kill.e059490d01d11b022d6a433ce69c2aa9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Gate Crash reward"
+                "name": "Operation: Gate Crash reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tactical Alert Emergency Exit"
+                "name": "Tactical Alert Emergency Exit",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

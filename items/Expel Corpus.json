@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Expel_Corpus",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Expel_Corpus.c512177b80b5cae68e3c1fa37543ad8a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

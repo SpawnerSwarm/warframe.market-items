@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spoiled_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Spoiled_Strike.75759304262a39dcf98b4a875d1581c5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

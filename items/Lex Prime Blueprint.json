@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lex_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso D1 Common"
+                "name": "Meso D1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N2 Common"
+                "name": "Neo N2 Common",
+                "link": null
             }
         ],
         "codex": "The Lex Prime is a powerful, accurate pistol that has a low fire rate and clip size. Very efficient at long range."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso D1 Common"
+                "name": "Meso D1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N2 Common"
+                "name": "Neo N2 Common",
+                "link": null
             }
         ]
     },

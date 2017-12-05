@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Serrated_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Serrated_Rounds.32898dc497ccae13862af2c7e8a20aba.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

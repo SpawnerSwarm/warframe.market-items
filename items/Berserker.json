@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Berserker.28d67e50acf910f0e2619fc68688797f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ]
     },

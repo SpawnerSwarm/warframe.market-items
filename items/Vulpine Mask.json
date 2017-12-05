@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vulpine_Mask",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Destreza Finesse Bundle"
+                "name": "Destreza Finesse Bundle",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusComba"
+                "name": "CorpusComba",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScrambus"
+                "name": "CorpusScrambus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDatalyst"
+                "name": "CorpusDatalyst",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Vulpine_Mask.d0cef907e6bd583eaee685aededdb885.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Destreza Finesse Bundle"
+                "name": "Destreza Finesse Bundle",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusComba"
+                "name": "CorpusComba",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScrambus"
+                "name": "CorpusScrambus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDatalyst"
+                "name": "CorpusDatalyst",
+                "link": null
             }
         ]
     },

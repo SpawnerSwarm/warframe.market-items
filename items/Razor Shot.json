@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             }
         ]
     },

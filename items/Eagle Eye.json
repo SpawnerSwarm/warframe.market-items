@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Eagle_Eye",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCrawler"
+                "name": "InfestedCrawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Eagle_Eye.1f5010e386430d8d3131655bb1365c91.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCrawler"
+                "name": "InfestedCrawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

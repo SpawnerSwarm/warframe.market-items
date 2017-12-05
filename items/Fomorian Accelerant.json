@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fomorian_Accelerant",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Fomorian_Accelerant.fb204b57365f35992f679e56c1de6d0a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

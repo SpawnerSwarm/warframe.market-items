@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Swift_Deth",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Swift_Deth.49e78b85f5d81bd596d119d32f25d3e6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

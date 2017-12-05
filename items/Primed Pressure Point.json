@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Pressure_Point",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Primed_Pressure_Point.5b809def7749dbe3e8e593e19a2eab26.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

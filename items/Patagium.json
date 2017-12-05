@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Patagium",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Trooper"
+                "name": "Drekar Trooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Sealab Sabotage Resource Caches"
+                "name": "Grineer Sealab Sabotage Resource Caches",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Patagium.a5c990e863fc82a7310b08fa3871543c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Trooper"
+                "name": "Drekar Trooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Sealab Sabotage Resource Caches"
+                "name": "Grineer Sealab Sabotage Resource Caches",
+                "link": null
             }
         ]
     },

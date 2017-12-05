@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Undying_Will",
         "drop": [
             {
-                "link": null,
-                "name": "Referral Program"
+                "name": "Referral Program",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Undying_Will.a7d629ab2b58f837a2996462dbeaedda.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Referral Program"
+                "name": "Referral Program",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             }
         ]
     },

@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fluctus",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "codex": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ]
     },

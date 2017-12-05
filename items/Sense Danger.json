@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sense_Danger",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sense_Danger.60bd0efa8bfc58ac1cc369140b317e4b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Depleted_Reload",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Depleted_Reload.64d2763161d533220adeed4a61e298bc.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

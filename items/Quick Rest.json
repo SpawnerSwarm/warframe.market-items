@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Quick_Rest",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Quick_Rest.203e609ccf0af9c05c2b0fd1333c9a93.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

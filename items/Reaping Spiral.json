@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Power Carrier"
+                "name": "GrineerHellion Power Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey Carrier"
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Power Carrier"
+                "name": "GrineerHellion Power Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey Carrier"
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
             }
         ]
     },

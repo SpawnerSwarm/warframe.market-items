@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cleanse_Grineer",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusTech"
+                "name": "CorpusTech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Cleanse_Grineer.173fc93661fbe35151e9329b11b77a0f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusTech"
+                "name": "CorpusTech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             }
         ]
     },

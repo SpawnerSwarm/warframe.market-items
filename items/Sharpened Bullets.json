@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sharpened_Bullets",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Violence"
+                "name": "Violence",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Sharpened_Bullets.eecb92dff6320157ad1606823478a267.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Violence"
+                "name": "Violence",
+                "link": null
             }
         ]
     },

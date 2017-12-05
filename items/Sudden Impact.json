@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sudden_Impact",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerZeplen"
+                "name": "GrineerZeplen",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Sudden_Impact.c5270a1e82f017c23f2ba72369a0e544.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerZeplen"
+                "name": "GrineerZeplen",
+                "link": null
             }
         ]
     },

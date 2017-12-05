@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sure_Footed",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Battle Rewards"
+                "name": "Conclave Battle Rewards",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Sure_Footed.cc02dc6cac81d62db3139afe31dbbdd7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Battle Rewards"
+                "name": "Conclave Battle Rewards",
+                "link": null
             }
         ]
     },

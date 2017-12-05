@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Thundermiter",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Thundermiter_(Miter).8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

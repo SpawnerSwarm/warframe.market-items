@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Drifting_Contact",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Drifting_Contact.e2931a6a4e1a93417f0deb2f8518c8ad.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

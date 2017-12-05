@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Anemic_Agility",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Anemic_Agility.51aa6d54f226d3eca1dd5b674ded8677.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

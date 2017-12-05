@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rift_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rift_Strike.cf21817cd37dab58055535442d37ec80.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sniper_Scavenger",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sniper_Scavenger.8b13d12aec692e7fc8e91d3b8262984f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

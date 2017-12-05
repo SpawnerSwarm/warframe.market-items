@@ -16,36 +16,36 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Iron_Phoenix",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerHellion (0.015%)"
+                "name": "GrineerHellion (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerLancer (0.015%)"
+                "name": "GrineerLancer (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Hellion (0.015%)"
+                "name": "GrineerArid Hellion (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Lancer (0.015%)"
+                "name": "GrineerArid Lancer (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Hellion (0.015%)"
+                "name": "GrineerFrontier Hellion (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Lancer (0.015%)"
+                "name": "GrineerFrontier Lancer (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Heavy Gunner (0.015%)"
+                "name": "GrineerFrontier Heavy Gunner (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Scorpion (0.015%)"
+                "name": "GrineerDrekar Scorpion (0.015%)",
+                "link": null
             }
         ]
     },
@@ -57,36 +57,36 @@
         "thumb": "icons/ru/thumbs/Iron_Phoenix.8bccd50afa6ad9d76285287846a9b39b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerHellion (0.015%)"
+                "name": "GrineerHellion (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerLancer (0.015%)"
+                "name": "GrineerLancer (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Hellion (0.015%)"
+                "name": "GrineerArid Hellion (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Lancer (0.015%)"
+                "name": "GrineerArid Lancer (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Hellion (0.015%)"
+                "name": "GrineerFrontier Hellion (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Lancer (0.015%)"
+                "name": "GrineerFrontier Lancer (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Heavy Gunner (0.015%)"
+                "name": "GrineerFrontier Heavy Gunner (0.015%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Scorpion (0.015%)"
+                "name": "GrineerDrekar Scorpion (0.015%)",
+                "link": null
             }
         ]
     },

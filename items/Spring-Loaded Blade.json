@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade",
         "drop": [
             {
-                "link": null,
-                "name": "Incursions 1.01% (Rot B)"
+                "name": "Incursions 1.01% (Rot B)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Spring-Loaded_Blade.8d625609f0b628d31fb3cf1777bb22fd.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Налет 1.01% (Ротация B)"
+                "name": "Налет 1.01% (Ротация B)",
+                "link": null
             }
         ]
     },

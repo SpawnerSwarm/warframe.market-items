@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             }
         ]
     },

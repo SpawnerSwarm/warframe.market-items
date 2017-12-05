@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Narrow_Barrel",
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },

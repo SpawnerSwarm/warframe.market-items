@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Madurai_Transmute_Core",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Simaris"
+                "name": "Cephalon Simaris",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Madurai_Transmute_Core.8f4227abcb6607935fb63c9905c96473.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Simaris"
+                "name": "Cephalon Simaris",
+                "link": null
             }
         ]
     },

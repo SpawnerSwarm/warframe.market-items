@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Toxic_Blight",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Toxic_Blight.9ef51fd489fe22fbe5b60e220e651400.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },

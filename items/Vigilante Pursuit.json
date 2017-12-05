@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (30-50 )"
+                "name": "Bounty (30-50 )",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Plains Commander (0.33%)"
+                "name": "Plains Commander (0.33%)",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (30-50 )"
+                "name": "Bounty (30-50 )",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Plains Commander (0.33%)"
+                "name": "Plains Commander (0.33%)",
+                "link": null
             }
         ]
     },

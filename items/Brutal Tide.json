@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Brutal_Tide",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedArcane Boiler"
+                "name": "InfestedArcane Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Brutal_Tide.6c231e794938ee5e8b301919b2abed64.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedArcane Boiler"
+                "name": "InfestedArcane Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             }
         ]
     },

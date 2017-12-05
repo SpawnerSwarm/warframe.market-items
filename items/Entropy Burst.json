@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Burst",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Entropy_Burst.8f1c3427f52de14dd0fd63c554bf27fe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },

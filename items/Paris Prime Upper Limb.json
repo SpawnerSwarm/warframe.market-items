@@ -26,24 +26,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Paris_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Common"
+                "name": "Lith F2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith V1 Common"
+                "name": "Lith V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S1 Uncommon"
+                "name": "Meso S1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Uncommon"
+                "name": "Neo S2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Common"
+                "name": "Axi N3 Common",
+                "link": null
             }
         ],
         "codex": "Discovered deep inside an ancient Orokin derelict the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart."
@@ -56,24 +56,24 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Common"
+                "name": "Lith F2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith V1 Common"
+                "name": "Lith V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S1 Uncommon"
+                "name": "Meso S1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Uncommon"
+                "name": "Neo S2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Common"
+                "name": "Axi N3 Common",
+                "link": null
             }
         ]
     },

@@ -25,8 +25,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nova/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo N2 Uncommon"
+                "name": "Neo N2 Uncommon",
+                "link": null
             }
         ],
         "codex": "Nova Prime wreaks devastation on her enemies using volatile anti-matter. Featuring altered mod polarities for greater customization."
@@ -39,8 +39,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo N2 Uncommon"
+                "name": "Neo N2 Uncommon",
+                "link": null
             }
         ]
     },

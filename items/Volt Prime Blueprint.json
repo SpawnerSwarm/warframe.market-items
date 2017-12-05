@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Volt/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo V1 Uncommon"
+                "name": "Neo V1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Uncommon"
+                "name": "Axi N3 Uncommon",
+                "link": null
             }
         ],
         "codex": "A glorious warrior from the past, Volt Prime features the same abilities as Volt, but with unique mod polarities for greater customization."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo V1 Uncommon"
+                "name": "Neo V1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Uncommon"
+                "name": "Axi N3 Uncommon",
+                "link": null
             }
         ]
     },

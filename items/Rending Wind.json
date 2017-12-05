@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rending_Wind",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rending_Wind.cb912de83e69c057385d4d5146d72d04.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

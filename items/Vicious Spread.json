@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vicious_Spread",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Vicious_Spread.2c6103075cf772b7970f674be614dc43.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

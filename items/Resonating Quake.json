@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Resonating_Quake",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },

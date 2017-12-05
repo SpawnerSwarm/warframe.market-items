@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sure_Shot",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Sure_Shot.1a77821f0b863719bf103a66eeca901f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

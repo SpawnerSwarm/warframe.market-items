@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rending_Turn",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar EvisceratorSabotage Uranus"
+                "name": "Drekar EvisceratorSabotage Uranus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rending_Turn.e590f5224ef065a195fc7d39050dfa2f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar EvisceratorSabotage Uranus"
+                "name": "Drekar EvisceratorSabotage Uranus",
+                "link": null
             }
         ]
     },

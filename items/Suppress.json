@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Suppress",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Suppress.ee43e328e4e8a32cf033716288d97ae3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Searing_Steel",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Eyes of Blight Reward"
+                "name": "Operation Eyes of Blight Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Searing_Steel.30003eecf38a8ff6f46e7ccaa51723e6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Eyes of Blight Reward"
+                "name": "Operation Eyes of Blight Reward",
+                "link": null
             }
         ]
     },

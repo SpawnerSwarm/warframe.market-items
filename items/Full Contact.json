@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Full_Contact",
         "drop": [
             {
-                "link": null,
-                "name": "Operation False Profit reward"
+                "name": "Operation False Profit reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Full_Contact.f75ce1da1f6a9bec437de97df6ca6702.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation False Profit reward"
+                "name": "Operation False Profit reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

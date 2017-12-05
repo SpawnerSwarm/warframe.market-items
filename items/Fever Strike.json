@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fever_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache Reward"
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Fever_Strike.01da5e3f807620f1aad062c66197dc1f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache Reward"
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
             }
         ]
     },

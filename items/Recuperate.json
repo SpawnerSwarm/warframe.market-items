@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Recuperate",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

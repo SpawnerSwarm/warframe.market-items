@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fleeting_Expertise",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Fleeting_Expertise.41a95d2d8378098a29b980cc830cff92.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

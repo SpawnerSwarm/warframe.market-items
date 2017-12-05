@@ -25,16 +25,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Odonata/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Common"
+                "name": "Lith F2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N3 Common"
+                "name": "Neo N3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V1 Common"
+                "name": "Axi V1 Common",
+                "link": null
             }
         ],
         "codex": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits."
@@ -47,16 +47,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Common"
+                "name": "Lith F2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N3 Common"
+                "name": "Neo N3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V1 Common"
+                "name": "Axi V1 Common",
+                "link": null
             }
         ]
     },

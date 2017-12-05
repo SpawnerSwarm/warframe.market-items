@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Imperator_Vandal",
         "drop": [
             {
-                "link": null,
-                "name": "Fomorian Sabotage"
+                "name": "Fomorian Sabotage",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ],
         "codex": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Fomorian Sabotage"
+                "name": "Fomorian Sabotage",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

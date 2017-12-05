@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },

@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shell_Compression",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Warden"
+                "name": "Corrupted Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerCommander"
+                "name": "GrineerCommander",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDesert Heavy Gunner"
+                "name": "GrineerDesert Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHeavy Gunner"
+                "name": "GrineerHeavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Warden"
+                "name": "Grineer Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Shell_Compression.f896831925bb7838ca5c6feb6ece6cf5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Warden"
+                "name": "Corrupted Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerCommander"
+                "name": "GrineerCommander",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDesert Heavy Gunner"
+                "name": "GrineerDesert Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHeavy Gunner"
+                "name": "GrineerHeavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Warden"
+                "name": "Grineer Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

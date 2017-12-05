@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Step",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Heavy GunnerSabotage Uranus"
+                "name": "Drekar Heavy GunnerSabotage Uranus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Piercing_Step.d3d1cb9c83ef8bf302c3eb961d1b1ec8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Heavy GunnerSabotage Uranus"
+                "name": "Drekar Heavy GunnerSabotage Uranus",
+                "link": null
             }
         ]
     },

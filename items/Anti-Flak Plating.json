@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Anti-Flak_Plating",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Anti-Flak_Plating.661dcccbb7e3f632bedc63af7277a14b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

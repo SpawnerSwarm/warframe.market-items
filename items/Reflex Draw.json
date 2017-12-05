@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Reflex_Draw",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Reflex_Draw.c70e38f8fc7b7701f093eba49b94de5b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },

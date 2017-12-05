@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rapid_Resilience",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rapid_Resilience.da58906132a6fa05a16c2798f80f7fa4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             }
         ]
     },

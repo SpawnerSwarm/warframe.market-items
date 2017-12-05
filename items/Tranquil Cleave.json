@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tranquil_Cleave",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher (0.03%)"
+                "name": "GrineerArid Butcher (0.03%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher (0.03%)"
+                "name": "GrineerFrontier Butcher (0.03%)",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Tranquil_Cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher (0.03%)"
+                "name": "GrineerArid Butcher (0.03%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher (0.03%)"
+                "name": "GrineerFrontier Butcher (0.03%)",
+                "link": null
             }
         ]
     },

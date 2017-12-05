@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Mobilize",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Lancer"
+                "name": "Drekar Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Drekar Elite Lancer"
+                "name": "Drekar Elite Lancer",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Mobilize.708f34760ae47fd7ce65748a29145f34.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Lancer"
+                "name": "Drekar Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Drekar Elite Lancer"
+                "name": "Drekar Elite Lancer",
+                "link": null
             }
         ]
     },

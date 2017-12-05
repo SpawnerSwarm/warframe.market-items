@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash",
         "drop": [
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "KeplerPhobos Rush Reward"
+                "name": "KeplerPhobos Rush Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Mobile Defense Reward"
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Astral_Slash.268ef35fb41a3d9f236ff88f2ac99bdc.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "KeplerPhobos Rush Reward"
+                "name": "KeplerPhobos Rush Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Mobile Defense Reward"
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
             }
         ]
     },

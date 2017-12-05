@@ -22,8 +22,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Xiphos",
         "drop": [
             {
-                "link": null,
-                "name": "Landing Craft"
+                "name": "Landing Craft",
+                "link": null
             }
         ]
     },
@@ -35,8 +35,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Landing Craft"
+                "name": "Landing Craft",
+                "link": null
             }
         ]
     },

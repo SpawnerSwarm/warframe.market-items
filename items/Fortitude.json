@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fortitude",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Fortitude.1f20eddf3f0ae111c5af921b0776b95d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },

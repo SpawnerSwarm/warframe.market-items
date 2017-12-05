@@ -26,24 +26,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Paris_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith S1 Common"
+                "name": "Lith S1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith S3 Common"
+                "name": "Lith S3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S2 Common"
+                "name": "Meso S2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N3 Common"
+                "name": "Neo N3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V3 Common"
+                "name": "Neo V3 Common",
+                "link": null
             }
         ],
         "codex": "Discovered deep inside an ancient Orokin derelict the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart."
@@ -56,24 +56,24 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith S1 Common"
+                "name": "Lith S1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith S3 Common"
+                "name": "Lith S3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S2 Common"
+                "name": "Meso S2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N3 Common"
+                "name": "Neo N3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V3 Common"
+                "name": "Neo V3 Common",
+                "link": null
             }
         ]
     },

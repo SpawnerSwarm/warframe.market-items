@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Furor",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCarrier (Enemy)"
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusCorvette"
+                "name": "CorpusCorvette",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusGox"
+                "name": "CorpusGox",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield Dargyn"
+                "name": "GrineerShield Dargyn",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Furor.17d27be65ae6de92c9fe58c96559cdbb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCarrier (Enemy)"
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusCorvette"
+                "name": "CorpusCorvette",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusGox"
+                "name": "CorpusGox",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield Dargyn"
+                "name": "GrineerShield Dargyn",
+                "link": null
             }
         ]
     },

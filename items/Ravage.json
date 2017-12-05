@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ravage",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sector Rewards Rotation B"
+                "name": "Dark Sector Rewards Rotation B",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Ravage.31fa4675ccf772b1ea7ac01302c4dbd2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sector Rewards Rotation B"
+                "name": "Dark Sector Rewards Rotation B",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Harkonar_Scope",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Harkonar_Scope.ecfc559b91d9fb19c1fb3014a803c68a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

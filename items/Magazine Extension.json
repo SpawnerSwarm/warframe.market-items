@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Extension",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAttack Drone"
+                "name": "CorpusAttack Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDargyn"
+                "name": "GrineerDargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerZeplen"
+                "name": "GrineerZeplen",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Magazine_Extension.85ccb2920566de6c59b5e05af0d492d9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAttack Drone"
+                "name": "CorpusAttack Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDargyn"
+                "name": "GrineerDargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerZeplen"
+                "name": "GrineerZeplen",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Scattered_Justice",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Scattered_Justice.952071bd3461743095391ef3c4ed5f81.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },

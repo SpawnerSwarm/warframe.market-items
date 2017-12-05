@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rime_Vault",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

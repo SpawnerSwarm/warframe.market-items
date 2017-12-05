@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Body_Count",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Body_Count.e9af37df6d017de652805b7a9ae1f8b1.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },

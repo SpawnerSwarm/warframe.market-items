@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Soft_Hands",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Soft_Hands.74e9711f8c83f3ad66b728291e242797.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },

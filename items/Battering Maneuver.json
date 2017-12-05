@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Battering_Maneuver",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Seeker"
+                "name": "Drekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sealab Sabotage Resource Cache"
+                "name": "Sealab Sabotage Resource Cache",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Battering_Maneuver.674180ef3d3817c69ecffaf7ee1a3177.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Seeker"
+                "name": "Drekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sealab Sabotage Resource Cache"
+                "name": "Sealab Sabotage Resource Cache",
+                "link": null
             }
         ]
     },

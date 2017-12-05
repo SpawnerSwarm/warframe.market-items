@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vengeful_Revenant",
         "drop": [
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Rathuum - Mission 3 (0.25%)"
+                "name": "Rathuum - Mission 3 (0.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Vengeful_Revenant.789ed1f1ca6de45972142dd6aba53f2b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Rathuum - Mission 3 (0.25%)"
+                "name": "Rathuum - Mission 3 (0.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ]
     },

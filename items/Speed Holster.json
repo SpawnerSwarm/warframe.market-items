@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Speed_Holster",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Speed_Holster.113cab4f88073684d9543f741245dabb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

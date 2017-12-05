@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Loyal_Companion",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Loyal_Companion.c0782d141bf622e39eb93ccd5a1e929a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },

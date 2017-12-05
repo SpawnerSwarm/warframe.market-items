@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sniper_Ammo_Mutation",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Sling-Stone"
+                "name": "Operation Sling-Stone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival (Rotation C)"
+                "name": "Survival (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation (Rotation C)"
+                "name": "Excavation (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0"
+                "name": "Spy 2.0",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Sniper_Ammo_Mutation.f9b9e173067f3bb178a9ea748e74d95a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Sling-Stone"
+                "name": "Operation Sling-Stone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival (Rotation C)"
+                "name": "Survival (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation (Rotation C)"
+                "name": "Excavation (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0"
+                "name": "Spy 2.0",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Seeker_(Mod)",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Swarm-Mutalist MOA"
+                "name": "Swarm-Mutalist MOA",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Seeker.faf9cfb1043bc865cd349956cdd91e00.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Swarm-Mutalist MOA"
+                "name": "Swarm-Mutalist MOA",
+                "link": null
             }
         ]
     },

@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Expel_Corrupted",
         "drop": [
             {
-                "link": null,
-                "name": "Defection (T1, T2, T3)"
+                "name": "Defection (T1, T2, T3)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Defection (T1, T2, T3)"
+                "name": "Defection (T1, T2, T3)",
+                "link": null
             }
         ]
     },

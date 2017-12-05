@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dead_Eye",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Dead_Eye.d6dd33e7a25305c870ce7a3de4cf8fec.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

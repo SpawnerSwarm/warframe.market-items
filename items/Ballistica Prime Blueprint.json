@@ -25,8 +25,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ballistica_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith B2 Rare"
+                "name": "Lith B2 Rare",
+                "link": null
             }
         ]
     },
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith B2 Rare"
+                "name": "Lith B2 Rare",
+                "link": null
             }
         ]
     },

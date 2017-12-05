@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Crossing_Snakes",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Crossing_Snakes.9ad484202f980ce6eec048dacc067a11.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ]
     },

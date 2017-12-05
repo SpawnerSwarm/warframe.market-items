@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Expel_Infested",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBrood Mother"
+                "name": "InfestedBrood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Expel_Infested.e14f0ec088769c69c80fd64e074f6b2c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBrood Mother"
+                "name": "InfestedBrood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

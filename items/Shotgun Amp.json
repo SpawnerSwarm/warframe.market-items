@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Amp",
         "drop": [
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shotgun_Amp.887daa86ba032c1e99e93c2aefc2374d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },

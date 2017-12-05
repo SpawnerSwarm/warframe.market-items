@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Scavenger",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rifle_Scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

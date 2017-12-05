@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Justice_Blades",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Justice_Blades.8a6c3482b8e0cd8c85c8a5097f3c9784.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },

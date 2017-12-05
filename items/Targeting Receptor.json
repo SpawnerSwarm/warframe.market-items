@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Receptor",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Targeting_Receptor.957b3cf8d9f318b95dda86fb49925381.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

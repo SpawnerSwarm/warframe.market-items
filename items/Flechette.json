@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Flechette",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disrupter"
+                "name": "InfestedAncient Disrupter",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBrood Mother"
+                "name": "InfestedBrood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield Lancer"
+                "name": "GrineerShield Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Flechette.0a374445eb28cee89f69a33a8bdbf41d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disrupter"
+                "name": "InfestedAncient Disrupter",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBrood Mother"
+                "name": "InfestedBrood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield Lancer"
+                "name": "GrineerShield Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

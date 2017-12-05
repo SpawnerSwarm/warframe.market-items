@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "General Sargas Ruk"
+                "name": "General Sargas Ruk",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shattering_Storm.36b740cf7347784bc24d1d445dacffb5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "General Sargas Ruk"
+                "name": "General Sargas Ruk",
+                "link": null
             }
         ]
     },

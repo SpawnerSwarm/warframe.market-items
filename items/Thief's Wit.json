@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Thief's_Wit",
         "drop": [
             {
-                "link": null,
-                "name": "The Sergeant"
+                "name": "The Sergeant",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield Lancer"
+                "name": "GrineerShield Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Sergeant"
+                "name": "The Sergeant",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield Lancer"
+                "name": "GrineerShield Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

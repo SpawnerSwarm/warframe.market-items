@@ -18,28 +18,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Barrel_Diffusion",
         "drop": [
             {
-                "link": null,
-                "name": "The Grustrag Three"
+                "name": "The Grustrag Three",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Interception Wave Reward"
+                "name": "Interception Wave Reward",
+                "link": null
             }
         ]
     },
@@ -51,28 +51,28 @@
         "thumb": "icons/ru/thumbs/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Grustrag Three"
+                "name": "The Grustrag Three",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Interception Wave Reward"
+                "name": "Interception Wave Reward",
+                "link": null
             }
         ]
     },

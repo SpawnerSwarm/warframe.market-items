@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Comet_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

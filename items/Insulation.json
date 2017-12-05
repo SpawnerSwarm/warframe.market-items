@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Insulation",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Insulation.c9f3b55494ec0200626213cdd12d0d97.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

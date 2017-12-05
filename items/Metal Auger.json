@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Metal_Auger",
         "drop": [
             {
-                "link": null,
-                "name": "Mine Osprey"
+                "name": "Mine Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Mutalist Osprey"
+                "name": "Mutalist Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sikula"
+                "name": "Sikula",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Defense Tier 2"
+                "name": "Defense Tier 2",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival Tier 1 Rotation C"
+                "name": "Survival Tier 1 Rotation C",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Metal_Auger.2a022761d87618a596a4d38804f425d0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Mine Osprey"
+                "name": "Mine Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Mutalist Osprey"
+                "name": "Mutalist Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sikula"
+                "name": "Sikula",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Defense Tier 2"
+                "name": "Defense Tier 2",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival Tier 1 Rotation C"
+                "name": "Survival Tier 1 Rotation C",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

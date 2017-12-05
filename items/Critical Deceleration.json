@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Critical_Deceleration",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Critical_Deceleration.28c285fdf2b2a664bf976b1bf2d8d110.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

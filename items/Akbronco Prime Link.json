@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Akbronco_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith N1 Uncommon"
+                "name": "Lith N1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi S1 Uncommon"
+                "name": "Axi S1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets"
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith N1 Uncommon"
+                "name": "Lith N1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi S1 Uncommon"
+                "name": "Axi S1 Uncommon",
+                "link": null
             }
         ]
     },

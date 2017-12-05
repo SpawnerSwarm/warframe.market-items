@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rupture",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Rupture.5290f8991b54823669a470be5c23cea9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             }
         ]
     },

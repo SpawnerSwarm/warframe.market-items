@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Gilded_Truth",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Gilded_Truth.9531cf1d0010c53d4b709d5cb3263906.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },

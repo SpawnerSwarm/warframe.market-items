@@ -1,5 +1,5 @@
 {
-    "_id": "5a0eeb7f243f770045219477",
+    "_id": "5a0ef3fb10bc40007cce1c89",
     "tags": [
         "mod",
         "common"
@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Adrenaline",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Hunter_Adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },

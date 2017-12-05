@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Prize_Kill",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Prize_Kill.ff3ef8afc1691fb44fa37ba72aababf0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Swipe",
         "drop": [
             {
-                "link": null,
-                "name": "Hyekka"
+                "name": "Hyekka",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Swipe.662c25cfe2f9dc4d8736ce92c7052838.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hyekka"
+                "name": "Hyekka",
+                "link": null
             }
         ]
     },

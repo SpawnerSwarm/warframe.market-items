@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Carrier_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso V1 Common"
+                "name": "Meso V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S3 Common"
+                "name": "Neo S3 Common",
+                "link": null
             }
         ],
         "codex": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling"
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso V1 Common"
+                "name": "Meso V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S3 Common"
+                "name": "Neo S3 Common",
+                "link": null
             }
         ]
     },

@@ -25,8 +25,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso D1 Rare"
+                "name": "Meso D1 Rare",
+                "link": null
             }
         ],
         "codex": "The sensual lines of these golden Kamas have long been celebrated as a masterwork of Tenno weapon smithing."
@@ -39,8 +39,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso D1 Rare"
+                "name": "Meso D1 Rare",
+                "link": null
             }
         ]
     },

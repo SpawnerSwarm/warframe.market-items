@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Justice",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shattering_Justice.a37eb70d577eea758df3c927c5187f09.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },

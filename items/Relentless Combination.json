@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination",
         "drop": [
             {
-                "link": null,
-                "name": "Ancient Disruptor"
+                "name": "Ancient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tar-Mutalist MOA"
+                "name": "Tar-Mutalist MOA",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Ancient Disruptor"
+                "name": "Ancient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tar-Mutalist MOA"
+                "name": "Tar-Mutalist MOA",
+                "link": null
             }
         ]
     },

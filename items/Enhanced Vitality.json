@@ -16,36 +16,36 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Enhanced_Vitality",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusLynx Osprey"
+                "name": "CorpusLynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusLynx Turret"
+                "name": "CorpusLynx Turret",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -57,36 +57,36 @@
         "thumb": "icons/ru/thumbs/Enhanced_Vitality.f8daf759c9f8c9b5a220631bf55a68fe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusLynx Osprey"
+                "name": "CorpusLynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusLynx Turret"
+                "name": "CorpusLynx Turret",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

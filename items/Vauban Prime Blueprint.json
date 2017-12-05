@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vauban/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Rare"
+                "name": "Lith F2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V2 Rare"
+                "name": "Neo V2 Rare",
+                "link": null
             }
         ],
         "codex": "Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization"
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Rare"
+                "name": "Lith F2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V2 Rare"
+                "name": "Neo V2 Rare",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Enduring_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Survival Reward"
+                "name": "Dark Sectors Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Excavation Reward"
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Enduring_Strike.2861a466dcb79a2a61278ee8d3f59ed9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Survival Reward"
+                "name": "Dark Sectors Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Excavation Reward"
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
             }
         ]
     },

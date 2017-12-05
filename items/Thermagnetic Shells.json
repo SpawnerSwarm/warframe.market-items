@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Thermagnetic_Shells",
         "drop": [
             {
-                "link": null,
-                "name": "Lockjaw & Sol"
+                "name": "Lockjaw & Sol",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nako Xol"
+                "name": "Nako Xol",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Pelna Cade"
+                "name": "Pelna Cade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ved Xol"
+                "name": "Ved Xol",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Thermagnetic_Shells.28a744bf1dc93a5b9fa3c7b845c6de20.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lockjaw & Sol"
+                "name": "Lockjaw & Sol",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nako Xol"
+                "name": "Nako Xol",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Pelna Cade"
+                "name": "Pelna Cade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ved Xol"
+                "name": "Ved Xol",
+                "link": null
             }
         ]
     },

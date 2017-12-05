@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Trinity/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith K1 Uncommon"
+                "name": "Lith K1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi S1 Uncommon"
+                "name": "Axi S1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith K1 Uncommon"
+                "name": "Lith K1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi S1 Uncommon"
+                "name": "Axi S1 Uncommon",
+                "link": null
             }
         ]
     },

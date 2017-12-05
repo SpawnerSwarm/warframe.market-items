@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Enemy_Radar",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Enemy_Radar.ba312fa12df280a3df014395f158f860.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

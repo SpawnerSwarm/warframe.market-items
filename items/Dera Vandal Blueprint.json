@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dera_Vandal",
         "drop": [
             {
-                "link": null,
-                "name": "Invasions"
+                "name": "Invasions",
+                "link": null
             }
         ],
         "codex": "A customized version of the Dera, featuring a metallic finish and Lotus decal."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Invasions"
+                "name": "Invasions",
+                "link": null
             }
         ]
     },

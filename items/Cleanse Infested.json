@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cleanse_Infested",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Survival Reward"
+                "name": "Tier 3Survival Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Cleanse_Infested.e6e42b83007e582b74336439922410a3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Survival Reward"
+                "name": "Tier 3Survival Reward",
+                "link": null
             }
         ]
     },

@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Disarming_Purity",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Disarming_Purity.7ae5c50f08fb25f8d4bce9ce15e56269.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },

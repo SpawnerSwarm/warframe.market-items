@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ambush_Optics",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Ambush_Optics_(Rubico).68985d4a1292e006c9284c216946b23c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

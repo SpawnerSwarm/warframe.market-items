@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Extend",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAttack Drone"
+                "name": "CorpusAttack Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerLancer Dreg"
+                "name": "GrineerLancer Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerTemporal Dreg"
+                "name": "GrineerTemporal Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Extend.b5a663a5cafdbb83b70d4cba7130972f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAttack Drone"
+                "name": "CorpusAttack Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerLancer Dreg"
+                "name": "GrineerLancer Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerTemporal Dreg"
+                "name": "GrineerTemporal Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             }
         ]
     },

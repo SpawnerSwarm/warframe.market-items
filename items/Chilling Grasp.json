@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Chilling_Grasp",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Chilling_Grasp.b9cb00e2d7abb6091494194dac604e36.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

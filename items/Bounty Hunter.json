@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Bounty_Hunter.2c41f719644b56c2a5ac5dd8e888a42c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

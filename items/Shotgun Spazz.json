@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Spazz",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Shield Osprey"
+                "name": "Shield Osprey",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Shotgun_Spazz.8929473e7ec9dec1ab74fb0dcecac289.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Shield Osprey"
+                "name": "Shield Osprey",
+                "link": null
             }
         ]
     },

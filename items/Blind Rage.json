@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Blind_Rage",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Blind_Rage.75fc70337700cc463e3ee46f142b9e63.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Automatic_Trigger",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCarrier (Enemy)"
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Exterminate Reward"
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Sabotage Reward"
+                "name": "Corpus Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Archwing Interception Reward (Rotation A)"
+                "name": "Grineer Archwing Interception Reward (Rotation A)",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Automatic_Trigger.fc6ec0a0f7135ae964b375d62bc5ba4a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCarrier (Enemy)"
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Exterminate Reward"
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Sabotage Reward"
+                "name": "Corpus Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Archwing Interception Reward (Rotation A)"
+                "name": "Grineer Archwing Interception Reward (Rotation A)",
+                "link": null
             }
         ]
     },

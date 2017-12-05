@@ -26,8 +26,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tigris_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo V3 Uncommon"
+                "name": "Neo V3 Uncommon",
+                "link": null
             }
         ],
         "codex": "An artifact of exquisite beauty. A weapon of deadly purpose."
@@ -40,8 +40,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo V3 Uncommon"
+                "name": "Neo V3 Uncommon",
+                "link": null
             }
         ]
     },

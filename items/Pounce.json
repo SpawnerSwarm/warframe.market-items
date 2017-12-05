@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pounce",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Pounce.e87f3425fffab3a27319469e08ea8855.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },

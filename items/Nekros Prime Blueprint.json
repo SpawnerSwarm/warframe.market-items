@@ -25,8 +25,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nekros/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N3 Rare"
+                "name": "Axi N3 Rare",
+                "link": null
             }
         ],
         "codex": "Death's new master."
@@ -39,8 +39,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi N3 Rare"
+                "name": "Axi N3 Rare",
+                "link": null
             }
         ]
     },

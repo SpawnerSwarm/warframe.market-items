@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Electromagnetic_Shielding",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Electromagnetic_Shielding.d7dc46c491b6a6f62e0801c8447bb318.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

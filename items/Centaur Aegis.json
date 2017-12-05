@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Centaur",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "codex": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Reflection",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Reflection.d49818e78eeaf6114bf32d67b49af410.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

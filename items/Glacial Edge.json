@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Glacial_Edge",
         "drop": [
             {
-                "link": null,
-                "name": "Grineer Dargyn"
+                "name": "Grineer Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Glacial_Edge.3f199f1516d9a22f43515818626c2107.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Grineer Dargyn"
+                "name": "Grineer Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             }
         ]
     },

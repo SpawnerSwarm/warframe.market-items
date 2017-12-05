@@ -24,20 +24,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Phaedra",
         "drop": [
             {
-                "link": null,
-                "name": "Mars"
+                "name": "Mars",
+                "link": null
             },
             {
-                "link": null,
-                "name": ", Syrtis (Exterminate)"
+                "name": ", Syrtis (Exterminate)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "codex": " Devastate free-space enemies with Phaedra, the Soma's big-sister. "
@@ -50,20 +50,20 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Mars"
+                "name": "Mars",
+                "link": null
             },
             {
-                "link": null,
-                "name": ", Syrtis (Exterminate)"
+                "name": ", Syrtis (Exterminate)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ]
     },

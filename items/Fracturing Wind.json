@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fracturing_Wind",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut"
+                "name": "InfestedJuggernaut",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Fracturing_Wind.35754ce4315b6b850de118c65cbacc60.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut"
+                "name": "InfestedJuggernaut",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             }
         ]
     },

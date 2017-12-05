@@ -26,8 +26,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N1 Rare"
+                "name": "Axi N1 Rare",
+                "link": null
             }
         ],
         "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization."
@@ -40,8 +40,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi N1 Rare"
+                "name": "Axi N1 Rare",
+                "link": null
             }
         ]
     },

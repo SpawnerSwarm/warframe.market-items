@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Grim_Fury",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Grim_Fury.9f62dd841237c4ea19c66a6e12335ca2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             }
         ]
     },

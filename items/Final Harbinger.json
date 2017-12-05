@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Final_Harbinger",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerDrekar Manic"
+                "name": "GrineerDrekar Manic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Equinox Mega Pack"
+                "name": "Equinox Mega Pack",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Arena Reward"
+                "name": "Tier 2Arena Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Final_Harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerDrekar Manic"
+                "name": "GrineerDrekar Manic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Equinox Mega Pack"
+                "name": "Equinox Mega Pack",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Arena Reward"
+                "name": "Tier 2Arena Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },

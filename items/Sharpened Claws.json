@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sharpened_Claws",
         "drop": [
             {
-                "link": null,
-                "name": "Hyekka"
+                "name": "Hyekka",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sharpened_Claws.4029f8a0bbba15a79ed6ed81e85bd96d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hyekka"
+                "name": "Hyekka",
+                "link": null
             }
         ]
     },

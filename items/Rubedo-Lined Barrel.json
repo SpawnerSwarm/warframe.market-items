@@ -18,16 +18,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rubedo-Lined_Barrel",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },
@@ -39,16 +39,16 @@
         "thumb": "icons/ru/thumbs/Rubedo-Lined_Barrel.29560d496e56d4f319c083933ca32d08.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },

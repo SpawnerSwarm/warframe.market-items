@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Marathon",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Marathon.c7b0d24932dce54526af8b5fc9037926.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

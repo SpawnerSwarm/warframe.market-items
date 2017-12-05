@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Flux_Overdrive",
         "drop": [
             {
-                "link": null,
-                "name": "The Index"
+                "name": "The Index",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Flux_Overdrive.da9ade5eddd859e6747ed211090e1e74.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Index"
+                "name": "The Index",
+                "link": null
             }
         ]
     },

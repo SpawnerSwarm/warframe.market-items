@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Swirling_Tiger",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Tech"
+                "name": "Corpus Tech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Swirling_Tiger.672c7c7c168013ecb366092c60ce0cb9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Tech"
+                "name": "Corpus Tech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerScorch"
+                "name": "GrineerScorch",
+                "link": null
             }
         ]
     },

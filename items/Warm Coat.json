@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Warm_Coat",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

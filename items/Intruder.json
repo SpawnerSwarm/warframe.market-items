@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Intruder",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Intruder.5b3374dc191fd1b98ff6f4f6585c53ef.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             }
         ]
     },

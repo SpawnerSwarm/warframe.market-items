@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spira_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith S1 Rare"
+                "name": "Lith S1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith S3 Rare"
+                "name": "Lith S3 Rare",
+                "link": null
             }
         ],
         "codex": "These rare, braided throwing daggers were a favorite tool of high ranking Orokin assassins."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith S1 Rare"
+                "name": "Lith S1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith S3 Rare"
+                "name": "Lith S3 Rare",
+                "link": null
             }
         ]
     },

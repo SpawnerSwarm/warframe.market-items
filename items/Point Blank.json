@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Point_Blank",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Defense Reward"
+                "name": "Tier 2Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Point_Blank.ea7390ac3cafdbed38bef397132446f3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Defense Reward"
+                "name": "Tier 2Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

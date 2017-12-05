@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Second_Wind",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Second_Wind.0ebbbb01e7498ffcb9615a8b82d50295.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

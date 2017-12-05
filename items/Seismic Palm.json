@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Seismic_Palm",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Seismic_Palm.26bc9820663bb2cf418c4a998f34e353.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ]
     },

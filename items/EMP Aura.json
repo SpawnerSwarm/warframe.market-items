@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/EMP_Aura",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/EMP_Aura.1fec7dcdd6b0fd79a31b5cc66ca9cbfe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

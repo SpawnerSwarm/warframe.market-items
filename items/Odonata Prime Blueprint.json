@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Odonata/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F1 Uncommon"
+                "name": "Lith F1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S1 Uncommon"
+                "name": "Meso S1 Uncommon",
+                "link": null
             }
         ],
         "codex": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F1 Uncommon"
+                "name": "Lith F1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S1 Uncommon"
+                "name": "Meso S1 Uncommon",
+                "link": null
             }
         ]
     },

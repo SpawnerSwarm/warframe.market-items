@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hawk_Eye",
         "drop": [
             {
-                "link": null,
-                "name": "Shield Osprey"
+                "name": "Shield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Hawk_Eye.89e8f96b544925bde6308d3704406084.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Shield Osprey"
+                "name": "Shield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

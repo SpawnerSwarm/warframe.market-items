@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fury",
         "drop": [
             {
-                "link": null,
-                "name": "Daily Tribute"
+                "name": "Daily Tribute",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Daily Tribute"
+                "name": "Daily Tribute",
+                "link": null
             }
         ]
     },

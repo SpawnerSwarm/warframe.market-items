@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lasting_Purity",
         "drop": [
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Lasting_Purity.d40c649b4fe0d3b4f78b58469d5b3164.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },

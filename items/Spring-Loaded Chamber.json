@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Chamber",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Spring-Loaded_Chamber.11d03fb6957623c5065762812e9f7728.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },

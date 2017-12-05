@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Looter",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Simaris Offering"
+                "name": "Cephalon Simaris Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Looter.8c8b5d356d30759d5cb0ad5f2ba3be36.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Simaris Offering"
+                "name": "Cephalon Simaris Offering",
+                "link": null
             }
         ]
     },

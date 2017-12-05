@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stand_Ground",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Stand_Ground.f2187e5877d90c230a4ee85f750b5db3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

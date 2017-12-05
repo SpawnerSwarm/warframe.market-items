@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Orthos_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso D1 Uncommon"
+                "name": "Meso D1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Orthos Prime is an ancient Orokin martial weapon, forged from the purest rubidium making it extremely light-weight."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso D1 Uncommon"
+                "name": "Meso D1 Uncommon",
+                "link": null
             }
         ]
     },

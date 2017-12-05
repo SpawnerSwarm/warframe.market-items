@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Amp",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rifle_Amp.bdfb49a9108ff0aef7295963a70581a7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shredder",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedArcane Boiler"
+                "name": "InfestedArcane Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Shredder.29ab6c13db38effc011469562b54d17f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedBoiler"
+                "name": "InfestedBoiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedArcane Boiler"
+                "name": "InfestedArcane Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Ancient"
+                "name": "InfestedToxic Ancient",
+                "link": null
             }
         ]
     },

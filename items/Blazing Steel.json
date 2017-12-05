@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Blazing_Steel",
         "drop": [
             {
-                "link": null,
-                "name": "Shield-Hellion DargynPhobos Rush Reward"
+                "name": "Shield-Hellion DargynPhobos Rush Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Blazing_Steel.b133ff7ed9456f130695a9cb3d7a7e15.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Shield-Hellion DargynPhobos Rush Reward"
+                "name": "Shield-Hellion DargynPhobos Rush Reward",
+                "link": null
             }
         ]
     },

@@ -26,12 +26,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Saryn/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso S2 Rare"
+                "name": "Meso S2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Rare"
+                "name": "Neo S2 Rare",
+                "link": null
             }
         ],
         "codex": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization."
@@ -44,12 +44,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso S2 Rare"
+                "name": "Meso S2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Rare"
+                "name": "Neo S2 Rare",
+                "link": null
             }
         ]
     },

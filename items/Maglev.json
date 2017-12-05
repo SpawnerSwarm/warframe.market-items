@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Maglev",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Maglev.8a9d8ec54f40055eff28e2f0fb946ab3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             }
         ]
     },

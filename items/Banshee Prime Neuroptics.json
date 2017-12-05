@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Banshee/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo S7 Common"
+                "name": "Neo S7 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S4 Common"
+                "name": "Meso S4 Common",
+                "link": null
             }
         ],
         "codex": "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo S7 Common"
+                "name": "Neo S7 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S4 Common"
+                "name": "Meso S4 Common",
+                "link": null
             }
         ]
     },

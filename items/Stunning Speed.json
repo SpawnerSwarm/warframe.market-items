@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stunning_Speed",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward,Alert"
+                "name": "Nightmare Mode reward,Alert",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Stunning_Speed.6b87ee0a299e10b727df2c329375b574.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward,Alert"
+                "name": "Nightmare Mode reward,Alert",
+                "link": null
             }
         ]
     },

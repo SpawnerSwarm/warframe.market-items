@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Toxin_Resistance",
         "drop": [
             {
-                "link": null,
-                "name": "Grineer Nox"
+                "name": "Grineer Nox",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Toxin_Resistance.549dcb4c1d90eafb9aa951cfb344e0ca.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Grineer Nox"
+                "name": "Grineer Nox",
+                "link": null
             }
         ]
     },

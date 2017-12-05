@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cold_Snap",
         "drop": [
             {
-                "link": null,
-                "name": "ArchwingEximus"
+                "name": "ArchwingEximus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Cold_Snap.268cd2d56a14f33593f011eb5c918716.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "ArchwingEximus"
+                "name": "ArchwingEximus",
+                "link": null
             }
         ]
     },

@@ -23,8 +23,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nami_Skyla_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N5 Rare"
+                "name": "Axi N5 Rare",
+                "link": null
             }
         ],
         "codex": "Forged by a forgotten master, these exquisite blades are bounty from a golden-age long gone."
@@ -37,8 +37,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi N5 Rare"
+                "name": "Axi N5 Rare",
+                "link": null
             }
         ]
     },

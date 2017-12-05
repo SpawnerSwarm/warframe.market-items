@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Antimatter_Mine",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Antimatter_Mine.6624d3cc9845a9b9060a02f2cf0b3172.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

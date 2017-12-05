@@ -22,8 +22,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Aklex_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi A2 Rare"
+                "name": "Axi A2 Rare",
+                "link": null
             }
         ],
         "codex": "Savage the enemy with a Lex Prime in each hand."
@@ -36,8 +36,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi A2 Rare"
+                "name": "Axi A2 Rare",
+                "link": null
             }
         ],
         "codex": "Не оставляйте врагу ни шанса, удерживая по Лексу Прайм в каждой руке."

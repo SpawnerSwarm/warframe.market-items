@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Reach",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor"
+                "name": "Raptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Reach.3c3aadf53c5f9e86719bc9a3d59e0209.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCrewman"
+                "name": "CorpusCrewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPower Carrier"
+                "name": "CorpusPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPower Carrier"
+                "name": "GrineerPower Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor"
+                "name": "Raptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

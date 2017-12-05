@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hush",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Hush.c40b651760e08b270e4411af63a03a22.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             }
         ]
     },

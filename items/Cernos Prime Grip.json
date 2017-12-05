@@ -26,8 +26,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cernos_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo V4 Common"
+                "name": "Neo V4 Common",
+                "link": null
             }
         ],
         "codex": ""
@@ -40,8 +40,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo V4 Common"
+                "name": "Neo V4 Common",
+                "link": null
             }
         ]
     },

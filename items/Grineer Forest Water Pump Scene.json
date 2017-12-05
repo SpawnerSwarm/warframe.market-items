@@ -14,8 +14,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Captura",
         "drop": [
             {
-                "link": null,
-                "name": "Forgotten (Rare) Crates"
+                "name": "Forgotten (Rare) Crates",
+                "link": null
             }
         ]
     },
@@ -27,8 +27,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Забытый Контейнер Гринир"
+                "name": "Забытый Контейнер Гринир",
+                "link": null
             }
         ]
     },

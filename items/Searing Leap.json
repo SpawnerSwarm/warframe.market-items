@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Searing_Leap",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Searing_Leap.a7e6049fffaac70efd08c621d4cb1797.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Enemy_Sense",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Guardsman Eximus"
+                "name": "Guardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Enemy_Sense.e3ebd86fd80a0622cdb08581fbdbbbd8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Guardsman Eximus"
+                "name": "Guardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

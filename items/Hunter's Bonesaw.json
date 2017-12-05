@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hunter's_Bonesaw",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Hunter's_Bonesaw.c28fe793a946a2986e4d890d3e04c4a2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

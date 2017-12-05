@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sequence_Burn",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sequence_Burn.3696a9042fc04349da96190284ff3ab2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },

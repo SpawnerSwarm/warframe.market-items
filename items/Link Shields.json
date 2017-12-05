@@ -18,12 +18,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Link_Shields",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },
@@ -35,12 +35,12 @@
         "thumb": "icons/ru/thumbs/Link_Shields.75b9ae75ff706a620b52e45c1758b68c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },

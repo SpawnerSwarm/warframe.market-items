@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/High_Noon",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedBrood Mother"
+                "name": "InfestedBrood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Rathuum Tier 1"
+                "name": "Operation: Rathuum Tier 1",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/High_Noon.b7ce963c8e5d7a24f3adce1c1b899590.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedBrood Mother"
+                "name": "InfestedBrood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Rathuum Tier 1"
+                "name": "Operation: Rathuum Tier 1",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },

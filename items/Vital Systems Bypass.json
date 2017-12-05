@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vital_Systems_Bypass",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Vital_Systems_Bypass.3f36c3a04a2cbb2952e17dc7f4238e02.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

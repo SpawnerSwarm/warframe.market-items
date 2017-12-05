@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Animal_Instinct",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode Reward"
+                "name": "Nightmare Mode Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 5-6Platinum Packs"
+                "name": "Tier 5-6Platinum Packs",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Animal_Instinct.17e444aa73960f8406141ae7a9d4bfab.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode Reward"
+                "name": "Nightmare Mode Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 5-6Platinum Packs"
+                "name": "Tier 5-6Platinum Packs",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

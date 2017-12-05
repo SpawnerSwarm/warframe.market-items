@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Broadhead",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

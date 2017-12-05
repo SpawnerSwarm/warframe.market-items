@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Concealed_Explosives",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusMine Osprey"
+                "name": "CorpusMine Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey"
+                "name": "InfestedMutalist Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSikula"
+                "name": "GrineerSikula",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Concealed_Explosives.b853d0ccc83beb7153ca0535c0b75f27.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusMine Osprey"
+                "name": "CorpusMine Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey"
+                "name": "InfestedMutalist Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSikula"
+                "name": "GrineerSikula",
+                "link": null
             }
         ]
     },

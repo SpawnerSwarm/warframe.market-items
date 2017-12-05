@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Continuous_Misery",
         "drop": [
             {
-                "link": null,
-                "name": "Sprag"
+                "name": "Sprag",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ven'kra Tel"
+                "name": "Ven'kra Tel",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Drekar Hellion"
+                "name": "Drekar Hellion",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Continuous_Misery.e871eea096c2c8d218bf38cb5de95e13.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Sprag"
+                "name": "Sprag",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ven'kra Tel"
+                "name": "Ven'kra Tel",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Drekar Hellion"
+                "name": "Drekar Hellion",
+                "link": null
             }
         ]
     },

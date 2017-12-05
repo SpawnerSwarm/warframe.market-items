@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact",
         "drop": [
             {
-                "link": null,
-                "name": "Recon Commander (1.14%)"
+                "name": "Recon Commander (1.14%)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Recon Commander (1.14%)"
+                "name": "Recon Commander (1.14%)",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Scavenger",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shotgun_Scavenger.5097bdbb9251cff5a0717129ae0812e5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

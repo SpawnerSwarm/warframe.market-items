@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nikana_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N2 Rare"
+                "name": "Axi N2 Rare",
+                "link": null
             }
         ],
         "codex": "An ancient blade predating the fall of the Orokin Empire. Forged using techniques lost over centuries, the edge remains sharper than that of modern Nikana."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi N2 Rare"
+                "name": "Axi N2 Rare",
+                "link": null
             }
         ]
     },

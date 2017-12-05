@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Accelerated_Blast",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Accelerated_Blast.6b9c9c8603b0e854ea27510fcb1f3603.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },

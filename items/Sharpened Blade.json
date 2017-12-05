@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sharpened_Blade",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Sharpened_Blade.80d98ed58b7bc4ec4f44f80bbc2f205b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

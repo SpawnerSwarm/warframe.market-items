@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },

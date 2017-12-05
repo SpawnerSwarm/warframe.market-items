@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Noble_Cadence",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Noble_Cadence.073f070ec9a1730f90ac43a0a9448dcf.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Brain_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Brain_Storm_(Grakata).a688cdf04068bb4f29df9f7b5d61ccb4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

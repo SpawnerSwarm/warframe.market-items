@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Crushing_Ruin",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Seeker"
+                "name": "GrineerArid Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Seeker"
+                "name": "GrineerFrontier Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Seeker"
+                "name": "GrineerDrekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Crushing_Ruin.52336d2fec8495ae65bf91cad0fcc45d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Seeker"
+                "name": "GrineerArid Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Seeker"
+                "name": "GrineerFrontier Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Seeker"
+                "name": "GrineerDrekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },

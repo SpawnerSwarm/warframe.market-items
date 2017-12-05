@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Concussion_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Concussion_Rounds.e46d458daaa68b3efd20daf013bb84e8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             }
         ]
     },

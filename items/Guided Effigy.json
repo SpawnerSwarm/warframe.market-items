@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Guided_Effigy",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Guided_Effigy.407bacdc5ceb2821d1385ea4b4eff1d8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Цефалон Суда"
+                "name": "Цефалон Суда",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Последовательность Перрина"
+                "name": "Последовательность Перрина",
+                "link": null
             }
         ]
     },

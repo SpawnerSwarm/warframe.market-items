@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Air_Thrusters",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Air_Thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

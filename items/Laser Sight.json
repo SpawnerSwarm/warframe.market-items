@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Laser_Sight",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Laser_Sight.31a117c34ed4403704e13e888af597a4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             }
         ]
     },

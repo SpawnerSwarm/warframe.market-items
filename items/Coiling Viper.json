@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Coiling_Viper",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Coiling_Viper.e502d19c076bfdc0bd4e8946956cd2cf.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },

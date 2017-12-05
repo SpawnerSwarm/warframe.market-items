@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Mesa%27s_Waltz",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Mesa’s_Waltz.de9784bfdbdfb0bd7300af8d9bcde5ab.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

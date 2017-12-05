@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Firestorm",
         "drop": [
             {
-                "link": null,
-                "name": "Referral Program"
+                "name": "Referral Program",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Toxic Ancient"
+                "name": "Toxic Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Boiler"
+                "name": "Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage cache reward"
+                "name": "Hive Sabotage cache reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Firestorm.98517690aa7e2c6ce0dc119935e95616.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Referral Program"
+                "name": "Referral Program",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Toxic Ancient"
+                "name": "Toxic Ancient",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Boiler"
+                "name": "Boiler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage cache reward"
+                "name": "Hive Sabotage cache reward",
+                "link": null
             }
         ]
     },

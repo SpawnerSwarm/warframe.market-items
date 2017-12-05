@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Energy_Siphon",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Energy_Siphon.c062239706f3f5d1bb1efdd11795b09f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

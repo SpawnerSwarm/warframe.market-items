@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lasting_Sting",
         "drop": [
             {
-                "link": null,
-                "name": "Ancient Disruptor"
+                "name": "Ancient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Brood Mother"
+                "name": "Brood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tar-Mutalist MOA"
+                "name": "Tar-Mutalist MOA",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Lasting_Sting.592e959bf14a063873bcec635ae27128.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Ancient Disruptor"
+                "name": "Ancient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Brood Mother"
+                "name": "Brood Mother",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tar-Mutalist MOA"
+                "name": "Tar-Mutalist MOA",
+                "link": null
             }
         ]
     },

@@ -18,16 +18,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Galvanized_Blade",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerShield Dargyn"
+                "name": "GrineerShield Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },
@@ -39,16 +39,16 @@
         "thumb": "icons/ru/thumbs/Galvanized_Blade.0cd62c4ab861839574d2b0dcb803f322.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerShield Dargyn"
+                "name": "GrineerShield Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },

@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Assimilate",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Арбитры Гексиса"
+                "name": "Арбитры Гексиса",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Новая Лока"
+                "name": "Новая Лока",
+                "link": null
             }
         ]
     },

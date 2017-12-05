@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Gorgon_Frenzy",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Gorgon_Frenzy.8155a8c6c880a420a2db8633fc7d45ec.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

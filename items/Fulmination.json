@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fulmination",
         "drop": [
             {
-                "link": null,
-                "name": "Ergo Glast duringOperation: Ambulas Reborn"
+                "name": "Ergo Glast duringOperation: Ambulas Reborn",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Fulmination.164d77a7f148dc0bae29ec5967f67e71.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Ergo Glast duringOperation: Ambulas Reborn"
+                "name": "Ergo Glast duringOperation: Ambulas Reborn",
+                "link": null
             }
         ]
     },

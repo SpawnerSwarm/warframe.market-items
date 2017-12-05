@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Infected_Clip",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusElite Crewman"
+                "name": "CorpusElite Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer"
+                "name": "Corrupted Lancer",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Infected_Clip.64907824f376feb0a35490a7b50db9c4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusElite Crewman"
+                "name": "CorpusElite Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer"
+                "name": "Corrupted Lancer",
+                "link": null
             }
         ]
     },

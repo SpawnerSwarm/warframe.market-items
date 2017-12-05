@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Deadly_Sequence",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Deadly_Sequence.435f4898759ec050c3681c60968379b8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dual_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "Grineer Ogma"
+                "name": "Grineer Ogma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Shield-Hellion Dargyn"
+                "name": "Grineer Shield-Hellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Caelus,Uranus Interception Reward"
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Dual_Rounds.ae1e657d282eca5aaf9c15256adbec11.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Grineer Ogma"
+                "name": "Grineer Ogma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer Shield-Hellion Dargyn"
+                "name": "Grineer Shield-Hellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Caelus,Uranus Interception Reward"
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
             }
         ]
     },

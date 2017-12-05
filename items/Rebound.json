@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rebound",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rebound.45a2d4addf994c6ce6c3114e2945d0e2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             }
         ]
     },

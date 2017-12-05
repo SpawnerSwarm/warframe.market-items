@@ -26,16 +26,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso N2 Uncommon"
+                "name": "Meso N2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N3 Uncommon"
+                "name": "Neo N3 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N2 Uncommon"
+                "name": "Axi N2 Uncommon",
+                "link": null
             }
         ],
         "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization."
@@ -48,16 +48,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso N2 Uncommon"
+                "name": "Meso N2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N3 Uncommon"
+                "name": "Neo N3 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N2 Uncommon"
+                "name": "Axi N2 Uncommon",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cleaving_Whirlwind",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },

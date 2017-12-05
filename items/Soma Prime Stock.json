@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Soma_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith S2 Rare"
+                "name": "Lith S2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S1 Rare"
+                "name": "Meso S1 Rare",
+                "link": null
             }
         ],
         "codex": "Known for taking down whole squads with its single massive clip, few weapons were as feared as the Prime Soma."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith S2 Rare"
+                "name": "Lith S2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso S1 Rare"
+                "name": "Meso S1 Rare",
+                "link": null
             }
         ]
     },

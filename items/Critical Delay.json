@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Critical_Delay",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Critical_Delay.8bfe2a753bcd6a2c1f1cce797db1d927.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

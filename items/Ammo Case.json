@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher (1.14%)"
+                "name": "Corrupted Butcher (1.14%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer (1.14%)"
+                "name": "Corrupted Lancer (1.14%)",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher (1.14%)"
+                "name": "Corrupted Butcher (1.14%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer (1.14%)"
+                "name": "Corrupted Lancer (1.14%)",
+                "link": null
             }
         ]
     },

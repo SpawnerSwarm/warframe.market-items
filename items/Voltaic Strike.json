@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Voltaic_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Tethra's Doom Reward"
+                "name": "Tethra's Doom Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Mutalist Incursions Reward"
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Project Undermine Reward"
+                "name": "Project Undermine Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "One Thousand Cuts Reward"
+                "name": "One Thousand Cuts Reward",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Voltaic_Strike.a78a9f2bf52b8442a0ec435f5dd1a1e9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Tethra's Doom Reward"
+                "name": "Tethra's Doom Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Mutalist Incursions Reward"
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Project Undermine Reward"
+                "name": "Project Undermine Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "One Thousand Cuts Reward"
+                "name": "One Thousand Cuts Reward",
+                "link": null
             }
         ]
     },

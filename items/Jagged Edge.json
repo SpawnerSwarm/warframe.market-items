@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Jagged_Edge",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusElite Crewman"
+                "name": "CorpusElite Crewman",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Jagged_Edge.3bf3ff1ec903eb262b748d5240651c1e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusElite Crewman"
+                "name": "CorpusElite Crewman",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fatal_Acceleration",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Fatal_Acceleration.91b1e548b9f4d30ec40074456e5d888a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ]
     },

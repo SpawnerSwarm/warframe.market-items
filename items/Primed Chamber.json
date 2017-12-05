@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Chamber",
         "drop": [
             {
-                "link": null,
-                "name": "Informant Event"
+                "name": "Informant Event",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Primed_Chamber.9e58e6bb93760e8daaf8430c5ce03896.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Informant Event"
+                "name": "Informant Event",
+                "link": null
             }
         ]
     },

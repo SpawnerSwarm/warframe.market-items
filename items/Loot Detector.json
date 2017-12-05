@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Loot_Detector",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Loot_Detector.318d2c808ec6b39f806b3f72370ace51.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

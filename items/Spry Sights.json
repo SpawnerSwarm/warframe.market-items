@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spry_Sights",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Spry_Sights.01466c04188863b53254a6eb43c9f3ee.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },

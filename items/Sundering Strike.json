@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sundering_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Survival Reward"
+                "name": "Tier 3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Sundering_Strike.a4c2b40335174dffa82e02a62afa22f0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedVolatile Runner"
+                "name": "InfestedVolatile Runner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Survival Reward"
+                "name": "Tier 3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

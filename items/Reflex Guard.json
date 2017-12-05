@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Reflex_Guard",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Charged_Chamber",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRailgun MOA"
+                "name": "CorpusRailgun MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Charged_Chamber.624da0ef1f45e397211a1b26f6af1e57.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRailgun MOA"
+                "name": "CorpusRailgun MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

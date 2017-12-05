@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Explosive_Demise.141943ded5d9215fd9490b1819bfc607.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

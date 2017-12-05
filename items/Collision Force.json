@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Collision_Force",
         "drop": [
             {
-                "link": null,
-                "name": "Operation False Profit reward"
+                "name": "Operation False Profit reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Collision_Force.9725633e035e0d289f8c76388a2746b3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation False Profit reward"
+                "name": "Operation False Profit reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedAncient Disruptor"
+                "name": "InfestedAncient Disruptor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedTar-Mutalist MOA"
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
             }
         ]
     },

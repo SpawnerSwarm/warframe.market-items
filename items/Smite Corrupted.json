@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Smite_Corrupted",
         "drop": [
             {
-                "link": null,
-                "name": "Defection Reward"
+                "name": "Defection Reward",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Smite_Corrupted.58c67d723de207374fbad39bdec7f465.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Defection Reward"
+                "name": "Defection Reward",
+                "link": null
             }
         ]
     },

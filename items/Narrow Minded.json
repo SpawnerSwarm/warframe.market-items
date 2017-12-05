@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Narrow_Minded",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Narrow_Minded.bef52e22dd4de05215121d974d7532eb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

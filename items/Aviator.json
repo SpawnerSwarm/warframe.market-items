@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Aviator",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Oxium Espionage"
+                "name": "Operation Oxium Espionage",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Aviator.22f14cf4100664715c18257297d6fb9a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Oxium Espionage"
+                "name": "Operation Oxium Espionage",
+                "link": null
             }
         ]
     },

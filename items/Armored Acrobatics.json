@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Armored_Acrobatics",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Armored_Acrobatics.56545c32aa454c154b8aa61b2ea1c7d9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

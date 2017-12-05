@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Point_Blank",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Primed_Point_Blank.d13d926832e5e6beb5c7a6065f3ca166.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

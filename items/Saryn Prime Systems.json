@@ -26,20 +26,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Saryn/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso C1 Common"
+                "name": "Meso C1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso F1 Common"
+                "name": "Meso F1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi G1 Common"
+                "name": "Axi G1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Common"
+                "name": "Axi T1 Common",
+                "link": null
             }
         ],
         "codex": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization."
@@ -52,20 +52,20 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso C1 Common"
+                "name": "Meso C1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso F1 Common"
+                "name": "Meso F1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi G1 Common"
+                "name": "Axi G1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Common"
+                "name": "Axi T1 Common",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fired_Up",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Fired_Up.0b83271365ce0a0aa27e2c52ff9eed89.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             }
         ]
     },

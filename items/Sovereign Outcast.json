@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sovereign_Outcast",
         "drop": [
             {
-                "link": null,
-                "name": "Incursions"
+                "name": "Incursions",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Sovereign_Outcast.5969a40043c8faa2d634bb974ce00d1e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Incursions"
+                "name": "Incursions",
+                "link": null
             }
         ]
     },

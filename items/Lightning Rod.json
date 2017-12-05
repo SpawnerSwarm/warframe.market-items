@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Rod",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

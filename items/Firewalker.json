@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Firewalker",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar HellionSabotage on Uranus"
+                "name": "Drekar HellionSabotage on Uranus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Firewalker.e2b64342aebf5b394a639ae82ee38e80.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar HellionSabotage on Uranus"
+                "name": "Drekar HellionSabotage on Uranus",
+                "link": null
             }
         ]
     },

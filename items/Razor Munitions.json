@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Razor_Munitions",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Razor_Munitions.3166844e29b61731f7980b412c0b8423.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
