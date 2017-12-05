@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Terminal_Velocity",
         "drop": [
             {
-                "link": null,
-                "name": "Sprag"
+                "name": "Sprag",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ven'kra Tel"
+                "name": "Ven'kra Tel",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Drekar Hellion"
+                "name": "Drekar Hellion",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Terminal_Velocity.973e5a8cc49838814f5bdcab342c5e8e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Sprag"
+                "name": "Sprag",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Ven'kra Tel"
+                "name": "Ven'kra Tel",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Drekar Hellion"
+                "name": "Drekar Hellion",
+                "link": null
             }
         ]
     },

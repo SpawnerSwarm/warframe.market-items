@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Victory",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Calculated_Victory.ad7e2e74b27356c156f4c787bfec698e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

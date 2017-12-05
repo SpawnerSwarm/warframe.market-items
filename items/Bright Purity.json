@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bright_Purity",
         "drop": [
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Bright_Purity.548b4c2fb498686762a105b4b5c9f556.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },

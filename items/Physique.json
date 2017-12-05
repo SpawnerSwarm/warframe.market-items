@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Physique",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Physique.7c864731f10e1e439a0ecb4ba0be10fe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

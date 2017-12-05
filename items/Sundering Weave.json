@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sundering_Weave",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Eviscerator"
+                "name": "GrineerArid Eviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Eviscerator"
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerEviscerator"
+                "name": "GrineerEviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Trooper"
+                "name": "GrineerArid Trooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Trooper"
+                "name": "GrineerFrontier Trooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerTrooper"
+                "name": "GrineerTrooper",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Sundering_Weave.d6bb046c7a59ea1b7f4f6e0187e7ad91.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Eviscerator"
+                "name": "GrineerArid Eviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Eviscerator"
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerEviscerator"
+                "name": "GrineerEviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerArid Trooper"
+                "name": "GrineerArid Trooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Trooper"
+                "name": "GrineerFrontier Trooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerTrooper"
+                "name": "GrineerTrooper",
+                "link": null
             }
         ]
     },

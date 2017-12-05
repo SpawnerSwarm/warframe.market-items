@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Focused_Acceleration",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Focused_Acceleration.686ff075b50cae2476174b3b4b46200e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

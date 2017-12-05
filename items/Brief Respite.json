@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Brief_Respite",
         "drop": [
             {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Brief_Respite.d454d2f8554a7860b0f2253c4ef2a189.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ]
     },

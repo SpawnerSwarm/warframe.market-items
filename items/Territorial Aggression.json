@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Territorial_Aggression.c0fb989aae3f68fa02d12049a02509bb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },

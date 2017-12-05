@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Medi-Ray",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Medi-Ray.480f2f89415d7895a0c8e164ca29e449.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

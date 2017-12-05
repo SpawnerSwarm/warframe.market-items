@@ -25,16 +25,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso F1 Uncommon"
+                "name": "Meso F1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso N1 Uncommon"
+                "name": "Meso N1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi A1 Uncommon"
+                "name": "Axi A1 Uncommon",
+                "link": null
             }
         ],
         "codex": "The sensual lines of these golden Kamas have long been celebrated as a masterwork of Tenno weapon smithing."
@@ -47,16 +47,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso F1 Uncommon"
+                "name": "Meso F1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso N1 Uncommon"
+                "name": "Meso N1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi A1 Uncommon"
+                "name": "Axi A1 Uncommon",
+                "link": null
             }
         ]
     },

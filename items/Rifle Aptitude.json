@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrinnerGuardsman Eximus"
+                "name": "GrinnerGuardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrinnerGuardsman Eximus"
+                "name": "GrinnerGuardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

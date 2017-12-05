@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shield_Disruption",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shield_Disruption.fcff2d881ce0e3e34453673223bcb3a3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

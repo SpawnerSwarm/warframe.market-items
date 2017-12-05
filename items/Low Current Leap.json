@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Low_Current_Leap",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Low_Current_Leap.5538d53c1b29c83c3a9866479a63fba8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

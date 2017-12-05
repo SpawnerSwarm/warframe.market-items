@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rising_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Rising_Storm.e5f51174138f461fcc22ea9963516b2e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },

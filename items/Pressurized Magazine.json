@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pressurized_Magazine",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Pressurized_Magazine.3a3e59776f1fcec2242f73bf90d42d23.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },

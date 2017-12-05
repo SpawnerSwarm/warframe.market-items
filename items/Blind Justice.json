@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Blind_Justice",
         "drop": [
             {
-                "link": null,
-                "name": "Stalker (30.56%)"
+                "name": "Stalker (30.56%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Shadow Stalker (30.56%)"
+                "name": "Shadow Stalker (30.56%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Rathuum Arenas"
+                "name": "Rathuum Arenas",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Blind_Justice.41504f94c48ec29053067060b99fd2c6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Stalker (30.56%)"
+                "name": "Stalker (30.56%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Shadow Stalker (30.56%)"
+                "name": "Shadow Stalker (30.56%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Rathuum Arenas"
+                "name": "Rathuum Arenas",
+                "link": null
             }
         ]
     },

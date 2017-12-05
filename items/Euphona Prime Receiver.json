@@ -23,8 +23,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Euphona_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi E2 Rare"
+                "name": "Axi E2 Rare",
+                "link": null
             }
         ],
         "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots."
@@ -37,8 +37,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Акси E2 бесподобная"
+                "name": "Акси E2 бесподобная",
+                "link": null
             }
         ]
     },

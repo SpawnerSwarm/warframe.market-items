@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Malicious_Raptor",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Malicious_Raptor.d7acc3ce35ed52912f3a487a9a7638d2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             }
         ]
     },

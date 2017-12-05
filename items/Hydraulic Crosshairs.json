@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Crosshairs",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Torment"
+                "name": "Torment",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },

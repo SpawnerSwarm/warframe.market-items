@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lethal_Torrent",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Arid Fear"
+                "name": "Operation Arid Fear",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Lethal_Torrent.a3b66a06c82256ec7f9e3f1e3555f389.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Arid Fear"
+                "name": "Operation Arid Fear",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

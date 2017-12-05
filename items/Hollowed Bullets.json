@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Caelus,Uranus Interception Reward"
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Caelus,Uranus Interception Reward"
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
             }
         ]
     },

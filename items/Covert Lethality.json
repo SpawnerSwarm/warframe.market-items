@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Covert_Lethality",
         "drop": [
             {
-                "link": null,
-                "name": "Tier 3Spy vault reward"
+                "name": "Tier 3Spy vault reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Covert_Lethality.d13f2507eba0042591d6bda7c80b04ad.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Tier 3Spy vault reward"
+                "name": "Tier 3Spy vault reward",
+                "link": null
             }
         ]
     },

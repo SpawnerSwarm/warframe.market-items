@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Infested_Impedance",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Infested_Impedance.b429ac32ae667f123d3caa0881dc5f07.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

@@ -24,20 +24,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fang_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith C1 Common"
+                "name": "Lith C1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith F1 Common"
+                "name": "Lith F1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith N1 Common"
+                "name": "Lith N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N1 Common"
+                "name": "Axi N1 Common",
+                "link": null
             }
         ],
         "codex": "A set of ceremonial daggers from the Orokin era, the Fang Prime's blades resonate violently as they strike. This allows them to pierce hardened materials like armor with ease."
@@ -50,20 +50,20 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith C1 Common"
+                "name": "Lith C1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith F1 Common"
+                "name": "Lith F1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith N1 Common"
+                "name": "Lith N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N1 Common"
+                "name": "Axi N1 Common",
+                "link": null
             }
         ]
     },

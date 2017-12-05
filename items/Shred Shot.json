@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shred_Shot",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shred_Shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Subsystem",
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Targeting_Subsystem.d9ea94267ef9959cd26ab6386792ebec.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Malice"
+                "name": "Malice",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },

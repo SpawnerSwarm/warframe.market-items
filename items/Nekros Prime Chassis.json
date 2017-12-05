@@ -26,12 +26,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nekros/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith N1 Common"
+                "name": "Lith N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi G1 Common"
+                "name": "Axi G1 Common",
+                "link": null
             }
         ],
         "codex": "Death's new master."
@@ -44,12 +44,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith N1 Common"
+                "name": "Lith N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi G1 Common"
+                "name": "Axi G1 Common",
+                "link": null
             }
         ]
     },

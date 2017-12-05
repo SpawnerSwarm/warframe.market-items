@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Kaszas",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "codex": "Become an angel of death, with this Archwing scythe."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ]
     },

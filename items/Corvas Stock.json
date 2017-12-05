@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Corvas",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "codex": "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ]
     },

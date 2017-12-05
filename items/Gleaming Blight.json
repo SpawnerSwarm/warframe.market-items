@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Gleaming_Blight",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Gleaming_Blight.80ec79901ed4bc8566ce8f9399968ea0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },

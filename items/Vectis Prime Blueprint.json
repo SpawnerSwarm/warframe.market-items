@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vectis_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith A1 Uncommon"
+                "name": "Lith A1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Once thought destroyed, the newly uncovered Vectis Prime revives Tenno martial traditions."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith A1 Uncommon"
+                "name": "Lith A1 Uncommon",
+                "link": null
             }
         ]
     },

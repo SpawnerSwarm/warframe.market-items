@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sands_of_Inaros",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     }

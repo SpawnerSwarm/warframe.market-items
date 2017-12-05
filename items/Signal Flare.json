@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Signal_Flare",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Signal_Flare.57e185ef371b34bbcb43f9c52e022649.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

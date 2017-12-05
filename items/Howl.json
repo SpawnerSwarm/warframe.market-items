@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Howl",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },

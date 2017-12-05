@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Equilibrium",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis (Phase 1 )"
+                "name": "Lephantis (Phase 1 )",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival Weekend Event"
+                "name": "Survival Weekend Event",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Vor's Prize (Damaged )"
+                "name": "Vor's Prize (Damaged )",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis (Phase 1 )"
+                "name": "Lephantis (Phase 1 )",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival Weekend Event"
+                "name": "Survival Weekend Event",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Vor's Prize (Damaged )"
+                "name": "Vor's Prize (Damaged )",
+                "link": null
             }
         ]
     },

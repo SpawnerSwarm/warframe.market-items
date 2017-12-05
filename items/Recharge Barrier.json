@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Recharge_Barrier",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Recharge_Barrier.67ce99791abac1082d57a8af8125ed41.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

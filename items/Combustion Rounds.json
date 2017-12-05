@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerDreg"
+                "name": "GrineerDreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAttack Mutalist"
+                "name": "InfestedAttack Mutalist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Lightning Carrier"
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Toxic Carrier"
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Combustion_Rounds.d2bc890c07e1fc06355339ecd33f7afe.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerDreg"
+                "name": "GrineerDreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAttack Mutalist"
+                "name": "InfestedAttack Mutalist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Lightning Carrier"
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Toxic Carrier"
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
             }
         ]
     },

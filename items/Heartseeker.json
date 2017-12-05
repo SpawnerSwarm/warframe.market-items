@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Heartseeker",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Heartseeker.bc387a5d97b12cbec856ee1f98c2ed42.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

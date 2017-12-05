@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Mischief",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Mischief.1a4faef62888a8ac53ca586f0dc36af2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },

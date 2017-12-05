@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Steel_Fiber",
         "drop": [
             {
-                "link": null,
-                "name": "Tyl Regor"
+                "name": "Tyl Regor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedCrawler"
+                "name": "InfestedCrawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1/2/3Survival Reward"
+                "name": "Tier 1/2/3Survival Reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Steel_Fiber.cd810416081c60c108359ffb2655dad3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Tyl Regor"
+                "name": "Tyl Regor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedCrawler"
+                "name": "InfestedCrawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1/2/3Survival Reward"
+                "name": "Tier 1/2/3Survival Reward",
+                "link": null
             }
         ]
     },

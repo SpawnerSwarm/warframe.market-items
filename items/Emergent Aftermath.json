@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Emergent_Aftermath",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Emergent_Aftermath.63e18b9b27f98fb7a4f47a5aff3f6d03.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Миссии Конклава"
+                "name": "Миссии Конклава",
+                "link": null
             }
         ]
     },

@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Expel_Grineer",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Expel_Grineer.359e239c1398c4425d8ffec61f5db96b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

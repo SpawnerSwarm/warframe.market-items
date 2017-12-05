@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vaporize",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Vaporize.a90e337030a8bd33ac5783fb60fe2420.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

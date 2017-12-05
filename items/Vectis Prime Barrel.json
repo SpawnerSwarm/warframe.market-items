@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vectis_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo N1 Common"
+                "name": "Neo N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Common"
+                "name": "Axi T1 Common",
+                "link": null
             }
         ],
         "codex": "Once thought destroyed, the newly uncovered Vectis Prime revives Tenno martial traditions."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo N1 Common"
+                "name": "Neo N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Common"
+                "name": "Axi T1 Common",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Frail_Momentum",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Frail_Momentum.6805653a9527ccd335c639fae37f2a99.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

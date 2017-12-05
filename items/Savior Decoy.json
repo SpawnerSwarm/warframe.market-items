@@ -17,12 +17,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Savior_Decoy",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis "
+                "name": "Arbiters of Hexis ",
+                "link": null
             }
         ]
     },
@@ -34,12 +34,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis "
+                "name": "Arbiters of Hexis ",
+                "link": null
             }
         ]
     },

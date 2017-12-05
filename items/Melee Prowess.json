@@ -16,36 +16,36 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Melee_Prowess",
         "drop": [
             {
-                "link": null,
-                "name": "General Sargas Ruk"
+                "name": "General Sargas Ruk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDrone"
+                "name": "CorpusDrone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerEviscerator"
+                "name": "GrineerEviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerTrooper"
+                "name": "GrineerTrooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRegulator"
+                "name": "GrineerRegulator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Heavy Gunner"
+                "name": "GrineerDrekar Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -57,36 +57,36 @@
         "thumb": "icons/ru/thumbs/Melee_Prowess.a3deab8f721ff3ce4c8d4a557a369a4e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "General Sargas Ruk"
+                "name": "General Sargas Ruk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDetron Crewman"
+                "name": "CorpusDetron Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDrone"
+                "name": "CorpusDrone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerEviscerator"
+                "name": "GrineerEviscerator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerTrooper"
+                "name": "GrineerTrooper",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRegulator"
+                "name": "GrineerRegulator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Heavy Gunner"
+                "name": "GrineerDrekar Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

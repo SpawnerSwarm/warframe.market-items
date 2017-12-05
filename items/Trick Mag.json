@@ -16,48 +16,48 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Trick_Mag",
         "drop": [
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusRailgun MOA"
+                "name": "CorpusRailgun MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShield Osprey"
+                "name": "CorpusShield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShockwave MOA"
+                "name": "CorpusShockwave MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLobber Crawler"
+                "name": "InfestedLobber Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Crawler"
+                "name": "InfestedToxic Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -69,48 +69,48 @@
         "thumb": "icons/ru/thumbs/Trick_Mag.66ad7082298d62b1a8c23d7a3db10470.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusRailgun MOA"
+                "name": "CorpusRailgun MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShield Osprey"
+                "name": "CorpusShield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShockwave MOA"
+                "name": "CorpusShockwave MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedLobber Crawler"
+                "name": "InfestedLobber Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedToxic Crawler"
+                "name": "InfestedToxic Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Incendiary_Coat",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJordas Golem"
+                "name": "InfestedJordas Golem",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Incendiary_Coat.b682ebcebaa2610050a7282dd969a731.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJordas Golem"
+                "name": "InfestedJordas Golem",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Survival Reward"
+                "name": "Tier 1Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

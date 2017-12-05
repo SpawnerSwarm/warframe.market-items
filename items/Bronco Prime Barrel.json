@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bronco_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo V1 Uncommon"
+                "name": "Neo V1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Uncommon"
+                "name": "Axi N3 Uncommon",
+                "link": null
             }
         ],
         "codex": "Infused with rare Orokin alloys, the Bronco Prime is a highly efficient weapon. Trading an increased clip size and damage for a lower rate of fire."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo V1 Uncommon"
+                "name": "Neo V1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Uncommon"
+                "name": "Axi N3 Uncommon",
+                "link": null
             }
         ]
     },

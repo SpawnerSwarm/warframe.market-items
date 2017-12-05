@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Argent_Scourge",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Argent_Scourge.b501aaa775642046fe14e71a2946d5f6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

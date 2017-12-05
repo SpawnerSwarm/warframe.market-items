@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Venom_Dose",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Venom_Dose.1a5699017aba253a3168720481764142.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Four_Riders",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic"
+                "name": "GrineerManic",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Four_Riders.c3e4151f6c54f40bf421b920781dae4a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic"
+                "name": "GrineerManic",
+                "link": null
             }
         ]
     },

@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Euphona_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso V5 Uncommon"
+                "name": "Meso V5 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso N3 Uncommon"
+                "name": "Meso N3 Uncommon",
+                "link": null
             }
         ],
         "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Мезо V5 необычная"
+                "name": "Мезо V5 необычная",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Мезо N3 необычная"
+                "name": "Мезо N3 необычная",
+                "link": null
             }
         ]
     },

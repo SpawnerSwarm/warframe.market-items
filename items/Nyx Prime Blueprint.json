@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nyx/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith S2 Common"
+                "name": "Lith S2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V1 Common"
+                "name": "Neo V1 Common",
+                "link": null
             }
         ],
         "codex": "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith S2 Common"
+                "name": "Lith S2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V1 Common"
+                "name": "Neo V1 Common",
+                "link": null
             }
         ]
     },

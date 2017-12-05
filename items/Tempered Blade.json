@@ -18,28 +18,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Blade",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },
@@ -51,28 +51,28 @@
         "thumb": "icons/ru/thumbs/Tempered_Blade.86d779202cec320b7b058106e7489aac.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },

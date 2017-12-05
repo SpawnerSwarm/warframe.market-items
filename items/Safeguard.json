@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Safeguard",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Safeguard.53999a795c91389d98a06d414f29e0c9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },

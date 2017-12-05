@@ -14,8 +14,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Captura",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             }
         ]
     },
@@ -27,8 +27,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Стальной Меридиан"
+                "name": "Стальной Меридиан",
+                "link": null
             }
         ]
     },

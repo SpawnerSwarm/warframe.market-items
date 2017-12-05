@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fire_Fright",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Fire_Fright.ffc8abf810234d4a9cb397cb1846cea2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Flight",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Entropy_Flight.0550a67f2ca90039302001b1c9092617.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },

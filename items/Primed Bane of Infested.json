@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Infested",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Primed_Bane_of_Infested.3846d99c3d00292879e8b616a73b242e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

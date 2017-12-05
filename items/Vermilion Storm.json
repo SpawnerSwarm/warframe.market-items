@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vermilion_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Vermilion_Storm.c9b0ece6a57465d52db9368213bbbbc8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ]
     },

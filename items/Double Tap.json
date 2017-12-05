@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Double_Tap",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Double_Tap.57f8aad641128a51d6d68bbe16549fad.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

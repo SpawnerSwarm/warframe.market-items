@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stand_United",
         "drop": [
             {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Stand_United.7e4207f4c2932b4c6d8ec7f618d5c373.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orphid Specter"
+                "name": "Orphid Specter",
+                "link": null
             }
         ]
     },

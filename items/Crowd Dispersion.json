@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Crowd_Dispersion",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLeech Osprey"
+                "name": "CorpusLeech Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSapping Osprey"
+                "name": "CorpusSapping Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Crowd_Dispersion.bc6bb11e60d6860970317d9be1b62ef8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLeech Osprey"
+                "name": "CorpusLeech Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSapping Osprey"
+                "name": "CorpusSapping Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

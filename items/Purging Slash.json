@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Purging_Slash",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Purging_Slash.e86d658a7f1a47c944d851d44277f2e8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

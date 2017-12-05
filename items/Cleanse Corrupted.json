@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cleanse_Corrupted",
         "drop": [
             {
-                "link": null,
-                "name": "Defection (T1, T2, T3)"
+                "name": "Defection (T1, T2, T3)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Cleanse_Corrupted.33e6ad78837548856dfff0292e427b7c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Defection (T1, T2, T3)"
+                "name": "Defection (T1, T2, T3)",
+                "link": null
             }
         ]
     },

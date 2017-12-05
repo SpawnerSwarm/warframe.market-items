@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Steel_Charge",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Steel_Charge.f2f6e5bb02a85bc7366734cd2d2685bc.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

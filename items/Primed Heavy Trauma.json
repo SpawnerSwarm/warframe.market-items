@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Heavy_Trauma",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Primed_Heavy_Trauma.fe72f885b1f5808dd788dea48a91316e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

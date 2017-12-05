@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sapping_Reach",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sapping_Reach.f612157137a5278a9e1bed1fc742347e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

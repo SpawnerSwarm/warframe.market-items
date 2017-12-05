@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Handspring",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Tech"
+                "name": "Corpus Tech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer T3Defense Reward"
+                "name": "Grineer T3Defense Reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Handspring.73999f1779fdee2f6ab7fe5656e74954.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Tech"
+                "name": "Corpus Tech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer T3Defense Reward"
+                "name": "Grineer T3Defense Reward",
+                "link": null
             }
         ]
     },

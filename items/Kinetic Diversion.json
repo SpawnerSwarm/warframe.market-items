@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Diversion",
         "drop": [
             {
-                "link": null,
-                "name": "Incursions 0.29% (Rot C)"
+                "name": "Incursions 0.29% (Rot C)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Kinetic_Diversion.62e5576b52c7782baa15a315b5ce0f1d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Налет 0.29% (Ротация C)"
+                "name": "Налет 0.29% (Ротация C)",
+                "link": null
             }
         ]
     },

@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Carrier_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith C1 Rare"
+                "name": "Lith C1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C1 Rare"
+                "name": "Meso C1 Rare",
+                "link": null
             }
         ],
         "codex": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling"
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith C1 Rare"
+                "name": "Lith C1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C1 Rare"
+                "name": "Meso C1 Rare",
+                "link": null
             }
         ]
     },

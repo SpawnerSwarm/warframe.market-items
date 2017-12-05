@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Guided_Ordinance",
         "drop": [
             {
-                "link": null,
-                "name": "MaliceMisery"
+                "name": "MaliceMisery",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Guided_Ordinance.dbc80003719752c3b57005764f057d2c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "MaliceMisery"
+                "name": "MaliceMisery",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Impenetrable_Offense",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Impenetrable_Offense.d779a3ece37fbeab5e944aa539068093.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

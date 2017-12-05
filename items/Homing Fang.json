@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Homing_Fang",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedNauseous Crawler"
+                "name": "InfestedNauseous Crawler",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Homing_Fang.cfaaccdd41d5af01feb7dbff778ddc1d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedNauseous Crawler"
+                "name": "InfestedNauseous Crawler",
+                "link": null
             }
         ]
     },

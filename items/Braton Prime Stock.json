@@ -25,16 +25,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Braton_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso N1 Common"
+                "name": "Meso N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V2 Common"
+                "name": "Neo V2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi A1 Common"
+                "name": "Axi A1 Common",
+                "link": null
             }
         ],
         "codex": "A classic Orokin weapon, Braton Prime features modified damage levels and a larger magazine over the standard model."
@@ -47,16 +47,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso N1 Common"
+                "name": "Meso N1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V2 Common"
+                "name": "Neo V2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi A1 Common"
+                "name": "Axi A1 Common",
+                "link": null
             }
         ]
     },

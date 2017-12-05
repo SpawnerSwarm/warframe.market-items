@@ -25,16 +25,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Galatine_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso S2 Common"
+                "name": "Meso S2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V2 Common"
+                "name": "Neo V2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V3 Common"
+                "name": "Neo V3 Common",
+                "link": null
             }
         ],
         "codex": "Only Tenno were strong enough to wield this noble beast of a weapon."
@@ -47,16 +47,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso S2 Common"
+                "name": "Meso S2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V2 Common"
+                "name": "Neo V2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V3 Common"
+                "name": "Neo V3 Common",
+                "link": null
             }
         ]
     },

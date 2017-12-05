@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Navigator",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Piercing_Navigator.972ff893d5944148445e02efc1b22d73.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },

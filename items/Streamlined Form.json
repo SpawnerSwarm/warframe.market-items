@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Streamlined_Form",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode Reward"
+                "name": "Nightmare Mode Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "NightmareAlert Reward"
+                "name": "NightmareAlert Reward",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Streamlined_Form.7254b07cb01a05d95c33f9340864bf4d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode Reward"
+                "name": "Nightmare Mode Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "NightmareAlert Reward"
+                "name": "NightmareAlert Reward",
+                "link": null
             }
         ]
     },

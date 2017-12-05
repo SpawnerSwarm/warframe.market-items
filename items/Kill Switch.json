@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Kill_Switch",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Kill_Switch.8b1b03c3d37b5ca1fd53cb5d68ca03b9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

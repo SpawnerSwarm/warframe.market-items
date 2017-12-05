@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Peaceful_Provocation",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Peaceful_Provocation.6da77c46f48800a474393bc75b9aa3f6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },

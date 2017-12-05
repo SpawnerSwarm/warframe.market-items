@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sacrifice.d4fc63e8b062883f8824e2453f92de37.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

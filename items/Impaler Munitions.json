@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Impaler_Munitions",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Impaler_Munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

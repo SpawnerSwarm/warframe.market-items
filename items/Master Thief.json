@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Master_Thief",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hyena Pack"
+                "name": "Hyena Pack",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Defense Reward"
+                "name": "Defense Reward",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Master_Thief.99c6e9bf1306768db4381e5d2be3fdd7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hyena Pack"
+                "name": "Hyena Pack",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Defense Reward"
+                "name": "Defense Reward",
+                "link": null
             }
         ]
     },

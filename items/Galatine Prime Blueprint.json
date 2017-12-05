@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Galatine_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi G1 Rare"
+                "name": "Axi G1 Rare",
+                "link": null
             }
         ],
         "codex": "Only Tenno were strong enough to wield this noble beast of a weapon."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi G1 Rare"
+                "name": "Axi G1 Rare",
+                "link": null
             }
         ]
     },

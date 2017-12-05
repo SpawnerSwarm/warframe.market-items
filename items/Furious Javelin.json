@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Furious_Javelin",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Furious_Javelin.9fd8a16654539013a4c7fa2ebe622745.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             }
         ]
     },

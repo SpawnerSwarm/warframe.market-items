@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Auxiliary_Power",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerShield Dargyn"
+                "name": "GrineerShield Dargyn",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Auxiliary_Power.2e93a87dde5b8abf9bcddbf511ccc1b8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerShield Dargyn"
+                "name": "GrineerShield Dargyn",
+                "link": null
             }
         ]
     },

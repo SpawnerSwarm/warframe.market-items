@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pacifying_Bolts",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Pacifying_Bolts.7e1f6261c40a3f1251bc6abc1daad6d2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },

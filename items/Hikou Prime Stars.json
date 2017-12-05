@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hikou_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Common"
+                "name": "Lith F2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N1 Common"
+                "name": "Neo N1 Common",
+                "link": null
             }
         ],
         "codex": "As deadly as any bullet without the associated noise or commotion."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Common"
+                "name": "Lith F2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N1 Common"
+                "name": "Neo N1 Common",
+                "link": null
             }
         ]
     },

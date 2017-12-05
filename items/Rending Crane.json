@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rending_Crane",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rending_Crane.15432c45b48dde1535f83bc89d44151e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             }
         ]
     },

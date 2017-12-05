@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Provoked",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Provoked.14f3fb01098e99ed454369ede09d56ba.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },

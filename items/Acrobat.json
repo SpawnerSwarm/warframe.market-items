@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Acrobat",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Acrobat.a8983e7c298b0fe91f85657574752060.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

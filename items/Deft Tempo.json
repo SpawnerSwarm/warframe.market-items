@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Deft_Tempo",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Deft_Tempo.7a0839fb687215cb4e5c2d862119c160.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

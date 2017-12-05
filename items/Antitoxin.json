@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Antitoxin_(Mod)",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Excavation reward"
+                "name": "Tier 1Excavation reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Antitoxin.72252cc58215e6041361b7a5b67887cf.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1Excavation reward"
+                "name": "Tier 1Excavation reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

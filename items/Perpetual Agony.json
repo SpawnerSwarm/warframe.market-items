@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Perpetual_Agony",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Perpetual_Agony.b972199f51a5b22f81575711d8501652.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Butcher"
+                "name": "GrineerArid Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Butcher"
+                "name": "GrineerFrontier Butcher",
+                "link": null
             }
         ]
     },

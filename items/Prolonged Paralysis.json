@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Prolonged_Paralysis",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Prolonged_Paralysis.823abc810eae9eb64eec85812c9aac79.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },

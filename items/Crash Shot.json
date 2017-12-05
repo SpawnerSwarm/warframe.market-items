@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Crash_Shot",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Crash_Shot.06f3955ddbfcf991a99589c4a12c1670.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

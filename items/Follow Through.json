@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Follow_Through",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Follow_Through.8c53937a9ac1fb7f8d866b86228a5211.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

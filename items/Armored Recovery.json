@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Armored_Recovery",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Armored_Recovery.144344ea0b48a0bf96ee92ed3c67dec4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

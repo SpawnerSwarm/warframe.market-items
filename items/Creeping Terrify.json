@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Creeping_Terrify",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Creeping_Terrify.f810ea00558092d01a5941cd609b7cf7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             }
         ]
     },

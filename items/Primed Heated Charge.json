@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Heated_Charge",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Primed_Heated_Charge.78ff950af4675b04bc4ec89117bac17d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

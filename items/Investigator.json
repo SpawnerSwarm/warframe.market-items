@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Investigator",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Investigator.c52a001ff0ad8a561b8f2fe0ad4bdbe2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

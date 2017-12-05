@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Chromatic_Blade",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Chromatic_Blade.20fd4b9692afc04b59551f2b097bb9eb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Стальной Меридиан"
+                "name": "Стальной Меридиан",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Арбитры Гексиса"
+                "name": "Арбитры Гексиса",
+                "link": null
             }
         ]
     },

@@ -16,40 +16,40 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cutting_Edge",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDreg"
+                "name": "GrineerDreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerOgma"
+                "name": "GrineerOgma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAttack Mutalist"
+                "name": "InfestedAttack Mutalist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Lightning Carrier"
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Toxic Carrier"
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
             }
         ]
     },
@@ -61,40 +61,40 @@
         "thumb": "icons/ru/thumbs/Cutting_Edge.5ea4ef49742b3292b1a6428b0e4baf58.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFrigate"
+                "name": "CorpusFrigate",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusPenta Ranger"
+                "name": "CorpusPenta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusQuanta Ranger"
+                "name": "CorpusQuanta Ranger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusRanger"
+                "name": "CorpusRanger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDreg"
+                "name": "GrineerDreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerOgma"
+                "name": "GrineerOgma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAttack Mutalist"
+                "name": "InfestedAttack Mutalist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Lightning Carrier"
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Toxic Carrier"
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
             }
         ]
     },

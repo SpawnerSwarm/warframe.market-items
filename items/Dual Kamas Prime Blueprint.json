@@ -24,16 +24,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo V1 Common"
+                "name": "Neo V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Common"
+                "name": "Axi N3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V1 Common"
+                "name": "Axi V1 Common",
+                "link": null
             }
         ],
         "codex": "The sensual lines of these golden Kamas have long been celebrated as a masterwork of Tenno weapon smithing."
@@ -46,16 +46,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo V1 Common"
+                "name": "Neo V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N3 Common"
+                "name": "Axi N3 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V1 Common"
+                "name": "Axi V1 Common",
+                "link": null
             }
         ]
     },

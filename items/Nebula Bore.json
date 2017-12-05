@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nebula_Bore",
         "drop": [
             {
-                "link": null,
-                "name": "Archwing Mobile Defense Reward"
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Nebula_Bore.3eeb26b0cf2b38503cd66420348bbda3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Archwing Mobile Defense Reward"
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Sabotage Reward"
+                "name": "Archwing Sabotage Reward",
+                "link": null
             }
         ]
     },

@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cleanse_Corpus",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Cleanse_Corpus.a3b375384d3df793c1102d50ba6c8348.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

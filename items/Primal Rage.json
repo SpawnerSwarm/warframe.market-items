@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primal_Rage",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Primal_Rage.73d1fe081f2fc2a19ebab86216ff7005.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },

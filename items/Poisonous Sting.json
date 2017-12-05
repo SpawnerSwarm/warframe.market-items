@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Poisonous_Sting",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerOgma"
+                "name": "GrineerOgma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Poisonous_Sting.b7a34677873394f40c30f2eb292509f0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerOgma"
+                "name": "GrineerOgma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },

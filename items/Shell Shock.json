@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shell_Shock",
         "drop": [
             {
-                "link": null,
-                "name": "Tethra's Doom Reward"
+                "name": "Tethra's Doom Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Mutalist Incursions Reward"
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Project Undermine Reward"
+                "name": "Project Undermine Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache Reward"
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "One Thousand Cuts Reward"
+                "name": "One Thousand Cuts Reward",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Tethra's Doom Reward"
+                "name": "Tethra's Doom Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Operation: Mutalist Incursions Reward"
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Project Undermine Reward"
+                "name": "Project Undermine Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache Reward"
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "One Thousand Cuts Reward"
+                "name": "One Thousand Cuts Reward",
+                "link": null
             }
         ]
     },

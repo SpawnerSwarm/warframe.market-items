@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Collision",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

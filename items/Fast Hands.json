@@ -16,44 +16,44 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fast_Hands",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerButcher"
+                "name": "GrineerButcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrahk Master"
+                "name": "GrineerDrahk Master",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHyekka Master"
+                "name": "GrineerHyekka Master",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBailiff"
+                "name": "GrineerBailiff",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic"
+                "name": "GrineerManic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Butcher"
+                "name": "GrineerDrekar Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic"
+                "name": "GrineerDrekar Manic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -65,44 +65,44 @@
         "thumb": "icons/ru/thumbs/Fast_Hands.52147847eb284936524366e8d5302013.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerButcher"
+                "name": "GrineerButcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrahk Master"
+                "name": "GrineerDrahk Master",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerHyekka Master"
+                "name": "GrineerHyekka Master",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBailiff"
+                "name": "GrineerBailiff",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman"
+                "name": "GrineerGuardsman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic"
+                "name": "GrineerManic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Butcher"
+                "name": "GrineerDrekar Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic"
+                "name": "GrineerDrekar Manic",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

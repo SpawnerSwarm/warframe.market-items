@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar",
         "drop": [
             {
-                "link": null,
-                "name": "Lith K1 Rare"
+                "name": "Lith K1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi K1 Rare"
+                "name": "Axi K1 Rare",
+                "link": null
             }
         ]
     },
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith K1 Rare"
+                "name": "Lith K1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi K1 Rare"
+                "name": "Axi K1 Rare",
+                "link": null
             }
         ]
     },

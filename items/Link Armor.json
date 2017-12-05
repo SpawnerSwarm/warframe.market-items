@@ -18,12 +18,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Link_Armor",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },
@@ -35,12 +35,12 @@
         "thumb": "icons/ru/thumbs/Link_Armor.4a1250db0f55635fffd95c7408d34f45.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },

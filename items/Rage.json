@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rage",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Rage.53227ea426bf265cad81e949d40a2a0d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Chroma"
+                "name": "Infested Chroma",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested Mesa"
+                "name": "Infested Mesa",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Draining_Gloom",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Draining_Gloom.178992d2125575a59deec6a43367ecdb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Награда за миссии Конклава"
+                "name": "Награда за миссии Конклава",
+                "link": null
             }
         ]
     },

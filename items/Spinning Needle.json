@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spinning_Needle",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Spinning_Needle.221c3feff1f46c55e43e7f22251d1c76.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedLeaper"
+                "name": "InfestedLeaper",
+                "link": null
             }
         ]
     },

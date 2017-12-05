@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ripper_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Ripper_Rounds.59cd9766e3c21bc0481105f5a0258434.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

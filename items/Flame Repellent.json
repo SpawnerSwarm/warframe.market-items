@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Flame_Repellent",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman Eximus"
+                "name": "GrineerGuardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerFlameblade"
+                "name": "GrineerFlameblade",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerGuardsman Eximus"
+                "name": "GrineerGuardsman Eximus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAncient Healer"
+                "name": "InfestedAncient Healer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedSwarm-Mutalist MOA"
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             }
         ]
     },

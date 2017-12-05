@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Whirlwind",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Whirlwind.f00eaf345d79e6b673e748f66b635833.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             }
         ]
     },

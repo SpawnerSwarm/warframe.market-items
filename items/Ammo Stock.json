@@ -18,12 +18,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Stock",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -35,12 +35,12 @@
         "thumb": "icons/ru/thumbs/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerNapalm"
+                "name": "GrineerNapalm",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Recover",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Recover.2ebdf233711957c85a6d9a13da32cff4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "N/A"
+                "name": "N/A",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bullet_Dance",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Sabotage"
+                "name": "Orokin Sabotage",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Bullet_Dance.840b12cf1ab1194c2ccdb1fb5e92e451.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Sabotage"
+                "name": "Orokin Sabotage",
+                "link": null
             }
         ]
     },

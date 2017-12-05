@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dakra_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo D1 Rare"
+                "name": "Neo D1 Rare",
+                "link": null
             }
         ],
         "codex": "The Dakra Prime is a Tenno forged weapon, crafted during the Time of the Orokin. It is renowned for speed, power and the ability to hit multiple targets."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo D1 Rare"
+                "name": "Neo D1 Rare",
+                "link": null
             }
         ]
     },

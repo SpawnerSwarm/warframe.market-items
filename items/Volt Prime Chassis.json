@@ -26,8 +26,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Volt_Prime_Chassis",
         "drop": [
             {
-                "link": null,
-                "name": "Meso V2 Uncommon"
+                "name": "Meso V2 Uncommon",
+                "link": null
             }
         ],
         "codex": "A glorious warrior from the past, Volt Prime features the same abilities as Volt, but with unique mod polarities for greater customization."
@@ -40,8 +40,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso V2 Uncommon"
+                "name": "Meso V2 Uncommon",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Speed_Trigger",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Speed_Trigger.26b2d93955f8747a32beed3c33ef125e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

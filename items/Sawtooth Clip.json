@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sawtooth_Clip",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Seeker"
+                "name": "GrineerArid Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Seeker"
+                "name": "GrineerDrekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Seeker"
+                "name": "GrineerFrontier Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Sawtooth_Clip.562a54bb2a6fd83f83e0e23b0026180f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerArid Seeker"
+                "name": "GrineerArid Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Seeker"
+                "name": "GrineerDrekar Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerFrontier Seeker"
+                "name": "GrineerFrontier Seeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             }
         ]
     },

@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Aegis",
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (20-40)"
+                "name": "Bounty (20-40)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Aerial Commander (1.14%)"
+                "name": "Aerial Commander (1.14%)",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Bounty (20-40)"
+                "name": "Bounty (20-40)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Aerial Commander (1.14%)"
+                "name": "Aerial Commander (1.14%)",
+                "link": null
             }
         ]
     },

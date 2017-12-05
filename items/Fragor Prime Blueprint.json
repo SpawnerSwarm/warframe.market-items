@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fragor_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F1 Rare"
+                "name": "Lith F1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso F1 Rare"
+                "name": "Meso F1 Rare",
+                "link": null
             }
         ],
         "codex": "A beautifully forged instrument of devastation."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F1 Rare"
+                "name": "Lith F1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso F1 Rare"
+                "name": "Meso F1 Rare",
+                "link": null
             }
         ]
     },

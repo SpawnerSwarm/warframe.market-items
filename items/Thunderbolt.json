@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Thunderbolt",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerElite Arid Lancer"
+                "name": "GrineerElite Arid Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Frontier Lancer"
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerElite Lancer"
+                "name": "GrineerElite Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDraga"
+                "name": "GrineerDraga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDarek Draga"
+                "name": "GrineerDarek Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShock Draga"
+                "name": "GrineerShock Draga",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Guardian",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Storage Containers"
+                "name": "Orokin Storage Containers",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Guardian.8626522c8178be2b9617cc62332a553f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Storage Containers"
+                "name": "Orokin Storage Containers",
+                "link": null
             }
         ]
     },

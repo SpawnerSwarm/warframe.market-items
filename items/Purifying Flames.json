@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Purifying_Flames",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Purifying_Flames.f4231b3f8e21c02d962cc822ee1368cc.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

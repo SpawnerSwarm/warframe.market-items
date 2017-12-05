@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Prism_Guard",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Prism_Guard.ab8bf49810581e856d22d0f517040fa7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

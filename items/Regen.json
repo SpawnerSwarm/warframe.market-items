@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Regen",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut"
+                "name": "InfestedJuggernaut",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Regen.d0b7e1ee3a38af066f4fbc71c7e04969.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "InfestedCharger"
+                "name": "InfestedCharger",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut"
+                "name": "InfestedJuggernaut",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJuggernaut Behemoth"
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

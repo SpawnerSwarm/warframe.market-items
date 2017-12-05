@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Flailing_Branch",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Flailing_Branch.e33f4579b6e688a0e75a6e5872691316.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Heavy Gunner"
+                "name": "Corrupted Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Bombard"
+                "name": "Corrupted Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Nullifier"
+                "name": "Corrupted Nullifier",
+                "link": null
             }
         ]
     },

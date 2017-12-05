@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusComba"
+                "name": "CorpusComba",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScrambus"
+                "name": "CorpusScrambus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDatalyst"
+                "name": "CorpusDatalyst",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusComba"
+                "name": "CorpusComba",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScrambus"
+                "name": "CorpusScrambus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDatalyst"
+                "name": "CorpusDatalyst",
+                "link": null
             }
         ]
     },

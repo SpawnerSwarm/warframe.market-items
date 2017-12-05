@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Serration",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedNauseous Crawler"
+                "name": "InfestedNauseous Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Defense Reward"
+                "name": "Tier 2Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1/2/3Survival Reward"
+                "name": "Tier 1/2/3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Serration.47d9c768fde63632c64093367dc5f6ef.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerScorpion"
+                "name": "GrineerScorpion",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedNauseous Crawler"
+                "name": "InfestedNauseous Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Defense Reward"
+                "name": "Tier 2Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 1/2/3Survival Reward"
+                "name": "Tier 1/2/3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

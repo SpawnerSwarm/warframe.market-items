@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Dash",
         "drop": [
             {
-                "link": null,
-                "name": "Sabotage ,Uranus"
+                "name": "Sabotage ,Uranus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Lightning_Dash.b76d9ef14109748858677a458e1078de.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Sabotage ,Uranus"
+                "name": "Sabotage ,Uranus",
+                "link": null
             }
         ]
     },

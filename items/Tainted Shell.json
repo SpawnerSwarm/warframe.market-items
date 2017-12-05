@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tainted_Shell",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Tainted_Shell.57f5d4dc8e973f6ab5a233517e40b565.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

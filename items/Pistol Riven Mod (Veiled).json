@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
         "drop": [
             {
-                "link": null,
-                "name": "The War Within quest"
+                "name": "The War Within quest",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sorties"
+                "name": "Sorties",
+                "link": null
             }
         ],
         "codex": ""
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Pistol_Riven_Mod_(Veiled).f568e43337b0b38c18fee75c2f0f5299.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Квест Война Внутри"
+                "name": "Квест Война Внутри",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Вылазки"
+                "name": "Вылазки",
+                "link": null
             }
         ]
     },

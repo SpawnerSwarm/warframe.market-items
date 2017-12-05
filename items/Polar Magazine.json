@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Polar_Magazine",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerTemporal Dreg"
+                "name": "GrineerTemporal Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Exterminate Reward"
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Mobile Defense Reward"
+                "name": "Corpus Archwing Mobile Defense Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Polar_Magazine.edad942e345b3cd0cd74a51ecd0529af.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerTemporal Dreg"
+                "name": "GrineerTemporal Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Exterminate Reward"
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Archwing Mobile Defense Reward"
+                "name": "Corpus Archwing Mobile Defense Reward",
+                "link": null
             }
         ]
     },

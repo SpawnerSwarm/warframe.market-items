@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Caliber",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Heavy_Caliber.f6188cec9f8723af946a9d6669d7ff01.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Spike",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Entropy_Spike.000f2e27229f84cb2b9e1e8a5afcf1c7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },

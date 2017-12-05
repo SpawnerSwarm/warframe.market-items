@@ -25,8 +25,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Valkyr/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso V3 Rare"
+                "name": "Meso V3 Rare",
+                "link": null
             }
         ],
         "codex": "A proud fighter emerges unscarred by time or malice."
@@ -39,8 +39,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso V3 Rare"
+                "name": "Meso V3 Rare",
+                "link": null
             }
         ]
     },

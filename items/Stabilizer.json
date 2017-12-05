@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stabilizer",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2-3Survival Reward"
+                "name": "Tier 2-3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Excavation Reward"
+                "name": "Tier 3Excavation Reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2-3Survival Reward"
+                "name": "Tier 2-3Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Excavation Reward"
+                "name": "Tier 3Excavation Reward",
+                "link": null
             }
         ]
     },

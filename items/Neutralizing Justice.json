@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Neutralizing_Justice",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Neutralizing_Justice.1b7259e61014c0dff8ed5185dc967c79.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Steel Meridian Offering"
+                "name": "Steel Meridian Offering",
+                "link": null
             }
         ]
     },

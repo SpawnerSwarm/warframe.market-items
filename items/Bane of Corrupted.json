@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Corrupted",
         "drop": [
             {
-                "link": null,
-                "name": "Defection (T1, T2, T3)"
+                "name": "Defection (T1, T2, T3)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Bane_of_Corrupted.e72fe5ef5a2f915f501b48831bb5f70c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Defection (T1, T2, T3)"
+                "name": "Defection (T1, T2, T3)",
+                "link": null
             }
         ]
     },

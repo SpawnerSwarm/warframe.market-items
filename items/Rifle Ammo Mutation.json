@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Ammo_Mutation",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Sling-Stone"
+                "name": "Operation Sling-Stone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival (Rotation C)"
+                "name": "Survival (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation (Rotation C)"
+                "name": "Excavation (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0"
+                "name": "Spy 2.0",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Rifle_Ammo_Mutation.1cba7af41b889a4a11cc1e89880d6ddb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Sling-Stone"
+                "name": "Operation Sling-Stone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival (Rotation C)"
+                "name": "Survival (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation (Rotation C)"
+                "name": "Excavation (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0"
+                "name": "Spy 2.0",
+                "link": null
             }
         ]
     },

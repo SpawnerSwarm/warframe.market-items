@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vulcan_Blitz",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Vulcan_Blitz.198ed7568a87ba2c6a1f84377c2337aa.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

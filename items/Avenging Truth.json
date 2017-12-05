@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Avenging_Truth",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Avenging_Truth.846efa48a583a2ca0bfa03f04728896b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },

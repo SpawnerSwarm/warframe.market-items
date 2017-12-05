@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Escape_Velocity",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },

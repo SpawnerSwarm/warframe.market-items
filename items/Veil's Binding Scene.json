@@ -14,8 +14,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Captura",
         "drop": [
             {
-                "link": null,
-                "name": "Кed Veil"
+                "name": "Кed Veil",
+                "link": null
             }
         ]
     },
@@ -27,8 +27,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Красная Вуаль"
+                "name": "Красная Вуаль",
+                "link": null
             }
         ]
     },

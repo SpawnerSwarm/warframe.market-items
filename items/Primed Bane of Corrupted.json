@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Corrupted",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Primed_Bane_of_Corrupted.c995529b113e5c37da293c8d6f051fb8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

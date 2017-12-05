@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Detonation",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Entropy_Detonation.4cffb0a2b673cd51bde76a282e9bb775.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda Offering"
+                "name": "Cephalon Suda Offering",
+                "link": null
             }
         ]
     },

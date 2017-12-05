@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ice_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Ice_Storm.22de22bbab0152d6886bca3c3a5c9718.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             }
         ]
     },

@@ -16,36 +16,36 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Medi-Pet_Kit",
         "drop": [
             {
-                "link": null,
-                "name": "Auditor"
+                "name": "Auditor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Azoth"
+                "name": "Azoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Derim Zahn"
+                "name": "Derim Zahn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jad Teran"
+                "name": "Jad Teran",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jen Dro"
+                "name": "Jen Dro",
+                "link": null
             },
             {
-                "link": null,
-                "name": "M-WAM"
+                "name": "M-WAM",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor RX"
+                "name": "Raptor RX",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tia Mayn"
+                "name": "Tia Mayn",
+                "link": null
             }
         ]
     },
@@ -57,36 +57,36 @@
         "thumb": "icons/ru/thumbs/Medi-Pet_Kit.f3009d8f3acedecd8b26f46259e20bd4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Auditor"
+                "name": "Auditor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Azoth"
+                "name": "Azoth",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Derim Zahn"
+                "name": "Derim Zahn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jad Teran"
+                "name": "Jad Teran",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Jen Dro"
+                "name": "Jen Dro",
+                "link": null
             },
             {
-                "link": null,
-                "name": "M-WAM"
+                "name": "M-WAM",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Raptor RX"
+                "name": "Raptor RX",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tia Mayn"
+                "name": "Tia Mayn",
+                "link": null
             }
         ]
     },

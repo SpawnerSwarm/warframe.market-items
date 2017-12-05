@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Serrated_Edges",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Serrated_Edges.ec3c218e19267538c3a262f8da5b7282.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

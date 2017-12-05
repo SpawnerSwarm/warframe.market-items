@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Savvy",
         "drop": [
             {
-                "link": null,
-                "name": "General Sargas Ruk"
+                "name": "General Sargas Ruk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Heavy Gunner"
+                "name": "GrineerDrekar Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Shotgun_Savvy.5111ef4d0102226d22894a36b9875fe7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "General Sargas Ruk"
+                "name": "General Sargas Ruk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Heavy Gunner"
+                "name": "GrineerDrekar Heavy Gunner",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusAnti MOA"
+                "name": "CorpusAnti MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

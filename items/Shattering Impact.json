@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Impact",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Butcher"
+                "name": "Drekar Butcher",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shattering_Impact.45db92d86f9589bc273747f587fe18f4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Butcher"
+                "name": "Drekar Butcher",
+                "link": null
             }
         ]
     },

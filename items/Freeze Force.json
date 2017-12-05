@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Freeze_Force",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Freeze_Force.06e0357c0cb2bd96af102f5de365a667.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             }
         ]
     },

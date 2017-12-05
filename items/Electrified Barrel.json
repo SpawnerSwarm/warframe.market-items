@@ -18,12 +18,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Electrified_Barrel",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerLancer Dreg"
+                "name": "GrineerLancer Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },
@@ -35,12 +35,12 @@
         "thumb": "icons/ru/thumbs/Electrified_Barrel.00ebf4443bf4408fec5ebe46eb71a47d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerLancer Dreg"
+                "name": "GrineerLancer Dreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Archwing Interception Reward"
+                "name": "Archwing Interception Reward",
+                "link": null
             }
         ]
     },

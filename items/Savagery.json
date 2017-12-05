@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Savagery",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Savagery.37228f59b30f485bde0addf80f91aed0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },

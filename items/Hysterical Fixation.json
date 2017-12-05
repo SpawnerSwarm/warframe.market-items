@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hysterical_Fixation",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Hysterical_Fixation.b2a62b309de4ffc720fee2052b0df5bf.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

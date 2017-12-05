@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Willow",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Bleeding_Willow.3f4ccf37c481420da79fe3bfcd7c5f1a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ]
     },

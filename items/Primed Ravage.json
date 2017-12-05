@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Ravage",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Primed_Ravage.48aac2159aa593eb16d75d202e9ed762.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stinging_Truth",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Stinging_Truth.a3bd58fcbf71bc7afe0e6281153bd574.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },

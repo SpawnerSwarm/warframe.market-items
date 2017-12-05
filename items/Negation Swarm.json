@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Negation_Swarm",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Negation_Swarm.8afaca02faebc8c4b9dc81fec6a61c31.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis"
+                "name": "Arbiters of Hexis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             }
         ]
     },

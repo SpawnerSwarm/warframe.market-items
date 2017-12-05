@@ -1,4 +1,5 @@
 {
+    "_id": "5a0ef77010bc4000b8a7c12a",
     "tags": [
         "void trader",
         "melee",
@@ -6,7 +7,10 @@
         "prime",
         "legendary"
     ],
-    "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/7/7b/PrimedFeverStrikeMod.png/revision/latest?cb=20171117142958",
+    "icon": "icons/en/Primed_Fever_Strike.a0dc6eb9fbb4c6648aed7793ca40286b.png",
+    "thumb": "icons/en/thumbs/Primed_Fever_Strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_fever_strike",
     "tradable": true,
     "en": {
         "item_name": "Primed Fever Strike",
@@ -14,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fever_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -23,16 +27,16 @@
         "item_name": "Primed Fever Strike",
         "description": "<p>Primed Fever Strike is the Primed version of the Fever Strike mod, which adds Toxin b Toxin damage to a Melee weapon.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fever_Strike",
-        "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/7/7b/PrimedFeverStrikeMod.png/revision/latest?cb=20171117142958",
+        "icon": "icons/ru/Primed_Fever_Strike.a0dc6eb9fbb4c6648aed7793ca40286b.png",
+        "thumb": "icons/ru/thumbs/Primed_Fever_Strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
     "rarity": "legendary",
     "mod_max_rank": 10,
-    "trading_tax": 1000000,
-    "ready": true
+    "trading_tax": 1000000
 }

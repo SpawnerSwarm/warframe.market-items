@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cat's_Eye",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Cat's_Eye.252e312f634b867208abfc4cda61fb30.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Feral Kavat"
+                "name": "Feral Kavat",
+                "link": null
             }
         ]
     },

@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shrapnel_Rounds",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Shrapnel_Rounds_(Marelok).eecb92dff6320157ad1606823478a267.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

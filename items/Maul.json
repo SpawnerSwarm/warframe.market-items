@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Maul",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Maul.89a6afe157d0e3738cddb2d96b3a58ff.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drahk"
+                "name": "Drahk",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Kubrow (Feral)"
+                "name": "Kubrow (Feral)",
+                "link": null
             }
         ]
     },

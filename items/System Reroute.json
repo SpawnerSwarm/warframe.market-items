@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/System_Reroute",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerOgma"
+                "name": "GrineerOgma",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/System_Reroute.0cebb77905b762f92d44f6799bc12646.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerHellion Dargyn"
+                "name": "GrineerHellion Dargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerOgma"
+                "name": "GrineerOgma",
+                "link": null
             }
         ]
     },

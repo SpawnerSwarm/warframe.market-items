@@ -1,5 +1,5 @@
 {
-    "_id": "5a0eeb7f243f770045219476",
+    "_id": "5a0ef3fc10bc40007cce1c8e",
     "tags": [
         "mod",
         "uncommon"
@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Munitions",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },

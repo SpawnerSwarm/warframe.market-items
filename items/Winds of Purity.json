@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Winds_of_Purity",
         "drop": [
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Winds_of_Purity.f240608213bac0e1c215edc5922cdbb3.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "New Loka Offering"
+                "name": "New Loka Offering",
+                "link": null
             }
         ]
     },

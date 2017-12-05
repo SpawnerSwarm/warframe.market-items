@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shadow_Harvest",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Shadow_Harvest.0ee03e842a9db426fd89fa3acde73041.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

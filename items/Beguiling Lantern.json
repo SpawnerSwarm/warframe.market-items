@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Beguiling_Lantern",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Beguiling_Lantern.40570d51323b8d9d0a01b2ec8cefb308.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Magnum_Force",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Magnum_Force.9838e54ab6ada80e8af0218ace7c9860.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

@@ -16,28 +16,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vital_Sense",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Interception Reward at Rhea,Saturn"
+                "name": "Interception Reward at Rhea,Saturn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation"
+                "name": "Excavation",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Defense on Mars Reward"
+                "name": "Dark Sectors Defense on Mars Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Container"
+                "name": "Orokin Container",
+                "link": null
             }
         ]
     },
@@ -49,28 +49,28 @@
         "thumb": "icons/ru/thumbs/Vital_Sense.ff56bb48619783eaea1c39c447fea158.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusProd Crewman"
+                "name": "CorpusProd Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Interception Reward at Rhea,Saturn"
+                "name": "Interception Reward at Rhea,Saturn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation"
+                "name": "Excavation",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Defense on Mars Reward"
+                "name": "Dark Sectors Defense on Mars Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Container"
+                "name": "Orokin Container",
+                "link": null
             }
         ]
     },

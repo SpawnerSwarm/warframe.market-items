@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Dispatch_Overdrive",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             }
         ]
     },

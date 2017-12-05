@@ -26,16 +26,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Paris_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith V1 Common"
+                "name": "Lith V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso F1 Common"
+                "name": "Meso F1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Common"
+                "name": "Neo S2 Common",
+                "link": null
             }
         ],
         "codex": "Discovered deep inside an ancient Orokin derelict the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart."
@@ -48,16 +48,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith V1 Common"
+                "name": "Lith V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso F1 Common"
+                "name": "Meso F1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Common"
+                "name": "Neo S2 Common",
+                "link": null
             }
         ]
     },

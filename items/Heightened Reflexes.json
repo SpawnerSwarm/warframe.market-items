@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Heightened_Reflexes",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Heightened_Reflexes.1d0eca629afe73e76b7128b9861698cb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Mission Reward"
+                "name": "Conclave Mission Reward",
+                "link": null
             }
         ]
     },

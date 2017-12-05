@@ -18,8 +18,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },
@@ -31,8 +31,8 @@
         "thumb": "icons/ru/thumbs/Blade_of_Truth.ec5d8d3a9200cb4e31f4269d60a676b4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Arbiters of Hexis Offering"
+                "name": "Arbiters of Hexis Offering",
+                "link": null
             }
         ]
     },

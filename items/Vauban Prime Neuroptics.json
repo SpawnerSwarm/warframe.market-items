@@ -26,12 +26,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vauban/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso N2 Rare"
+                "name": "Meso N2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V3 Rare"
+                "name": "Neo V3 Rare",
+                "link": null
             }
         ],
         "codex": "Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization"
@@ -44,12 +44,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso N2 Rare"
+                "name": "Meso N2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V3 Rare"
+                "name": "Neo V3 Rare",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vile_Acceleration",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Vile_Acceleration.2bcd7acaa1425b6182d63a49927a4f38.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Agile_Aim",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Agile_Aim.15b92e6f9dd01e7e791a832d5947c6b5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conculyst"
+                "name": "Conculyst",
+                "link": null
             }
         ]
     },

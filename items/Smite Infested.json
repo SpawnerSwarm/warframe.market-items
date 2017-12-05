@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Smite_Infested",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerShield Lancer"
+                "name": "GrineerShield Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Smite_Infested.51cb8b8098f6c41fb5c25f148464d124.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerShield Lancer"
+                "name": "GrineerShield Lancer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

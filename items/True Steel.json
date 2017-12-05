@@ -16,44 +16,44 @@
         "wiki_link": "http://warframe.wikia.com/wiki/True_Steel",
         "drop": [
             {
-                "link": null,
-                "name": "Hyena Pack"
+                "name": "Hyena Pack",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tyl Regor"
+                "name": "Tyl Regor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScavenger Drone"
+                "name": "CorpusScavenger Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -65,44 +65,44 @@
         "thumb": "icons/ru/thumbs/True_Steel.c6107f0b04eb9bc22b4f50fe640d6f46.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hyena Pack"
+                "name": "Hyena Pack",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tyl Regor"
+                "name": "Tyl Regor",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScavenger Drone"
+                "name": "CorpusScavenger Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerBombard"
+                "name": "GrineerBombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDrekar Manic Bombard"
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerManic Bombard"
+                "name": "GrineerManic Bombard",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

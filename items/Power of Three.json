@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Power_of_Three",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Power_of_Three.c6e0cc7efc16bccfc906c1d0be5a7985.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

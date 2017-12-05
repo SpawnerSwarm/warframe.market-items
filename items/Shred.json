@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shred",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Arid Fear"
+                "name": "Operation Arid Fear",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Shred.7f6ffc1c32bfe0b356ec34222f4eeb88.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Arid Fear"
+                "name": "Operation Arid Fear",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },

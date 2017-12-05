@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Toxic_Barrage",
         "drop": [
             {
-                "link": null,
-                "name": "Reward fromThe Cicero Crisis"
+                "name": "Reward fromThe Cicero Crisis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Captain Vor (Corrupted)"
+                "name": "Captain Vor (Corrupted)",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Toxic_Barrage.87020e810efa1d381f73af9f0d315be4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Reward fromThe Cicero Crisis"
+                "name": "Reward fromThe Cicero Crisis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Captain Vor (Corrupted)"
+                "name": "Captain Vor (Corrupted)",
+                "link": null
             }
         ]
     },

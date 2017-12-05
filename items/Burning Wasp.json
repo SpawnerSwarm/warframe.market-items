@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Burning_Wasp",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer"
+                "name": "Corrupted Lancer",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Burning_Wasp.3d7c82c15a84d78aef962d026a05de6a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Butcher"
+                "name": "Corrupted Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corrupted Lancer"
+                "name": "Corrupted Lancer",
+                "link": null
             }
         ]
     },

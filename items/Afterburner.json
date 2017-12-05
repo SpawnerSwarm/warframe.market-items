@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Afterburner",
         "drop": [
             {
-                "link": null,
-                "name": "ArchwingEximus"
+                "name": "ArchwingEximus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Afterburner.ad7fd551de219896da3c950ecb69ee95.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "ArchwingEximus"
+                "name": "ArchwingEximus",
+                "link": null
             }
         ]
     },

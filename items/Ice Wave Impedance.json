@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ice_Wave_Impedance",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Ice_Wave_Impedance.5f5daaf1c69e619cc37749ac35c69da6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Steel Meridian"
+                "name": "Steel Meridian",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Cephalon Suda"
+                "name": "Cephalon Suda",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

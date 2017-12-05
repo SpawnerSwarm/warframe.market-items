@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Spring",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Calculated_Spring.835d83b299e893358e28b34cbd923ecb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

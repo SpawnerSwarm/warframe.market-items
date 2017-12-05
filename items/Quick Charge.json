@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Quick_Charge",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Quick_Charge.65987078029f41a29e7b1f7eb9b37f99.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

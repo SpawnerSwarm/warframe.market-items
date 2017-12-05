@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ice_Spring",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Butcher"
+                "name": "Drekar Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sabotage ,Uranus"
+                "name": "Sabotage ,Uranus",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Ice_Spring.1136a1c37e573f91be9da416d32789ac.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar Butcher"
+                "name": "Drekar Butcher",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Sabotage ,Uranus"
+                "name": "Sabotage ,Uranus",
+                "link": null
             }
         ]
     },

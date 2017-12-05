@@ -15,16 +15,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Armored_Agility",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 6Platinum Packs"
+                "name": "Tier 6Platinum Packs",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -36,16 +36,16 @@
         "thumb": "icons/ru/thumbs/Armored_Agility.cbffc3d5282946df626ee3f7c0ed2699.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 6Platinum Packs"
+                "name": "Tier 6Platinum Packs",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Shock_Absorbers",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShield Osprey"
+                "name": "CorpusShield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShield Osprey"
+                "name": "CorpusShield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

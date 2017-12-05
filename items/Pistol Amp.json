@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Amp",
         "drop": [
             {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Knave Specter"
+                "name": "Knave Specter",
+                "link": null
             }
         ]
     },

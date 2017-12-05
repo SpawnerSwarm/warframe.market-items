@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Coolant_Leak",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Coolant_Leak.b30f6db540a4d2f565b33d7bef2374f4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Drone"
+                "name": "Orokin Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Spectator"
+                "name": "Orokin Spectator",
+                "link": null
             }
         ]
     },

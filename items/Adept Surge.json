@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Adept_Surge",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Adept_Surge.182d075dd4a7cb4072ea3a0875db418d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

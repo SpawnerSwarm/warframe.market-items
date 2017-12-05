@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sprint_Boost",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

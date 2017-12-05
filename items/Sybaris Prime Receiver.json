@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sybaris_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo S7 Uncommon"
+                "name": "Neo S7 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N6 Uncommon"
+                "name": "Neo N6 Uncommon",
+                "link": null
             }
         ],
         "codex": "Become judge, jury, and executioner with this elegant and deadly lever-action Tenno rifle capable of firing a twin pair of bullets in quick succession."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo S7 Uncommon"
+                "name": "Neo S7 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N6 Uncommon"
+                "name": "Neo N6 Uncommon",
+                "link": null
             }
         ]
     },

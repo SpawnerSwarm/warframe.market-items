@@ -1,5 +1,5 @@
 {
-    "_id": "5a0eeb7d243f770045219473",
+    "_id": "5a0ef3fc10bc40007cce1c8d",
     "tags": [
         "mod",
         "rare"
@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Command",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },

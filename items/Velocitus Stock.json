@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Velocitus",
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ],
         "codex": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Red Veil"
+                "name": "Red Veil",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Offering"
+                "name": "Offering",
+                "link": null
             }
         ]
     },

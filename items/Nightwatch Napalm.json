@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nightwatch_Napalm",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Nightwatch_Napalm.d814645811503432845148c8ec6ad14b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Kela De Thaym"
+                "name": "Kela De Thaym",
+                "link": null
             }
         ]
     },

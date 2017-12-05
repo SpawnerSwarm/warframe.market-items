@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Night_Stalker",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Night_Stalker.080d84c9d541a7c24efe189a68b5f73e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

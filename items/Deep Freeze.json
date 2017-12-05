@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Deep_Freeze",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer T3Defense Reward"
+                "name": "Grineer T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Augustus, Mars Corpus T1Interception"
+                "name": "Augustus, Mars Corpus T1Interception",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Deep_Freeze.cd567cf175d103ff9bd9698b9a25e776.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Grineer T3Defense Reward"
+                "name": "Grineer T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Augustus, Mars Corpus T1Interception"
+                "name": "Augustus, Mars Corpus T1Interception",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

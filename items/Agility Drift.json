@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Agility_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Agility_Drift.cb29e4e3d9336e3fb7b2d93a891dde48.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },

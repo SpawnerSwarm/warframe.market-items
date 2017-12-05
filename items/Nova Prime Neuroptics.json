@@ -26,12 +26,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nova/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith C1 Common"
+                "name": "Lith C1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C1 Common"
+                "name": "Meso C1 Common",
+                "link": null
             }
         ],
         "codex": "Nova Prime wreaks devastation on her enemies using volatile anti-matter. Featuring altered mod polarities for greater customization."
@@ -44,12 +44,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith C1 Common"
+                "name": "Lith C1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso C1 Common"
+                "name": "Meso C1 Common",
+                "link": null
             }
         ]
     },

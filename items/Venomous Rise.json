@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Venomous_Rise",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Venomous_Rise.980cfd40af060c1049ffa60c757ce220.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

@@ -16,36 +16,36 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hellfire",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Turret"
+                "name": "Lynx Turret",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Roller"
+                "name": "Roller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -57,36 +57,36 @@
         "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Turret"
+                "name": "Lynx Turret",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Roller"
+                "name": "Roller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Infested T3Defense Reward"
+                "name": "Infested T3Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

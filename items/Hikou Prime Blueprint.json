@@ -23,12 +23,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hikou_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith S1 Common"
+                "name": "Lith S1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso N2 Common"
+                "name": "Meso N2 Common",
+                "link": null
             }
         ],
         "codex": "As deadly as any bullet without the associated noise or commotion."
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith S1 Common"
+                "name": "Lith S1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Meso N2 Common"
+                "name": "Meso N2 Common",
+                "link": null
             }
         ]
     },

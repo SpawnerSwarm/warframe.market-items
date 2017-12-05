@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Naramon_Transmute_Core",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Simaris"
+                "name": "Cephalon Simaris",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Naramon_Transmute_Core.7077c9be920134b9143897260b1eb110.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Cephalon Simaris"
+                "name": "Cephalon Simaris",
+                "link": null
             }
         ]
     },

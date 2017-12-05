@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Empowered_Blades",
         "drop": [
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Feyarch Specter"
+                "name": "Feyarch Specter",
+                "link": null
             }
         ]
     },

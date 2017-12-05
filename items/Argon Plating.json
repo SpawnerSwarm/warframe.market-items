@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Argon_Plating",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCarrier (Enemy)"
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDreg"
+                "name": "GrineerDreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Lightning Carrier"
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Toxic Carrier"
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAttack Mutalist"
+                "name": "InfestedAttack Mutalist",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Argon_Plating.a04e19b08f861e0f3b564b25e628d37f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusCarrier (Enemy)"
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDreg"
+                "name": "GrineerDreg",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Lightning Carrier"
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Toxic Carrier"
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedAttack Mutalist"
+                "name": "InfestedAttack Mutalist",
+                "link": null
             }
         ]
     },

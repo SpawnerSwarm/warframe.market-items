@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vigor",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Arid Fear"
+                "name": "Operation Arid Fear",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Vigor.597b9255f5393dcd9fa46fbaa1e37885.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Arid Fear"
+                "name": "Operation Arid Fear",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Nightmare Mode reward"
+                "name": "Nightmare Mode reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

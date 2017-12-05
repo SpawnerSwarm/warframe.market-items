@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Charged_Shell",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusTech"
+                "name": "CorpusTech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Charged_Shell.d9f8950c54259b3cecb99f31968250c0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusTech"
+                "name": "CorpusTech",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Corpus Warden"
+                "name": "Corpus Warden",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Containers"
+                "name": "Orokin Void Containers",
+                "link": null
             }
         ]
     },

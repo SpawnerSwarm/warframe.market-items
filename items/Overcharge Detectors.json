@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Overcharge_Detectors",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Overcharge_Detectors.6e88616baeba51290733b63420c8657e.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

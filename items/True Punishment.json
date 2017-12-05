@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/True_Punishment",
         "drop": [
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Survival Reward"
+                "name": "Dark Sectors Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Excavation Reward"
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/True_Punishment.2070a54681b5b4e4fe57b6e1f2643504.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Survival Reward"
+                "name": "Dark Sectors Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Excavation Reward"
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
             }
         ]
     },

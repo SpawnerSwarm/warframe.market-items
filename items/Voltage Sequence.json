@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Voltage_Sequence",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Voltage_Sequence.126dca38357c6c1484b7c748e0bb07c2.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Операция: Возрождение Амбуласа"
+                "name": "Операция: Возрождение Амбуласа",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Последовательность Перрина"
+                "name": "Последовательность Перрина",
+                "link": null
             }
         ]
     },

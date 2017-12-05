@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Creeping_Bullseye",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Creeping_Bullseye.2fee08cf68229af9e89e3ede54ce9a31.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

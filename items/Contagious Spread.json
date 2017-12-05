@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Contagious_Spread",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusScavenger Drone"
+                "name": "CorpusScavenger Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache"
+                "name": "Hive Sabotage Cache",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Contagious_Spread.fcebedcc3b90093e915a450436f6f04c.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusScavenger Drone"
+                "name": "CorpusScavenger Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedElectric Crawler"
+                "name": "InfestedElectric Crawler",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Hive Sabotage Cache"
+                "name": "Hive Sabotage Cache",
+                "link": null
             }
         ]
     },

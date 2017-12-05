@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lex_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith M1 Common"
+                "name": "Lith M1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N2 Common"
+                "name": "Axi N2 Common",
+                "link": null
             }
         ],
         "codex": "The Lex Prime is a powerful, accurate pistol that has a low fire rate and clip size. Very efficient at long range."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith M1 Common"
+                "name": "Lith M1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi N2 Common"
+                "name": "Axi N2 Common",
+                "link": null
             }
         ]
     },

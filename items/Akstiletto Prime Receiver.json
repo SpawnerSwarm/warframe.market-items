@@ -26,12 +26,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Akstiletto_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi K1 Uncommon"
+                "name": "Axi K1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Uncommon"
+                "name": "Axi T1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Stylish, discreet and accurate, perfect for the Tenno of distinction."
@@ -44,12 +44,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi K1 Uncommon"
+                "name": "Axi K1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Uncommon"
+                "name": "Axi T1 Uncommon",
+                "link": null
             }
         ]
     },

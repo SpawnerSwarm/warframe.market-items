@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Efficient_Transferral",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAttack Drone"
+                "name": "CorpusAttack Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDargyn"
+                "name": "GrineerDargyn",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Efficient_Transferral.2e3793ae9b713807482861f550c738e4.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusAttack Drone"
+                "name": "CorpusAttack Drone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerDargyn"
+                "name": "GrineerDargyn",
+                "link": null
             }
         ]
     },

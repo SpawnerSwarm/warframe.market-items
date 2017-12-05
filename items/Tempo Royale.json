@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tempo_Royale",
         "drop": [
             {
-                "link": null,
-                "name": "Phoenix Intercept Reward"
+                "name": "Phoenix Intercept Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Isolator Bursa (2.01%)"
+                "name": "Isolator Bursa (2.01%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Yam, Sedna (0.25%)"
+                "name": "Yam, Sedna (0.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Tempo_Royale.803b9cec3ca0417e7ff8292ef0699537.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Phoenix Intercept Reward"
+                "name": "Phoenix Intercept Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Isolator Bursa (2.01%)"
+                "name": "Isolator Bursa (2.01%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Yam, Sedna (0.25%)"
+                "name": "Yam, Sedna (0.25%)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Conclave Weekly Challenges"
+                "name": "Conclave Weekly Challenges",
+                "link": null
             }
         ]
     },

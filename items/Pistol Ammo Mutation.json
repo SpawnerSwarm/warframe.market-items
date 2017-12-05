@@ -16,20 +16,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Ammo_Mutation",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Sling-Stone"
+                "name": "Operation Sling-Stone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival (Rotation C)"
+                "name": "Survival (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation (Rotation C)"
+                "name": "Excavation (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0"
+                "name": "Spy 2.0",
+                "link": null
             }
         ]
     },
@@ -41,20 +41,20 @@
         "thumb": "icons/ru/thumbs/Pistol_Ammo_Mutation.52714964c1b1e00db38a7b3144c8a5db.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation Sling-Stone"
+                "name": "Operation Sling-Stone",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Survival (Rotation C)"
+                "name": "Survival (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Excavation (Rotation C)"
+                "name": "Excavation (Rotation C)",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0"
+                "name": "Spy 2.0",
+                "link": null
             }
         ]
     },

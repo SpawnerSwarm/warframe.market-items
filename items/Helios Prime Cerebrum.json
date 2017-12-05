@@ -24,16 +24,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith H1 Rare"
+                "name": "Lith H1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi H1 Rare"
+                "name": "Axi H1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi H2 Rare"
+                "name": "Axi H2 Rare",
+                "link": null
             }
         ],
         "codex": "This knowledge hungry protector defends its master with Deconstructor Prime."
@@ -46,16 +46,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith H1 Rare"
+                "name": "Lith H1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi H1 Rare"
+                "name": "Axi H1 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi H2 Rare"
+                "name": "Axi H2 Rare",
+                "link": null
             }
         ]
     },

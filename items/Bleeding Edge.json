@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Edge",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerDargyn"
+                "name": "GrineerDargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield-Hellion Dargyn"
+                "name": "GrineerShield-Hellion Dargyn",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Bleeding_Edge.74619d98c02ca9cc8b705888e9f013d9.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerDargyn"
+                "name": "GrineerDargyn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerShield-Hellion Dargyn"
+                "name": "GrineerShield-Hellion Dargyn",
+                "link": null
             }
         ]
     },

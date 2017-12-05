@@ -24,8 +24,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hydroid/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Neo H1 Rare"
+                "name": "Neo H1 Rare",
+                "link": null
             }
         ],
         "codex": "Command the ocean's fury with this king of gold and silver. Featuring altered mod polarities for greater customization."
@@ -38,8 +38,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo H1 Rare"
+                "name": "Neo H1 Rare",
+                "link": null
             }
         ]
     },

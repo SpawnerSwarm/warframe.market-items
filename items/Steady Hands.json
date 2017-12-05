@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Steady_Hands",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 reward"
+                "name": "Spy 2.0 reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Survival Reward"
+                "name": "Tier 3Survival Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Steady_Hands.1bf5586b18cdbd5d537adf31a36acf23.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Crewman"
+                "name": "Corrupted Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 reward"
+                "name": "Spy 2.0 reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 3Survival Reward"
+                "name": "Tier 3Survival Reward",
+                "link": null
             }
         ]
     },

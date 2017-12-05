@@ -25,8 +25,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Latron_Wraith",
         "drop": [
             {
-                "link": null,
-                "name": "Invasions"
+                "name": "Invasions",
+                "link": null
             }
         ],
         "codex": "The Latron Wraith is a powerful variation of the standard, semi-automatic rifle that features unique styling."
@@ -39,8 +39,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Invasions"
+                "name": "Invasions",
+                "link": null
             }
         ]
     },

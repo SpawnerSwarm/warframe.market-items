@@ -24,20 +24,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Meso S6 Common"
+                "name": "Meso S6 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S7 Common"
+                "name": "Neo S7 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V5 Common"
+                "name": "Neo V5 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N5 Common"
+                "name": "Neo N5 Common",
+                "link": null
             }
         ],
         "codex": "This knowledge hungry protector defends its master with Deconstructor Prime."
@@ -50,20 +50,20 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Meso S6 Common"
+                "name": "Meso S6 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S7 Common"
+                "name": "Neo S7 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo V5 Common"
+                "name": "Neo V5 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N5 Common"
+                "name": "Neo N5 Common",
+                "link": null
             }
         ]
     },

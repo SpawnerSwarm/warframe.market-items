@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Power_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },

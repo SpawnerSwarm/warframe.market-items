@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Toxic_Sequence",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Toxic_Sequence.7970729439a018f88988adaba1e4355f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence Offering"
+                "name": "The Perrin Sequence Offering",
+                "link": null
             }
         ]
     },

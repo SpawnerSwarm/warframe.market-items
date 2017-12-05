@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Pointed_Wind",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusShockwave MOA"
+                "name": "CorpusShockwave MOA",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Pointed_Wind.697bb980167436ef5d8e9ed6883b5c30.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusShockwave MOA"
+                "name": "CorpusShockwave MOA",
+                "link": null
             }
         ]
     },

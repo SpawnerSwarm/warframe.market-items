@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Gun_Glide",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Battalyst"
+                "name": "Battalyst",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Gun_Glide.2f550e2e9dcd6718165157d0236e6896.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Battalyst"
+                "name": "Battalyst",
+                "link": null
             }
         ]
     },

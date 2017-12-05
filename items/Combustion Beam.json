@@ -16,24 +16,24 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Beam",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusComba"
+                "name": "CorpusComba",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDatalyst"
+                "name": "CorpusDatalyst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScrambus"
+                "name": "CorpusScrambus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             }
         ]
     },
@@ -45,24 +45,24 @@
         "thumb": "icons/ru/thumbs/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusComba"
+                "name": "CorpusComba",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusDatalyst"
+                "name": "CorpusDatalyst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusNullifier Crewman"
+                "name": "CorpusNullifier Crewman",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusScrambus"
+                "name": "CorpusScrambus",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusSniper Crewman"
+                "name": "CorpusSniper Crewman",
+                "link": null
             }
         ]
     },

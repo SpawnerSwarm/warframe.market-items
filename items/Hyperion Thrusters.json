@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hyperion_Thrusters",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Hyperion_Thrusters.c795c104ca20a0afb237af945c08acc1.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusLocust Drone"
+                "name": "CorpusLocust Drone",
+                "link": null
             }
         ]
     },

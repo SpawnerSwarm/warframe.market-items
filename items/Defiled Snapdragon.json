@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Defiled_Snapdragon",
         "drop": [
             {
-                "link": null,
-                "name": "ScorpionHuntress Bundle"
+                "name": "ScorpionHuntress Bundle",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Defiled_Snapdragon.29becffd9cf20a8fbdce806e29a27038.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "ScorpionHuntress Bundle"
+                "name": "ScorpionHuntress Bundle",
+                "link": null
             }
         ]
     },

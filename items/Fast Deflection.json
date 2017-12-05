@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fast_Deflection",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShield Osprey"
+                "name": "CorpusShield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Fast_Deflection.64b79b06a19e0b924cbb0ac9b4bca1a5.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Ambulas"
+                "name": "Ambulas",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lynx Osprey"
+                "name": "Lynx Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller"
+                "name": "GrineerRoller",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerRoller Sentry"
+                "name": "GrineerRoller Sentry",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusShield Osprey"
+                "name": "CorpusShield Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Tier 2Survival Reward"
+                "name": "Tier 2Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Spy 2.0 Reward"
+                "name": "Spy 2.0 Reward",
+                "link": null
             }
         ]
     },

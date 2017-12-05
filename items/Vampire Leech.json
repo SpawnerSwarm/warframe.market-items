@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Vampire_Leech",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Vampire_Leech.80a3d67c8c10ca019f9598c72a469511.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "The Perrin Sequence"
+                "name": "The Perrin Sequence",
+                "link": null
             },
             {
-                "link": null,
-                "name": "New Loka"
+                "name": "New Loka",
+                "link": null
             }
         ]
     },

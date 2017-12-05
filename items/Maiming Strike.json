@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Maiming_Strike",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Violence"
+                "name": "Violence",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Violence"
+                "name": "Violence",
+                "link": null
             }
         ]
     },

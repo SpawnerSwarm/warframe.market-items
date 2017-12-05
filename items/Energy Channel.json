@@ -16,32 +16,32 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Energy_Channel",
         "drop": [
             {
-                "link": null,
-                "name": "Councilor Vay Hek"
+                "name": "Councilor Vay Hek",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lieutenant Lech Kril"
+                "name": "Lieutenant Lech Kril",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Phorid"
+                "name": "Phorid",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Stalker"
+                "name": "Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusMOA"
+                "name": "CorpusMOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -53,32 +53,32 @@
         "thumb": "icons/ru/thumbs/Energy_Channel.485f39c04a647cf676c33c9817833b0f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Councilor Vay Hek"
+                "name": "Councilor Vay Hek",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lieutenant Lech Kril"
+                "name": "Lieutenant Lech Kril",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Phorid"
+                "name": "Phorid",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Stalker"
+                "name": "Stalker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "CorpusMOA"
+                "name": "CorpusMOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSeeker"
+                "name": "GrineerSeeker",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

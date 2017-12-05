@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Catalyzer_Link",
         "drop": [
             {
-                "link": null,
-                "name": "Mania"
+                "name": "Mania",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Mania"
+                "name": "Mania",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Moon Spy Reward"
+                "name": "Orokin Moon Spy Reward",
+                "link": null
             }
         ]
     },

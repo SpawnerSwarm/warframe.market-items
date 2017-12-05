@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Crash_Course",
         "drop": [
             {
-                "link": null,
-                "name": "Operation False Profit reward"
+                "name": "Operation False Profit reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Crash_Course.cf6217592be3bbaa9fe3533f360eba8f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Operation False Profit reward"
+                "name": "Operation False Profit reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ruinous_Extension",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Ruinous_Extension.e35e0c77934d73d32f9e012d9f55e4e0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Jackal"
+                "name": "Jackal",
+                "link": null
             }
         ]
     },

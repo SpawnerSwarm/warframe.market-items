@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Stockpiled_Blight",
         "drop": [
             {
-                "link": null,
-                "name": "Operation: Ambulas Reborn"
+                "name": "Operation: Ambulas Reborn",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Red Veil Offering"
+                "name": "Red Veil Offering",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Stockpiled_Blight.55f975934823d9ed93cf1b361315c198.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Операция: Возрождение Амбуласа"
+                "name": "Операция: Возрождение Амбуласа",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Красная Вуаль"
+                "name": "Красная Вуаль",
+                "link": null
             }
         ]
     },

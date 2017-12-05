@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Rejuvenation",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Alerts"
+                "name": "Alerts",
+                "link": null
             }
         ]
     },

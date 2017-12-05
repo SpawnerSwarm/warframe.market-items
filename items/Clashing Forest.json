@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Clashing_Forest",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Clashing_Forest.6ff88ab70b8ba2438dc85eb83707fd7d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted Ancient"
+                "name": "Corrupted Ancient",
+                "link": null
             }
         ]
     },

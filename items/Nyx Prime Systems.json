@@ -26,8 +26,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Nyx_Prime_Systems",
         "drop": [
             {
-                "link": null,
-                "name": "Neo S2 Uncommon"
+                "name": "Neo S2 Uncommon",
+                "link": null
             }
         ],
         "codex": "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization."
@@ -40,8 +40,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo S2 Uncommon"
+                "name": "Neo S2 Uncommon",
+                "link": null
             }
         ]
     },

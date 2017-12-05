@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Lie_In_Wait",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Lie_In_Wait.1b9b5b7f55cf4a0a6018be67e604d9bf.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

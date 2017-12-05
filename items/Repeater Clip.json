@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Angst"
+                "name": "Angst",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Misery"
+                "name": "Misery",
+                "link": null
             }
         ]
     },

@@ -1,5 +1,5 @@
 {
-    "_id": "5a0eeb80243f770045219478",
+    "_id": "5a0ef3fb10bc40007cce1c8a",
     "tags": [
         "mod",
         "uncommon"
@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Synergy",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Hemocyte"
+                "name": "Hemocyte",
+                "link": null
             }
         ]
     },

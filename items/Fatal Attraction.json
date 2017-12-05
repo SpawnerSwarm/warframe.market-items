@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fatal_Attraction",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Fatal_Attraction.9ea3cd2a542e498df1f00042c1b5eaa1.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ]
     },

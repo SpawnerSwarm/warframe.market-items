@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sinister_Reach",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusMine Osprey"
+                "name": "CorpusMine Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSikula"
+                "name": "GrineerSikula",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey"
+                "name": "InfestedMutalist Osprey",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Sinister_Reach.e2763e828fe2a9cd06a67b4315c36327.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusMine Osprey"
+                "name": "CorpusMine Osprey",
+                "link": null
             },
             {
-                "link": null,
-                "name": "GrineerSikula"
+                "name": "GrineerSikula",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedMutalist Osprey"
+                "name": "InfestedMutalist Osprey",
+                "link": null
             }
         ]
     },

@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar",
         "drop": [
             {
-                "link": null,
-                "name": "Neo N1 Uncommon"
+                "name": "Neo N1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi G1 Uncommon"
+                "name": "Axi G1 Uncommon",
+                "link": null
             }
         ]
     },
@@ -41,12 +41,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Neo N1 Uncommon"
+                "name": "Neo N1 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi G1 Uncommon"
+                "name": "Axi G1 Uncommon",
+                "link": null
             }
         ]
     },

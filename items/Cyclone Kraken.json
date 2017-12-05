@@ -15,12 +15,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Cyclone_Kraken",
         "drop": [
             {
-                "link": null,
-                "name": "Dakata, Kuva Fortress."
+                "name": "Dakata, Kuva Fortress.",
+                "link": null
             },
             {
-                "link": null,
-                "name": "3rd Exterminate Cache , 10.79%"
+                "name": "3rd Exterminate Cache , 10.79%",
+                "link": null
             }
         ]
     },
@@ -32,12 +32,12 @@
         "thumb": "icons/ru/thumbs/Cyclone_Kraken.716c9f041af48cb22a37273f38b640e6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Dakata, Kuva Fortress."
+                "name": "Dakata, Kuva Fortress.",
+                "link": null
             },
             {
-                "link": null,
-                "name": "3rd Exterminate Cache , 10.79%"
+                "name": "3rd Exterminate Cache , 10.79%",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Toxic_Flight",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar BallistaSabotage Uranus"
+                "name": "Drekar BallistaSabotage Uranus",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Toxic_Flight.45e2f73f9fc892de13d25f335e721883.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Drekar BallistaSabotage Uranus"
+                "name": "Drekar BallistaSabotage Uranus",
+                "link": null
             }
         ]
     },

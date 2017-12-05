@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Striker",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Striker.4fff5ad81c0f62d8290829fb746c3048.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Corrupted MOA"
+                "name": "Corrupted MOA",
+                "link": null
             }
         ]
     },

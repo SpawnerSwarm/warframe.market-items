@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Defiled_Reckoning",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Defiled_Reckoning.ffac201c5b111787337881f60c1aa021.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

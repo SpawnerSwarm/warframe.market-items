@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Sword_Alone",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Sword_Alone.5650596f6b541aa66ca2f3f183b3cbad.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

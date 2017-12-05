@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Braton_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi V2 Uncommon"
+                "name": "Axi V2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V3 Uncommon"
+                "name": "Axi V3 Uncommon",
+                "link": null
             }
         ],
         "codex": "A classic Orokin weapon, Braton Prime features modified damage levels and a larger magazine over the standard model."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi V2 Uncommon"
+                "name": "Axi V2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V3 Uncommon"
+                "name": "Axi V3 Uncommon",
+                "link": null
             }
         ]
     },

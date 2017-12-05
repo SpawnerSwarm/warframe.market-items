@@ -25,12 +25,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Burston_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Uncommon"
+                "name": "Lith F2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Uncommon"
+                "name": "Axi T1 Uncommon",
+                "link": null
             }
         ],
         "codex": "Once thought lost to the ages, attempts to reengineer the Burston Prime never fully replicated this weapon's power and agility."
@@ -43,12 +43,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith F2 Uncommon"
+                "name": "Lith F2 Uncommon",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi T1 Uncommon"
+                "name": "Axi T1 Uncommon",
+                "link": null
             }
         ]
     },

@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Quickening",
         "drop": [
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Survival Reward"
+                "name": "Dark Sectors Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Excavation Reward"
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Quickening.e5c0f247575db10bc09a5eebfefc1e02.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Dark Sectors Defense Reward"
+                "name": "Dark Sectors Defense Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Survival Reward"
+                "name": "Dark Sectors Survival Reward",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Dark Sectors Excavation Reward"
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
             }
         ]
     },

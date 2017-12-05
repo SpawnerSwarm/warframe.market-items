@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord",
         "drop": [
             {
-                "link": null,
-                "name": "Recon Commander (0.33%)"
+                "name": "Recon Commander (0.33%)",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Recon Commander (0.33%)"
+                "name": "Recon Commander (0.33%)",
+                "link": null
             }
         ]
     },

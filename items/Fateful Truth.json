@@ -15,8 +15,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Fateful_Truth",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -28,8 +28,8 @@
         "thumb": "icons/ru/thumbs/Fateful_Truth.97d57090b2d92450da472b00c62f5b0b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Конклав"
+                "name": "Конклав",
+                "link": null
             }
         ]
     },

@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Slip_Magazine",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Primed_Slip_Magazine.20dc5dcce7b3227761f88cf3073f0677.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

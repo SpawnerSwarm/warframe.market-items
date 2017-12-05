@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Tempered_Bound.668e99d27a772886e71c6580f94233f7.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Conclave Offering"
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },

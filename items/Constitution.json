@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Constitution",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Constitution.4ff2f73c78d8391929363b1e2e6aaf06.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Nightmare Mode rewardAlerts"
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
             }
         ]
     },

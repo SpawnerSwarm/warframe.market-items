@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Endurance_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Endurance_Drift.68570de70e71f2718aff4dfba72764a0.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },

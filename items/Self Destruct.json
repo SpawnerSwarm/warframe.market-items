@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Self_Destruct",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Referral Program"
+                "name": "Referral Program",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Self_Destruct.b56ddae1754b5ec150b73bea7eb86e94.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "CorpusFusion MOA"
+                "name": "CorpusFusion MOA",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Referral Program"
+                "name": "Referral Program",
+                "link": null
             }
         ]
     },

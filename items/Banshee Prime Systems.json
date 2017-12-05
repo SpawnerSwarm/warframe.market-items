@@ -24,12 +24,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Banshee/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi B2 Rare"
+                "name": "Axi B2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi B1 Rare"
+                "name": "Axi B1 Rare",
+                "link": null
             }
         ],
         "codex": "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
@@ -42,12 +42,12 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi B2 Rare"
+                "name": "Axi B2 Rare",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi B1 Rare"
+                "name": "Axi B1 Rare",
+                "link": null
             }
         ]
     },

@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Speed_Drift",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Speed_Drift.3163b69c88aff6fc9fd9a660553919b8.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Moon Test"
+                "name": "Orokin Moon Test",
+                "link": null
             }
         ]
     },

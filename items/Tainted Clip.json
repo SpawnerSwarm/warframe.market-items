@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Tainted_Clip",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Tainted_Clip.c992b867a9fe54b7e1d825409efc2a57.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },

@@ -23,20 +23,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Euphona_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi N5 Common"
+                "name": "Axi N5 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi O1 Common"
+                "name": "Axi O1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N7 Common"
+                "name": "Neo N7 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi B1 Common"
+                "name": "Axi B1 Common",
+                "link": null
             }
         ],
         "codex": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots."
@@ -49,20 +49,20 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi N5 Common"
+                "name": "Axi N5 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi O1 Common"
+                "name": "Axi O1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo N7 Common"
+                "name": "Neo N7 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi B1 Common"
+                "name": "Axi B1 Common",
+                "link": null
             }
         ]
     },

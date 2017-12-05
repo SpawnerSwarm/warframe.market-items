@@ -16,16 +16,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Infested",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJordas Golem"
+                "name": "InfestedJordas Golem",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },
@@ -37,16 +37,16 @@
         "thumb": "icons/ru/thumbs/Bane_of_Infested.6637d1ccc49d065ac2240346180b755b.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "GrineerPowerfist"
+                "name": "GrineerPowerfist",
+                "link": null
             },
             {
-                "link": null,
-                "name": "InfestedJordas Golem"
+                "name": "InfestedJordas Golem",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Orokin Void Container"
+                "name": "Orokin Void Container",
+                "link": null
             }
         ]
     },

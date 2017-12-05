@@ -26,16 +26,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Trinity/Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Axi A1 Common"
+                "name": "Axi A1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V2 Common"
+                "name": "Axi V2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V3 Common"
+                "name": "Axi V3 Common",
+                "link": null
             }
         ],
         "codex": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization."
@@ -48,16 +48,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Axi A1 Common"
+                "name": "Axi A1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V2 Common"
+                "name": "Axi V2 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Axi V3 Common"
+                "name": "Axi V3 Common",
+                "link": null
             }
         ]
     },

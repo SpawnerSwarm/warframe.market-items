@@ -16,12 +16,12 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Eleventh_Storm",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Mirage Bundle"
+                "name": "Mirage Bundle",
+                "link": null
             }
         ]
     },
@@ -33,12 +33,12 @@
         "thumb": "icons/ru/thumbs/Eleventh_Storm.7aaec9492cf5d34f2217e3a6b5008602.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Lephantis"
+                "name": "Lephantis",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Mirage Bundle"
+                "name": "Mirage Bundle",
+                "link": null
             }
         ]
     },

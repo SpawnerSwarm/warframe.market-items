@@ -25,16 +25,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Burston_Prime",
         "drop": [
             {
-                "link": null,
-                "name": "Lith K1 Common"
+                "name": "Lith K1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith V1 Common"
+                "name": "Lith V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Common"
+                "name": "Neo S2 Common",
+                "link": null
             }
         ],
         "codex": "Once thought lost to the ages, attempts to reengineer the Burston Prime never fully replicated this weapon's power and agility."
@@ -47,16 +47,16 @@
         "thumb": null,
         "drop": [
             {
-                "link": null,
-                "name": "Lith K1 Common"
+                "name": "Lith K1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Lith V1 Common"
+                "name": "Lith V1 Common",
+                "link": null
             },
             {
-                "link": null,
-                "name": "Neo S2 Common"
+                "name": "Neo S2 Common",
+                "link": null
             }
         ]
     },

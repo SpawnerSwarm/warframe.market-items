@@ -17,8 +17,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Target_Cracker",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },
@@ -30,8 +30,8 @@
         "thumb": "icons/ru/thumbs/Primed_Target_Cracker.e80b851c60b62d5c92aa665cb29cc122.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Baro Ki'Teer"
+                "name": "Baro Ki'Teer",
+                "link": null
             }
         ]
     },

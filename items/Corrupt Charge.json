@@ -16,8 +16,8 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Corrupt_Charge",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
@@ -29,8 +29,8 @@
         "thumb": "icons/ru/thumbs/Corrupt_Charge.33ab10e3d4ea10da5c378a621f658fe6.128x128.png",
         "drop": [
             {
-                "link": null,
-                "name": "Orokin Vault"
+                "name": "Orokin Vault",
+                "link": null
             }
         ]
     },
