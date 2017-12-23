@@ -25,18 +25,18 @@
         ]
     },
     "ru": {
-        "item_name": "Виджиланте Вооруженность",
-        "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Armaments",
-        "icon": null,
-        "thumb": null,
+        "item_name": "Карательное Вооружение",
+        "description": "<p>Карательное Вооружение — обычный мод для основного оружия, который увеличивает шанс произведения дополнительного выстрела.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Vigilante_Armaments.937892637cd850b1e66381fbed1fb8c4.png",
+        "thumb": "icons/ru/thumbs/Vigilante_Armaments.937892637cd850b1e66381fbed1fb8c4.128x128.png",
         "drop": [
             {
-                "name": "Bounty (20-40)",
+                "name": "Заказы (20-40)",
                 "link": null
             },
             {
-                "name": "Plains Commander (1.14%)",
+                "name": "Командир Равнин (1.14%)",
                 "link": null
             }
         ]

@@ -25,18 +25,18 @@
         ]
     },
     "ru": {
-        "item_name": "Виджиланте Нападение",
-        "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Offense",
-        "icon": null,
-        "thumb": null,
+        "item_name": "Карательное Нападение",
+        "description": "<p>Карательное Нападение — редкий мод для основного оружия, который увеличивает пронзание.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%9D%D0%B0%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Vigilante_Offense.56b6d6004a4755effdd3e4f559981e2f.png",
+        "thumb": "icons/ru/thumbs/Vigilante_Offense.56b6d6004a4755effdd3e4f559981e2f.128x128.png",
         "drop": [
             {
-                "name": "Bounty (30-50)",
+                "name": "Заказы (30-50)",
                 "link": null
             },
             {
-                "name": "Plains Commander (0.02%)",
+                "name": "Командир Равнин (0.02%)",
                 "link": null
             }
         ]
