@@ -25,18 +25,18 @@
         ]
     },
     "ru": {
-        "item_name": "Виджиланте Запасы",
-        "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Supplies",
-        "icon": null,
-        "thumb": null,
+        "item_name": "Карательные Припасы",
+        "description": "<p>Карательные Припасы — редкий мод для основного оружия, который превращает лишние подобранные патроны в патроны для винтовки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%9F%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B",
+        "icon": "icons/ru/Vigilante_Supplies.2db5c4efa79b66dc70d0cf49a86e6fb5.png",
+        "thumb": "icons/ru/thumbs/Vigilante_Supplies.2db5c4efa79b66dc70d0cf49a86e6fb5.128x128.png",
         "drop": [
             {
-                "name": "Bounty (20-40 )",
+                "name": "Заказы (20-40 )",
                 "link": null
             },
             {
-                "name": "Plains Commander (0.02%)",
+                "name": "Командир Равнин (0.02%)",
                 "link": null
             }
         ]
