@@ -9,7 +9,7 @@
     "thumb": "icons/en/thumbs/Shield_Flux.d9e0b1e7ff37c197504ab8f7e50d20c6.128x128.png",
     "icon_format": "port",
     "url_name": "shield_flux",
-    "tradable": true,
+    "tradable": false,
     "en": {
         "item_name": "Shield Flux",
         "description": "<p>Shield Flux converts a Warframe's Shield to Stamina continuously after Stamina is completely drained.</p>",

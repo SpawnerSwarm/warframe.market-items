@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Trickery.d05bc36a4caac491ac63231d18e935aa.png",
-    "thumb": "icons/en/thumbs/Arcane_Trickery.d05bc36a4caac491ac63231d18e935aa.128x128.png",
+    "icon": "icons/en/Arcane_Trickery.bec8b43aaa7a5ec1cb152f017516a69c.png",
+    "thumb": "icons/en/thumbs/Arcane_Trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_trickery",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

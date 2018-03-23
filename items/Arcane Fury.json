@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Fury.fbd3b45571ab4ca97070defe6f57cb5f.png",
-    "thumb": "icons/en/thumbs/Arcane_Fury.fbd3b45571ab4ca97070defe6f57cb5f.128x128.png",
+    "icon": "icons/en/Arcane_Fury.221e1166ea44c6d2473f59b7cfa4396a.png",
+    "thumb": "icons/en/thumbs/Arcane_Fury.221e1166ea44c6d2473f59b7cfa4396a.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_fury",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

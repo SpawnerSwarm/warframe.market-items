@@ -4,8 +4,8 @@
         "arcane enhancements",
         "operator"
     ],
-    "icon": "icons/en/Exodia_Epidemic.3ae6eca83121461b31d4b73090f73386.png",
-    "thumb": "icons/en/thumbs/Exodia_Epidemic.3ae6eca83121461b31d4b73090f73386.128x128.png",
+    "icon": "icons/en/Exodia_Epidemic.3807403ba71019a6186468b251bc1d3a.png",
+    "thumb": "icons/en/thumbs/Exodia_Epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png",
     "icon_format": "land",
     "url_name": "exodia_epidemic",
     "tradable": true,
@@ -34,5 +34,5 @@
         ]
     },
     "mod_max_rank": 4,
-    "trading_tax": 0
+    "trading_tax": 1000000
 }

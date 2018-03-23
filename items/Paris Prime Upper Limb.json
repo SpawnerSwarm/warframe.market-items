@@ -5,8 +5,8 @@
         "prime",
         "upper limb"
     ],
-    "icon": "icons/en/Paris_Prime_Set.971f957f8304ce10617836343d47b238.png",
-    "thumb": "icons/en/thumbs/Paris_Prime_Set.971f957f8304ce10617836343d47b238.128x128.png",
+    "icon": "icons/en/Paris_Prime_Upper_Set.971f957f8304ce10617836343d47b238.png",
+    "thumb": "icons/en/thumbs/Paris_Prime_Upper_Set.971f957f8304ce10617836343d47b238.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/upper_limb_128x128.png",
     "url_name": "paris_prime_upper_limb",
@@ -77,7 +77,7 @@
             }
         ]
     },
-    "mastery_level": 4,
+    "mastery_level": 8,
     "ducats": 25,
     "trading_tax": 2000
 }

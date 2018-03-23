@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Tempo.644fde818e5f0d39ce60916081a9b941.png",
-    "thumb": "icons/en/thumbs/Arcane_Tempo.644fde818e5f0d39ce60916081a9b941.128x128.png",
+    "icon": "icons/en/Arcane_Tempo.8e5a0c4378df14ffdb5597ff8da8b828.png",
+    "thumb": "icons/en/thumbs/Arcane_Tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_tempo",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "common",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 2000
 }

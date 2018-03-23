@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Aegis.e44fd28cade1bf193ad712bdbeeb3ed3.png",
-    "thumb": "icons/en/thumbs/Arcane_Aegis.e44fd28cade1bf193ad712bdbeeb3ed3.128x128.png",
+    "icon": "icons/en/Arcane_Aegis.05226d37b29123fba267f5f131a9dcd8.png",
+    "thumb": "icons/en/thumbs/Arcane_Aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_aegis",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

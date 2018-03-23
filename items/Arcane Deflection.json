@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Deflection.e427da73c53d9b12f8c1bf7aaccd1ebe.png",
-    "thumb": "icons/en/thumbs/Arcane_Deflection.e427da73c53d9b12f8c1bf7aaccd1ebe.128x128.png",
+    "icon": "icons/en/Arcane_Deflection.6ee1147da81f3a9f705621012c560832.png",
+    "thumb": "icons/en/thumbs/Arcane_Deflection.6ee1147da81f3a9f705621012c560832.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_deflection",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
     "trading_tax": 0
 }

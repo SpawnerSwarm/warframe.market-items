@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Barrier.8df902070ffb4e1d97d54d0e34fb0248.png",
-    "thumb": "icons/en/thumbs/Arcane_Barrier.8df902070ffb4e1d97d54d0e34fb0248.128x128.png",
+    "icon": "icons/en/Arcane_Barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png",
+    "thumb": "icons/en/thumbs/Arcane_Barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_barrier",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "legendary",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 1000000
 }

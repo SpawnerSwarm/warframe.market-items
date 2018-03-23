@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Precision.8c5882f9de2546f14c579ee1f0bf2a53.png",
-    "thumb": "icons/en/thumbs/Arcane_Precision.8c5882f9de2546f14c579ee1f0bf2a53.128x128.png",
+    "icon": "icons/en/Arcane_Precision.9947891b2c40889b5ae96ea6987df9c1.png",
+    "thumb": "icons/en/thumbs/Arcane_Precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_precision",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

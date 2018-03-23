@@ -3,8 +3,8 @@
     "tags": [
         "void trader"
     ],
-    "icon": "icons/en/Vulkar_Wraith.0a382f626e5421fdcdc58085fe1acf2f.png",
-    "thumb": "icons/en/thumbs/Vulkar_Wraith.0a382f626e5421fdcdc58085fe1acf2f.128x128.png",
+    "icon": "icons/en/Vulkar_Wraith.f8429a3c0e4db52e800fae7bc4aa19ea.png",
+    "thumb": "icons/en/thumbs/Vulkar_Wraith.f8429a3c0e4db52e800fae7bc4aa19ea.128x128.png",
     "icon_format": "land",
     "url_name": "vulkar_wraith",
     "tradable": true,
@@ -23,6 +23,6 @@
         "thumb": null,
         "drop": []
     },
-    "mastery_level": 0,
+    "mastery_level": 7,
     "trading_tax": 2000
 }

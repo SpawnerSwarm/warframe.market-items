@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Resistance.2a8c2b31dde4b7a676e7058694312486.png",
-    "thumb": "icons/en/thumbs/Arcane_Resistance.2a8c2b31dde4b7a676e7058694312486.128x128.png",
+    "icon": "icons/en/Arcane_Resistance.267b09428a472d2624ac6eb47a61ac0a.png",
+    "thumb": "icons/en/thumbs/Arcane_Resistance.267b09428a472d2624ac6eb47a61ac0a.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_resistance",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

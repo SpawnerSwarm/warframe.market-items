@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Rage.7defe25d46687b2dfc0664c321d06ffb.png",
-    "thumb": "icons/en/thumbs/Arcane_Rage.7defe25d46687b2dfc0664c321d06ffb.128x128.png",
+    "icon": "icons/en/Arcane_Rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png",
+    "thumb": "icons/en/thumbs/Arcane_Rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_rage",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

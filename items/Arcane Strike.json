@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Strike.771e1b328f40cc4b8d34364b84afa173.png",
-    "thumb": "icons/en/thumbs/Arcane_Strike.771e1b328f40cc4b8d34364b84afa173.128x128.png",
+    "icon": "icons/en/Arcane_Strike.27c40994b55f506fe736175c9cebbf0e.png",
+    "thumb": "icons/en/thumbs/Arcane_Strike.27c40994b55f506fe736175c9cebbf0e.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_strike",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

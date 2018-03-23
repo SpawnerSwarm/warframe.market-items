@@ -9,7 +9,7 @@
     "thumb": "icons/en/thumbs/Marathon.1106e7f526e39a26f92a3dd59c8ce63a.128x128.png",
     "icon_format": "port",
     "url_name": "marathon",
-    "tradable": true,
+    "tradable": false,
     "en": {
         "item_name": "Marathon",
         "description": "<p>Marathon increases the maximum Stamina of a Warframe. </p>",

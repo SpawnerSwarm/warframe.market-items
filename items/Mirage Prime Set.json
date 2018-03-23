@@ -19,7 +19,7 @@
     "set_root": true,
     "en": {
         "item_name": "Mirage Prime Set",
-        "description": "<p>Release Date: December 12, 2017</p>",
+        "description": "<p>Release Date: December 12, 2017</p><p>Dazzle the opposition with this golden master of illusion and mayhem.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Mirage/Prime",
         "drop": []
     },
@@ -31,5 +31,7 @@
         "thumb": null,
         "drop": []
     },
+    "mastery_level": 8,
+    "ducats": 175,
     "trading_tax": 16000
 }
