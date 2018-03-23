@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Grace.ab873f1040c38cbe07404acdec7a8d2d.png",
-    "thumb": "icons/en/thumbs/Arcane_Grace.ab873f1040c38cbe07404acdec7a8d2d.128x128.png",
+    "icon": "icons/en/Arcane_Grace.3e4f746417d977c6ac5f2c9edd71ada0.png",
+    "thumb": "icons/en/thumbs/Arcane_Grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_grace",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "legendary",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 1000000
 }

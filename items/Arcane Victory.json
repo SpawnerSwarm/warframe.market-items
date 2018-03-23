@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Victory.b157c087fb0786f1d0bb05ae937c8f4c.png",
-    "thumb": "icons/en/thumbs/Arcane_Victory.b157c087fb0786f1d0bb05ae937c8f4c.128x128.png",
+    "icon": "icons/en/Arcane_Victory.2e3e7da2e7600a0e376eae98c3fd80a9.png",
+    "thumb": "icons/en/thumbs/Arcane_Victory.2e3e7da2e7600a0e376eae98c3fd80a9.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_victory",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

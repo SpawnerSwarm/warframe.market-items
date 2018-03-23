@@ -4,8 +4,8 @@
         "blueprint",
         "crossbow"
     ],
-    "icon": "icons/en/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.png",
-    "thumb": "icons/en/thumbs/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.128x128.png",
+    "icon": "icons/en/Ballistica_Prime_Lower_Set.4ed33348008ace40406d0383f692ecac.png",
+    "thumb": "icons/en/thumbs/Ballistica_Prime_Lower_Set.4ed33348008ace40406d0383f692ecac.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/lower_limb_128x128.png",
     "url_name": "ballistica_prime_lower_limb",
@@ -35,7 +35,7 @@
         "drop": [],
         "codex": "Красота этого роскошного позолоченного арбалета не может преуменьшить его смертоносное призвание."
     },
-    "mastery_level": 7,
+    "mastery_level": 14,
     "ducats": 15,
     "trading_tax": 2000
 }

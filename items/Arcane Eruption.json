@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Eruption.b3e09e7b55240268a1cf168d73175256.png",
-    "thumb": "icons/en/thumbs/Arcane_Eruption.b3e09e7b55240268a1cf168d73175256.128x128.png",
+    "icon": "icons/en/Arcane_Eruption.96e2b7f03322df6295089a9dd442df86.png",
+    "thumb": "icons/en/thumbs/Arcane_Eruption.96e2b7f03322df6295089a9dd442df86.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_eruption",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

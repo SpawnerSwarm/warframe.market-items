@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Nullifier.a250ab67752e98a9ad44b411a7305afd.png",
-    "thumb": "icons/en/thumbs/Arcane_Nullifier.a250ab67752e98a9ad44b411a7305afd.128x128.png",
+    "icon": "icons/en/Arcane_Nullifier.2fa3bc7cd7e902ae797f175896f10f97.png",
+    "thumb": "icons/en/thumbs/Arcane_Nullifier.2fa3bc7cd7e902ae797f175896f10f97.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_nullifier",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "common",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 2000
 }

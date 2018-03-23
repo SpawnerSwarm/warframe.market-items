@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Guardian.71e2dff78fd6e498ae3be159d1fcbbf2.png",
-    "thumb": "icons/en/thumbs/Arcane_Guardian.71e2dff78fd6e498ae3be159d1fcbbf2.128x128.png",
+    "icon": "icons/en/Arcane_Guardian.5d8874dfd06eaaf9aaceef59d99213b3.png",
+    "thumb": "icons/en/thumbs/Arcane_Guardian.5d8874dfd06eaaf9aaceef59d99213b3.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_guardian",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

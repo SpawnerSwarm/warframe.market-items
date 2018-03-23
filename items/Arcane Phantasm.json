@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Phantasm.9213c02c10b730818044b8f800e4238c.png",
-    "thumb": "icons/en/thumbs/Arcane_Phantasm.9213c02c10b730818044b8f800e4238c.128x128.png",
+    "icon": "icons/en/Arcane_Phantasm.78366e4d487988a78d128a4822b4f824.png",
+    "thumb": "icons/en/thumbs/Arcane_Phantasm.78366e4d487988a78d128a4822b4f824.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_phantasm",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

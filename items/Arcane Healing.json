@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Healing.8e690bb484e9af298e6df26478f3e0a9.png",
-    "thumb": "icons/en/thumbs/Arcane_Healing.8e690bb484e9af298e6df26478f3e0a9.128x128.png",
+    "icon": "icons/en/Arcane_Healing.acadb2bf20e9dad0e620e8641110a928.png",
+    "thumb": "icons/en/thumbs/Arcane_Healing.acadb2bf20e9dad0e620e8641110a928.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_healing",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

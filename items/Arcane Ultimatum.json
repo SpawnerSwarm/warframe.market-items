@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Ultimatum.f2307cac0049768af9859ca75936c937.png",
-    "thumb": "icons/en/thumbs/Arcane_Ultimatum.f2307cac0049768af9859ca75936c937.128x128.png",
+    "icon": "icons/en/Arcane_Ultimatum.6f19f5350ebf251e2c2375bbd667f537.png",
+    "thumb": "icons/en/thumbs/Arcane_Ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_ultimatum",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

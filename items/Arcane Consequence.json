@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Consequence.a17f34c3f7f9b6c040d39f8cb48e771f.png",
-    "thumb": "icons/en/thumbs/Arcane_Consequence.a17f34c3f7f9b6c040d39f8cb48e771f.128x128.png",
+    "icon": "icons/en/Arcane_Consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.png",
+    "thumb": "icons/en/thumbs/Arcane_Consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_consequence",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "common",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 2000
 }

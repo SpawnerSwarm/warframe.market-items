@@ -9,7 +9,7 @@
     "thumb": "icons/en/thumbs/Quick_Rest.27bc5e6317f05914dc3a4e028ea89ce2.128x128.png",
     "icon_format": "port",
     "url_name": "quick_rest",
-    "tradable": true,
+    "tradable": false,
     "en": {
         "item_name": "Quick Rest",
         "description": "<p>Quick Rest increases the Stamina recharge rate of Warframes.</p>",

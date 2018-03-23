@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Awakening.89d9e49f57691075d58ba5c74936d835.png",
-    "thumb": "icons/en/thumbs/Arcane_Awakening.89d9e49f57691075d58ba5c74936d835.128x128.png",
+    "icon": "icons/en/Arcane_Awakening.5d194d91360b233f4226fd02af5d7d1d.png",
+    "thumb": "icons/en/thumbs/Arcane_Awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_awakening",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "uncommon",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 4000
 }

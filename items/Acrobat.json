@@ -9,7 +9,7 @@
     "thumb": "icons/en/thumbs/Acrobat.88fa9bef9908a4cdbfdf3a62a604ee4c.128x128.png",
     "icon_format": "port",
     "url_name": "acrobat",
-    "tradable": true,
+    "tradable": false,
     "en": {
         "item_name": "Acrobat",
         "description": "<p>Acrobat reduces the stamina cost of wallrunning. </p>",

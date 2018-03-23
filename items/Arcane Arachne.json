@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Arachne.c1bf82ef86b9ee0810246e751808e041.png",
-    "thumb": "icons/en/thumbs/Arcane_Arachne.c1bf82ef86b9ee0810246e751808e041.128x128.png",
+    "icon": "icons/en/Arcane_Arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
+    "thumb": "icons/en/thumbs/Arcane_Arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_arachne",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

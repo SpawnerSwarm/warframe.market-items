@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Energize.f885bc0ab66e5ced140b8a4672363938.png",
-    "thumb": "icons/en/thumbs/Arcane_Energize.f885bc0ab66e5ced140b8a4672363938.128x128.png",
+    "icon": "icons/en/Arcane_Energize.e5f85590ceb29db89c6753dfdf823485.png",
+    "thumb": "icons/en/thumbs/Arcane_Energize.e5f85590ceb29db89c6753dfdf823485.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_energize",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "legendary",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 1000000
 }

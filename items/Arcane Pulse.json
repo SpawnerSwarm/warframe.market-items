@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Pulse.5e6d4abb0c00e83e1d0e0d2e00d4b3ac.png",
-    "thumb": "icons/en/thumbs/Arcane_Pulse.5e6d4abb0c00e83e1d0e0d2e00d4b3ac.128x128.png",
+    "icon": "icons/en/Arcane_Pulse.9f9a959b60addb3377fec907f8c5d35b.png",
+    "thumb": "icons/en/thumbs/Arcane_Pulse.9f9a959b60addb3377fec907f8c5d35b.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_pulse",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "rare",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 8000
 }

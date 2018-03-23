@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Momentum.2e88dc1376437b2313ed479d7141b008.png",
-    "thumb": "icons/en/thumbs/Arcane_Momentum.2e88dc1376437b2313ed479d7141b008.128x128.png",
+    "icon": "icons/en/Arcane_Momentum.f551dd91689f3169160aafecddeede24.png",
+    "thumb": "icons/en/thumbs/Arcane_Momentum.f551dd91689f3169160aafecddeede24.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_momentum",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "common",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 2000
 }

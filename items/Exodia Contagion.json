@@ -4,8 +4,8 @@
         "arcane enhancements",
         "operator"
     ],
-    "icon": "icons/en/Exodia_Contagion.647982c89536eb00bacb34fdc3c17ad6.png",
-    "thumb": "icons/en/thumbs/Exodia_Contagion.647982c89536eb00bacb34fdc3c17ad6.128x128.png",
+    "icon": "icons/en/Exodia_Contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
+    "thumb": "icons/en/thumbs/Exodia_Contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png",
     "icon_format": "land",
     "url_name": "exodia_contagion",
     "tradable": true,
@@ -34,5 +34,5 @@
         ]
     },
     "mod_max_rank": 4,
-    "trading_tax": 0
+    "trading_tax": 1000000
 }

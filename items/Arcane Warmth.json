@@ -3,8 +3,8 @@
     "tags": [
         "arcane enhancements"
     ],
-    "icon": "icons/en/Arcane_Warmth.d70158043cb00380b45b498abf4cf486.png",
-    "thumb": "icons/en/thumbs/Arcane_Warmth.d70158043cb00380b45b498abf4cf486.128x128.png",
+    "icon": "icons/en/Arcane_Warmth.2cc54a97fdce903163669b1e57e998ad.png",
+    "thumb": "icons/en/thumbs/Arcane_Warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_warmth",
     "tradable": true,
@@ -22,6 +22,7 @@
         "thumb": null,
         "drop": []
     },
+    "rarity": "common",
     "mod_max_rank": 3,
-    "trading_tax": 0
+    "trading_tax": 2000
 }
