@@ -4,8 +4,7 @@
         "prime",
         "set"
     ],
-    "icon": "icons/en/Kronen_Prime_Set.4b7e15471b4120626d6f35a986f6b229.png",
-    "thumb": "icons/en/thumbs/Kronen_Prime_Set.4b7e15471b4120626d6f35a986f6b229.128x128.png",
+    "icon": "local://item_operations/icons/Kronen_prime.png",
     "icon_format": "land",
     "url_name": "kronen_prime_set",
     "tradable": true,
@@ -29,7 +28,7 @@
     },
     "ru": {
         "item_name": "Кронен Прайм Комплект",
-        "description": "<p>The Kronen Prime is the Prime version of the Kronen tonfas.</p>",
+        "description": "<p>Клинки былого, улучшенные для битв текущих.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%BD%D0%B5%D0%BD",
         "icon": null,
         "thumb": null,
@@ -41,5 +40,6 @@
         ]
     },
     "mastery_level": 8,
-    "trading_tax": 2000
+    "trading_tax": 2000,
+    "ready": true
 }

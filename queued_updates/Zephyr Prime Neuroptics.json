@@ -21,7 +21,7 @@
     "set_root": false,
     "en": {
         "item_name": "Zephyr Prime Neuroptics",
-        "description": "<p>Release Date: March 20th, 2018</p><p>Zephyr Prime is the Primed variant of Zephyr.</p>",
+        "description": "<p>Release Date: March 20th, 2018</p><p>Zephyr Prime is the Primed variant of Zephyr, featuring higher armor, energy pool and sprint speed. It comes also with two extra polarities.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Zephyr/Prime",
         "drop": [
             {
@@ -45,5 +45,6 @@
     },
     "mastery_level": 6,
     "trading_tax": 4000,
+    "ducats" : 15,
     "ready": true
 }

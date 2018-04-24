@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/0/06/ReapingChakram.png/revision/latest?cb=20180411235657",
+    "tradable": true,
+    "en": {
+        "item_name": "Reaping Chakram",
+        "description": "<p>Reaping Chakram is a Warframe Augment Mod for Nezha that causes the projectile of Blazing Chakram to pass through enemies, multiplying the damage and healing done per enemy penetrated.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Chakram",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пожинающий чакрам",
+        "description": "<p>Пожинающий чакрам- мод-аугмент для варфрейма Нэчжа, изменяющий способность Пылающий Чакрам.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Chakram",
+        "drop": [
+            {
+                "name": "Стальной Меридиан",
+                "link": null
+            },
+            {
+                "name": "Цефалон Суда",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000,
+    "ready": true
+}
