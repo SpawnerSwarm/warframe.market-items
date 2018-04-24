@@ -1,0 +1,39 @@
+{
+    "_id": "",
+    "tags": [
+        "parts",
+        "weapons",
+        "vandal",
+        "receiver"
+    ],
+    "icon": "https://vignette.wikia.nocookie.net/warframe/images/3/30/BratonVandal.png",
+    "sub_icon": "https://vignette.wikia.nocookie.net/warframe/images/b/bc/Receiver.png",
+    "tradable": true,
+    "en": {
+        "item_name": "Braton Vandal Receiver",
+        "description": "The Braton Vandal is the Vandal version of the Braton. The Braton Vandal features a higher base damage, accuracy, and status chance, though it sacrifices fire rate and Puncture damage in trade for Slash damage. The Braton Vandal does not deviate far from its origins, performing as a multipurpose rifle for any situation.",
+        "codex": "A special version of the standard Braton rifle with a slower fire rate but offering higher accuracy and damage values. The Braton Vandal has been customized by the Tenno with a blue-green metallic finish, and Lotus branding on the grips.",
+        "drop": [
+            {
+                "link": null,
+                "name": "Elite Sanctuary Onslaught"
+            }
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Braton_Vandal"
+    },
+    "ru": {
+        "item_name": "",
+        "description": "",
+        "codex": "",
+        "drop": [
+            {
+                "link": null,
+                "name": "N/A"
+            }
+        ],
+        "wiki_link": ""
+    },
+    "mastery_level": 4,
+    "ducats": null,
+    "trading_tax": null
+}

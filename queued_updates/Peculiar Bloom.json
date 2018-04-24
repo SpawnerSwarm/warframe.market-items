@@ -1,0 +1,36 @@
+{
+    "_id": "",
+    "tags": [
+        "mod",
+        "warframe",
+        "peculiar"
+    ],
+    "icon": "https://vignette.wikia.nocookie.net/warframe/images/1/17/PeculiarBloomMod.png",
+    "tradable": true,
+    "en": {
+        "item_name": "Peculiar Bloom",
+        "description": "Critical hits cause flowers to grow from the wounds.",
+        "drop": [
+            {
+                "link": null,
+                "name": "Elite Sanctuary Onslaught"
+            }
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Peculiar_Bloom"
+    },
+    "ru": {
+        "item_name": "",
+        "description": "",
+        "codex": "",
+        "drop": [
+            {
+                "link": null,
+                "name": "N/A"
+            }
+        ],
+        "wiki_link": ""
+    },
+    "rarity": "peculiar",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

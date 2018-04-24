@@ -1,0 +1,39 @@
+{
+    "_id": "",
+    "tags": [
+        "parts",
+        "weapons",
+        "vandal",
+        "barrel"
+    ],
+    "icon": "https://vignette.wikia.nocookie.net/warframe/images/5/59/DELatoVandal.png",
+    "sub_icon": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/Barrel.png",
+    "tradable": true,
+    "en": {
+        "item_name": "Lato Vandal Barrel",
+        "description": "The Lato Vandal is the Vandal version of the Lato. The Lato Vandal has a metallic green-blue color scheme, and bears the Lotus emblem on the grip. The Lato Vandal gains improved damage and accuracy in exchange for a reduced rate of fire.",
+        "codex": "A special version of the standard Lato pistol with a slower fire rate but offering higher accuracy and damage values. The Lato Vandal has been customized by the Tenno with a blue-green metallic finish, and Lotus branding on the grips.",
+        "drop": [
+            {
+                "link": null,
+                "name": "Elite Sanctuary Onslaught"
+            }
+        ],
+        "wiki_link": "http://warframe.wikia.com/wiki/Lato_Vandal"
+    },
+    "ru": {
+        "item_name": "",
+        "description": "",
+        "codex": "",
+        "drop": [
+            {
+                "link": null,
+                "name": "N/A"
+            }
+        ],
+        "wiki_link": ""
+    },
+    "mastery_level": 7,
+    "ducats": null,
+    "trading_tax": null
+}
